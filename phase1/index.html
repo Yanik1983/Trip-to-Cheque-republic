@@ -96,10 +96,10 @@ tr.best th { box-shadow: inset 4px 0 0 var(--accent); }
 .att { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; display: grid; grid-template-rows: auto 1fr; box-shadow: var(--shadow); min-width: 0; }
 .att-body { padding: 12px 14px 14px; display: grid; gap: 8px; align-content: start; min-width: 0; }
 .ph { margin: 0; position: relative; background: var(--line); }
-.ph img { display: block; width: 100%; aspect-ratio: 3 / 2; object-fit: cover; max-width: 100%; }
+.ph img { display: block; width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; max-width: 100%; }
 .ph figcaption { font-size: .72rem; padding: 4px 8px; color: var(--muted); background: var(--surface); border-bottom: 1px solid var(--line); overflow-wrap: anywhere; }
 .ph figcaption a { color: var(--muted); }
-.ph.sm img { width: 132px; aspect-ratio: 4 / 3; }
+.ph.sm img { width: 132px; height: auto; aspect-ratio: 4 / 3; }
 .ph.sm figcaption { width: 132px; font-size: .66rem; }
 .rating { display: inline-flex; gap: 6px; align-items: baseline; text-decoration: none; color: var(--ink); font-size: .88rem; }
 .rating b { font: 500 1.05rem var(--f-data); color: var(--accent); }
@@ -132,10 +132,12 @@ table.hotels td, table.hotels th { vertical-align: middle; }
 @media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
 .ph.noimg img { display: none; }
 .ph.noimg::before { content: "Photo couldn't load here – open the source link below"; display: grid; place-items: center; aspect-ratio: 3 / 2; font-size: .85rem; color: var(--muted); padding: 12px; text-align: center; }
-</style>
+</style><style>.vbar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding-block:10px;border-bottom:1px solid var(--line)}
+.vbar label{font-size:.85rem;color:var(--muted);display:inline-flex;gap:8px;align-items:center}
+.vbar select{font:600 .95rem var(--f-body);color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:6px 10px;max-width:100%}</style>
 </head>
 <body>
-<div class="wrap">
+<div class="wrap"><nav class="vbar" aria-label="Version"><label for="ver">Version / גרסה <select id="ver" onchange="if(this.value)location.href=this.value"><option value="../v2/index.html#he">v2 · עברית · 15.10.2026 (latest)</option><option value="../v2/index.html#en">v2 · English · 15 Oct 2026 (latest)</option><option value="index.html" selected>v1 · English · 15 Oct 2026 (original)</option></select></label><small>This is the original v1. The latest version is v2.</small></nav>
 <header class="top">
   <p class="eyebrow">Phase 1 research · prices checked 2026-10-15 · awaiting your approval</p>
   <h1>Czech Family Road Trip</h1>
