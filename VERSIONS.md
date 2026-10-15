@@ -9,3 +9,8 @@ Nothing is deleted: every version stays in the repository and on GitHub Pages, a
 | v1 | 15 Oct 2026 | English | `phase1/` | Original Phase 1 research: 3 hotels (Bohemian Switzerland, Lipno, Prague), morning flight, Bastei day in Germany. Data: `phase1/trip-research.json`. |
 
 Pages: https://yanik1983.github.io/Trip-to-Cheque-republic/ opens the latest version.
+
+## Trip app (Phase 2)
+
+`app/` – mobile web app built only from the approved v3 data (`app/trip-data.json`): overview, map with all routes, day-by-day view, flights, hotels, car and budget, in Hebrew and English.
+Open on the phone: https://yanik1983.github.io/Trip-to-Cheque-republic/app/
