@@ -1,37 +1,37 @@
 {
  "version": {
-  "id": "v3",
-  "date": "2026-10-15",
+  "id": "v4",
+  "date": "2026-10-17",
   "label": {
-   "en": "v3 – no car in Prague, free cancellation (15 Oct 2026)",
-   "he": "גרסה 3 – בלי רכב בפראג, ביטול חינם (15.10.2026)"
+   "en": "v4 – Lipno first, Prague at the end (17 Oct 2026)",
+   "he": "גרסה 4 – קודם ליפנו, פראג בסוף (17.10.2026)"
   }
  },
  "taxi_days": [
-  "D1",
-  "D4"
+  "D10",
+  "D8"
  ],
- "car_km": 562.3,
+ "car_km": 562.4,
  "changes": [
   {
-   "en": "No car in Prague: the car is rented only from Day 5 (Thu 19 Aug, 10:30 at the airport) to Day 10, 5 days instead of 9. Prague by metro, tram and taxi.",
-   "he": "בלי רכב בפראג: הרכב נשכר רק מיום 5 (ה' 19 באוגוסט, 10:30 בשדה התעופה) ועד יום 10 – 5 ימים במקום 9. בפראג מתניידים במטרו, בחשמלית ובמונית."
+   "en": "Order reversed: after landing you sleep at the airport, take the car on Day 2 to Hluboká and Lake Lipno (4 nights), then return the car on Day 6 and finish with 4 nights in Prague without a car.",
+   "he": "הסדר התהפך: אחרי הנחיתה ישנים ליד שדה התעופה, ביום 2 לוקחים רכב לטירת הלובוקה ולאגם ליפנו (4 לילות), ביום 6 מחזירים את הרכב ומסיימים ב-4 לילות בפראג בלי רכב."
   },
   {
-   "en": "All hotels now use free-cancellation rates (live Booking.com prices).",
-   "he": "כל המלונות עכשיו בתעריף עם ביטול חינם (מחירים חיים מ-Booking.com)."
+   "en": "New first night: Holiday Inn Prague Airport (800 m from the terminals, 24-hour reception), €211.73 with free cancellation. The 21:35 landing is too late to drive 3 hours to Lipno with the kids.",
+   "he": "לילה ראשון חדש: Holiday Inn Prague Airport (800 מ' מהטרמינלים, קבלה 24 שעות), 211.73 € עם ביטול חינם. הנחיתה ב-21:35 מאוחרת מדי לנסוע 3 שעות לליפנו עם הילדים."
   },
   {
-   "en": "Prague: Encore Boutique Residence (apartment with kitchen, Booking 9.3) replaces Grand Hotel International – €426.45 instead of €593.76 with free cancellation. No breakfast; self check-in, so a late arrival is fine.",
-   "he": "פראג: Encore Boutique Residence (דירה עם מטבח, Booking 9.3) במקום Grand Hotel International – 426.45 € במקום 593.76 € עם ביטול חינם. בלי ארוחת בוקר; צ'ק-אין עצמי, כך שהגעה מאוחרת אינה בעיה."
+   "en": "Car only 4 days (Mon 16 – Fri 20 Aug), pick-up and return at the airport. The last morning is a 34-min taxi from the apartment instead of a 3-hour drive from Lipno.",
+   "he": "רכב רק ל-4 ימים (ב' 16 – ו' 20 באוגוסט), איסוף והחזרה בשדה התעופה. בבוקר האחרון – 34 דקות במונית מהדירה במקום 3 שעות נסיעה מליפנו."
   },
   {
-   "en": "Lipno: same Apartmány Doky; the free-cancellation rate is €964.95 (was €878.11 without free cancellation).",
-   "he": "ליפנו: אותן דירות Doky; מחיר עם ביטול חינם 964.95 € (היה 878.11 € בלי ביטול חינם)."
+   "en": "Same hotels at new dates (free cancellation): Doky Lipno 4 nights €778.05; Encore Prague 4 nights €571.93 (Fri–Tue weekend nights cost more than Sun–Thu in v3).",
+   "he": "אותם מלונות בתאריכים החדשים (ביטול חינם): Doky ליפנו 4 לילות 778.05 €; Encore פראג 4 לילות 571.93 € (לילות סוף השבוע ו'–ג' יקרים יותר מ-א'–ה' בגרסה 3)."
   },
   {
-   "en": "Everything else as in v2: evening flight QS 1285, no border crossings, kids' attractions, short days.",
-   "he": "כל השאר כמו בגרסה 2: טיסת ערב QS 1285, בלי מעבר גבולות, אטרקציות לילדים, ימים קצרים."
+   "en": "Lipno loses its free day (4 nights instead of 5); every attraction from v3 stays, and Kleť moves to the lake day as an option.",
+   "he": "בליפנו אין יותר יום חופשי (4 לילות במקום 5); כל האטרקציות מגרסה 3 נשארות, וקלט עובר ליום האגם כאופציה."
   }
  ],
  "trip": {
@@ -46,8 +46,8 @@
    "he": "טיול משפחתי בצ'כיה"
   },
   "lede": {
-   "en": "Sun 15 – Tue 24 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. 4 nights in a Prague apartment without a car (metro, tram and taxi to the zoo, water park, dinosaurs and city), then a rental car and 5 nights at Lake Lipno with a pool, beach, treetop walk, rafting and a castle with bears.",
-   "he": "א' 15 – ג' 24 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. 4 לילות בדירה בפראג בלי רכב (מטרו, חשמלית ומונית לגן החיות, לפארק המים, לדינוזאורים ולעיר), ואז רכב שכור ו-5 לילות באגם ליפנו עם בריכה, חוף, שביל צמרות, רפטינג וטירה עם דובים."
+   "en": "Sun 15 – Tue 24 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at the airport, then a rental car to Hluboká Castle and 4 nights at Lake Lipno (pool, beach, treetop walk, rafting, bears), and finally 4 nights in a Prague apartment without a car (zoo, water park, dinosaurs, castle).",
+   "he": "א' 15 – ג' 24 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה, ואז רכב שכור לטירת הלובוקה ו-4 לילות באגם ליפנו (בריכה, חוף, שביל צמרות, רפטינג, דובים), ולסיום 4 לילות בדירה בפראג בלי רכב (גן חיות, פארק מים, דינוזאורים, טירה)."
   }
  },
  "currency": "EUR",
@@ -227,25 +227,6 @@
    "he": "מחירים חיים מ-Google Flights מ-15.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה. שדות תעופה אחרים (וינה, מינכן, בודפשט…) כבר לא רלוונטיים כי הם דורשים מעבר גבול; גם בגרסה 1 פראג הייתה הזולה ביותר."
   }
  },
- "date_windows": [
-  {
-   "w": {
-    "en": "Sun 15 → Tue 24 Aug (free cancellation)",
-    "he": "א' 15 ← ג' 24 באוגוסט (ביטול חינם)"
-   },
-   "prague": 426.45,
-   "lipno": 964.95,
-   "best": true
-  },
-  {
-   "w": {
-    "en": "Same dates, v2 hotels (free cancellation)",
-    "he": "אותם תאריכים, מלונות גרסה 2 (ביטול חינם)"
-   },
-   "prague": 593.76,
-   "lipno": 964.95
-  }
- ],
  "airports": {
   "PRG": {
    "name": "Prague Václav Havel Airport",
@@ -258,18 +239,18 @@
   "lines": [
    [
     {
-     "en": "Estate car, automatic, 5 days (≈ €65/day), Thu 19 – Tue 24 Aug",
-     "he": "רכב סטיישן אוטומטי, 5 ימים (כ-65 € ליום), ה' 19 – ג' 24 באוגוסט"
+     "en": "Estate car, automatic, 4 days (≈ €65/day), Mon 16 – Fri 20 Aug",
+     "he": "רכב סטיישן אוטומטי, 4 ימים (כ-65 € ליום), ב' 16 – ו' 20 באוגוסט"
     },
-    325,
+    260,
     true
    ],
    [
     {
-     "en": "2 child boosters, 5 days (€0 if you bring your own)",
-     "he": "2 בוסטרים לילדים, 5 ימים (0 € אם מביאים משלכם)"
+     "en": "2 child boosters, 4 days (€0 if you bring your own)",
+     "he": "2 בוסטרים לילדים, 4 ימים (0 € אם מביאים משלכם)"
     },
-    65,
+    52,
     true
    ],
    [
@@ -290,21 +271,21 @@
    ]
   ],
   "text": {
-   "en": "Pick-up Prague Airport Thu 19 Aug 10:30, return Tue 24 Aug by 10:30 (5 days; most companies allow about 29–59 min grace, so check the terms). Category: intermediate/standard estate, e.g. Škoda Octavia Combi automatic. 2 large suitcases + 2 trolleys fit in the boot, with 2 high-back boosters on the rear seat. Confirm the Czech e-vignette is included.",
-   "he": "איסוף בשדה התעופה בפראג ב-ה' 19 באוגוסט ב-10:30, החזרה ב-ג' 24 באוגוסט עד 10:30 (5 ימים; ברוב החברות יש חסד של כ-29–59 דקות – לבדוק בתנאים). קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית. 2 מזוודות גדולות ו-2 טרולים נכנסים לתא המטען, עם 2 בוסטרים עם גב במושב האחורי. לוודא שהווינייטה הצ'כית כלולה."
+   "en": "Pick-up Prague Airport Mon 16 Aug 11:00, return Fri 20 Aug by 11:00 (4 days; most companies allow about 29–59 min grace, so check the terms). Category: intermediate/standard estate, e.g. Škoda Octavia Combi automatic. 2 large suitcases + 2 trolleys fit in the boot, with 2 high-back boosters on the rear seat. Confirm the Czech e-vignette is included.",
+   "he": "איסוף בשדה התעופה בפראג ב-ב' 16 באוגוסט ב-11:00, החזרה ב-ו' 20 באוגוסט עד 11:00 (4 ימים; ברוב החברות יש חסד של כ-29–59 דקות – לבדוק בתנאים). קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית. 2 מזוודות גדולות ו-2 טרולים נכנסים לתא המטען, עם 2 בוסטרים עם גב במושב האחורי. לוודא שהווינייטה הצ'כית כלולה."
   },
   "pickup": {
    "place": "Prague Václav Havel Airport (PRG)",
    "lat": 50.1008,
    "lng": 14.26,
-   "when": "2027-08-19T10:30",
+   "when": "2027-08-16T11:00",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.100800,14.260000&travelmode=driving"
   },
   "dropoff": {
    "place": "Prague Václav Havel Airport (PRG)",
    "lat": 50.1008,
    "lng": 14.26,
-   "when": "2027-08-24T10:30",
+   "when": "2027-08-20T11:00",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.100800,14.260000&travelmode=driving"
   }
  },
@@ -332,71 +313,71 @@
  ],
  "hotels": [
   {
-   "id": "hotel_encore",
-   "gkey": "hotel_encore",
-   "name": "Encore Boutique Residence by Dwellfort",
+   "id": "hotel_hiair",
+   "gkey": "hotel_hiair",
+   "name": "Holiday Inn Prague Airport",
    "area": {
-    "en": "Prague 3 – Vinohrady (480 m to metro A Jiřího z Poděbrad)",
-    "he": "פראג 3 – וינוהראדי (480 מ' למטרו A, תחנת Jiřího z Poděbrad)"
+    "en": "Prague Airport (800 m / 10–15 min walk to the terminals)",
+    "he": "שדה התעופה של פראג (800 מ' / 10–15 דקות הליכה לטרמינלים)"
    },
    "checkin": "2027-08-15",
-   "checkout": "2027-08-19",
-   "nights": 4,
-   "total_eur": 426.45,
-   "booking_score": 9.3,
-   "booking_reviews": 1817,
-   "booking_url": "https://www.booking.com/hotel/cz/encore-boutique-residence.html?checkin=2027-08-15&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "checkout": "2027-08-16",
+   "nights": 1,
+   "total_eur": 211.73,
+   "booking_score": 8.8,
+   "booking_reviews": 3376,
+   "booking_url": "https://www.booking.com/hotel/cz/hoteltranzitpraha.html?checkin=2027-08-15&checkout=2027-08-16&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
-    "en": "Deluxe apartment: bedroom + sofa bed (up to 5), full kitchen, free cancellation. Self check-in with instructions sent before arrival, which suits the 23:00 arrival. No breakfast; supermarkets and bakeries nearby. Confirm the beds for 4 when booking.",
-    "he": "דירת דלוקס: חדר שינה + ספה נפתחת (עד 5), מטבח מלא, ביטול חינם. צ'ק-אין עצמי עם הוראות שנשלחות מראש, מתאים להגעה ב-23:00. בלי ארוחת בוקר; סופרמרקטים ומאפיות בסביבה. לוודא בהזמנה שיש מיטות ל-4."
+    "en": "Family room, free cancellation. 24-hour reception, so the late arrival is fine; airport shuttle available (may cost extra) or a short walk. Breakfast not included (about €15 per person). Per Booking.com Q&A an extra bed costs €25 – confirm beds for 4 when booking.",
+    "he": "חדר משפחה, ביטול חינם. קבלה 24 שעות, כך שההגעה המאוחרת אינה בעיה; שאטל לשדה (ייתכן בתשלום) או הליכה קצרה. בלי ארוחת בוקר (כ-15 € לאדם). לפי Booking.com מיטה נוספת עולה 25 € – לוודא בהזמנה שיש מיטות ל-4."
    },
    "alt": {
-    "en": "Same price and owner: Hidden Art Boutique Residence (Booking 9.2, 2,410 reviews, sleeps 4) or Kinsky Garden (9.0, tram at the door, near Petřín). With breakfast and parking: Grand Hotel International €593.76.",
-    "he": "באותו מחיר ומאותו בעלים: Hidden Art Boutique Residence (Booking 9.2, 2,410 ביקורות, עד 4) או Kinsky Garden (9.0, חשמלית בפתח, ליד פטשין). עם ארוחת בוקר וחניה: Grand Hotel International ב-593.76 €."
+    "en": "Cheaper: Prague Airport Apartment, Tuchoměřice, €165 (Booking 9.7 from 104 reviews, 3 km away, so a taxi both ways). Ramada Airport Hotel €218 (Booking 7.7). Courtyard by Marriott Prague Airport €491.97.",
+    "he": "זול יותר: Prague Airport Apartment בטוכומנז'יצה, 165 € (Booking 9.7 מ-104 ביקורות, 3 ק\"מ – מונית לשני הכיוונים). Ramada Airport Hotel ב-218 € (Booking 7.7). Courtyard by Marriott Prague Airport ב-491.97 €."
    },
    "google": {
-    "name": "Encore Boutique Residence by Dwellfort",
-    "rating": 4.9,
-    "reviews": 726,
-    "lat": 50.079816,
-    "lng": 14.454452,
-    "address": "Jagellonská 21, 130 00 Praha 3-Vinohrady, Czechia",
-    "website": "https://www.dwellfort.com/book-now/?property=238761",
-    "place_id": "ChIJdRnakFKVC0cR-gi4_W7MFTM",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM",
-    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.079816,14.454452&travelmode=driving"
+    "name": "Holiday Inn Prague Airport by IHG",
+    "rating": 4.2,
+    "reviews": 1598,
+    "lat": 50.10857,
+    "lng": 14.27693,
+    "address": "K Letišti 1074/32, 161 00 Praha 6, Czechia",
+    "website": "https://www.ihg.com/holidayinn/hotels/gb/en/prague/prgap/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-CZ-_-PRGAP",
+    "place_id": "ChIJs-4O3BK_C0cRbebb3Dnfuew",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Prague%20Airport%20by%20IHG&query_place_id=ChIJs-4O3BK_C0cRbebb3Dnfuew",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.108570,14.276930&travelmode=driving"
    },
    "photos": [
     {
-     "file": "img/hotel_encore-1.jpg",
-     "w": 900,
-     "h": 600,
-     "source_page": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM",
+     "file": "img/hotel_hiair-1.jpg",
+     "w": 1000,
+     "h": 666,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Prague%20Airport%20by%20IHG&query_place_id=ChIJs-4O3BK_C0cRbebb3Dnfuew",
      "credit": "Google Maps listing photo"
     },
     {
-     "file": "img/hotel_encore-2.jpg",
-     "w": 900,
-     "h": 600,
-     "source_page": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM",
+     "file": "img/hotel_hiair-2.jpg",
+     "w": 1000,
+     "h": 666,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Prague%20Airport%20by%20IHG&query_place_id=ChIJs-4O3BK_C0cRbebb3Dnfuew",
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 106.61,
+   "price_per_night_eur": 211.73,
    "ratings": [
     {
      "source": "Booking.com",
-     "score": 9.3,
+     "score": 8.8,
      "out_of": 10,
-     "reviews": 1817,
-     "url": "https://www.booking.com/hotel/cz/encore-boutique-residence.html?checkin=2027-08-15&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 3376,
+     "url": "https://www.booking.com/hotel/cz/hoteltranzitpraha.html?checkin=2027-08-15&checkout=2027-08-16&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
-     "score": 4.9,
+     "score": 4.2,
      "out_of": 5,
-     "reviews": 726,
-     "url": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM"
+     "reviews": 1598,
+     "url": "https://www.google.com/maps/search/?api=1&query=Holiday%20Inn%20Prague%20Airport%20by%20IHG&query_place_id=ChIJs-4O3BK_C0cRbebb3Dnfuew"
     }
    ]
   },
@@ -408,20 +389,20 @@
     "en": "Lipno nad Vltavou, lakefront (Doky Holiday Resort)",
     "he": "ליפנו נאד ולטאבו, על שפת האגם (Doky Holiday Resort)"
    },
-   "checkin": "2027-08-19",
-   "checkout": "2027-08-24",
-   "nights": 5,
-   "total_eur": 964.95,
+   "checkin": "2027-08-16",
+   "checkout": "2027-08-20",
+   "nights": 4,
+   "total_eur": 778.05,
    "booking_score": 9.1,
    "booking_reviews": 43,
-   "booking_url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-19&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-16&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "2-bedroom apartment (sleeps up to 7) with kitchenette, heated outdoor pool with a shallow end, beachfront, free parking. Free-cancellation rate.",
     "he": "דירת 2 חדרי שינה (עד 7) עם מטבחון, בריכה חיצונית מחוממת עם חלק רדוד, על החוף, חניה חינם. תעריף עם ביטול חינם."
    },
    "alt": {
-    "en": "Cheaper, no pool: Apartmán Lipno 50, €792.00 (2 bedrooms, sauna, beachfront, Booking 9.0 from 39 reviews). Bigger hotel: Hotel Element €1,393.05.",
-    "he": "זול יותר, בלי בריכה: Apartmán Lipno 50 ב-792.00 € (2 חדרי שינה, סאונה, על החוף, Booking 9.0 מ-39 ביקורות). מלון גדול: Hotel Element ב-1,393.05 €."
+    "en": "Cheaper, no pool: KORZO Lipno 2, €626.28 (Booking 8.8, 737 reviews) or Apartman Riviera 41, €405.20 (beachfront, Booking 9.2 from 38 reviews). Bigger hotel with kids' club: Hotel Element €1,058.",
+    "he": "זול יותר, בלי בריכה: KORZO Lipno 2 ב-626.28 € (Booking 8.8, 737 ביקורות) או Apartman Riviera 41 ב-405.20 € (על החוף, Booking 9.2 מ-38 ביקורות). מלון גדול עם מועדון ילדים: Hotel Element ב-1,058 €."
    },
    "google_note": {
     "en": "Google rating is for the Doky Holiday Resort complex.",
@@ -455,14 +436,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 192.99,
+   "price_per_night_eur": 194.51,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 9.1,
      "out_of": 10,
      "reviews": 43,
-     "url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-19&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-16&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -470,6 +451,75 @@
      "out_of": 5,
      "reviews": 181,
      "url": "https://www.google.com/maps/search/?api=1&query=Doky%20Holiday%20Resort&query_place_id=ChIJ0_Id1il7c0cRzcxuR1LQaWk"
+    }
+   ]
+  },
+  {
+   "id": "hotel_encore",
+   "gkey": "hotel_encore",
+   "name": "Encore Boutique Residence by Dwellfort",
+   "area": {
+    "en": "Prague 3 – Vinohrady (480 m to metro A Jiřího z Poděbrad)",
+    "he": "פראג 3 – וינוהראדי (480 מ' למטרו A, תחנת Jiřího z Poděbrad)"
+   },
+   "checkin": "2027-08-20",
+   "checkout": "2027-08-24",
+   "nights": 4,
+   "total_eur": 571.93,
+   "booking_score": 9.3,
+   "booking_reviews": 1819,
+   "booking_url": "https://www.booking.com/hotel/cz/encore-boutique-residence.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Deluxe apartment: bedroom + sofa bed (up to 5), full kitchen, free cancellation. Self check-in with instructions sent before arrival; you arrive around midday, so ask about an early luggage drop. No breakfast; supermarkets and bakeries nearby. Confirm the beds for 4 when booking.",
+    "he": "דירת דלוקס: חדר שינה + ספה נפתחת (עד 5), מטבח מלא, ביטול חינם. צ'ק-אין עצמי עם הוראות שנשלחות מראש; מגיעים בסביבות הצהריים, אז כדאי לשאול על השארת מזוודות מוקדם. בלי ארוחת בוקר; סופרמרקטים ומאפיות בסביבה. לוודא בהזמנה שיש מיטות ל-4."
+   },
+   "alt": {
+    "en": "Same price (€571.93) and owner: Hidden Art Boutique Residence (Booking 9.2, 2,405 reviews) or Kinsky Garden (9.0, near Petřín). Cheaper: Gesto Apartments, Žižkov, €488 (Booking 9.0, 283 reviews). With breakfast and parking: Grand Hotel International €692.52.",
+    "he": "באותו מחיר (571.93 €) ומאותו בעלים: Hidden Art Boutique Residence (Booking 9.2, 2,405 ביקורות) או Kinsky Garden (9.0, ליד פטשין). זול יותר: Gesto Apartments בז'יז'קוב, 488 € (Booking 9.0, 283 ביקורות). עם ארוחת בוקר וחניה: Grand Hotel International ב-692.52 €."
+   },
+   "google": {
+    "name": "Encore Boutique Residence by Dwellfort",
+    "rating": 4.9,
+    "reviews": 726,
+    "lat": 50.079816,
+    "lng": 14.454452,
+    "address": "Jagellonská 21, 130 00 Praha 3-Vinohrady, Czechia",
+    "website": "https://www.dwellfort.com/book-now/?property=238761",
+    "place_id": "ChIJdRnakFKVC0cR-gi4_W7MFTM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.079816,14.454452&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_encore-1.jpg",
+     "w": 900,
+     "h": 600,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_encore-2.jpg",
+     "w": 900,
+     "h": 600,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 142.98,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.3,
+     "out_of": 10,
+     "reviews": 1819,
+     "url": "https://www.booking.com/hotel/cz/encore-boutique-residence.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.9,
+     "out_of": 5,
+     "reviews": 726,
+     "url": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM"
     }
    ]
   }
@@ -1567,208 +1617,24 @@
     "he": "א'"
    },
    "title": {
-    "en": "Evening flight to Prague",
-    "he": "טיסת ערב לפראג"
+    "en": "Evening flight, night at the airport",
+    "he": "טיסת ערב, לילה ליד שדה התעופה"
    },
    "trail": "green",
-   "overnight": "hotel_encore",
+   "overnight": "hotel_hiair",
    "plan": [
     {
      "en": "18:25 Smartwings QS 1285 from TLV, landing at PRG 21:35.",
      "he": "18:25 סמארטווינגס QS 1285 מנתב\"ג, נחיתה בפראג ב-21:35."
     },
     {
-     "en": "Pre-booked transfer or taxi with 2 child seats to the apartment (about 35 min, ≈ €40). Self check-in, kids to bed.",
-     "he": "הסעה או מונית שהוזמנה מראש עם 2 מושבי ילדים לדירה (כ-35 דק', כ-40 €). צ'ק-אין עצמי, הילדים למיטה."
+     "en": "Walk 800 m (10–15 min) or take the hotel shuttle to Holiday Inn Prague Airport. Kids to bed.",
+     "he": "800 מ' הליכה (10–15 דקות) או שאטל המלון ל-Holiday Inn Prague Airport. הילדים למיטה."
     }
    ],
    "attractions": [],
-   "route": {
-    "km": 20.2,
-    "minutes": 36,
-    "legs": [
-     {
-      "from": "Prague Airport (PRG) – taxi/transfer",
-      "to": "Encore Boutique Residence, Vinohrady",
-      "km": 20.2,
-      "min": 36
-     }
-    ],
-    "points": [
-     {
-      "name": "Prague Airport (PRG) – taxi/transfer",
-      "lat": 50.1008,
-      "lng": 14.26
-     },
-     {
-      "name": "Encore Boutique Residence, Vinohrady",
-      "lat": 50.0798,
-      "lng": 14.4545
-     }
-    ],
-    "geometry": {
-     "coordinates": [
-      [
-       14.259444,
-       50.096693
-      ],
-      [
-       14.260932,
-       50.096249
-      ],
-      [
-       14.261001,
-       50.091795
-      ],
-      [
-       14.25486,
-       50.091838
-      ],
-      [
-       14.252399,
-       50.089039
-      ],
-      [
-       14.251873,
-       50.086225
-      ],
-      [
-       14.255179,
-       50.084806
-      ],
-      [
-       14.254783,
-       50.081285
-      ],
-      [
-       14.259053,
-       50.081372
-      ],
-      [
-       14.270371,
-       50.078796
-      ],
-      [
-       14.281415,
-       50.078979
-      ],
-      [
-       14.292428,
-       50.077938
-      ],
-      [
-       14.295533,
-       50.075246
-      ],
-      [
-       14.297548,
-       50.076936
-      ],
-      [
-       14.325878,
-       50.075307
-      ],
-      [
-       14.333643,
-       50.076235
-      ],
-      [
-       14.352695,
-       50.081173
-      ],
-      [
-       14.365033,
-       50.085453
-      ],
-      [
-       14.381289,
-       50.087759
-      ],
-      [
-       14.387754,
-       50.091995
-      ],
-      [
-       14.403877,
-       50.097284
-      ],
-      [
-       14.412247,
-       50.097859
-      ],
-      [
-       14.412923,
-       50.097184
-      ],
-      [
-       14.411799,
-       50.098195
-      ],
-      [
-       14.421738,
-       50.09973
-      ],
-      [
-       14.422929,
-       50.097563
-      ],
-      [
-       14.426461,
-       50.09612
-      ],
-      [
-       14.427281,
-       50.092604
-      ],
-      [
-       14.431823,
-       50.093471
-      ],
-      [
-       14.433324,
-       50.092556
-      ],
-      [
-       14.437175,
-       50.092408
-      ],
-      [
-       14.437299,
-       50.086527
-      ],
-      [
-       14.440418,
-       50.085181
-      ],
-      [
-       14.443389,
-       50.085087
-      ],
-      [
-       14.444759,
-       50.081325
-      ],
-      [
-       14.448215,
-       50.078976
-      ],
-      [
-       14.45117,
-       50.079979
-      ],
-      [
-       14.451509,
-       50.079261
-      ],
-      [
-       14.45453,
-       50.079714
-      ]
-     ],
-     "type": "LineString"
-    },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.1008,14.26&destination=50.0798,14.4545&travelmode=driving"
-   }
+   "route": null,
+   "no_drive_key": "no_drive_air"
   },
   {
    "day": 2,
@@ -1778,387 +1644,23 @@
     "he": "ב'"
    },
    "title": {
-    "en": "Prague Zoo",
-    "he": "גן החיות של פראג"
-   },
-   "trail": "yellow",
-   "overnight": "hotel_encore",
-   "plan": [
-    {
-     "en": "Metro A to Muzeum, metro C to Nádraží Holešovice, then bus 112 to the zoo (about 40 min). Zoo about 10:00–15:00.",
-     "he": "מטרו A ל-Muzeum, מטרו C ל-Nádraží Holešovice ואוטובוס 112 לגן החיות (כ-40 דק'). בגן החיות בערך 10:00–15:00."
-    },
-    {
-     "en": "Afternoon rest in the apartment; dinner cooked at home or in Vinohrady.",
-     "he": "אחר הצהריים מנוחה בדירה; ארוחת ערב בבית או בווינוהראדי."
-    }
-   ],
-   "attractions": [
-    "prague_zoo"
-   ],
-   "route": null
-  },
-  {
-   "day": 3,
-   "date": "2027-08-17",
-   "weekday": {
-    "en": "Tue",
-    "he": "ג'"
-   },
-   "title": {
-    "en": "Prague city day (by tram, little walking)",
-    "he": "יום בעיר פראג (בחשמלית, מעט הליכה)"
-   },
-   "trail": "yellow",
-   "overnight": "hotel_encore",
-   "plan": [
-    {
-     "en": "Metro A to Malostranská, then tram 22 up to Prague Castle for the changing of the guard at 12:00.",
-     "he": "מטרו A ל-Malostranská וחשמלית 22 עד טירת פראג לטקס החלפת המשמר ב-12:00."
-    },
-    {
-     "en": "Tram down to Malá Strana, walk across Charles Bridge to see the Astronomical Clock on the hour.",
-     "he": "חשמלית למלה סטרנה, הליכה על גשר קארל ולראות את השעון האסטרונומי בשעה העגולה."
-    },
-    {
-     "en": "Pedal boats at Slovanka island, then metro home. Rain? Railway Kingdom instead.",
-     "he": "סירות פדלים באי סלובנקה ואז מטרו הביתה. יורד גשם? ממלכת הרכבות במקום."
-    }
-   ],
-   "attractions": [
-    "prague_castle",
-    "charles_bridge",
-    "orloj",
-    "slovanka",
-    "railway"
-   ],
-   "route": null
-  },
-  {
-   "day": 4,
-   "date": "2027-08-18",
-   "weekday": {
-    "en": "Wed",
-    "he": "ד'"
-   },
-   "title": {
-    "en": "Water park + dinosaurs",
-    "he": "פארק מים + דינוזאורים"
-   },
-   "trail": "yellow",
-   "overnight": "hotel_encore",
-   "plan": [
-    {
-     "en": "Taxi to Aquapalace (about 17 min, ≈ €20); 3-hour family ticket about 10:00–13:00. (Public transport: metro C to Opatov + free Aquabus, about 45 min.)",
-     "he": "מונית לאקווה-פאלאס (כ-17 דק', כ-20 €); כרטיס משפחתי ל-3 שעות בערך 10:00–13:00. (בתחבורה ציבורית: מטרו C לאופאטוב + אקווה-בוס חינם, כ-45 דק'.)"
-    },
-    {
-     "en": "Taxi to the Harfa mall for lunch and DinoPark on the roof (about 1 h), then metro B + A or a 10-min taxi home.",
-     "he": "מונית לקניון הרפה לארוחת צהריים ודינו-פארק על הגג (כשעה), ואז מטרו B + A או 10 דקות במונית הביתה."
-    }
-   ],
-   "attractions": [
-    "aquapalace",
-    "dinopark"
-   ],
-   "route": {
-    "km": 38.2,
-    "minutes": 51,
-    "legs": [
-     {
-      "from": "Encore Boutique Residence, Vinohrady",
-      "to": "Aquapalace Praha",
-      "km": 14.4,
-      "min": 17
-     },
-     {
-      "from": "Aquapalace Praha",
-      "to": "DinoPark Harfa",
-      "km": 18.1,
-      "min": 24
-     },
-     {
-      "from": "DinoPark Harfa",
-      "to": "Encore Boutique Residence, Vinohrady",
-      "km": 5.7,
-      "min": 10
-     }
-    ],
-    "points": [
-     {
-      "name": "Encore Boutique Residence, Vinohrady",
-      "lat": 50.0798,
-      "lng": 14.4545
-     },
-     {
-      "name": "Aquapalace Praha",
-      "lat": 50.0075,
-      "lng": 14.5715
-     },
-     {
-      "name": "DinoPark Harfa",
-      "lat": 50.1047,
-      "lng": 14.491
-     },
-     {
-      "name": "Encore Boutique Residence, Vinohrady",
-      "lat": 50.0798,
-      "lng": 14.4545
-     }
-    ],
-    "geometry": {
-     "coordinates": [
-      [
-       14.45453,
-       50.079714
-      ],
-      [
-       14.456075,
-       50.079954
-      ],
-      [
-       14.459542,
-       50.075072
-      ],
-      [
-       14.470096,
-       50.073478
-      ],
-      [
-       14.470683,
-       50.071784
-      ],
-      [
-       14.468696,
-       50.069579
-      ],
-      [
-       14.469505,
-       50.060775
-      ],
-      [
-       14.472513,
-       50.054211
-      ],
-      [
-       14.488697,
-       50.044732
-      ],
-      [
-       14.488236,
-       50.038399
-      ],
-      [
-       14.493436,
-       50.030534
-      ],
-      [
-       14.497321,
-       50.027221
-      ],
-      [
-       14.541506,
-       50.009943
-      ],
-      [
-       14.561864,
-       50.006087
-      ],
-      [
-       14.566716,
-       50.004377
-      ],
-      [
-       14.566232,
-       50.0037
-      ],
-      [
-       14.564346,
-       50.004822
-      ],
-      [
-       14.569816,
-       50.008274
-      ],
-      [
-       14.571555,
-       50.008727
-      ],
-      [
-       14.571439,
-       50.007907
-      ],
-      [
-       14.570132,
-       50.007712
-      ],
-      [
-       14.57035,
-       50.006463
-      ],
-      [
-       14.566638,
-       50.006956
-      ],
-      [
-       14.562849,
-       50.006189
-      ],
-      [
-       14.54159,
-       50.010069
-      ],
-      [
-       14.499118,
-       50.026415
-      ],
-      [
-       14.494347,
-       50.030021
-      ],
-      [
-       14.48851,
-       50.039295
-      ],
-      [
-       14.488765,
-       50.044863
-      ],
-      [
-       14.472706,
-       50.054258
-      ],
-      [
-       14.469582,
-       50.061454
-      ],
-      [
-       14.468964,
-       50.069603
-      ],
-      [
-       14.470934,
-       50.072093
-      ],
-      [
-       14.470248,
-       50.073485
-      ],
-      [
-       14.467881,
-       50.074209
-      ],
-      [
-       14.468695,
-       50.075786
-      ],
-      [
-       14.473218,
-       50.078221
-      ],
-      [
-       14.468009,
-       50.090556
-      ],
-      [
-       14.47584,
-       50.095477
-      ],
-      [
-       14.474979,
-       50.099239
-      ],
-      [
-       14.469725,
-       50.09944
-      ],
-      [
-       14.490303,
-       50.107292
-      ],
-      [
-       14.491863,
-       50.105399
-      ],
-      [
-       14.49079,
-       50.104946
-      ],
-      [
-       14.487494,
-       50.103691
-      ],
-      [
-       14.482309,
-       50.10461
-      ],
-      [
-       14.469006,
-       50.099334
-      ],
-      [
-       14.474926,
-       50.099271
-      ],
-      [
-       14.475711,
-       50.095707
-      ],
-      [
-       14.46774,
-       50.090794
-      ],
-      [
-       14.470599,
-       50.084445
-      ],
-      [
-       14.456476,
-       50.082512
-      ],
-      [
-       14.455229,
-       50.081728
-      ],
-      [
-       14.456075,
-       50.079954
-      ],
-      [
-       14.45453,
-       50.079714
-      ]
-     ],
-     "type": "LineString"
-    },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.0798,14.4545&destination=50.0798,14.4545&travelmode=driving&waypoints=50.0075%2C14.5715%7C50.1047%2C14.491"
-   }
-  },
-  {
-   "day": 5,
-   "date": "2027-08-19",
-   "weekday": {
-    "en": "Thu",
-    "he": "ה'"
-   },
-   "title": {
-    "en": "Move to Lipno, with Hluboká Castle on the way",
-    "he": "מעבר לליפנו, עם טירת הלובוקה בדרך"
+    "en": "Car pick-up, Hluboká Castle, on to Lipno",
+    "he": "איסוף רכב, טירת הלובוקה, והלאה לליפנו"
    },
    "trail": "green",
    "overnight": "hotel_doky",
    "plan": [
     {
-     "en": "Taxi to the airport about 09:45 (≈ €30) and pick up the car at 10:30.",
-     "he": "מונית לשדה התעופה בערך ב-09:45 (כ-30 €) ואיסוף הרכב ב-10:30."
+     "en": "Slow morning and breakfast, then walk back to the terminal and pick up the car at 11:00.",
+     "he": "בוקר רגוע וארוחת בוקר, ואז הליכה חזרה לטרמינל ואיסוף הרכב ב-11:00."
     },
     {
-     "en": "Drive about 2h05 to Hluboká Castle: kitchen tour and park. Optional Zoo Ohrada next door.",
-     "he": "נסיעה של כשעתיים וחמש דקות לטירת הלובוקה: סיור המטבח והפארק. אופציונלי: גן החיות אוהרדה הסמוך."
+     "en": "Drive 2h06 to Hluboká Castle: kitchen tour and park. Optional Zoo Ohrada next door.",
+     "he": "נסיעה של שעתיים ו-6 דקות לטירת הלובוקה: סיור המטבח והפארק. אופציונלי: גן החיות אוהרדה הסמוך."
     },
     {
-     "en": "1h05 to Lipno, check in, evening swim in the pool.",
-     "he": "שעה וחמש דקות לליפנו, צ'ק-אין ושחייה בבריכה בערב."
+     "en": "1h07 to Lipno, check in, evening swim in the pool.",
+     "he": "שעה ו-7 דקות לליפנו, צ'ק-אין ושחייה בבריכה בערב."
     }
    ],
    "attractions": [
@@ -2166,15 +1668,9 @@
     "zoo_ohrada"
    ],
    "route": {
-    "km": 261.0,
-    "minutes": 227,
+    "km": 242.1,
+    "minutes": 193,
     "legs": [
-     {
-      "from": "Encore Boutique Residence, Vinohrady",
-      "to": "Prague Airport (PRG) – car pick-up",
-      "km": 19.0,
-      "min": 34
-     },
      {
       "from": "Prague Airport (PRG) – car pick-up",
       "to": "Hluboká Castle & Zoo Ohrada",
@@ -2189,11 +1685,6 @@
      }
     ],
     "points": [
-     {
-      "name": "Encore Boutique Residence, Vinohrady",
-      "lat": 50.0798,
-      "lng": 14.4545
-     },
      {
       "name": "Prague Airport (PRG) – car pick-up",
       "lat": 50.1008,
@@ -2212,22 +1703,6 @@
     ],
     "geometry": {
      "coordinates": [
-      [
-       14.45453,
-       50.079714
-      ],
-      [
-       14.398878,
-       50.072586
-      ],
-      [
-       14.381966,
-       50.088538
-      ],
-      [
-       14.270371,
-       50.078796
-      ],
       [
        14.259444,
        50.096693
@@ -2367,15 +1842,15 @@
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.0798,14.4545&destination=48.6375,14.226&travelmode=driving&waypoints=50.1008%2C14.26%7C49.0511%2C14.4416"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.1008,14.26&destination=48.6375,14.226&travelmode=driving&waypoints=49.0511%2C14.4416"
    }
   },
   {
-   "day": 6,
-   "date": "2027-08-20",
+   "day": 3,
+   "date": "2027-08-17",
    "weekday": {
-    "en": "Fri",
-    "he": "ו'"
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Treetop walk, forest playground, bobsled",
@@ -2705,11 +2180,11 @@
    }
   },
   {
-   "day": 7,
-   "date": "2027-08-21",
+   "day": 4,
+   "date": "2027-08-18",
    "weekday": {
-    "en": "Sat",
-    "he": "ש'"
+    "en": "Wed",
+    "he": "ד'"
    },
    "title": {
     "en": "Český Krumlov: rafting + bears",
@@ -3026,11 +2501,11 @@
    }
   },
   {
-   "day": 8,
-   "date": "2027-08-22",
+   "day": 5,
+   "date": "2027-08-19",
    "weekday": {
-    "en": "Sun",
-    "he": "א'"
+    "en": "Thu",
+    "he": "ה'"
    },
    "title": {
     "en": "Lake day: ferry + beach",
@@ -3046,11 +2521,16 @@
     {
      "en": "Afternoon at the apartment pool.",
      "he": "אחר הצהריים בבריכה של הדירה."
+    },
+    {
+     "en": "Optional: Kleť chairlift for the view (55 min each way, no hiking).",
+     "he": "אופציונלי: רכבל הכיסאות לקלט לתצפית (55 דקות לכל כיוון, בלי הליכה)."
     }
    ],
    "attractions": [
     "frymburk_ferry",
-    "lipno_beach"
+    "lipno_beach",
+    "klet_lift"
    ],
    "route": {
     "km": 19.6,
@@ -3343,70 +2823,44 @@
    }
   },
   {
-   "day": 9,
-   "date": "2027-08-23",
+   "day": 6,
+   "date": "2027-08-20",
    "weekday": {
-    "en": "Mon",
-    "he": "ב'"
+    "en": "Fri",
+    "he": "ו'"
    },
    "title": {
-    "en": "Free day at Lipno",
-    "he": "יום חופשי בליפנו"
-   },
-   "trail": "blue",
-   "overnight": "hotel_doky",
-   "plan": [
-    {
-     "en": "Pool, beach, bobsled again, packing.",
-     "he": "בריכה, חוף, עוד מזחלות ואריזות."
-    },
-    {
-     "en": "Optional: Kleť chairlift for the view (55 min each way, no hiking).",
-     "he": "אופציונלי: רכבל הכיסאות לקלט לתצפית (55 דקות לכל כיוון, בלי הליכה)."
-    }
-   ],
-   "attractions": [
-    "klet_lift"
-   ],
-   "route": null
-  },
-  {
-   "day": 10,
-   "date": "2027-08-24",
-   "weekday": {
-    "en": "Tue",
-    "he": "ג'"
-   },
-   "title": {
-    "en": "Fly home",
-    "he": "טיסה הביתה"
+    "en": "Back to Prague, return the car",
+    "he": "חזרה לפראג והחזרת הרכב"
    },
    "trail": "green",
-   "overnight": null,
+   "overnight": "hotel_encore",
    "plan": [
     {
-     "en": "Leave Lipno about 07:30 and drive 2h55 to PRG. Return the car by 10:30 (5 rental days exactly).",
-     "he": "יציאה מליפנו בערך ב-07:30 ונסיעה של שעתיים ו-55 דקות לשדה התעופה. החזרת הרכב עד 10:30 (בדיוק 5 ימי השכרה)."
+     "en": "Leave Lipno about 07:45 and drive 2h54 to PRG (rest stop on the motorway). Return the car by 11:00 (4 rental days exactly).",
+     "he": "יציאה מליפנו בערך ב-07:45 ונסיעה של שעתיים ו-54 דקות לשדה התעופה (עצירת מנוחה בכביש המהיר). החזרת הרכב עד 11:00 (בדיוק 4 ימי השכרה)."
     },
     {
-     "en": "Smartwings QS 1284 departs 12:45 and lands in TLV at 17:35.",
-     "he": "סמארטווינגס QS 1284 ממריאה ב-12:45 ונוחתת בנתב\"ג ב-17:35."
-    },
-    {
-     "en": "Prefer a lazy morning? Take QS 1286 at 23:45 (same price, lands 04:35); the car then costs one more day.",
-     "he": "מעדיפים בוקר רגוע? QS 1286 ב-23:45 (אותו מחיר, נחיתה ב-04:35); אז הרכב עולה יום נוסף."
+     "en": "Taxi with 2 child seats to the apartment (about 37 min, ≈ €40). Lunch and rest; evening playground in Riegrovy sady park nearby.",
+     "he": "מונית עם 2 מושבי ילדים לדירה (כ-37 דק', כ-40 €). ארוחת צהריים ומנוחה; בערב מגרש המשחקים בפארק ריגרובי סאדי הסמוך."
     }
    ],
    "attractions": [],
    "route": {
-    "km": 231.1,
-    "minutes": 174,
+    "km": 251.3,
+    "minutes": 211,
     "legs": [
      {
       "from": "Apartmány Doky Lipno",
-      "to": "Prague Airport (PRG) car return",
+      "to": "Prague Airport (PRG) – car return",
       "km": 231.1,
       "min": 174
+     },
+     {
+      "from": "Prague Airport (PRG) – car return",
+      "to": "Encore Boutique Residence, Vinohrady",
+      "km": 20.2,
+      "min": 37
      }
     ],
     "points": [
@@ -3416,9 +2870,14 @@
       "lng": 14.226
      },
      {
-      "name": "Prague Airport (PRG) car return",
+      "name": "Prague Airport (PRG) – car return",
       "lat": 50.1008,
       "lng": 14.26
+     },
+     {
+      "name": "Encore Boutique Residence, Vinohrady",
+      "lat": 50.0798,
+      "lng": 14.4545
      }
     ],
     "geometry": {
@@ -3530,17 +2989,586 @@
       [
        14.259444,
        50.096693
+      ],
+      [
+       14.254783,
+       50.081285
+      ],
+      [
+       14.295533,
+       50.075246
+      ],
+      [
+       14.421738,
+       50.09973
+      ],
+      [
+       14.45453,
+       50.079714
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.6375,14.226&destination=50.1008,14.26&travelmode=driving"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.6375,14.226&destination=50.0798,14.4545&travelmode=driving&waypoints=50.1008%2C14.26"
+   }
+  },
+  {
+   "day": 7,
+   "date": "2027-08-21",
+   "weekday": {
+    "en": "Sat",
+    "he": "ש'"
+   },
+   "title": {
+    "en": "Prague Zoo",
+    "he": "גן החיות של פראג"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_encore",
+   "plan": [
+    {
+     "en": "Metro A to Muzeum, metro C to Nádraží Holešovice, then bus 112 to the zoo (about 40 min). Zoo about 10:00–15:00.",
+     "he": "מטרו A ל-Muzeum, מטרו C ל-Nádraží Holešovice ואוטובוס 112 לגן החיות (כ-40 דק'). בגן החיות בערך 10:00–15:00."
+    },
+    {
+     "en": "Afternoon rest in the apartment; dinner cooked at home or in Vinohrady.",
+     "he": "אחר הצהריים מנוחה בדירה; ארוחת ערב בבית או בווינוהראדי."
+    }
+   ],
+   "attractions": [
+    "prague_zoo"
+   ],
+   "route": null,
+   "no_drive_key": "no_drive_city"
+  },
+  {
+   "day": 8,
+   "date": "2027-08-22",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Water park + dinosaurs",
+    "he": "פארק מים + דינוזאורים"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_encore",
+   "plan": [
+    {
+     "en": "Taxi to Aquapalace (about 17 min, ≈ €20); 3-hour family ticket about 10:00–13:00. (Public transport: metro C to Opatov + free Aquabus, about 45 min.)",
+     "he": "מונית לאקווה-פאלאס (כ-17 דק', כ-20 €); כרטיס משפחתי ל-3 שעות בערך 10:00–13:00. (בתחבורה ציבורית: מטרו C לאופאטוב + אקווה-בוס חינם, כ-45 דק'.)"
+    },
+    {
+     "en": "Taxi to the Harfa mall for lunch and DinoPark on the roof (about 1 h), then metro B + A or a 10-min taxi home.",
+     "he": "מונית לקניון הרפה לארוחת צהריים ודינו-פארק על הגג (כשעה), ואז מטרו B + A או 10 דקות במונית הביתה."
+    }
+   ],
+   "attractions": [
+    "aquapalace",
+    "dinopark"
+   ],
+   "route": {
+    "km": 38.2,
+    "minutes": 51,
+    "legs": [
+     {
+      "from": "Encore Boutique Residence, Vinohrady",
+      "to": "Aquapalace Praha",
+      "km": 14.4,
+      "min": 17
+     },
+     {
+      "from": "Aquapalace Praha",
+      "to": "DinoPark Harfa",
+      "km": 18.1,
+      "min": 24
+     },
+     {
+      "from": "DinoPark Harfa",
+      "to": "Encore Boutique Residence, Vinohrady",
+      "km": 5.7,
+      "min": 10
+     }
+    ],
+    "points": [
+     {
+      "name": "Encore Boutique Residence, Vinohrady",
+      "lat": 50.0798,
+      "lng": 14.4545
+     },
+     {
+      "name": "Aquapalace Praha",
+      "lat": 50.0075,
+      "lng": 14.5715
+     },
+     {
+      "name": "DinoPark Harfa",
+      "lat": 50.1047,
+      "lng": 14.491
+     },
+     {
+      "name": "Encore Boutique Residence, Vinohrady",
+      "lat": 50.0798,
+      "lng": 14.4545
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.45453,
+       50.079714
+      ],
+      [
+       14.456075,
+       50.079954
+      ],
+      [
+       14.459542,
+       50.075072
+      ],
+      [
+       14.470096,
+       50.073478
+      ],
+      [
+       14.470683,
+       50.071784
+      ],
+      [
+       14.468696,
+       50.069579
+      ],
+      [
+       14.469505,
+       50.060775
+      ],
+      [
+       14.472513,
+       50.054211
+      ],
+      [
+       14.488697,
+       50.044732
+      ],
+      [
+       14.488236,
+       50.038399
+      ],
+      [
+       14.493436,
+       50.030534
+      ],
+      [
+       14.497321,
+       50.027221
+      ],
+      [
+       14.541506,
+       50.009943
+      ],
+      [
+       14.561864,
+       50.006087
+      ],
+      [
+       14.566716,
+       50.004377
+      ],
+      [
+       14.566232,
+       50.0037
+      ],
+      [
+       14.564346,
+       50.004822
+      ],
+      [
+       14.569816,
+       50.008274
+      ],
+      [
+       14.571555,
+       50.008727
+      ],
+      [
+       14.571439,
+       50.007907
+      ],
+      [
+       14.570132,
+       50.007712
+      ],
+      [
+       14.57035,
+       50.006463
+      ],
+      [
+       14.566638,
+       50.006956
+      ],
+      [
+       14.562849,
+       50.006189
+      ],
+      [
+       14.54159,
+       50.010069
+      ],
+      [
+       14.499118,
+       50.026415
+      ],
+      [
+       14.494347,
+       50.030021
+      ],
+      [
+       14.48851,
+       50.039295
+      ],
+      [
+       14.488765,
+       50.044863
+      ],
+      [
+       14.472706,
+       50.054258
+      ],
+      [
+       14.469582,
+       50.061454
+      ],
+      [
+       14.468964,
+       50.069603
+      ],
+      [
+       14.470934,
+       50.072093
+      ],
+      [
+       14.470248,
+       50.073485
+      ],
+      [
+       14.467881,
+       50.074209
+      ],
+      [
+       14.468695,
+       50.075786
+      ],
+      [
+       14.473218,
+       50.078221
+      ],
+      [
+       14.468009,
+       50.090556
+      ],
+      [
+       14.47584,
+       50.095477
+      ],
+      [
+       14.474979,
+       50.099239
+      ],
+      [
+       14.469725,
+       50.09944
+      ],
+      [
+       14.490303,
+       50.107292
+      ],
+      [
+       14.491863,
+       50.105399
+      ],
+      [
+       14.49079,
+       50.104946
+      ],
+      [
+       14.487494,
+       50.103691
+      ],
+      [
+       14.482309,
+       50.10461
+      ],
+      [
+       14.469006,
+       50.099334
+      ],
+      [
+       14.474926,
+       50.099271
+      ],
+      [
+       14.475711,
+       50.095707
+      ],
+      [
+       14.46774,
+       50.090794
+      ],
+      [
+       14.470599,
+       50.084445
+      ],
+      [
+       14.456476,
+       50.082512
+      ],
+      [
+       14.455229,
+       50.081728
+      ],
+      [
+       14.456075,
+       50.079954
+      ],
+      [
+       14.45453,
+       50.079714
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.0798,14.4545&destination=50.0798,14.4545&travelmode=driving&waypoints=50.0075%2C14.5715%7C50.1047%2C14.491"
+   }
+  },
+  {
+   "day": 9,
+   "date": "2027-08-23",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Prague city day (by tram, little walking)",
+    "he": "יום בעיר פראג (בחשמלית, מעט הליכה)"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_encore",
+   "plan": [
+    {
+     "en": "Metro A to Malostranská, then tram 22 up to Prague Castle for the changing of the guard at 12:00.",
+     "he": "מטרו A ל-Malostranská וחשמלית 22 עד טירת פראג לטקס החלפת המשמר ב-12:00."
+    },
+    {
+     "en": "Tram down to Malá Strana, walk across Charles Bridge to see the Astronomical Clock on the hour.",
+     "he": "חשמלית למלה סטרנה, הליכה על גשר קארל ולראות את השעון האסטרונומי בשעה העגולה."
+    },
+    {
+     "en": "Pedal boats at Slovanka island, then metro home. Rain? Railway Kingdom instead.",
+     "he": "סירות פדלים באי סלובנקה ואז מטרו הביתה. יורד גשם? ממלכת הרכבות במקום."
+    }
+   ],
+   "attractions": [
+    "prague_castle",
+    "charles_bridge",
+    "orloj",
+    "slovanka",
+    "railway"
+   ],
+   "route": null,
+   "no_drive_key": "no_drive_city"
+  },
+  {
+   "day": 10,
+   "date": "2027-08-24",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Fly home",
+    "he": "טיסה הביתה"
+   },
+   "trail": "green",
+   "overnight": null,
+   "plan": [
+    {
+     "en": "Relaxed breakfast, taxi to the airport about 10:30 (34 min, ≈ €30).",
+     "he": "ארוחת בוקר רגועה, מונית לשדה התעופה בערך ב-10:30 (34 דקות, כ-30 €)."
+    },
+    {
+     "en": "Smartwings QS 1284 departs 12:45 and lands in TLV at 17:35.",
+     "he": "סמארטווינגס QS 1284 ממריאה ב-12:45 ונוחתת בנתב\"ג ב-17:35."
+    },
+    {
+     "en": "Prefer a full last day? QS 1286 at 23:45 (same price, lands 04:35); leave the luggage at the apartment or the airport.",
+     "he": "מעדיפים יום אחרון מלא? QS 1286 ב-23:45 (אותו מחיר, נחיתה ב-04:35); משאירים את המזוודות בדירה או בשדה."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 19.0,
+    "minutes": 34,
+    "legs": [
+     {
+      "from": "Encore Boutique Residence, Vinohrady",
+      "to": "Prague Airport (PRG)",
+      "km": 19.0,
+      "min": 34
+     }
+    ],
+    "points": [
+     {
+      "name": "Encore Boutique Residence, Vinohrady",
+      "lat": 50.0798,
+      "lng": 14.4545
+     },
+     {
+      "name": "Prague Airport (PRG)",
+      "lat": 50.1008,
+      "lng": 14.26
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.45453,
+       50.079714
+      ],
+      [
+       14.453451,
+       50.079558
+      ],
+      [
+       14.454544,
+       50.077433
+      ],
+      [
+       14.437669,
+       50.075847
+      ],
+      [
+       14.432261,
+       50.077031
+      ],
+      [
+       14.419608,
+       50.07766
+      ],
+      [
+       14.419009,
+       50.075888
+      ],
+      [
+       14.406241,
+       50.07526
+      ],
+      [
+       14.398878,
+       50.072586
+      ],
+      [
+       14.38263,
+       50.08365
+      ],
+      [
+       14.381149,
+       50.086281
+      ],
+      [
+       14.381966,
+       50.088538
+      ],
+      [
+       14.380377,
+       50.087643
+      ],
+      [
+       14.365599,
+       50.085733
+      ],
+      [
+       14.351603,
+       50.081025
+      ],
+      [
+       14.334772,
+       50.076621
+      ],
+      [
+       14.326695,
+       50.075441
+      ],
+      [
+       14.314463,
+       50.075693
+      ],
+      [
+       14.306165,
+       50.077017
+      ],
+      [
+       14.295938,
+       50.076762
+      ],
+      [
+       14.292428,
+       50.077938
+      ],
+      [
+       14.281415,
+       50.078979
+      ],
+      [
+       14.270371,
+       50.078796
+      ],
+      [
+       14.258716,
+       50.081402
+      ],
+      [
+       14.255535,
+       50.083114
+      ],
+      [
+       14.255132,
+       50.084872
+      ],
+      [
+       14.251873,
+       50.086225
+      ],
+      [
+       14.252513,
+       50.08937
+      ],
+      [
+       14.25486,
+       50.091838
+      ],
+      [
+       14.261001,
+       50.091795
+      ],
+      [
+       14.260932,
+       50.096249
+      ],
+      [
+       14.259444,
+       50.096693
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.0798,14.4545&destination=50.1008,14.26&travelmode=driving"
    }
   }
  ],
  "routes_total": {
-  "km": 639.7,
-  "minutes": 606
+  "km": 639.8,
+  "minutes": 607
  },
  "budget": {
   "lines": [
@@ -3564,16 +3592,16 @@
    },
    {
     "key": "car",
-    "eur": 325,
+    "eur": 260,
     "status": "estimate",
     "label": {
-     "en": "Rental car – estate, automatic, 5 days",
-     "he": "רכב שכור – סטיישן אוטומטי, 5 ימים"
+     "en": "Rental car – estate, automatic, 4 days",
+     "he": "רכב שכור – סטיישן אוטומטי, 4 ימים"
     }
    },
    {
     "key": "seats",
-    "eur": 65,
+    "eur": 52,
     "status": "estimate",
     "label": {
      "en": "2 child boosters",
@@ -3627,11 +3655,11 @@
    },
    {
     "key": "hotels",
-    "eur": 1391.4,
+    "eur": 1561.71,
     "status": "live",
     "label": {
-     "en": "Hotels – 2 stays, 9 nights, free cancellation",
-     "he": "מלונות – 2 מקומות, 9 לילות, ביטול חינם"
+     "en": "Hotels – 3 stays, 9 nights, free cancellation",
+     "he": "מלונות – 3 מקומות, 9 לילות, ביטול חינם"
     }
    },
    {
@@ -3644,25 +3672,69 @@
     }
    }
   ],
-  "total_eur": 4226.4,
-  "live_part_eur": 3011.4,
+  "total_eur": 4318.71,
+  "live_part_eur": 3181.71,
   "attractions_czk": 10859,
   "fuel_km": 607
+ },
+ "compare": {
+  "versions": [
+   "v3",
+   "v4"
+  ],
+  "rows": [
+   {
+    "key": "car",
+    "label": {
+     "en": "Rental car – estate, automatic, 4 days",
+     "he": "רכב שכור – סטיישן אוטומטי, 4 ימים"
+    },
+    "v3": 325,
+    "v4": 260
+   },
+   {
+    "key": "seats",
+    "label": {
+     "en": "2 child boosters",
+     "he": "2 בוסטרים לילדים"
+    },
+    "v3": 65,
+    "v4": 52
+   },
+   {
+    "key": "hotels",
+    "label": {
+     "en": "Hotels – 3 stays, 9 nights, free cancellation",
+     "he": "מלונות – 3 מקומות, 9 לילות, ביטול חינם"
+    },
+    "v3": 1391.4,
+    "v4": 1561.71
+   },
+   {
+    "key": "total",
+    "label": {
+     "en": "Estimated total",
+     "he": "סה\"כ משוער"
+    },
+    "v3": 4226.4,
+    "v4": 4318.71
+   }
+  ]
  },
  "ui": {
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "v3 research · prices checked 15 Oct 2026 · awaiting your approval",
+   "eyebrow": "v4 research · prices checked 17 Oct 2026 · approved 17 Oct 2026",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
    "bases": "Bases",
-   "bases_v": "2 places",
-   "bases_s": "Prague apartment 4 + Lipno 5 nights",
+   "bases_v": "3 places",
+   "bases_s": "Airport 1 + Lipno 4 + Prague apartment 4 nights",
    "driving": "Driving",
-   "drive_s": "car only from Day 5",
-   "changes": "What changed in v3",
+   "drive_s": "car Days 2–6 only",
+   "changes": "What changed in v4",
    "sec_flights": "Evening flights and alternatives",
    "out_opts": "Evening outbound options",
    "ret_opts": "Return options",
@@ -3672,7 +3744,7 @@
    "notes": "Notes",
    "bags": "Baggage",
    "fl_total": "Flights incl. baggage",
-   "dates": "Hotel totals with free cancellation (same dates)",
+   "dates": "v4 vs v3: what starting outside Prague changes",
    "window": "10-day window",
    "prague": "Prague 4 nights",
    "lipno": "Lipno 5 nights",
@@ -3713,13 +3785,13 @@
    "checked": "CHECKED",
    "mixed": "MIXED",
    "photo_by": "Photo",
-   "legend": "LIVE = live price/rating found 15 Oct 2026 · EST = estimate · CHECKED = official or 2026 ticket price. EUR; 1 € ≈ 24.5 CZK.",
+   "legend": "LIVE = live price/rating found 15–17 Oct 2026 (flights 15 Oct, hotels 17 Oct) · EST = estimate · CHECKED = official or 2026 ticket price. EUR; 1 € ≈ 24.5 CZK.",
    "version": "Version",
    "book": "Book on Booking.com",
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
-   "excluded": "Not included: food (no breakfast in Prague), souvenirs, insurance, home-airport parking, optional Railway Kingdom / Zoo Ohrada / Kleť.",
+   "excluded": "Not included: food (no breakfast at the airport hotel or in Prague), souvenirs, insurance, home-airport parking, optional Railway Kingdom / Zoo Ohrada / Kleť.",
    "next": "Next step",
-   "next_t": "Tell me what to change, or approve v3. After approval I'll build the mobile web app (Phase 2) from this version's data file.",
+   "next_t": "Tell me what to change, or approve v4. After approval I'll update the mobile web app from this version's data file.",
    "trails": {
     "red": "",
     "blue": "Lipno & Český Krumlov",
@@ -3727,21 +3799,23 @@
     "yellow": "Prague"
    },
    "trail_note": "(colours follow Czech hiking-trail markings)",
-   "taxi_note": "Taxi / transfer leg (no rental car yet)."
+   "taxi_note": "Taxi leg (no rental car).",
+   "no_drive_air": "800 m walk or hotel shuttle from the terminal.",
+   "cmp_item": "Item"
   },
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "מחקר גרסה 3 · מחירים נבדקו 15.10.2026 · ממתין לאישורך",
+   "eyebrow": "מחקר גרסה 4 · מחירים נבדקו 17.10.2026 · אושר 17.10.2026",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
    "bases": "בסיסים",
-   "bases_v": "2 מקומות",
-   "bases_s": "דירה בפראג 4 + ליפנו 5 לילות",
+   "bases_v": "3 מקומות",
+   "bases_s": "שדה התעופה 1 + ליפנו 4 + דירה בפראג 4 לילות",
    "driving": "נהיגה",
-   "drive_s": "רכב רק מיום 5",
-   "changes": "מה השתנה בגרסה 3",
+   "drive_s": "רכב רק בימים 2–6",
+   "changes": "מה השתנה בגרסה 4",
    "sec_flights": "טיסות ערב וחלופות",
    "out_opts": "אפשרויות טיסת ערב הלוך",
    "ret_opts": "אפשרויות טיסה חזור",
@@ -3751,7 +3825,7 @@
    "notes": "הערות",
    "bags": "כבודה",
    "fl_total": "טיסות כולל כבודה",
-   "dates": "סה\"כ מלונות עם ביטול חינם (אותם תאריכים)",
+   "dates": "גרסה 4 מול גרסה 3: מה משתנה כשמתחילים מחוץ לפראג",
    "window": "חלון של 10 ימים",
    "prague": "פראג 4 לילות",
    "lipno": "ליפנו 5 לילות",
@@ -3792,13 +3866,13 @@
    "checked": "נבדק",
    "mixed": "משולב",
    "photo_by": "צילום",
-   "legend": "חי = מחיר/דירוג חי מ-15.10.2026 · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו; 1 € ≈ 24.5 קרונות.",
+   "legend": "חי = מחיר/דירוג חי מ-15–17.10.2026 (טיסות 15.10, מלונות 17.10) · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו; 1 € ≈ 24.5 קרונות.",
    "version": "גרסה",
    "book": "הזמנה ב-Booking.com",
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
-   "excluded": "לא כלול: אוכל (אין ארוחת בוקר בפראג), מזכרות, ביטוח, חניה בנתב\"ג, ואופציונליים: ממלכת הרכבות / אוהרדה / קלט.",
+   "excluded": "לא כלול: אוכל (אין ארוחת בוקר במלון בשדה ובפראג), מזכרות, ביטוח, חניה בנתב\"ג, ואופציונליים: ממלכת הרכבות / אוהרדה / קלט.",
    "next": "השלב הבא",
-   "next_t": "כתבו לי מה לשנות, או אשרו את גרסה 3. אחרי האישור אבנה את אפליקציית הטלפון (שלב 2) מקובץ הנתונים של הגרסה הזו.",
+   "next_t": "כתבו לי מה לשנות, או אשרו את גרסה 4. אחרי האישור אעדכן את אפליקציית הטלפון מקובץ הנתונים של הגרסה הזו.",
    "trails": {
     "red": "",
     "blue": "ליפנו וצ'סקי קרומלוב",
@@ -3806,12 +3880,14 @@
     "yellow": "פראג"
    },
    "trail_note": "(הצבעים לפי סימון שבילי ההליכה בצ'כיה)",
-   "taxi_note": "נסיעה במונית / הסעה (עדיין בלי רכב שכור)."
+   "taxi_note": "נסיעה במונית (בלי רכב שכור).",
+   "no_drive_air": "800 מ' הליכה או שאטל המלון מהטרמינל.",
+   "cmp_item": "פריט"
   }
  },
  "approved": {
-  "version": "v3",
-  "approved_on": "2026-10-15",
+  "version": "v4",
+  "approved_on": "2026-10-17",
   "by": "traveller"
  },
  "map": {
@@ -3828,21 +3904,21 @@
   }
  },
  "points_of_interest_types": {
-  "airport": "PRG – arrival, departure, car pick-up (Day 5 10:30) and return (Day 10 by 10:30)",
+  "airport": "PRG – arrival, departure, car pick-up (Day 2 11:00) and return (Day 6 by 11:00)",
   "hotel": "overnight stays",
   "attraction": "activities",
   "car": "car pick-up/drop-off = PRG airport"
  },
  "route_modes": {
-  "D1": "taxi",
-  "D4": "taxi",
-  "D5": "taxi to PRG, then rental car",
-  "D6": "car",
-  "D7": "car",
-  "D8": "car",
-  "D10": "car",
-  "day2": "metro + bus (no route line)",
-  "day3": "metro + tram (no route line)",
-  "day9": "no driving"
+  "D2": "car",
+  "D3": "car",
+  "D4": "car",
+  "D5": "car",
+  "D6": "car to PRG, then taxi",
+  "D8": "taxi",
+  "D10": "taxi",
+  "day1": "walk / hotel shuttle (no route line)",
+  "day7": "metro + bus (no route line)",
+  "day9": "metro + tram (no route line)"
  }
 }

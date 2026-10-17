@@ -842,7 +842,7 @@ var S={
   flightsel:'הטיסות שנבחרו',price:'מחיר',duration:'משך',baggage_fee:'עלות כבודה',lines:'פריטים',
   notes_driving:'הערות נהיגה',map_fail:'ספריית המפה לא נטענה.',
   err_t:'לא ניתן לטעון את נתוני הטיול',err_d:'הקובץ trip-data.json לא נטען. בדקו את החיבור, ופתחו את האפליקציה דרך שרת אינטרנט (לא ישירות כקובץ).',
-  report:'דוח מחקר גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',
+  report:'דוח מחקר גרסה 4',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',
   lang:'EN',overview_flights:'סיכום טיסות',total_car:'סה"כ רכב',sources:'מקורות'},
  en:{tabs:{overview:'Overview',map:'Map',days:'Days',flights:'Flights',hotels:'Hotels',car:'Car',budget:'Budget'},
   attractions:'Attractions',hotel:'Hotel',arr_dep:'Arrival & departure',pickup:'Car pick-up',dropoff:'Car return',
@@ -850,7 +850,7 @@ var S={
   flightsel:'Chosen flights',price:'Price',duration:'Duration',baggage_fee:'Baggage fee',lines:'Items',
   notes_driving:'Driving notes',map_fail:'The map library did not load.',
   err_t:'Could not load the trip data',err_d:'The file trip-data.json did not load. Check your connection and open the app through a web server (not directly as a file).',
-  report:'Research report v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',
+  report:'Research report v4',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',
   lang:'עב',overview_flights:'Flights summary',total_car:'Car total',sources:'Sources'}
 };
 var ICON={
@@ -890,7 +890,7 @@ function renderTabbar(){
   }).join('');
 }
 function renderFooter(){
-  $('#foot').innerHTML='<div class="links"><a href="../v3/index.html">'+esc(ST('report'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a></div><p>'+esc(ST('credits'))+'</p>';
+  $('#foot').innerHTML='<div class="links"><a href="../v4/index.html">'+esc(ST('report'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a></div><p>'+esc(ST('credits'))+'</p>';
 }
 function sectionShell(id){return '<section class="tab" id="tab-'+id+'" role="tabpanel"'+(id===tab?'':' hidden')+'></section>'}
 
@@ -928,6 +928,11 @@ function vFlights(){
   h+='<h2 class="sec-title">'+esc(U('sec_flights'))+'</h2>'+alts(U('out_opts'),optTable(F.evening_outbound_options));
   h+=alts(U('ret_opts'),optTable(F.return_options));
   h+='<div class="note">'+esc(T(F.note))+'</div>';
+  if(DATA.compare&&DATA.compare.rows.length){
+    var cv=DATA.compare.versions,sg=function(x){var d=Math.round((x[cv[1]]-x[cv[0]])*100)/100;return (d>0?'+':d<0?'−':'±')+eur(Math.abs(d))};
+    h+=alts(U('dates'),tableWrap('<table><thead><tr><th>'+esc(U('cmp_item'))+'</th><th class="num">'+esc(cv[0])+'</th><th class="num">'+esc(cv[1])+'</th><th class="num">±</th></tr></thead><tbody>'+
+     DATA.compare.rows.map(function(x){return '<tr'+(x.key==='total'?' class="best"':'')+'><td>'+esc(T(x.label))+'</td><td class="num">'+eur(x[cv[0]])+'</td><td class="num">'+eur(x[cv[1]])+'</td><td class="num">'+sg(x)+'</td></tr>'}).join('')+'</tbody></table>'));
+  }
   if(DATA.date_windows&&DATA.date_windows.length){
     h+=alts(U('dates'),tableWrap('<table><thead><tr><th>'+esc(U('window'))+'</th><th class="num">'+esc(U('prague'))+'</th><th class="num">'+esc(U('lipno'))+'</th></tr></thead><tbody>'+
      DATA.date_windows.map(function(w){return '<tr'+(w.best?' class="best"':'')+'><td>'+esc(T(w.w))+'</td><td class="num">'+eur(w.prague)+'</td><td class="num">'+eur(w.lipno)+'</td></tr>'}).join('')+'</tbody></table>'));
@@ -997,12 +1002,12 @@ function vDays(){
   if(d.route){
     var r=d.route,m=modeOf(d.day);
     h+='<div class="card"><div class="row"><b>'+num(r.km)+' '+esc(U('km'))+'</b><span>·</span><b>'+esc(dur(r.minutes))+'</b></div>';
-    if(m.indexOf('taxi')===0)h+='<div class="note">'+esc(U('taxi_note'))+'</div>';
+    if(m.indexOf('taxi')>=0)h+='<div class="note">'+esc(U('taxi_note'))+'</div>';
     h+=tableWrap('<table><thead><tr><th>'+esc(U('from'))+'</th><th>'+esc(U('to'))+'</th><th class="num">'+esc(U('km'))+'</th><th class="num">'+esc(U('time'))+'</th></tr></thead><tbody>'+
       r.legs.map(function(l){return '<tr><td>'+esc(l.from)+'</td><td>'+esc(l.to)+'</td><td class="num">'+num(l.km)+'</td><td class="num">'+esc(dur(l.min))+'</td></tr>'}).join('')+'</tbody></table>');
     h+='<div class="links">'+ext(r.google_maps_url,esc(U('open_route')),'btn primary')+'</div></div>';
   }else{
-    h+='<div class="note"><b>'+esc(U('no_drive'))+'.</b> '+esc(U(d.day===9?'no_drive_free':'no_drive_city'))+'</div>';
+    h+='<div class="note"><b>'+esc(U('no_drive'))+'.</b> '+esc(U(d.no_drive_key||'no_drive_city'))+'</div>';
   }
   h+='<div class="card"><ul class="clean">'+d.plan.map(function(p){return '<li>'+esc(T(p))+'</li>'}).join('')+'</ul></div>';
   (d.attractions||[]).forEach(function(id){var a=DATA.attractions[id];if(a)h+=attrCard(a)});
@@ -1068,10 +1073,10 @@ function segments(d){
   if(!d.route||!d.route.geometry)return [];
   var ll=d.route.geometry.coordinates.map(function(c){return [c[1],c[0]]}),m=modeOf(d.day);
   if(m==='taxi')return [{ll:ll,taxi:true}];
-  if(m.indexOf('taxi')===0){
-    var A=DATA.airports.PRG,bi=0,bd=1e9;
+  if(m.indexOf('taxi')>=0){
+    var A=DATA.airports.PRG,bi=0,bd=1e9,first=m.indexOf('taxi')===0;
     ll.forEach(function(p,i){var dd=(p[0]-A.lat)*(p[0]-A.lat)+(p[1]-A.lng)*(p[1]-A.lng);if(dd<bd){bd=dd;bi=i}});
-    return [{ll:ll.slice(0,bi+1),taxi:true},{ll:ll.slice(bi),taxi:false}];
+    return [{ll:ll.slice(0,bi+1),taxi:first},{ll:ll.slice(bi),taxi:!first}];
   }
   return [{ll:ll,taxi:false}];
 }
@@ -1109,7 +1114,7 @@ function drawMainRoutes(){
       var p2=[];(d.attractions||[]).forEach(function(id){var a=DATA.attractions[id];if(a)p2.push([a.google.lat,a.google.lng])});
       var ho=d.overnight&&hotelById(d.overnight);if(ho)p2.push([ho.google.lat,ho.google.lng]);
       if(p2.length)bounds=L.latLngBounds(p2);
-      note='<div class="note">'+esc(U('no_drive'))+'. '+esc(U(d.day===9?'no_drive_free':'no_drive_city'))+'</div>';
+      note='<div class="note">'+esc(U('no_drive'))+'. '+esc(U(d.no_drive_key||'no_drive_city'))+'</div>';
     }
   }else if(m._outlineBounds)bounds=m._outlineBounds;
   if(bounds)try{m.fitBounds(bounds,{padding:[24,24],maxZoom:14})}catch(e){}
