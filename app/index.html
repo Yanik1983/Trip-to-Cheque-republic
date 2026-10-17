@@ -842,7 +842,7 @@ var S={
   flightsel:'הטיסות שנבחרו',price:'מחיר',duration:'משך',baggage_fee:'עלות כבודה',lines:'פריטים',
   notes_driving:'הערות נהיגה',map_fail:'ספריית המפה לא נטענה.',
   err_t:'לא ניתן לטעון את נתוני הטיול',err_d:'הקובץ trip-data.json לא נטען. בדקו את החיבור, ופתחו את האפליקציה דרך שרת אינטרנט (לא ישירות כקובץ).',
-  report:'דוח מחקר גרסה 4',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',
+  report:'דוח מחקר גרסה 5',report4:'גרסה 4',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',
   lang:'EN',overview_flights:'סיכום טיסות',total_car:'סה"כ רכב',sources:'מקורות'},
  en:{tabs:{overview:'Overview',map:'Map',days:'Days',flights:'Flights',hotels:'Hotels',car:'Car',budget:'Budget'},
   attractions:'Attractions',hotel:'Hotel',arr_dep:'Arrival & departure',pickup:'Car pick-up',dropoff:'Car return',
@@ -850,7 +850,7 @@ var S={
   flightsel:'Chosen flights',price:'Price',duration:'Duration',baggage_fee:'Baggage fee',lines:'Items',
   notes_driving:'Driving notes',map_fail:'The map library did not load.',
   err_t:'Could not load the trip data',err_d:'The file trip-data.json did not load. Check your connection and open the app through a web server (not directly as a file).',
-  report:'Research report v4',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',
+  report:'Research report v5',report4:'v4',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',
   lang:'עב',overview_flights:'Flights summary',total_car:'Car total',sources:'Sources'}
 };
 var ICON={
@@ -890,7 +890,7 @@ function renderTabbar(){
   }).join('');
 }
 function renderFooter(){
-  $('#foot').innerHTML='<div class="links"><a href="../v4/index.html">'+esc(ST('report'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a></div><p>'+esc(ST('credits'))+'</p>';
+  $('#foot').innerHTML='<div class="links"><a href="../v5/index.html">'+esc(ST('report'))+'</a> · <a href="../v4/index.html">'+esc(ST('report4'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a></div><p>'+esc(ST('credits'))+'</p>';
 }
 function sectionShell(id){return '<section class="tab" id="tab-'+id+'" role="tabpanel"'+(id===tab?'':' hidden')+'></section>'}
 
@@ -932,6 +932,11 @@ function vFlights(){
     var cv=DATA.compare.versions,sg=function(x){var d=Math.round((x[cv[1]]-x[cv[0]])*100)/100;return (d>0?'+':d<0?'−':'±')+eur(Math.abs(d))};
     h+=alts(U('dates'),tableWrap('<table><thead><tr><th>'+esc(U('cmp_item'))+'</th><th class="num">'+esc(cv[0])+'</th><th class="num">'+esc(cv[1])+'</th><th class="num">±</th></tr></thead><tbody>'+
      DATA.compare.rows.map(function(x){return '<tr'+(x.key==='total'?' class="best"':'')+'><td>'+esc(T(x.label))+'</td><td class="num">'+eur(x[cv[0]])+'</td><td class="num">'+eur(x[cv[1]])+'</td><td class="num">'+sg(x)+'</td></tr>'}).join('')+'</tbody></table>'));
+  }
+  if(DATA.start_dates&&DATA.start_dates.length){
+    var sdl=function(iso){var d=new Date(iso+'T00:00:00Z');return d.toLocaleDateString(lang==='he'?'he-IL':'en-GB',{weekday:'short',day:'numeric',timeZone:'UTC'})};
+    h+=alts(U('dates2'),tableWrap('<table><thead><tr><th>'+esc(U('start'))+'</th><th class="num">'+esc(U('airport_n'))+'</th><th class="num">'+esc(U('lipno_n'))+'</th><th class="num">'+esc(U('prague_n'))+'</th><th class="num">'+esc(U('both'))+'</th></tr></thead><tbody>'+
+     DATA.start_dates.map(function(w){return '<tr'+(w.chosen?' class="best"':'')+'><td>'+esc(sdl(w.start)+' → '+sdl(w.end))+(w.chosen?' '+badge('best','★'):'')+'</td><td class="num">'+eur(w.airport)+'</td><td class="num">'+eur(w.lipno)+'</td><td class="num">'+eur(w.prague)+'</td><td class="num"><b>'+eur(w.total)+'</b></td></tr>'}).join('')+'</tbody></table>'));
   }
   if(DATA.date_windows&&DATA.date_windows.length){
     h+=alts(U('dates'),tableWrap('<table><thead><tr><th>'+esc(U('window'))+'</th><th class="num">'+esc(U('prague'))+'</th><th class="num">'+esc(U('lipno'))+'</th></tr></thead><tbody>'+

@@ -1,10 +1,10 @@
 {
  "version": {
-  "id": "v4",
+  "id": "v5",
   "date": "2026-10-17",
   "label": {
-   "en": "v4 – Lipno first, Prague at the end (17 Oct 2026)",
-   "he": "גרסה 4 – קודם ליפנו, פראג בסוף (17.10.2026)"
+   "en": "v5 – v4 two days later, Tue 17 – Thu 26 Aug (17 Oct 2026)",
+   "he": "גרסה 5 – גרסה 4 יומיים מאוחר יותר, ג' 17 – ה' 26 באוגוסט (17.10.2026)"
   }
  },
  "taxi_days": [
@@ -14,30 +14,26 @@
  "car_km": 562.4,
  "changes": [
   {
-   "en": "Order reversed: after landing you sleep at the airport, take the car on Day 2 to Hluboká and Lake Lipno (4 nights), then return the car on Day 6 and finish with 4 nights in Prague without a car.",
-   "he": "הסדר התהפך: אחרי הנחיתה ישנים ליד שדה התעופה, ביום 2 לוקחים רכב לטירת הלובוקה ולאגם ליפנו (4 לילות), ביום 6 מחזירים את הרכב ומסיימים ב-4 לילות בפראג בלי רכב."
+   "en": "Same plan as v4, two days later: Tue 17 – Thu 26 Aug 2027. I checked every start date from 15 to 22 Aug; flights cost the same on all of them, and this start gives the cheapest hotels.",
+   "he": "אותה תוכנית כמו בגרסה 4, יומיים מאוחר יותר: ג' 17 – ה' 26 באוגוסט 2027. בדקתי כל תאריך התחלה בין 15 ל-22 באוגוסט; הטיסות עולות אותו דבר בכולם, ובתאריך הזה המלונות הכי זולים."
   },
   {
-   "en": "New first night: Holiday Inn Prague Airport (800 m from the terminals, 24-hour reception), €211.73 with free cancellation. The 21:35 landing is too late to drive 3 hours to Lipno with the kids.",
-   "he": "לילה ראשון חדש: Holiday Inn Prague Airport (800 מ' מהטרמינלים, קבלה 24 שעות), 211.73 € עם ביטול חינם. הנחיתה ב-21:35 מאוחרת מדי לנסוע 3 שעות לליפנו עם הילדים."
+   "en": "Hotels €1,394.04 instead of €1,561.71 (−€167.67). The Prague stay is now Sunday to Thursday, when the apartment costs €409.97 instead of €571.93. Weekdays also mean smaller crowds at the zoo and the castle.",
+   "he": "מלונות 1,394.04 € במקום 1,561.71 € (167.67 € פחות). השהות בפראג היא עכשיו מא' עד ה', ואז הדירה עולה 409.97 € במקום 571.93 €. בימי חול גם פחות עומס בגן החיות ובטירה."
   },
   {
-   "en": "Car only 4 days (Mon 16 – Fri 20 Aug), pick-up and return at the airport. The last morning is a 34-min taxi from the apartment instead of a 3-hour drive from Lipno.",
-   "he": "רכב רק ל-4 ימים (ב' 16 – ו' 20 באוגוסט), איסוף והחזרה בשדה התעופה. בבוקר האחרון – 34 דקות במונית מהדירה במקום 3 שעות נסיעה מליפנו."
+   "en": "Return flight QS 1284 is now €920 (was €919). Outbound QS 1285 still €701.",
+   "he": "טיסת החזור QS 1284 עולה עכשיו 920 € (היה 919 €). טיסת ההלוך QS 1285 עדיין 701 €."
   },
   {
-   "en": "Same hotels at new dates (free cancellation): Doky Lipno 4 nights €778.05; Encore Prague 4 nights €571.93 (Fri–Tue weekend nights cost more than Sun–Thu in v3).",
-   "he": "אותם מלונות בתאריכים החדשים (ביטול חינם): Doky ליפנו 4 לילות 778.05 €; Encore פראג 4 לילות 571.93 € (לילות סוף השבוע ו'–ג' יקרים יותר מ-א'–ה' בגרסה 3)."
-  },
-  {
-   "en": "Lipno loses its free day (4 nights instead of 5); every attraction from v3 stays, and Kleť moves to the lake day as an option.",
-   "he": "בליפנו אין יותר יום חופשי (4 לילות במקום 5); כל האטרקציות מגרסה 3 נשארות, וקלט עובר ליום האגם כאופציה."
+   "en": "Alternative hotels and flights re-priced for the new dates.",
+   "he": "המלונות והטיסות החלופיים תומחרו מחדש לתאריכים החדשים."
   }
  ],
  "trip": {
   "dates": {
-   "start": "2027-08-15",
-   "end": "2027-08-24",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
    "days": 10,
    "nights": 9
   },
@@ -46,8 +42,8 @@
    "he": "טיול משפחתי בצ'כיה"
   },
   "lede": {
-   "en": "Sun 15 – Tue 24 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at the airport, then a rental car to Hluboká Castle and 4 nights at Lake Lipno (pool, beach, treetop walk, rafting, bears), and finally 4 nights in a Prague apartment without a car (zoo, water park, dinosaurs, castle).",
-   "he": "א' 15 – ג' 24 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה, ואז רכב שכור לטירת הלובוקה ו-4 לילות באגם ליפנו (בריכה, חוף, שביל צמרות, רפטינג, דובים), ולסיום 4 לילות בדירה בפראג בלי רכב (גן חיות, פארק מים, דינוזאורים, טירה)."
+   "en": "Tue 17 – Thu 26 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at the airport, then a rental car to Hluboká Castle and 4 nights at Lake Lipno (pool, beach, treetop walk, rafting, bears), and finally 4 nights in a Prague apartment without a car (zoo, water park, dinosaurs, castle).",
+   "he": "ג' 17 – ה' 26 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה, ואז רכב שכור לטירת הלובוקה ו-4 לילות באגם ליפנו (בריכה, חוף, שביל צמרות, רפטינג, דובים), ולסיום 4 לילות בדירה בפראג בלי רכב (גן חיות, פארק מים, דינוזאורים, טירה)."
   }
  },
  "currency": "EUR",
@@ -59,10 +55,10 @@
      "en": "Outbound",
      "he": "הלוך"
     },
-    "date": "2027-08-15",
+    "date": "2027-08-17",
     "wd": {
-     "en": "Sun",
-     "he": "א'"
+     "en": "Tue",
+     "he": "ג'"
     },
     "flight": "QS 1285",
     "from": "TLV",
@@ -77,10 +73,10 @@
      "en": "Return",
      "he": "חזור"
     },
-    "date": "2027-08-24",
+    "date": "2027-08-26",
     "wd": {
-     "en": "Tue",
-     "he": "ג'"
+     "en": "Thu",
+     "he": "ה'"
     },
     "flight": "QS 1284",
     "from": "PRG",
@@ -88,7 +84,7 @@
     "dep": "12:45",
     "arr": "17:35",
     "duration": "3h 50m",
-    "price_eur": 919
+    "price_eur": 920
    }
   ],
   "evening_outbound_options": [
@@ -98,13 +94,13 @@
      "he": "סמארטווינגס QS 1285 · ת\"א 18:25 ← פראג 21:35 · ישירה"
     },
     "when": {
-     "en": "Every date 11–17 Aug (also Sat)",
-     "he": "בכל התאריכים 11–17 באוגוסט (גם בשבת)"
+     "en": "Every date 15–22 Aug",
+     "he": "בכל התאריכים 15–22 באוגוסט"
     },
     "price_eur": 701,
     "note": {
-     "en": "Chosen. Cheapest evening flight on every date.",
-     "he": "נבחרה. טיסת הערב הזולה ביותר בכל התאריכים."
+     "en": "Chosen. Same price on every date checked.",
+     "he": "נבחרה. אותו מחיר בכל התאריכים שנבדקו."
     },
     "best": true
    },
@@ -114,28 +110,28 @@
      "he": "אוסטריאן OS 80 + OS 649 · ת\"א 15:30 ← פראג 21:50 · עצירה בווינה"
     },
     "when": {
-     "en": "Daily",
-     "he": "יומי"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
-    "price_eur": 863,
+    "price_eur": 862,
     "note": {
-     "en": "€162 more and 3 hours longer.",
-     "he": "יקרה ב-162 € וארוכה ב-3 שעות."
+     "en": "€161 more and 3 hours longer.",
+     "he": "יקרה ב-161 € וארוכה ב-3 שעות."
     }
    },
    {
     "what": {
-     "en": "El Al LY 2523 · TLV 17:55 → PRG 20:55 · nonstop",
-     "he": "אל על LY 2523 · ת\"א 17:55 ← פראג 20:55 · ישירה"
+     "en": "Lufthansa LH 687 + LH 1400 · TLV 16:30 → PRG 23:15 · 1 stop Frankfurt",
+     "he": "לופטהנזה LH 687 + LH 1400 · ת\"א 16:30 ← פראג 23:15 · עצירה בפרנקפורט"
     },
     "when": {
-     "en": "Thu 12 Aug",
-     "he": "ה' 12 באוגוסט"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
-    "price_eur": 1187,
+    "price_eur": 905,
     "note": {
-     "en": "€486 more.",
-     "he": "יקרה ב-486 €."
+     "en": "€204 more, lands 23:15.",
+     "he": "יקרה ב-204 €, נחיתה ב-23:15."
     }
    },
    {
@@ -144,13 +140,13 @@
      "he": "סוויס LX 253 + LX 1484 · ת\"א 18:15 ← פראג 08:40 למחרת · עצירה בציריך"
     },
     "when": {
-     "en": "Wed 11 / Fri 13 Aug",
-     "he": "ד' 11 / ו' 13 באוגוסט"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
-    "price_eur": 636,
+    "price_eur": 698,
     "note": {
-     "en": "€65 cheaper, but a night spent at Zurich airport. Not recommended with kids.",
-     "he": "זולה ב-65 €, אבל לילה בשדה התעופה בציריך. לא מומלץ עם ילדים."
+     "en": "€3 cheaper, but a night spent at Zurich airport. Not recommended with kids.",
+     "he": "זולה ב-3 €, אבל לילה בשדה התעופה בציריך. לא מומלץ עם ילדים."
     }
    }
   ],
@@ -161,10 +157,10 @@
      "he": "סמארטווינגס QS 1284 · פראג 12:45 ← ת\"א 17:35 · ישירה"
     },
     "when": {
-     "en": "Every date 19–26 Aug",
-     "he": "בכל התאריכים 19–26 באוגוסט"
+     "en": "Every date 24–28 Aug",
+     "he": "בכל התאריכים 24–28 באוגוסט"
     },
-    "price_eur": 919,
+    "price_eur": 920,
     "note": {
      "en": "Chosen. Home by early evening.",
      "he": "נבחרה. בבית בתחילת הערב."
@@ -180,7 +176,7 @@
      "en": "Every date",
      "he": "בכל התאריכים"
     },
-    "price_eur": 919,
+    "price_eur": 920,
     "note": {
      "en": "Same price; relaxed last day but lands 04:35.",
      "he": "אותו מחיר; יום אחרון רגוע, אבל נחיתה ב-04:35."
@@ -192,28 +188,28 @@
      "he": "אגיאן A3 867 + A3 928 · פראג 19:00 ← ת\"א 02:45 · עצירה באתונה"
     },
     "when": {
-     "en": "Tue 24 Aug (€752 on 19–20 Aug)",
-     "he": "ג' 24 באוגוסט (752 € ב-19–20 באוגוסט)"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
-    "price_eur": 870,
+    "price_eur": 871,
     "note": {
-     "en": "€49 cheaper on our date, but a connection and a 02:45 landing.",
-     "he": "זולה ב-49 € בתאריך שלנו, אבל עם קונקשן ונחיתה ב-02:45."
+     "en": "€49 cheaper, but a connection and a 02:45 landing.",
+     "he": "זולה ב-49 €, אבל עם קונקשן ונחיתה ב-02:45."
     }
    },
    {
     "what": {
-     "en": "SWISS LX 1489 + LX 256 · PRG 19:30 → TLV 03:35 · 1 stop Zurich",
-     "he": "סוויס LX 1489 + LX 256 · פראג 19:30 ← ת\"א 03:35 · עצירה בציריך"
+     "en": "Brussels Airlines SN 2810 + SN 3293 · PRG 11:50 → TLV 02:40 · 1 stop Brussels",
+     "he": "בריסל איירליינס SN 2810 + SN 3293 · פראג 11:50 ← ת\"א 02:40 · עצירה בבריסל"
     },
     "when": {
-     "en": "Fri 20 / Sat 21 Aug only",
-     "he": "רק ו' 20 / ש' 21 באוגוסט"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
-    "price_eur": 688,
+    "price_eur": 833,
     "note": {
-     "en": "€231 cheaper, but would shorten the trip to 6–7 nights.",
-     "he": "זולה ב-231 €, אבל מקצרת את הטיול ל-6–7 לילות."
+     "en": "€87 cheaper, but 13h 50m and a 02:40 landing.",
+     "he": "זולה ב-87 €, אבל 13 שעות ו-50 דקות ונחיתה ב-02:40."
     }
    }
   ],
@@ -223,10 +219,84 @@
    "he": "תעריף LITE של סמארטווינגס כולל טרולי של 8 ק\"ג לכל נוסע (2 הטרולים שלכם מכוסים). שתי מזוודות של 23 ק\"ג עולות מ-1,000 קרונות (כ-41 €) כל אחת לכל כיוון בהזמנה מראש: 2 × 2 × 41 € ≈ 164 € (הערכה)."
   },
   "note": {
-   "en": "Live Google Flights prices found 15 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included. Other airports (Vienna, Munich, Budapest…) are no longer options because they mean crossing a border; Prague was also the cheapest in v1.",
-   "he": "מחירים חיים מ-Google Flights מ-15.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה. שדות תעופה אחרים (וינה, מינכן, בודפשט…) כבר לא רלוונטיים כי הם דורשים מעבר גבול; גם בגרסה 1 פראג הייתה הזולה ביותר."
+   "en": "Live Google Flights prices found 17 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included. No border crossings, so Prague only.",
+   "he": "מחירים חיים מ-Google Flights מ-17.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה. בלי מעבר גבולות, לכן רק פראג."
   }
  },
+ "start_dates": [
+  {
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "airport": 211.73,
+   "lipno": 778.05,
+   "prague": 571.93,
+   "total": 1561.71,
+   "chosen": false
+  },
+  {
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "airport": 197.35,
+   "lipno": 764.4,
+   "prague": 498.56,
+   "total": 1460.31,
+   "chosen": false
+  },
+  {
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "airport": 216.52,
+   "lipno": 767.55,
+   "prague": 409.97,
+   "total": 1394.04,
+   "chosen": true
+  },
+  {
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "airport": 216.52,
+   "lipno": 770.7,
+   "prague": 409.97,
+   "total": 1397.19,
+   "chosen": false
+  },
+  {
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "airport": 211.73,
+   "lipno": 773.85,
+   "prague": 452.91,
+   "total": 1438.49,
+   "chosen": false
+  },
+  {
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "airport": 206.93,
+   "lipno": 773.85,
+   "prague": 511.07,
+   "total": 1491.85,
+   "chosen": false
+  },
+  {
+   "start": "2027-08-21",
+   "end": "2027-08-30",
+   "airport": 206.93,
+   "lipno": 764.4,
+   "prague": 509.13,
+   "total": 1480.46,
+   "chosen": false
+  },
+  {
+   "start": "2027-08-22",
+   "end": "2027-08-31",
+   "airport": 211.73,
+   "lipno": 764.4,
+   "prague": 507.2,
+   "total": 1483.33,
+   "chosen": false
+  }
+ ],
  "airports": {
   "PRG": {
    "name": "Prague Václav Havel Airport",
@@ -239,8 +309,8 @@
   "lines": [
    [
     {
-     "en": "Estate car, automatic, 4 days (≈ €65/day), Mon 16 – Fri 20 Aug",
-     "he": "רכב סטיישן אוטומטי, 4 ימים (כ-65 € ליום), ב' 16 – ו' 20 באוגוסט"
+     "en": "Estate car, automatic, 4 days (≈ €65/day), Wed 18 – Sun 22 Aug",
+     "he": "רכב סטיישן אוטומטי, 4 ימים (כ-65 € ליום), ד' 18 – א' 22 באוגוסט"
     },
     260,
     true
@@ -271,21 +341,21 @@
    ]
   ],
   "text": {
-   "en": "Pick-up Prague Airport Mon 16 Aug 11:00, return Fri 20 Aug by 11:00 (4 days; most companies allow about 29–59 min grace, so check the terms). Category: intermediate/standard estate, e.g. Škoda Octavia Combi automatic. 2 large suitcases + 2 trolleys fit in the boot, with 2 high-back boosters on the rear seat. Confirm the Czech e-vignette is included.",
-   "he": "איסוף בשדה התעופה בפראג ב-ב' 16 באוגוסט ב-11:00, החזרה ב-ו' 20 באוגוסט עד 11:00 (4 ימים; ברוב החברות יש חסד של כ-29–59 דקות – לבדוק בתנאים). קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית. 2 מזוודות גדולות ו-2 טרולים נכנסים לתא המטען, עם 2 בוסטרים עם גב במושב האחורי. לוודא שהווינייטה הצ'כית כלולה."
+   "en": "Pick-up Prague Airport Wed 18 Aug 11:00, return Sun 22 Aug by 11:00 (4 days; most companies allow about 29–59 min grace, so check the terms). Category: intermediate/standard estate, e.g. Škoda Octavia Combi automatic. 2 large suitcases + 2 trolleys fit in the boot, with 2 high-back boosters on the rear seat. Confirm the Czech e-vignette is included.",
+   "he": "איסוף בשדה התעופה בפראג ב-ד' 18 באוגוסט ב-11:00, החזרה ב-א' 22 באוגוסט עד 11:00 (4 ימים; ברוב החברות יש חסד של כ-29–59 דקות – לבדוק בתנאים). קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית. 2 מזוודות גדולות ו-2 טרולים נכנסים לתא המטען, עם 2 בוסטרים עם גב במושב האחורי. לוודא שהווינייטה הצ'כית כלולה."
   },
   "pickup": {
    "place": "Prague Václav Havel Airport (PRG)",
    "lat": 50.1008,
    "lng": 14.26,
-   "when": "2027-08-16T11:00",
+   "when": "2027-08-18T11:00",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.100800,14.260000&travelmode=driving"
   },
   "dropoff": {
    "place": "Prague Václav Havel Airport (PRG)",
    "lat": 50.1008,
    "lng": 14.26,
-   "when": "2027-08-20T11:00",
+   "when": "2027-08-22T11:00",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.100800,14.260000&travelmode=driving"
   }
  },
@@ -320,20 +390,20 @@
     "en": "Prague Airport (800 m / 10–15 min walk to the terminals)",
     "he": "שדה התעופה של פראג (800 מ' / 10–15 דקות הליכה לטרמינלים)"
    },
-   "checkin": "2027-08-15",
-   "checkout": "2027-08-16",
+   "checkin": "2027-08-17",
+   "checkout": "2027-08-18",
    "nights": 1,
-   "total_eur": 211.73,
+   "total_eur": 216.52,
    "booking_score": 8.8,
    "booking_reviews": 3376,
-   "booking_url": "https://www.booking.com/hotel/cz/hoteltranzitpraha.html?checkin=2027-08-15&checkout=2027-08-16&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_url": "https://www.booking.com/hotel/cz/hoteltranzitpraha.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Family room, free cancellation. 24-hour reception, so the late arrival is fine; airport shuttle available (may cost extra) or a short walk. Breakfast not included (about €15 per person). Per Booking.com Q&A an extra bed costs €25 – confirm beds for 4 when booking.",
     "he": "חדר משפחה, ביטול חינם. קבלה 24 שעות, כך שההגעה המאוחרת אינה בעיה; שאטל לשדה (ייתכן בתשלום) או הליכה קצרה. בלי ארוחת בוקר (כ-15 € לאדם). לפי Booking.com מיטה נוספת עולה 25 € – לוודא בהזמנה שיש מיטות ל-4."
    },
    "alt": {
-    "en": "Cheaper: Prague Airport Apartment, Tuchoměřice, €165 (Booking 9.7 from 104 reviews, 3 km away, so a taxi both ways). Ramada Airport Hotel €218 (Booking 7.7). Courtyard by Marriott Prague Airport €491.97.",
-    "he": "זול יותר: Prague Airport Apartment בטוכומנז'יצה, 165 € (Booking 9.7 מ-104 ביקורות, 3 ק\"מ – מונית לשני הכיוונים). Ramada Airport Hotel ב-218 € (Booking 7.7). Courtyard by Marriott Prague Airport ב-491.97 €."
+    "en": "Ramada Airport Hotel €218 (Booking 7.7). Courtyard by Marriott Prague Airport €409.01 (Booking 8.8).",
+    "he": "Ramada Airport Hotel ב-218 € (Booking 7.7). Courtyard by Marriott Prague Airport ב-409.01 € (Booking 8.8)."
    },
    "google": {
     "name": "Holiday Inn Prague Airport by IHG",
@@ -363,14 +433,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 211.73,
+   "price_per_night_eur": 216.52,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 8.8,
      "out_of": 10,
      "reviews": 3376,
-     "url": "https://www.booking.com/hotel/cz/hoteltranzitpraha.html?checkin=2027-08-15&checkout=2027-08-16&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "url": "https://www.booking.com/hotel/cz/hoteltranzitpraha.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -389,20 +459,20 @@
     "en": "Lipno nad Vltavou, lakefront (Doky Holiday Resort)",
     "he": "ליפנו נאד ולטאבו, על שפת האגם (Doky Holiday Resort)"
    },
-   "checkin": "2027-08-16",
-   "checkout": "2027-08-20",
+   "checkin": "2027-08-18",
+   "checkout": "2027-08-22",
    "nights": 4,
-   "total_eur": 778.05,
+   "total_eur": 767.55,
    "booking_score": 9.1,
    "booking_reviews": 43,
-   "booking_url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-16&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "2-bedroom apartment (sleeps up to 7) with kitchenette, heated outdoor pool with a shallow end, beachfront, free parking. Free-cancellation rate.",
     "he": "דירת 2 חדרי שינה (עד 7) עם מטבחון, בריכה חיצונית מחוממת עם חלק רדוד, על החוף, חניה חינם. תעריף עם ביטול חינם."
    },
    "alt": {
-    "en": "Cheaper, no pool: KORZO Lipno 2, €626.28 (Booking 8.8, 737 reviews) or Apartman Riviera 41, €405.20 (beachfront, Booking 9.2 from 38 reviews). Bigger hotel with kids' club: Hotel Element €1,058.",
-    "he": "זול יותר, בלי בריכה: KORZO Lipno 2 ב-626.28 € (Booking 8.8, 737 ביקורות) או Apartman Riviera 41 ב-405.20 € (על החוף, Booking 9.2 מ-38 ביקורות). מלון גדול עם מועדון ילדים: Hotel Element ב-1,058 €."
+    "en": "Cheaper, no pool: KORZO Lipno 2, €626.28 (Booking 8.8, 737 reviews). Bigger hotel with kids' club: Hotel Element €1,237.56.",
+    "he": "זול יותר, בלי בריכה: KORZO Lipno 2 ב-626.28 € (Booking 8.8, 737 ביקורות). מלון גדול עם מועדון ילדים: Hotel Element ב-1,237.56 €."
    },
    "google_note": {
     "en": "Google rating is for the Doky Holiday Resort complex.",
@@ -436,14 +506,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 194.51,
+   "price_per_night_eur": 191.89,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 9.1,
      "out_of": 10,
      "reviews": 43,
-     "url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-16&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -462,20 +532,20 @@
     "en": "Prague 3 – Vinohrady (480 m to metro A Jiřího z Poděbrad)",
     "he": "פראג 3 – וינוהראדי (480 מ' למטרו A, תחנת Jiřího z Poděbrad)"
    },
-   "checkin": "2027-08-20",
-   "checkout": "2027-08-24",
+   "checkin": "2027-08-22",
+   "checkout": "2027-08-26",
    "nights": 4,
-   "total_eur": 571.93,
+   "total_eur": 409.97,
    "booking_score": 9.3,
    "booking_reviews": 1819,
-   "booking_url": "https://www.booking.com/hotel/cz/encore-boutique-residence.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_url": "https://www.booking.com/hotel/cz/encore-boutique-residence.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Deluxe apartment: bedroom + sofa bed (up to 5), full kitchen, free cancellation. Self check-in with instructions sent before arrival; you arrive around midday, so ask about an early luggage drop. No breakfast; supermarkets and bakeries nearby. Confirm the beds for 4 when booking.",
     "he": "דירת דלוקס: חדר שינה + ספה נפתחת (עד 5), מטבח מלא, ביטול חינם. צ'ק-אין עצמי עם הוראות שנשלחות מראש; מגיעים בסביבות הצהריים, אז כדאי לשאול על השארת מזוודות מוקדם. בלי ארוחת בוקר; סופרמרקטים ומאפיות בסביבה. לוודא בהזמנה שיש מיטות ל-4."
    },
    "alt": {
-    "en": "Same price (€571.93) and owner: Hidden Art Boutique Residence (Booking 9.2, 2,405 reviews) or Kinsky Garden (9.0, near Petřín). Cheaper: Gesto Apartments, Žižkov, €488 (Booking 9.0, 283 reviews). With breakfast and parking: Grand Hotel International €692.52.",
-    "he": "באותו מחיר (571.93 €) ומאותו בעלים: Hidden Art Boutique Residence (Booking 9.2, 2,405 ביקורות) או Kinsky Garden (9.0, ליד פטשין). זול יותר: Gesto Apartments בז'יז'קוב, 488 € (Booking 9.0, 283 ביקורות). עם ארוחת בוקר וחניה: Grand Hotel International ב-692.52 €."
+    "en": "Same price (€409.97) and owner: Hidden Art Boutique Residence (Booking 9.2, 2,405 reviews) or Kinsky Garden (9.0, near Petřín). Gesto Apartments, Žižkov, €456 (Booking 9.0). With breakfast and parking: Grand Hotel International €593.76.",
+    "he": "באותו מחיר (409.97 €) ומאותו בעלים: Hidden Art Boutique Residence (Booking 9.2, 2,405 ביקורות) או Kinsky Garden (9.0, ליד פטשין). Gesto Apartments בז'יז'קוב, 456 € (Booking 9.0). עם ארוחת בוקר וחניה: Grand Hotel International ב-593.76 €."
    },
    "google": {
     "name": "Encore Boutique Residence by Dwellfort",
@@ -505,14 +575,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 142.98,
+   "price_per_night_eur": 102.49,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 9.3,
      "out_of": 10,
      "reviews": 1819,
-     "url": "https://www.booking.com/hotel/cz/encore-boutique-residence.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "url": "https://www.booking.com/hotel/cz/encore-boutique-residence.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -1611,10 +1681,10 @@
  "days": [
   {
    "day": 1,
-   "date": "2027-08-15",
+   "date": "2027-08-17",
    "weekday": {
-    "en": "Sun",
-    "he": "א'"
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Evening flight, night at the airport",
@@ -1638,10 +1708,10 @@
   },
   {
    "day": 2,
-   "date": "2027-08-16",
+   "date": "2027-08-18",
    "weekday": {
-    "en": "Mon",
-    "he": "ב'"
+    "en": "Wed",
+    "he": "ד'"
    },
    "title": {
     "en": "Car pick-up, Hluboká Castle, on to Lipno",
@@ -1847,10 +1917,10 @@
   },
   {
    "day": 3,
-   "date": "2027-08-17",
+   "date": "2027-08-19",
    "weekday": {
-    "en": "Tue",
-    "he": "ג'"
+    "en": "Thu",
+    "he": "ה'"
    },
    "title": {
     "en": "Treetop walk, forest playground, bobsled",
@@ -2181,10 +2251,10 @@
   },
   {
    "day": 4,
-   "date": "2027-08-18",
+   "date": "2027-08-20",
    "weekday": {
-    "en": "Wed",
-    "he": "ד'"
+    "en": "Fri",
+    "he": "ו'"
    },
    "title": {
     "en": "Český Krumlov: rafting + bears",
@@ -2502,10 +2572,10 @@
   },
   {
    "day": 5,
-   "date": "2027-08-19",
+   "date": "2027-08-21",
    "weekday": {
-    "en": "Thu",
-    "he": "ה'"
+    "en": "Sat",
+    "he": "ש'"
    },
    "title": {
     "en": "Lake day: ferry + beach",
@@ -2824,10 +2894,10 @@
   },
   {
    "day": 6,
-   "date": "2027-08-20",
+   "date": "2027-08-22",
    "weekday": {
-    "en": "Fri",
-    "he": "ו'"
+    "en": "Sun",
+    "he": "א'"
    },
    "title": {
     "en": "Back to Prague, return the car",
@@ -3014,10 +3084,10 @@
   },
   {
    "day": 7,
-   "date": "2027-08-21",
+   "date": "2027-08-23",
    "weekday": {
-    "en": "Sat",
-    "he": "ש'"
+    "en": "Mon",
+    "he": "ב'"
    },
    "title": {
     "en": "Prague Zoo",
@@ -3043,10 +3113,10 @@
   },
   {
    "day": 8,
-   "date": "2027-08-22",
+   "date": "2027-08-24",
    "weekday": {
-    "en": "Sun",
-    "he": "א'"
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Water park + dinosaurs",
@@ -3343,10 +3413,10 @@
   },
   {
    "day": 9,
-   "date": "2027-08-23",
+   "date": "2027-08-25",
    "weekday": {
-    "en": "Mon",
-    "he": "ב'"
+    "en": "Wed",
+    "he": "ד'"
    },
    "title": {
     "en": "Prague city day (by tram, little walking)",
@@ -3380,10 +3450,10 @@
   },
   {
    "day": 10,
-   "date": "2027-08-24",
+   "date": "2027-08-26",
    "weekday": {
-    "en": "Tue",
-    "he": "ג'"
+    "en": "Thu",
+    "he": "ה'"
    },
    "title": {
     "en": "Fly home",
@@ -3574,7 +3644,7 @@
   "lines": [
    {
     "key": "flights",
-    "eur": 1620,
+    "eur": 1621,
     "status": "live",
     "label": {
      "en": "Flights – Smartwings QS 1285 + QS 1284, 4 passengers",
@@ -3655,7 +3725,7 @@
    },
    {
     "key": "hotels",
-    "eur": 1561.71,
+    "eur": 1394.04,
     "status": "live",
     "label": {
      "en": "Hotels – 3 stays, 9 nights, free cancellation",
@@ -3672,34 +3742,25 @@
     }
    }
   ],
-  "total_eur": 4318.71,
-  "live_part_eur": 3181.71,
+  "total_eur": 4152.04,
+  "live_part_eur": 3015.04,
   "attractions_czk": 10859,
   "fuel_km": 607
  },
  "compare": {
   "versions": [
-   "v3",
-   "v4"
+   "v4",
+   "v5"
   ],
   "rows": [
    {
-    "key": "car",
+    "key": "flights",
     "label": {
-     "en": "Rental car – estate, automatic, 4 days",
-     "he": "רכב שכור – סטיישן אוטומטי, 4 ימים"
+     "en": "Flights – Smartwings QS 1285 + QS 1284, 4 passengers",
+     "he": "טיסות – סמארטווינגס QS 1285 + QS 1284, 4 נוסעים"
     },
-    "v3": 325,
-    "v4": 260
-   },
-   {
-    "key": "seats",
-    "label": {
-     "en": "2 child boosters",
-     "he": "2 בוסטרים לילדים"
-    },
-    "v3": 65,
-    "v4": 52
+    "v4": 1620,
+    "v5": 1621
    },
    {
     "key": "hotels",
@@ -3707,8 +3768,8 @@
      "en": "Hotels – 3 stays, 9 nights, free cancellation",
      "he": "מלונות – 3 מקומות, 9 לילות, ביטול חינם"
     },
-    "v3": 1391.4,
-    "v4": 1561.71
+    "v4": 1561.71,
+    "v5": 1394.04
    },
    {
     "key": "total",
@@ -3716,8 +3777,8 @@
      "en": "Estimated total",
      "he": "סה\"כ משוער"
     },
-    "v3": 4226.4,
-    "v4": 4318.71
+    "v4": 4318.71,
+    "v5": 4152.04
    }
   ]
  },
@@ -3725,7 +3786,7 @@
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "v4 research · prices checked 17 Oct 2026 · approved 17 Oct 2026",
+   "eyebrow": "v5 research · prices checked 17 Oct 2026 · approved 17 Oct 2026",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -3734,7 +3795,7 @@
    "bases_s": "Airport 1 + Lipno 4 + Prague apartment 4 nights",
    "driving": "Driving",
    "drive_s": "car Days 2–6 only",
-   "changes": "What changed in v4",
+   "changes": "What changed in v5",
    "sec_flights": "Evening flights and alternatives",
    "out_opts": "Evening outbound options",
    "ret_opts": "Return options",
@@ -3744,7 +3805,7 @@
    "notes": "Notes",
    "bags": "Baggage",
    "fl_total": "Flights incl. baggage",
-   "dates": "v4 vs v3: what starting outside Prague changes",
+   "dates": "v5 vs v4: what moving two days later changes",
    "window": "10-day window",
    "prague": "Prague 4 nights",
    "lipno": "Lipno 5 nights",
@@ -3785,13 +3846,13 @@
    "checked": "CHECKED",
    "mixed": "MIXED",
    "photo_by": "Photo",
-   "legend": "LIVE = live price/rating found 15–17 Oct 2026 (flights 15 Oct, hotels 17 Oct) · EST = estimate · CHECKED = official or 2026 ticket price. EUR; 1 € ≈ 24.5 CZK.",
+   "legend": "LIVE = live price/rating found 15–17 Oct 2026 (all prices 17 Oct) · EST = estimate · CHECKED = official or 2026 ticket price. EUR; 1 € ≈ 24.5 CZK.",
    "version": "Version",
    "book": "Book on Booking.com",
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food (no breakfast at the airport hotel or in Prague), souvenirs, insurance, home-airport parking, optional Railway Kingdom / Zoo Ohrada / Kleť.",
    "next": "Next step",
-   "next_t": "Tell me what to change, or approve v4. After approval I'll update the mobile web app from this version's data file.",
+   "next_t": "Tell me what to change, or approve v5. After approval I'll update the mobile web app from this version's data file.",
    "trails": {
     "red": "",
     "blue": "Lipno & Český Krumlov",
@@ -3801,12 +3862,17 @@
    "trail_note": "(colours follow Czech hiking-trail markings)",
    "taxi_note": "Taxi leg (no rental car).",
    "no_drive_air": "800 m walk or hotel shuttle from the terminal.",
-   "cmp_item": "Item"
+   "cmp_item": "Item",
+   "dates2": "Start dates compared (same plan, hotels with free cancellation; flights cost the same on every date)",
+   "start": "Start → end",
+   "airport_n": "Airport night",
+   "lipno_n": "Lipno 4 nights",
+   "prague_n": "Prague 4 nights"
   },
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "מחקר גרסה 4 · מחירים נבדקו 17.10.2026 · אושר 17.10.2026",
+   "eyebrow": "מחקר גרסה 5 · מחירים נבדקו 17.10.2026 · אושר 17.10.2026",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -3815,7 +3881,7 @@
    "bases_s": "שדה התעופה 1 + ליפנו 4 + דירה בפראג 4 לילות",
    "driving": "נהיגה",
    "drive_s": "רכב רק בימים 2–6",
-   "changes": "מה השתנה בגרסה 4",
+   "changes": "מה השתנה בגרסה 5",
    "sec_flights": "טיסות ערב וחלופות",
    "out_opts": "אפשרויות טיסת ערב הלוך",
    "ret_opts": "אפשרויות טיסה חזור",
@@ -3825,7 +3891,7 @@
    "notes": "הערות",
    "bags": "כבודה",
    "fl_total": "טיסות כולל כבודה",
-   "dates": "גרסה 4 מול גרסה 3: מה משתנה כשמתחילים מחוץ לפראג",
+   "dates": "גרסה 5 מול גרסה 4: מה משתנה כשזזים יומיים קדימה",
    "window": "חלון של 10 ימים",
    "prague": "פראג 4 לילות",
    "lipno": "ליפנו 5 לילות",
@@ -3866,13 +3932,13 @@
    "checked": "נבדק",
    "mixed": "משולב",
    "photo_by": "צילום",
-   "legend": "חי = מחיר/דירוג חי מ-15–17.10.2026 (טיסות 15.10, מלונות 17.10) · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו; 1 € ≈ 24.5 קרונות.",
+   "legend": "חי = מחיר/דירוג חי מ-15–17.10.2026 (כל המחירים 17.10) · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו; 1 € ≈ 24.5 קרונות.",
    "version": "גרסה",
    "book": "הזמנה ב-Booking.com",
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל (אין ארוחת בוקר במלון בשדה ובפראג), מזכרות, ביטוח, חניה בנתב\"ג, ואופציונליים: ממלכת הרכבות / אוהרדה / קלט.",
    "next": "השלב הבא",
-   "next_t": "כתבו לי מה לשנות, או אשרו את גרסה 4. אחרי האישור אעדכן את אפליקציית הטלפון מקובץ הנתונים של הגרסה הזו.",
+   "next_t": "כתבו לי מה לשנות, או אשרו את גרסה 5. אחרי האישור אעדכן את אפליקציית הטלפון מקובץ הנתונים של הגרסה הזו.",
    "trails": {
     "red": "",
     "blue": "ליפנו וצ'סקי קרומלוב",
@@ -3882,11 +3948,16 @@
    "trail_note": "(הצבעים לפי סימון שבילי ההליכה בצ'כיה)",
    "taxi_note": "נסיעה במונית (בלי רכב שכור).",
    "no_drive_air": "800 מ' הליכה או שאטל המלון מהטרמינל.",
-   "cmp_item": "פריט"
+   "cmp_item": "פריט",
+   "dates2": "השוואת תאריכי התחלה (אותה תוכנית, מלונות עם ביטול חינם; הטיסות עולות אותו דבר בכל התאריכים)",
+   "start": "התחלה ← סיום",
+   "airport_n": "לילה בשדה",
+   "lipno_n": "ליפנו 4 לילות",
+   "prague_n": "פראג 4 לילות"
   }
  },
  "approved": {
-  "version": "v4",
+  "version": "v5",
   "approved_on": "2026-10-17",
   "by": "traveller"
  },
