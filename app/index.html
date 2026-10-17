@@ -806,6 +806,16 @@ td.num,th.num{text-align:end;white-space:nowrap}
 .tabbar button[aria-selected="true"] span{border-bottom:2px solid var(--accent)}
 footer{max-width:980px;margin:8px auto 0;padding:0 16px calc(90px + env(safe-area-inset-bottom));color:var(--muted);font-size:14px}
 footer .links a{font-weight:600}
+.alts{margin:12px 0;border:1px solid var(--border);border-radius:12px;background:var(--surface)}
+.alts>summary{display:flex;align-items:center;gap:8px;min-height:44px;padding:8px 14px;cursor:pointer;list-style:none;font-weight:700}
+.alts>summary::-webkit-details-marker{display:none}
+.alts>summary::before{content:"";flex:none;width:8px;height:8px;border:solid currentColor;border-width:0 2px 2px 0;transform:rotate(-45deg);transition:transform .15s}
+[dir="rtl"] .alts>summary::before{transform:rotate(135deg)}
+.alts[open]>summary::before{transform:rotate(45deg)}
+.alts>summary h3{font-size:17px}
+.alts>.tbl-wrap{border:0;border-top:1px solid var(--border);border-radius:0 0 12px 12px}
+.alts>p{margin:0;padding:0 14px 12px}
+.alt-h{margin:10px 0}
 </style>
 </head>
 <body>
@@ -907,6 +917,7 @@ function flightHtml(f){
   return '<div class="flight"><div class="muted">'+esc(T(f.dir))+' · '+esc(fdate(f.date,f.wd))+'</div><div class="big" dir="ltr" style="text-align:start">'+esc(f.flight)+' · '+esc(f.from)+' → '+esc(f.to)+'</div>'+
    '<div class="times" dir="ltr" style="text-align:start">'+esc(f.dep)+' → '+esc(f.arr)+'</div><div class="muted">'+esc(ST('duration'))+': '+esc(f.duration)+' · '+esc(ST('price'))+': <b>'+eur(f.price_eur)+'</b> ('+esc(U('price4'))+')</div></div>';
 }
+function alts(title,body){return '<details class="alts"><summary><h3>'+esc(title)+'</h3></summary>'+body+'</details>'}
 function optTable(rows){
   return tableWrap('<table><thead><tr><th>'+esc(U('option'))+'</th><th>'+esc(U('when'))+'</th><th class="num">'+esc(U('price4'))+'</th><th>'+esc(U('notes'))+'</th></tr></thead><tbody>'+
    rows.map(function(r){return '<tr'+(r.best?' class="best"':'')+'><td>'+esc(T(r.what))+(r.best?' '+badge('best','★'):'')+'</td><td>'+esc(T(r.when))+'</td><td class="num">'+eur(r.price_eur)+'</td><td>'+esc(T(r.note))+'</td></tr>'}).join('')+'</tbody></table>');
@@ -914,12 +925,12 @@ function optTable(rows){
 function vFlights(){
   var F=DATA.flights,h='<h2 class="sec-title">'+esc(ST('flightsel'))+'</h2>'+F.chosen.map(function(f){return '<div class="card">'+flightHtml(f)+'</div>'}).join('');
   h+='<div class="card"><h3>'+esc(U('bags'))+'</h3><p>'+esc(T(F.baggage_text))+'</p><div><b>'+esc(ST('baggage_fee'))+':</b> '+eur(F.baggage_eur)+' '+statusBadge('estimate')+'</div></div>';
-  h+='<h2 class="sec-title">'+esc(U('sec_flights'))+'</h2><h3>'+esc(U('out_opts'))+'</h3>'+optTable(F.evening_outbound_options);
-  h+='<h3>'+esc(U('ret_opts'))+'</h3>'+optTable(F.return_options);
+  h+='<h2 class="sec-title">'+esc(U('sec_flights'))+'</h2>'+alts(U('out_opts'),optTable(F.evening_outbound_options));
+  h+=alts(U('ret_opts'),optTable(F.return_options));
   h+='<div class="note">'+esc(T(F.note))+'</div>';
   if(DATA.date_windows&&DATA.date_windows.length){
-    h+='<h3>'+esc(U('dates'))+'</h3>'+tableWrap('<table><thead><tr><th>'+esc(U('window'))+'</th><th class="num">'+esc(U('prague'))+'</th><th class="num">'+esc(U('lipno'))+'</th></tr></thead><tbody>'+
-     DATA.date_windows.map(function(w){return '<tr'+(w.best?' class="best"':'')+'><td>'+esc(T(w.w))+'</td><td class="num">'+eur(w.prague)+'</td><td class="num">'+eur(w.lipno)+'</td></tr>'}).join('')+'</tbody></table>');
+    h+=alts(U('dates'),tableWrap('<table><thead><tr><th>'+esc(U('window'))+'</th><th class="num">'+esc(U('prague'))+'</th><th class="num">'+esc(U('lipno'))+'</th></tr></thead><tbody>'+
+     DATA.date_windows.map(function(w){return '<tr'+(w.best?' class="best"':'')+'><td>'+esc(T(w.w))+'</td><td class="num">'+eur(w.prague)+'</td><td class="num">'+eur(w.lipno)+'</td></tr>'}).join('')+'</tbody></table>'));
   }
   return h;
 }
@@ -932,7 +943,7 @@ function vHotels(){
     '<dl class="dl"><dt>'+esc(ST('checkin'))+'</dt><dd>'+esc(fdate(x.checkin))+'</dd><dt>'+esc(ST('checkout'))+'</dt><dd>'+esc(fdate(x.checkout))+'</dd>'+
     '<dt>'+esc(U('nights'))+'</dt><dd>'+x.nights+'</dd><dt>'+esc(U('per_night'))+'</dt><dd>'+eur(x.price_per_night_eur)+'</dd><dt>'+esc(ST('book_total'))+'</dt><dd><b>'+eur(x.total_eur)+'</b></dd>'+
     '<dt>'+esc(U('rating'))+'</dt><dd>'+x.ratings.map(function(r){return '<div class="rating">'+ext(r.url,esc(r.source+' '+r.score+'/'+r.out_of+' ('+num(r.reviews)+')'))+'</div>'}).join('')+(x.google_note?'<div class="muted">'+esc(T(x.google_note))+'</div>':'')+'</dd></dl>'+
-    '<div><b>'+esc(ST('room'))+':</b> '+esc(T(x.room))+'</div><div><b>'+esc(ST('alt'))+':</b> '+esc(T(x.alt))+'</div>'+
+    '<div><b>'+esc(ST('room'))+':</b> '+esc(T(x.room))+'</div><details class="alts alt-h"><summary>'+esc(ST('alt'))+'</summary><p>'+esc(T(x.alt))+'</p></details>'+
     '<div class="links">'+ext(x.booking_url,esc(U('book')),'btn primary')+ext(x.google.nav_url,esc(U('nav')),'btn')+ext(x.google.maps_url,esc(U('gmaps')),'btn')+'</div></div>';
   });
   return h;
