@@ -708,6 +708,12 @@ a{color:var(--link)}
 img{max-width:100%}
 h1,h2,h3{line-height:1.25;margin:0}
 .topbar{position:sticky;top:0;z-index:1000;background:var(--surface);border-bottom:1px solid var(--border);padding:8px 16px;padding-top:calc(8px + env(safe-area-inset-top));display:flex;align-items:center;gap:12px}
+.topbar{flex-wrap:wrap}
+.dsel{flex-basis:100%;display:flex;gap:6px}
+.dsel button{flex:1 1 0;min-width:0;min-height:44px;padding:4px 6px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--text);font:inherit;font-weight:700;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1.15}
+.dsel button small{font-size:11px;font-weight:600;color:var(--muted)}
+.dsel button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.dsel button[aria-pressed="true"] small{color:var(--accent-ink);opacity:.85}
 .topbar .ttl{flex:1;min-width:0;font-weight:800;font-size:18px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:6px;min-height:44px;padding:8px 14px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--link);font:inherit;font-weight:600;text-decoration:none;cursor:pointer}
 .btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
@@ -822,6 +828,7 @@ footer .links a{font-weight:600}
 <header class="topbar">
   <div class="ttl" id="ttl">&nbsp;</div>
   <button class="btn small" id="langBtn" type="button" aria-label="Language">EN</button>
+  <div class="dsel" id="dsel" role="group" aria-label="Destination / יעד"></div>
 </header>
 <div id="app"><div class="err" style="background:var(--surface2);color:var(--text);border-color:var(--border)">Loading… / טוען…</div></div>
 <footer id="foot"></footer>
@@ -831,7 +838,14 @@ footer .links a{font-weight:600}
 <script>
 (function(){
 'use strict';
-var DATA=null, OUTLINE=null, lang='he', tab='overview', selDay=1, mapSel='all';
+var DATA=null, OUTLINE=null, lang='he', tab='overview', selDay=1, mapSel='all', dest='cz';
+var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data.json',outline:'czechia.geojson',report:'../v5/index.html'},
+ {id:'hu',he:'הונגריה',en:'Hungary',data:'trip-data-hu.json',outline:'hungary.geojson',report:'../hu/v1/index.html'},
+ {id:'pl',he:'פולין',en:'Poland',data:'trip-data-pl.json',outline:'poland.geojson',report:'../pl/v1/index.html'}];
+var CACHE={};
+function DST(){return DESTS.filter(function(d){return d.id===dest})[0]||DESTS[0]}
+function AIRK(){return Object.keys(DATA.airports)[0]}
+function AIRP(){return DATA.airports[AIRK()]}
 var maps={main:null,day:null};
 var DAYCOL=['#e6194b','#f58231','#b58900','#2e9e44','#0f8b8d','#2a7de1','#5a4fcf','#a23bbf','#d6338a','#8b5e34'];
 
@@ -842,7 +856,7 @@ var S={
   flightsel:'הטיסות שנבחרו',price:'מחיר',duration:'משך',baggage_fee:'עלות כבודה',lines:'פריטים',
   notes_driving:'הערות נהיגה',map_fail:'ספריית המפה לא נטענה.',
   err_t:'לא ניתן לטעון את נתוני הטיול',err_d:'הקובץ trip-data.json לא נטען. בדקו את החיבור, ופתחו את האפליקציה דרך שרת אינטרנט (לא ישירות כקובץ).',
-  report:'דוח מחקר גרסה 5',report4:'גרסה 4',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',
+  report:'דוח מחקר גרסה 5',report4:'גרסה 4',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',plan_page:'דף התוכנית',dates_cmp:'השוואת תאריכים וטיסות',
   lang:'EN',overview_flights:'סיכום טיסות',total_car:'סה"כ רכב',sources:'מקורות'},
  en:{tabs:{overview:'Overview',map:'Map',days:'Days',flights:'Flights',hotels:'Hotels',car:'Car',budget:'Budget'},
   attractions:'Attractions',hotel:'Hotel',arr_dep:'Arrival & departure',pickup:'Car pick-up',dropoff:'Car return',
@@ -850,7 +864,7 @@ var S={
   flightsel:'Chosen flights',price:'Price',duration:'Duration',baggage_fee:'Baggage fee',lines:'Items',
   notes_driving:'Driving notes',map_fail:'The map library did not load.',
   err_t:'Could not load the trip data',err_d:'The file trip-data.json did not load. Check your connection and open the app through a web server (not directly as a file).',
-  report:'Research report v5',report4:'v4',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',
+  report:'Research report v5',report4:'v4',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',plan_page:'plan page',dates_cmp:'Dates and flights compared',
   lang:'עב',overview_flights:'Flights summary',total_car:'Car total',sources:'Sources'}
 };
 var ICON={
@@ -890,8 +904,14 @@ function renderTabbar(){
   }).join('');
 }
 function renderFooter(){
-  $('#foot').innerHTML='<div class="links"><a href="../v5/index.html">'+esc(ST('report'))+'</a> · <a href="../v4/index.html">'+esc(ST('report4'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a></div><p>'+esc(ST('credits'))+'</p>';
+  var r=dest==='cz'?'<a href="../v5/index.html">'+esc(ST('report'))+'</a> · <a href="../v4/index.html">'+esc(ST('report4'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a>'
+    :'<a href="'+DST().report+'">'+esc(T(DATA.version.label))+' – '+esc(ST('plan_page'))+'</a>';
+  $('#foot').innerHTML='<div class="links">'+r+'</div><p>'+esc(ST('credits'))+'</p>';
 }
+function renderDsel(){
+  $('#dsel').innerHTML=DESTS.map(function(d){return '<button type="button" data-dest="'+d.id+'" aria-pressed="'+(d.id===dest)+'">'+esc(lang==='he'?d.he:d.en)+'<small>'+esc(lang==='he'?d.en:d.he)+'</small></button>'}).join('');
+}
+
 function sectionShell(id){return '<section class="tab" id="tab-'+id+'" role="tabpanel"'+(id===tab?'':' hidden')+'></section>'}
 
 function vOverview(){
@@ -937,6 +957,11 @@ function vFlights(){
     var sdl=function(iso){var d=new Date(iso+'T00:00:00Z');return d.toLocaleDateString(lang==='he'?'he-IL':'en-GB',{weekday:'short',day:'numeric',timeZone:'UTC'})};
     h+=alts(U('dates2'),tableWrap('<table><thead><tr><th>'+esc(U('start'))+'</th><th class="num">'+esc(U('airport_n'))+'</th><th class="num">'+esc(U('lipno_n'))+'</th><th class="num">'+esc(U('prague_n'))+'</th><th class="num">'+esc(U('both'))+'</th></tr></thead><tbody>'+
      DATA.start_dates.map(function(w){return '<tr'+(w.chosen?' class="best"':'')+'><td>'+esc(sdl(w.start)+' → '+sdl(w.end))+(w.chosen?' '+badge('best','★'):'')+'</td><td class="num">'+eur(w.airport)+'</td><td class="num">'+eur(w.lipno)+'</td><td class="num">'+eur(w.prague)+'</td><td class="num"><b>'+eur(w.total)+'</b></td></tr>'}).join('')+'</tbody></table>'));
+  }
+  if(DATA.date_options&&DATA.date_options.length){
+    var dol=function(iso){var d=new Date(iso+'T00:00:00Z');return d.toLocaleDateString(lang==='he'?'he-IL':'en-GB',{weekday:'short',day:'numeric',timeZone:'UTC'})};
+    h+=alts(U('dates2'),tableWrap('<table><thead><tr><th>'+esc(U('start'))+'</th><th>'+esc(U('flights'))+'</th><th class="num">'+esc(U('fl_bags'))+'</th><th class="num">'+esc(U('sec_hotels'))+'</th><th class="num">'+esc(U('car_short'))+'</th><th class="num">'+esc(U('both'))+'</th></tr></thead><tbody>'+
+     DATA.date_options.slice(0,6).map(function(w){return '<tr'+(w.chosen?' class="best"':'')+'><td>'+esc(dol(w.start)+' → '+dol(w.end))+(w.chosen?' '+badge('best','★'):'')+'<div class="muted">'+esc(U(w.plan==='eve'?'plan_eve':'plan_day'))+'</div></td><td dir="ltr">'+esc(w.out.airline+' '+w.out.dep+'→'+w.out.arr)+'<br>'+esc(w.back.airline+' '+w.back.dep+'→'+w.back.arr)+'</td><td class="num">'+eur(w.out.eur+w.out.bags_eur+w.back.eur+w.back.bags_eur)+'</td><td class="num">'+eur(w.hotels_eur)+'</td><td class="num">'+eur(w.car_eur)+'</td><td class="num"><b>'+eur(w.total_eur)+'</b></td></tr>'}).join('')+'</tbody></table>'));
   }
   if(DATA.date_windows&&DATA.date_windows.length){
     h+=alts(U('dates'),tableWrap('<table><thead><tr><th>'+esc(U('window'))+'</th><th class="num">'+esc(U('prague'))+'</th><th class="num">'+esc(U('lipno'))+'</th></tr></thead><tbody>'+
@@ -1028,7 +1053,7 @@ function vMap(){
   var h='<h2 class="sec-title">'+esc(ST('tabs').map)+'</h2><div class="chips" id="mapchips"><button type="button" class="chip" data-msel="all" aria-pressed="'+(mapSel==='all')+'">'+esc(ST('map_all'))+'</button>'+
    DATA.days.map(function(d){return '<button type="button" class="chip" data-msel="'+d.day+'" aria-pressed="'+(String(mapSel)===String(d.day))+'" style="--dc:'+DAYCOL[d.day-1]+'"><i></i>'+d.day+'</button>'}).join('')+'</div>';
   h+='<div class="mapbox" id="mainMap"></div><div id="mapNote"></div>';
-  h+='<div class="legend"><span><i class="sw h"></i>'+esc(ST('hotel'))+'</span><span><i class="sw a"></i>'+esc(ST('attractions'))+'</span><span><i class="sw o"></i>'+esc(U('optional'))+'</span><span><i class="sw p"></i>PRG</span><span><i class="ln"></i>'+esc(U('driving'))+'</span><span><i class="ln d"></i>'+esc(U('taxi_note'))+'</span></div>';
+  h+='<div class="legend"><span><i class="sw h"></i>'+esc(ST('hotel'))+'</span><span><i class="sw a"></i>'+esc(ST('attractions'))+'</span><span><i class="sw o"></i>'+esc(U('optional'))+'</span><span><i class="sw p"></i>'+esc(AIRK())+'</span><span><i class="ln"></i>'+esc(U('driving'))+'</span><span><i class="ln d"></i>'+esc(U('taxi_note'))+'</span></div>';
   return h;
 }
 
@@ -1069,8 +1094,8 @@ function attrMarker(a){
   return L.circleMarker([g.lat,g.lng],opt).bindPopup(popup({name:T(a.name),sub:(dn?U('day')+' '+dn:'')+(a.optional?' · '+U('optional'):''),rating:a.rating,photo:a.photo&&a.photo.file,nav:g.nav_url}));
 }
 function airMarker(){
-  var A=DATA.airports.PRG,C=DATA.car;
-  var ic=L.divIcon({className:'',html:'<div class="mk air">PRG</div>',iconSize:[46,24],iconAnchor:[23,12],popupAnchor:[0,-12]});
+  var A=AIRP(),C=DATA.car;
+  var ic=L.divIcon({className:'',html:'<div class="mk air">'+esc(AIRK())+'</div>',iconSize:[46,24],iconAnchor:[23,12],popupAnchor:[0,-12]});
   var sub=ST('arr_dep')+' · '+ST('pickup')+': '+fdt(C.pickup.when)+' · '+ST('dropoff')+': '+fdt(C.dropoff.when);
   return L.marker([A.lat,A.lng],{icon:ic,title:A.name,zIndexOffset:600}).bindPopup(popup({name:A.name,sub:sub,nav:A.nav_url}));
 }
@@ -1079,7 +1104,7 @@ function segments(d){
   var ll=d.route.geometry.coordinates.map(function(c){return [c[1],c[0]]}),m=modeOf(d.day);
   if(m==='taxi')return [{ll:ll,taxi:true}];
   if(m.indexOf('taxi')>=0){
-    var A=DATA.airports.PRG,bi=0,bd=1e9,first=m.indexOf('taxi')===0;
+    var A=AIRP(),bi=0,bd=1e9,first=m.indexOf('taxi')===0;
     ll.forEach(function(p,i){var dd=(p[0]-A.lat)*(p[0]-A.lat)+(p[1]-A.lng)*(p[1]-A.lng);if(dd<bd){bd=dd;bi=i}});
     return [{ll:ll.slice(0,bi+1),taxi:first},{ll:ll.slice(bi),taxi:!first}];
   }
@@ -1139,7 +1164,7 @@ function buildDay(){
     d.route.points.forEach(function(p){
       var pp=[p.lat,p.lng];
       DATA.hotels.forEach(function(x){if(near(pp,[x.google.lat,x.google.lng]))hs[x.id]=x});
-      if(near(pp,[DATA.airports.PRG.lat,DATA.airports.PRG.lng]))showAir=true;
+      if(near(pp,[AIRP().lat,AIRP().lng]))showAir=true;
       pts.push(pp);
     });
   }
@@ -1165,7 +1190,7 @@ function renderAll(){
   $('#tab-hotels').innerHTML=vHotels();
   $('#tab-car').innerHTML=vCar();
   $('#tab-budget').innerHTML=vBudget();
-  renderTabbar();renderFooter();
+  renderTabbar();renderFooter();renderDsel();
   afterShow();
 }
 function afterShow(){
@@ -1199,9 +1224,10 @@ function initLang(){
 }
 
 document.addEventListener('click',function(e){
-  var t=e.target.closest&&e.target.closest('[data-tab],[data-day],[data-msel],[data-goto],#langBtn');
+  var t=e.target.closest&&e.target.closest('[data-tab],[data-day],[data-msel],[data-goto],[data-dest],#langBtn');
   if(!t||!DATA)return;
   if(t.id==='langBtn'){setLang(lang==='he'?'en':'he');return}
+  if(t.dataset.dest){if(t.dataset.dest!==dest)loadDest(t.dataset.dest);return}
   if(t.dataset.tab){showTab(t.dataset.tab);return}
   if(t.dataset.goto){e.preventDefault();showTab(t.dataset.goto);return}
   if(t.dataset.day){setDay(Number(t.dataset.day));return}
@@ -1228,10 +1254,23 @@ function getJson(u){return fetch(u).then(function(r){if(!r.ok)throw new Error(u+
 
 initLang();
 document.documentElement.lang=lang;document.documentElement.dir=lang==='he'?'rtl':'ltr';
-Promise.all([getJson('trip-data.json'),getJson('czechia.geojson').catch(function(){return null})]).then(function(r){
-  DATA=r[0];OUTLINE=r[1];
-  renderAll();
-}).catch(function(e){console.error(e);showError()});
+function loadDest(id){
+  var d=DESTS.filter(function(x){return x.id===id})[0]||DESTS[0];
+  var p=CACHE[d.id]||Promise.all([getJson(d.data),getJson(d.outline).catch(function(){return null})]);
+  CACHE[d.id]=p;
+  return p.then(function(r){
+    dest=d.id;DATA=r[0];OUTLINE=r[1];selDay=1;mapSel='all';
+    try{localStorage.setItem('trip-dest',dest)}catch(e){}
+    try{var u=new URL(location.href);u.searchParams.set('d',dest);history.replaceState(null,'',u.pathname+u.search+u.hash)}catch(e){}
+    renderAll();window.scrollTo(0,0);
+  }).catch(function(e){console.error(e);delete CACHE[d.id];showError()});
+}
+function initDest(){
+  var q=null;try{q=new URLSearchParams(location.search).get('d')}catch(e){}
+  if(!q)try{q=localStorage.getItem('trip-dest')}catch(e){}
+  return DESTS.some(function(x){return x.id===q})?q:'cz';
+}
+loadDest(initDest());
 })();
 </script>
 </body>
