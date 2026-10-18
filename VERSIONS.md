@@ -10,7 +10,16 @@ Nothing is deleted: every version stays in the repository and on GitHub Pages, a
 | v2 | 15 Oct 2026 | Hebrew + English | `v2/` | Evening outbound flight (QS 1285), no border crossings, 2 hotels (Prague 4 + Lipno 5 nights), more kids' attractions, shorter days. Data: `v2/trip-research-v2.json`. |
 | v1 | 15 Oct 2026 | English | `phase1/` | Original Phase 1 research: 3 hotels (Bohemian Switzerland, Lipno, Prague), morning flight, Bastei day in Germany. Data: `phase1/trip-research.json`. |
 
-Pages: https://yanik1983.github.io/Trip-to-Cheque-republic/ opens the latest version.
+## Other destinations (same rules: cheapest dates and flights, max 3 hotels with free cancellation, kids' attractions)
+
+| Destination | Version | Date | Folder | What it is |
+|---|---|---|---|---|
+| Hungary | v1 (awaiting approval) | 18 Oct 2026 | `hu/v1/` | Mon 16 – Wed 25 Aug 2027: airport night, Lake Balaton (Balatonfüred) 4 nights, Budapest apartment 4 nights. Data: `hu/v1/trip-research-hu-v1.json`. |
+| Poland | v1 (awaiting approval) | 18 Oct 2026 | `pl/v1/` | Tue 17 – Thu 26 Aug 2027: Kraków airport night, Białka Tatrzańska (Tatras) 4 nights, Kraków apartment 4 nights, Energylandia day. Data: `pl/v1/trip-research-pl-v1.json`. |
+
+Every plan page has destination tabs at the top (Czechia · Hungary · Poland).
+
+Pages: https://yanik1983.github.io/Trip-to-Cheque-republic/ opens the latest Czech version.
 
 ## Trip app (Phase 2)
 
