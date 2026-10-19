@@ -15,7 +15,8 @@ Nothing is deleted: every version stays in the repository and on GitHub Pages, a
 | Destination | Version | Date | Folder | What it is |
 |---|---|---|---|---|
 | Hungary | v1 (in the app) | 18 Oct 2026 | `hu/v1/` | Mon 16 – Wed 25 Aug 2027: airport night, Lake Balaton (Balatonfüred) 4 nights, Budapest apartment 4 nights. Data: `hu/v1/trip-research-hu-v1.json`. |
-| Poland | v1 (in the app) | 18 Oct 2026 | `pl/v1/` | Tue 17 – Thu 26 Aug 2027: Kraków airport night, Białka Tatrzańska (Tatras) 4 nights, Kraków apartment 4 nights, Energylandia day. Data: `pl/v1/trip-research-pl-v1.json`. |
+| Poland | v2 (in the app) | 19 Oct 2026 | `pl/v2/` | Same plan one day later, Wed 18 – Fri 27 Aug 2027: the v1 return flight rose €111 on 19 Oct, so this start became cheapest (−€108), with easier flight times. Data: `pl/v2/trip-research-pl-v2.json`. |
+| Poland | v1 | 18 Oct 2026 | `pl/v1/` | Tue 17 – Thu 26 Aug 2027: Kraków airport night, Białka Tatrzańska (Tatras) 4 nights, Kraków apartment 4 nights, Energylandia day. Data: `pl/v1/trip-research-pl-v1.json`. |
 
 Every plan page has destination tabs at the top (Czechia · Hungary · Poland).
 
@@ -23,5 +24,5 @@ Pages: https://yanik1983.github.io/Trip-to-Cheque-republic/ opens the latest Cze
 
 ## Trip app (Phase 2)
 
-`app/` – mobile web app built only from the approved data: Czechia v5 (`app/trip-data.json`), Hungary v1 (`app/trip-data-hu.json`), Poland v1 (`app/trip-data-pl.json`); choose the country at the top (link straight to one with `?d=cz`, `?d=hu` or `?d=pl`): overview, map with all routes, day-by-day view, flights, hotels, car and budget, in Hebrew and English.
+`app/` – mobile web app built only from the approved data: Czechia v5 (`app/trip-data.json`), Hungary v1 (`app/trip-data-hu.json`), Poland v2 (`app/trip-data-pl.json`); choose the country at the top (link straight to one with `?d=cz`, `?d=hu` or `?d=pl`): overview, map with all routes, day-by-day view, flights, hotels, car and budget, in Hebrew and English.
 Open on the phone: https://yanik1983.github.io/Trip-to-Cheque-republic/app/
