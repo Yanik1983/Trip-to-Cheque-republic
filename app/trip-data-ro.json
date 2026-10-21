@@ -1,0 +1,4327 @@
+{
+ "no_airport_hotel": true,
+ "country": {
+  "id": "ro",
+  "name": {
+   "en": "Romania",
+   "he": "רומניה"
+  },
+  "currency": "RON",
+  "per_eur": 5.35,
+  "airport": {
+   "code": "OTP",
+   "name": "Bucharest Henri Coandă International Airport",
+   "lat": 44.5711,
+   "lng": 26.0858
+  },
+  "city": {
+   "en": "Bucharest",
+   "he": "בוקרשט"
+  },
+  "base": {
+   "en": "Sinaia (Prahova Valley, Carpathians)",
+   "he": "סינאיה (עמק פראהובה, הקרפטים)"
+  }
+ },
+ "variant": "day",
+ "version": {
+  "id": "v2",
+  "date": "2026-10-21",
+  "label": {
+   "en": "Romania v2",
+   "he": "רומניה גרסה 2"
+  }
+ },
+ "taxi_days": [
+  "D10"
+ ],
+ "car_km": 467.8,
+ "changes": [
+  {
+   "en": "What changed in v2: air conditioning is now a must in every hotel. Hello Mountains Apartaments in Sinaia has no air conditioning, so it is replaced by the 4-star Hotel Carpathia (Booking 8.7 from 1,522 reviews, free spa with an indoor pool, 2 saunas and a hot tub, buffet breakfast; no kitchen). Maison Bucarest has air conditioning and stays.",
+   "he": "מה השתנה בגרסה 2: מיזוג אוויר הוא עכשיו חובה בכל מלון. ל-Hello Mountains Apartaments בסינאיה אין מיזוג אוויר, ולכן הוא הוחלף במלון Carpathia 4 הכוכבים (Booking 8.7 מתוך 1,522 ביקורות, ספא חינם עם בריכה מקורה, 2 סאונות וג'קוזי, ארוחת בוקר בבופה; בלי מטבח). ל-Maison Bucarest יש מיזוג אוויר והוא נשאר."
+  },
+  {
+   "en": "Same dates (Sat 14 – Mon 23 Aug 2027) and same flights: with the new hotel the comparison of all start dates still ends with 14 Aug cheapest. Total about €4,025 instead of about €3,457 (+€568, almost all of it the hotel). Routes re-calculated from the new hotel (it is 5 min from Peleș Castle).",
+   "he": "אותם תאריכים (שבת 14 – שני 23 באוגוסט 2027) ואותן טיסות: גם עם המלון החדש, בהשוואת כל תאריכי ההתחלה 14 באוגוסט נשאר הזול ביותר. סה\"כ כ-4,025 € במקום כ-3,457 € (+568 €, כמעט כולו המלון). המסלולים חושבו מחדש מהמלון החדש (5 דקות מטירת פלש)."
+  },
+  {
+   "en": "Dates Sat 14 – Mon 23 Aug 2027 (daytime arrival, straight to the base): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €2,761).",
+   "he": "תאריכים ש' 14 – ב' 23 באוגוסט 2027 (נחיתה ביום, ישר לבסיס): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-2,761 €)."
+  },
+  {
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Wizz Air W4 3252 09:20→12:10; back: TAROM RO 155 20:45→23:20.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: וויז אייר W4 3252 09:20←12:10; חזור: טארום RO 155 20:45←23:20."
+  },
+  {
+   "en": "Next best: Sat 14 – Mon 23 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €2,761 (+€0); back TAROM 20:45→23:20.",
+   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-2,761 € (+0 €); חזור טארום 20:45←23:20."
+  },
+  {
+   "en": "Next best: Sun 15 – Tue 24 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €2,842 (+€82); back TAROM 20:45→23:20.",
+   "he": "הבא בתור: א' 15 – ג' 24 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-2,842 € (+82 €); חזור טארום 20:45←23:20."
+  },
+  {
+   "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
+   "he": "אותם כללים כמו בתוכנית לצ'כיה: בלי מעבר גבולות, עד 3 מלונות, כולם עם ביטול חינם, הרבה אטרקציות לילדים, מעט הליכה, ימים קצרים, בלי רכב בעיר."
+  }
+ ],
+ "trip": {
+  "dates": {
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "days": 10,
+   "nights": 9
+  },
+  "title": {
+   "en": "Romania Family Trip: Sinaia, Brașov Castles & Bucharest",
+   "he": "טיול משפחתי ברומניה: סינאיה, טירות ברשוב ובוקרשט"
+  },
+  "lede": {
+   "en": "Sat 14 – Mon 23 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. A rental car from Bucharest Airport and 5 nights in the air-conditioned 4-star Hotel Carpathia in Sinaia (free spa with an indoor pool) in the Carpathians (fairytale Peleș Castle, Bran Castle, a bear sanctuary, Dino Parc, Brașov's old town and a cable car to the Bucegi plateau), then 4 nights in an air-conditioned Bucharest apartment without a car (Therme water park, natural history museum, open-air Village Museum, Herăstrău Park).",
+   "he": "ש' 14 – ב' 23 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. רכב שכור משדה התעופה של בוקרשט ו-5 לילות במלון Carpathia 4 הכוכבים עם מיזוג אוויר בסינאיה (ספא חינם עם בריכה מקורה) בהרי הקרפטים (טירת פלש האגדית, טירת בראן, מקלט דובים, דינו פארק, העיר העתיקה של ברשוב ורכבל לרמת בוצ'ג'י), ואחר כך 4 לילות בדירה ממוזגת בבוקרשט בלי רכב (פארק המים תרמה, מוזיאון הטבע, מוזיאון הכפר הפתוח ופארק הרשטרו)."
+  }
+ },
+ "currency": "EUR",
+ "local_per_eur": 5.35,
+ "local_currency": "RON",
+ "flights": {
+  "chosen": [
+   {
+    "dir": {
+     "en": "Outbound",
+     "he": "הלוך"
+    },
+    "date": "2027-08-14",
+    "wd": {
+     "en": "Sat",
+     "he": "ש'"
+    },
+    "flight": "W4 3252",
+    "airline": "Wizz Air",
+    "from": "TLV",
+    "to": "OTP",
+    "dep": "09:20",
+    "arr": "12:10",
+    "duration": "2h 50m",
+    "price_eur": 720
+   },
+   {
+    "dir": {
+     "en": "Return",
+     "he": "חזור"
+    },
+    "date": "2027-08-23",
+    "wd": {
+     "en": "Mon",
+     "he": "ב'"
+    },
+    "flight": "RO 155",
+    "airline": "TAROM",
+    "from": "OTP",
+    "to": "TLV",
+    "dep": "20:45",
+    "arr": "23:20",
+    "duration": "2h 35m",
+    "price_eur": 541
+   }
+  ],
+  "evening_outbound_options": [
+   {
+    "what": {
+     "en": "Wizz Air W4 3252 · 09:20 → 12:10 · nonstop",
+     "he": "וויז אייר W4 3252 · 09:20 → 12:10 · ישירה"
+    },
+    "when": {
+     "en": "Sat 14 Aug",
+     "he": "ש' 14 באוגוסט"
+    },
+    "price_eur": 720,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "Wizz Air W4 3254 · 16:45 → 19:35 · nonstop",
+     "he": "וויז אייר W4 3254 · 16:45 → 19:35 · ישירה"
+    },
+    "when": {
+     "en": "Sat 14 Aug",
+     "he": "ש' 14 באוגוסט"
+    },
+    "price_eur": 720,
+    "note": {
+     "en": "Same price.",
+     "he": "אותו מחיר."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "SWISS LX 257 + LX 1888 · 04:50 → 15:20 · 1 stop ",
+     "he": "סוויס LX 257 + LX 1888 · 04:50 → 15:20 · עצירה ב"
+    },
+    "when": {
+     "en": "Sat 14 Aug",
+     "he": "ש' 14 באוגוסט"
+    },
+    "price_eur": 767,
+    "note": {
+     "en": "€47 more; 10 hr 30 min with a connection.",
+     "he": "יקרה ב-47 €; 10 שע׳ 30 דק׳ עם קונקשן."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Lufthansa LH 681 + LH 1654 · 17:05 → 01:10 (+1) · 1 stop ",
+     "he": "לופטהנזה LH 681 + LH 1654 · 17:05 → 01:10 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Sat 14 Aug",
+     "he": "ש' 14 באוגוסט"
+    },
+    "price_eur": 866,
+    "note": {
+     "en": "€146 more; 8 hr 5 min with a connection; arrives the next day.",
+     "he": "יקרה ב-146 €; 8 שע׳ 5 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   }
+  ],
+  "return_options": [
+   {
+    "what": {
+     "en": "TAROM RO 155 · 20:45 → 23:20 · nonstop",
+     "he": "טארום RO 155 · 20:45 → 23:20 · ישירה"
+    },
+    "when": {
+     "en": "Mon 23 Aug",
+     "he": "ב' 23 באוגוסט"
+    },
+    "price_eur": 541,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "El Al LY 574 · 10:25 → 12:55 · nonstop",
+     "he": "אל על LY 574 · 10:25 → 12:55 · ישירה"
+    },
+    "when": {
+     "en": "Mon 23 Aug",
+     "he": "ב' 23 באוגוסט"
+    },
+    "price_eur": 839,
+    "note": {
+     "en": "€298 more.",
+     "he": "יקרה ב-298 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Wizz Air W4 3251 · 05:45 → 08:25 · nonstop",
+     "he": "וויז אייר W4 3251 · 05:45 → 08:25 · ישירה"
+    },
+    "when": {
+     "en": "Mon 23 Aug",
+     "he": "ב' 23 באוגוסט"
+    },
+    "price_eur": 946,
+    "note": {
+     "en": "€405 more.",
+     "he": "יקרה ב-405 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "El Al LY 572 · 22:20 → 00:50 (+1) · nonstop",
+     "he": "אל על LY 572 · 22:20 → 00:50 (+1) · ישירה"
+    },
+    "when": {
+     "en": "Mon 23 Aug",
+     "he": "ב' 23 באוגוסט"
+    },
+    "price_eur": 1159,
+    "note": {
+     "en": "€618 more; arrives the next day.",
+     "he": "יקרה ב-618 €; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 963 + A3 928 · 20:35 → 02:45 (+1) · 1 stop ",
+     "he": "אגיאן A3 963 + A3 928 · 20:35 → 02:45 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Mon 23 Aug",
+     "he": "ב' 23 באוגוסט"
+    },
+    "price_eur": 688,
+    "note": {
+     "en": "€147 more; 6 hr 10 min with a connection; arrives the next day.",
+     "he": "יקרה ב-147 €; 6 שע׳ 10 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 961 + A3 926 · 10:15 → 19:00 · 1 stop ",
+     "he": "אגיאן A3 961 + A3 926 · 10:15 → 19:00 · עצירה ב"
+    },
+    "when": {
+     "en": "Mon 23 Aug",
+     "he": "ב' 23 באוגוסט"
+    },
+    "price_eur": 688,
+    "note": {
+     "en": "€147 more; 8 hr 45 min with a connection.",
+     "he": "יקרה ב-147 €; 8 שע׳ 45 דק׳ עם קונקשן."
+    },
+    "best": false
+   }
+  ],
+  "baggage_eur": 360,
+  "baggage_text": {
+   "en": "Wizz Air fares include only a small under-seat bag. Your 2 cabin trolleys need WIZZ Priority (≈ €10–59 each) and the 2 suitcases a 20 kg checked bag each (≈ €13–87), per direction; August prices sit at the top of the range, so ≈ €200 per direction (estimate). Checked-bag rules differ by fare and airline; for the 2 suitcases and 2 cabin trolleys I assume about €160 per direction (estimate – check the fare conditions when booking). Total ≈ €360.",
+   "he": "במחיר של וויז אייר כלול רק תיק קטן מתחת למושב. 2 הטרולים שלכם צריכים WIZZ Priority (כ-10–59 € כל אחד) ו-2 המזוודות מזוודה רשומה של 20 ק\"ג כל אחת (כ-13–87 €), לכל כיוון; באוגוסט המחירים בקצה העליון, אז כ-200 € לכיוון (הערכה). כללי הכבודה משתנים לפי תעריף וחברה; ל-2 המזוודות ו-2 הטרולים אני מניח כ-160 € לכיוון (הערכה – לבדוק בתנאי התעריף בזמן ההזמנה). סה\"כ כ-360 €."
+  },
+  "note": {
+   "en": "Live Google Flights prices found 17–18 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included.",
+   "he": "מחירים חיים מ-Google Flights מ-17–18.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה."
+  }
+ },
+ "date_options": [
+  {
+   "total_eur": 2760.72,
+   "plan": "day",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 720,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3252",
+    "dep": "09:20",
+    "arr": "12:10"
+   },
+   "back": {
+    "eur": 541,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 155",
+    "dep": "20:45",
+    "arr": "23:20"
+   },
+   "hotels_eur": 849.72,
+   "car_eur": 290,
+   "chosen": true
+  },
+  {
+   "total_eur": 2760.72,
+   "plan": "eve",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 720,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3254",
+    "dep": "16:45",
+    "arr": "19:35"
+   },
+   "back": {
+    "eur": 541,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 155",
+    "dep": "20:45",
+    "arr": "23:20"
+   },
+   "hotels_eur": 849.72,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 2842.3,
+   "plan": "day",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 720,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3252",
+    "dep": "09:20",
+    "arr": "12:10"
+   },
+   "back": {
+    "eur": 617,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 155",
+    "dep": "20:45",
+    "arr": "23:20"
+   },
+   "hotels_eur": 855.3,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 2842.3,
+   "plan": "eve",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 720,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3254",
+    "dep": "16:45",
+    "arr": "19:35"
+   },
+   "back": {
+    "eur": 617,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 155",
+    "dep": "20:45",
+    "arr": "23:20"
+   },
+   "hotels_eur": 855.3,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 2948.28,
+   "plan": "day",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 907,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 691 + LH 1416",
+    "dep": "04:45",
+    "arr": "13:00"
+   },
+   "back": {
+    "eur": 617,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 155",
+    "dep": "20:45",
+    "arr": "23:20"
+   },
+   "hotels_eur": 814.28,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 2948.28,
+   "plan": "eve",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 907,
+    "bags_eur": 160,
+    "airline": "Lufthansa and Lufthansa City Airlines",
+    "flight": "LH 691 + VL 1418",
+    "dep": "04:45",
+    "arr": "16:20"
+   },
+   "back": {
+    "eur": 617,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 155",
+    "dep": "20:45",
+    "arr": "23:20"
+   },
+   "hotels_eur": 814.28,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 2957.3,
+   "plan": "eve",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 441,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3254",
+    "dep": "16:45",
+    "arr": "19:35"
+   },
+   "back": {
+    "eur": 1011,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 2153",
+    "dep": "20:20",
+    "arr": "22:55"
+   },
+   "hotels_eur": 855.3,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 2979.15,
+   "plan": "day",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 600,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3252",
+    "dep": "09:20",
+    "arr": "12:10"
+   },
+   "back": {
+    "eur": 925,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 155",
+    "dep": "20:45",
+    "arr": "23:20"
+   },
+   "hotels_eur": 804.15,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 2979.15,
+   "plan": "eve",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 600,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3254",
+    "dep": "16:45",
+    "arr": "19:35"
+   },
+   "back": {
+    "eur": 925,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 155",
+    "dep": "20:45",
+    "arr": "23:20"
+   },
+   "hotels_eur": 804.15,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3077.3,
+   "plan": "day",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 561,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3252",
+    "dep": "09:20",
+    "arr": "12:10"
+   },
+   "back": {
+    "eur": 1011,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 2153",
+    "dep": "20:20",
+    "arr": "22:55"
+   },
+   "hotels_eur": 855.3,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3206.88,
+   "plan": "eve",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 954,
+    "bags_eur": 160,
+    "airline": "El Al",
+    "flight": "LY 571",
+    "dep": "18:30",
+    "arr": "21:10"
+   },
+   "back": {
+    "eur": 874,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 1887 + LX 252",
+    "dep": "06:20",
+    "arr": "17:00"
+   },
+   "hotels_eur": 768.88,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3222.88,
+   "plan": "day",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 970,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 84 + OS 693",
+    "dep": "06:00",
+    "arr": "12:25"
+   },
+   "back": {
+    "eur": 874,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 1887 + LX 252",
+    "dep": "06:20",
+    "arr": "17:00"
+   },
+   "hotels_eur": 768.88,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3322.42,
+   "plan": "eve",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 907,
+    "bags_eur": 160,
+    "airline": "Lufthansa and Lufthansa City Airlines",
+    "flight": "LH 695 + VL 1418",
+    "dep": "08:00",
+    "arr": "16:20"
+   },
+   "back": {
+    "eur": 1032,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 1887 + LX 252",
+    "dep": "06:20",
+    "arr": "17:00"
+   },
+   "hotels_eur": 773.42,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3369.42,
+   "plan": "day",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 954,
+    "bags_eur": 160,
+    "airline": "El Al",
+    "flight": "LY 573",
+    "dep": "06:30",
+    "arr": "09:10"
+   },
+   "back": {
+    "eur": 1032,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 1887 + LX 252",
+    "dep": "06:20",
+    "arr": "17:00"
+   },
+   "hotels_eur": 773.42,
+   "car_eur": 290,
+   "chosen": false
+  }
+ ],
+ "airports": {
+  "OTP": {
+   "name": "Bucharest Henri Coandă International Airport",
+   "lat": 44.5711,
+   "lng": 26.0858,
+   "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.571100,26.085800&travelmode=driving"
+  }
+ },
+ "sources": [
+  [
+   "Playtech – rovinieta prices 2026",
+   "https://playtech.ro/2026/rovinieta-in-2026-cat-platesti-taxa-de-drum-in-noul-an-in-romania-cat-sunt-amenzile-daca-ai-uitat-de-ea/"
+  ],
+  [
+   "Știrile ProTV – rovinieta 2026 price list",
+   "https://stirileprotv.ro/divers/cat-costa-rovinieta-in-2026-lista-completa-de-preturi-actualizate.html"
+  ],
+  [
+   "The AA – driving in Romania (speed limits, headlights, alcohol)",
+   "https://www.theaa.ie/motoring-advice/romania/"
+  ],
+  [
+   "Autopay – mandatory equipment and rules in Romania",
+   "https://mobility.autopay.eu/en/knowledge/drivers-guide/mandatory-vehicle-equipment-romania/"
+  ],
+  [
+   "Euronews România – Prahova Valley congestion and alternative routes",
+   "https://www.euronews.ro/articole/aglomeratie-pe-valea-prahovei-ce-rute-alternative-recomanda-politia-rutiera"
+  ],
+  [
+   "Antena 3 – DN1 queues Sinaia–Predeal",
+   "https://www.antena3.ro/actualitate/aglomeratie-mare-pe-valea-prahovei-se-circula-in-coloana-pe-sensul-catre-brasov-intre-statiunile-sinaia-si-predeal-732342.html"
+  ],
+  [
+   "Ziarul Profit – fuel prices 16 Oct 2026",
+   "https://www.ziarulprofit.ro/pret-carburanti-16-octombrie-2026-cat-costa-benzina-si-motorina-inainte-de-weekend/"
+  ],
+  [
+   "BNR rate 6 Oct 2026 (cursbnr.nxm.ro)",
+   "https://cursbnr.nxm.ro/data/02-10-2026"
+  ],
+  [
+   "Kayak – car rental at Bucharest Otopeni (monthly averages)",
+   "https://www.kayak.com/Bucharest-Otopeni-Intl-Airport-Car-Rentals.OTP.cap.ksp"
+  ],
+  [
+   "Discover Cars – Bucharest Airport",
+   "https://www.discovercars.com/suv/bucharest-airport-otopeni-otp_1669"
+  ],
+  [
+   "Revista Biz – Metrorex fares from 1 May 2026",
+   "https://www.revistabiz.ro/scumpire-record-la-metrorex-calatoria-cu-metroul-creste-la-7-lei-de-la-1-mai/"
+  ],
+  [
+   "sendmybag.com – Wizz Air baggage 2026",
+   "https://www.sendmybag.com/airlines/wizz-air-baggage-allowance/"
+  ],
+  [
+   "aifly – El Al baggage",
+   "https://aifly.one/guides/el-al-baggage-allowance/"
+  ]
+ ],
+ "car": {
+  "lines": [
+   [
+    {
+     "en": "Estate car, automatic, 5 days (≈ €50/day), Sat 14 – Thu 19 Aug",
+     "he": "רכב סטיישן אוטומטי, 5 ימים (כ-50 € ליום), ש' 14 – ה' 19 באוגוסט"
+    },
+    250,
+    true
+   ],
+   [
+    {
+     "en": "2 child seats / boosters, 5 days (€0 if you bring your own)",
+     "he": "2 מושבי ילדים/בוסטרים, 5 ימים (0 € אם מביאים משלכם)"
+    },
+    40,
+    true
+   ],
+   [
+    {
+     "en": "Rovinieta road vignette (normally already valid on a Romanian rental car; otherwise 10 days for a car 30.58 RON ≈ €6)",
+     "he": "רובינייטה, מדבקת כביש (בדרך כלל כבר בתוקף ברכב שכור ברומניה; אחרת 10 ימים לרכב פרטי 30.58 לי\"י ≈ 6 €)"
+    },
+    0,
+    true
+   ],
+   [
+    {
+     "en": "Cross-border fee (no border crossings)",
+     "he": "עמלת מעבר גבול (אין מעבר גבול)"
+    },
+    0,
+    false
+   ],
+   [
+    {
+     "en": "One-way fee (pick-up and return at the airport)",
+     "he": "עמלת החזרה במקום אחר (איסוף והחזרה בשדה התעופה)"
+    },
+    0,
+    false
+   ]
+  ],
+  "text": {
+   "en": "Pick-up at Bucharest Henri Coandă Airport on arrival (daytime landing, about 12:00–15:00), Sat 14 Aug; return Thu 19 Aug at the airport by the same hour you picked it up – the planned drive back leaves Sinaia at 8:30, so you arrive well before that hour: 5 rental days. Same car class and seats as the main plan. The price is an estimate.",
+   "he": "איסוף בשדה התעופה הנרי קואנדה עם הנחיתה (נחיתת יום, בסביבות 12:00–15:00), ש' 14 באוגוסט; החזרה בשדה ב-ה' 19 באוגוסט עד אותה שעה שבה נלקח הרכב – הנסיעה חזרה יוצאת מסינאיה ב-8:30 ולכן מגיעים הרבה לפני אותה שעה: 5 ימי השכרה. אותה קטגוריית רכב ואותם מושבים כמו בתוכנית הראשית. המחיר הוא הערכה."
+  },
+  "pickup": {
+   "place": "Bucharest Henri Coandă International Airport",
+   "lat": 44.5711,
+   "lng": 26.0858,
+   "when": "2027-08-14T13:00",
+   "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.571100,26.085800&travelmode=driving"
+  },
+  "dropoff": {
+   "place": "Bucharest Henri Coandă International Airport",
+   "lat": 44.5711,
+   "lng": 26.0858,
+   "when": "2027-08-19T12:00",
+   "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.571100,26.085800&travelmode=driving"
+  }
+ },
+ "driving_notes": [
+  {
+   "en": "Road vignette (rovinieta) is required on all national roads and motorways, checked by plate cameras. 2026 prices for a car: 1 day 17.84 RON, 10 days 30.58 RON, 30 days ≈ 48 RON. A Romanian rental car normally has it valid already – confirm at pick-up.",
+   "he": "רובינייטה (מדבקת כביש) נדרשת בכל הכבישים הלאומיים והמהירים, ונבדקת במצלמות לוחיות. מחירי 2026 לרכב פרטי: יום 17.84 לי\"י, 10 ימים 30.58 לי\"י, 30 יום כ-48 לי\"י. ברכב שכור ברומניה היא בדרך כלל כבר בתוקף – לאשר באיסוף."
+  },
+  {
+   "en": "Child seats: children under 135 cm need an approved child seat/booster, and children under 12 must not sit in the front. Request 2 seats when booking the car. (Height threshold as given by the family – confirm with the rental company.)",
+   "he": "מושבי ילדים: ילדים מתחת ל-135 ס\"מ חייבים מושב/בוסטר מאושר, וילדים מתחת לגיל 12 אסור שישבו מקדימה. להזמין 2 מושבים בהזמנת הרכב. (סף הגובה לפי המשפחה – לאשר מול חברת ההשכרה.)"
+  },
+  {
+   "en": "Dipped headlights: required outside towns day and night all year – switch them on whenever you drive on DN roads. Alcohol: zero tolerance. Speed limits: 50 km/h in towns, 90 outside, 100 on dual carriageways, 130 on motorways.",
+   "he": "אורות נמוכים: חובה מחוץ לערים יום ולילה בכל השנה – להדליק בכל נסיעה בכבישי DN. אלכוהול: אפס סובלנות. מהירויות: 50 קמ\"ש בערים, 90 מחוץ לעיר, 100 בכבישים כפולים, 130 בכבישים מהירים."
+  },
+  {
+   "en": "DN1 through the Prahova Valley (Ploiești – Comarnic – Sinaia – Predeal – Brașov) is one of Romania's busiest roads: on summer weekends it jams northbound on Friday evening and Saturday morning and southbound on Sunday afternoon and evening. The plan avoids it: drive up late on a Tuesday night, Brașov and Bran on Thursday, Libearty on Friday morning, only a short trip on Saturday, and the Sunday drive to Bucharest leaves at 8:30.",
+   "he": "DN1 בעמק פראהובה (פלואשט – קומרניק – סינאיה – פרדיאל – ברשוב) הוא אחד הכבישים העמוסים ברומניה: בסופי שבוע בקיץ הוא חסום צפונה בשישי בערב ובשבת בבוקר, ודרומה ביום ראשון אחר הצהריים ובערב. התוכנית נמנעת מכך: עולים בלילה של יום שלישי, ברשוב ובראן בחמישי, ליברטי בשישי בבוקר, רק נסיעה קצרה בשבת, והנסיעה לבוקרשט ביום ראשון יוצאת ב-8:30."
+  },
+  {
+   "en": "Parking: Peleș has a paid car park below the castle; Bran has a paid car park (≈ 20–30 RON) on the road below – arrive early; central Brașov and Bușteni are paid zones (pay by app or machine). Fuel: petrol about 10.2 RON/l (≈ €1.90, Oct 2026).",
+   "he": "חניה: בפלש יש חניון בתשלום מתחת לטירה; בבראן חניון בתשלום (כ-20–30 לי\"י) בכביש למטה – להגיע מוקדם; במרכז ברשוב ובבושטני אזורי חניה בתשלום (באפליקציה או במכונה). דלק: בנזין כ-10.2 לי\"י לליטר (כ-1.90 €, אוקטובר 2026)."
+  },
+  {
+   "en": "In Bucharest use licensed taxis or Bolt/Uber: ask for child seats in advance (not always available) or book an airport transfer with seats. Do not drive in the city.",
+   "he": "בבוקרשט משתמשים במוניות מורשות או ב-Bolt/Uber: לבקש מושבי ילדים מראש (לא תמיד זמינים) או להזמין הסעה מהשדה עם מושבים. לא נוהגים בעיר."
+  }
+ ],
+ "hotels": [
+  {
+   "id": "hotel_carpathia",
+   "gkey": "hotel_carpathia",
+   "name": "Hotel Carpathia",
+   "area": {
+    "en": "Sinaia, Bd. Carol I 46 (town centre; 108 km / 1h46 from OTP, Sinaia train station a 10-minute walk, Peleș Castle about 2.9 km / 5 min by car)",
+    "he": "סינאיה, שד' קרול הראשון 46 (מרכז העיירה; 108 ק\"מ / 1:46 שעות משדה התעופה, תחנת הרכבת של סינאיה במרחק 10 דקות הליכה, טירת פלש כ-2.9 ק\"מ / 5 דקות נסיעה)"
+   },
+   "checkin": "2027-08-14",
+   "checkout": "2027-08-19",
+   "nights": 5,
+   "total_eur": 890.3,
+   "booking_score": 8.7,
+   "booking_reviews": 1522,
+   "booking_url": "https://www.booking.com/hotel/ro/hotel-carpathia.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "4-star hotel, family room for 4 (price is Booking's cheapest family option), free cancellation. Free spa access with an indoor swimming pool, 2 saunas and a hot tub; restaurant, buffet breakfast included, 24-hour front desk (a late arrival is fine); free Wi-Fi. No kitchen. Booking says the indoor pool may have no designated shallow area, so keep the kids within arm's reach. Free on-site parking subject to availability (paid public parking across the street, 30 RON/day, as a fallback).",
+    "he": "מלון 4 כוכבים, חדר משפחתי ל-4 (המחיר הוא האפשרות המשפחתית הזולה ביותר ב-Booking), ביטול חינם. כניסה חופשית לספא עם בריכה מקורה, 2 סאונות וג'קוזי; מסעדה, ארוחת בוקר בבופה כלולה, קבלה 24 שעות (הגעה מאוחרת בסדר); Wi-Fi חינם. אין מטבח. לפי Booking ייתכן שאין בבריכה המקורה אזור רדוד מוגדר, אז כדאי להישאר קרוב לילדים. חניה חינם במקום בכפוף לזמינות (חניון ציבורי בתשלום מעבר לכביש, 30 לי\"י ליום, כגיבוי)."
+   },
+   "ac": {
+    "en": "Yes – air conditioning is listed in the family rooms (Booking.com search with the air-conditioning filter, 21 Oct 2026).",
+    "he": "יש – מיזוג אוויר מופיע בחדרים המשפחתיים (חיפוש ב-Booking.com עם מסנן מיזוג אוויר, 21.10.2026)."
+   },
+   "alt": {
+    "en": "All with air conditioning. Central, with a kitchenless family suite and a big indoor pool, kids' club, playground and waterslide: Hotel Sinaia €1,400.81 (Booking 9.0, 10,860 reviews, 24h desk, parking 40 RON/day). Cheaper, central apartment-hotel with 24h desk: Parc Suites by Hotel Cerbul €664.81 (Booking 9.1, 493 reviews). ART Escape €665.92. Hello Mountains Apartaments (v1: Booking 9.6, €319.14 for the earlier dates, kitchen) is no longer offered: no air conditioning. (Alternative prices were checked for 17–26 Aug.)",
+    "he": "כולם עם מיזוג אוויר. במרכז, סוויטה משפחתית בלי מטבח, בריכה מקורה גדולה, מועדון ילדים, מגרש משחקים ומגלשת מים: Hotel Sinaia ב-1,400.81 € (Booking 9.0, 10,860 ביקורות, קבלה 24 שעות, חניה 40 לי\"י ליום). זול יותר, דירות-מלון במרכז עם קבלה 24 שעות: Parc Suites by Hotel Cerbul ב-664.81 € (Booking 9.1, 493 ביקורות). ART Escape ב-665.92 €. Hello Mountains Apartaments (גרסה 1: Booking 9.6, 319.14 € בתאריכים הקודמים, עם מטבח) כבר לא מוצע: אין מיזוג אוויר. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+   },
+   "google_note": {
+    "en": "Google: 4.2 from 3,114 reviews; Booking.com 8.7 from 1,522 reviews.",
+    "he": "בגוגל: 4.2 מתוך 3,114 ביקורות; ב-Booking.com 8.7 מתוך 1,522 ביקורות."
+   },
+   "google": {
+    "name": "Hotel Carpathia",
+    "rating": 4.2,
+    "reviews": 3114,
+    "lat": 45.346367,
+    "lng": 25.546916,
+    "address": "Bulevardul Carol I 46, 106100 Sinaia, Romania",
+    "website": "http://www.hotel-carpathia.ro/",
+    "place_id": "ChIJCTsAZNwWs0ARQsm-AFvFHlc",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Carpathia&query_place_id=ChIJCTsAZNwWs0ARQsm-AFvFHlc",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.346367,25.546916&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/ro/hotel_carpathia-1.jpg",
+     "w": 1000,
+     "h": 668,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Hotel%20Carpathia&query_place_id=ChIJCTsAZNwWs0ARQsm-AFvFHlc",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/ro/hotel_carpathia-2.jpg",
+     "w": 1000,
+     "h": 666,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Hotel%20Carpathia&query_place_id=ChIJCTsAZNwWs0ARQsm-AFvFHlc",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 178.06,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 8.7,
+     "out_of": 10,
+     "reviews": 1522,
+     "url": "https://www.booking.com/hotel/ro/hotel-carpathia.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.2,
+     "out_of": 5,
+     "reviews": 3114,
+     "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Carpathia&query_place_id=ChIJCTsAZNwWs0ARQsm-AFvFHlc"
+    }
+   ]
+  },
+  {
+   "id": "hotel_maison",
+   "gkey": "hotel_maison",
+   "name": "Maison Bucarest Apartments by Olala Homes",
+   "area": {
+    "en": "Bucharest city centre, Bd. Mihail Kogălniceanu 8 (Izvor metro ≈ 400 m, Cișmigiu Gardens ≈ 450 m, Old Town / Lipscani about 1.3 km)",
+    "he": "מרכז בוקרשט, שד' מיהאיל קוגלניצ'אנו 8 (מטרו איזבור כ-400 מ', גני צ'ישמיג'יו כ-450 מ', העיר העתיקה / ליפסקאני כ-1.3 ק\"מ)"
+   },
+   "checkin": "2027-08-19",
+   "checkout": "2027-08-23",
+   "nights": 4,
+   "total_eur": 530.58,
+   "booking_score": 9.0,
+   "booking_reviews": 1801,
+   "booking_url": "https://www.booking.com/hotel/ro/maison-bucarest-apartments-by-olala-homes.html?checkin=2027-08-19&checkout=2027-08-23&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Two-bedroom apartment (up to 6) with a fully equipped kitchen, a sofa bed, air conditioning and a lift, free cancellation. Smart self check-in (no reception), check-in from 15:00; you arrive around midday from the airport, so ask the host in advance for early check-in or bag storage. Garage parking exists but you have no car in the city.",
+    "he": "דירת 2 חדרי שינה (עד 6) עם מטבח מאובזר, ספה נפתחת, מיזוג ומעלית, ביטול חינם. צ'ק-אין עצמי חכם (בלי קבלה), מ-15:00; מגיעים מהשדה בסביבות הצהריים, אז כדאי לבקש מראש מהמארח צ'ק-אין מוקדם או שמירת מזוודות. יש חניון מקורה אבל בעיר אין לכם רכב."
+   },
+   "alt": {
+    "en": "All with air conditioning. Cheaper: Bucur Accommodation (Caesar's Downtown aparthotel) €440.78 (Booking 9.0, 3,771 reviews, no kitchen listed). With 24h reception: Mercure Bucharest City Center €547.38 (Booking 8.7, 1,036 reviews); Novotel Bucharest City Centre €656.19 (Booking 8.3, 4,217 reviews; indoor pool, indoor play area, breakfast included, 2 min from Universitate metro). (Alternative prices were checked for 17–26 Aug.)",
+    "he": "כולם עם מיזוג אוויר. זול יותר: Bucur Accommodation (Caesar's Downtown aparthotel) ב-440.78 € (Booking 9.0, 3,771 ביקורות, ללא מטבח ברשימה). עם קבלה 24 שעות: Mercure Bucharest City Center ב-547.38 € (Booking 8.7, 1,036 ביקורות); Novotel Bucharest City Centre ב-656.19 € (Booking 8.3, 4,217 ביקורות; בריכה מקורה, פינת משחקים מקורה, ארוחת בוקר כלולה, 2 דקות ממטרו אוניברסיטה). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+   },
+   "google_note": {
+    "en": "Google: 4.6 from 107 reviews.",
+    "he": "בגוגל: 4.6 מתוך 107 ביקורות."
+   },
+   "google": {
+    "name": "Maison Bucarest Apartments by Olala Homes",
+    "rating": 4.6,
+    "reviews": 107,
+    "lat": 44.434713,
+    "lng": 26.086857,
+    "address": "Bulevardul Mihail Kogălniceanu 8, 030167 București, Romania",
+    "website": "https://www.olalahomes.com/",
+    "place_id": "ChIJ_Yl18RH_sUARA0j8o8k6Qvk",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20Bucarest%20Apartments%20by%20Olala%20Homes&query_place_id=ChIJ_Yl18RH_sUARA0j8o8k6Qvk",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.434713,26.086857&travelmode=driving"
+   },
+   "ac": {
+    "en": "Yes – air conditioning is listed in the apartment (Booking.com, 21 Oct 2026).",
+    "he": "יש – מיזוג אוויר מופיע בדירה (Booking.com, 21.10.2026)."
+   },
+   "photos": [
+    {
+     "file": "img/ro/hotel_maison-1.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Maison%20Bucarest%20Apartments%20by%20Olala%20Homes&query_place_id=ChIJ_Yl18RH_sUARA0j8o8k6Qvk",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/ro/hotel_maison-2.jpg",
+     "w": 679,
+     "h": 452,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Maison%20Bucarest%20Apartments%20by%20Olala%20Homes&query_place_id=ChIJ_Yl18RH_sUARA0j8o8k6Qvk",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 132.65,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.0,
+     "out_of": 10,
+     "reviews": 1801,
+     "url": "https://www.booking.com/hotel/ro/maison-bucarest-apartments-by-olala-homes.html?checkin=2027-08-19&checkout=2027-08-23&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.6,
+     "out_of": 5,
+     "reviews": 107,
+     "url": "https://www.google.com/maps/search/?api=1&query=Maison%20Bucarest%20Apartments%20by%20Olala%20Homes&query_place_id=ChIJ_Yl18RH_sUARA0j8o8k6Qvk"
+    }
+   ]
+  }
+ ],
+ "attractions": {
+  "peles": {
+   "id": "peles",
+   "name": {
+    "en": "Peleș Castle, Sinaia (guided visit)",
+    "he": "טירת פלש, סינאיה (סיור מודרך)"
+   },
+   "hours": {
+    "en": "Aug (per 2026 listings): Tue and Thu–Sun 9:15–16:15, Wed 11:00–16:15, closed Mon; timed tickets with a daily visitor limit. Check bilete.peles.ro for 2027.",
+    "he": "אוגוסט (לפי רישומים מ-2026): ג' וה'–א' 9:15–16:15, ד' 11:00–16:15, סגור בשני; כרטיסים לפי שעה עם הגבלת מבקרים יומית. לבדוק ב-bilete.peles.ro ל-2027."
+   },
+   "price_text": {
+    "en": "≈ 225 RON (≈ €42): 2 adults × 100 RON (ground + first floor) + pupil 25 RON for the 7-year-old; children under 7 free (a free ticket may need booking). Estimate from a third-party 2026 page; the official ticket shop could not be opened. Photo permit extra.",
+    "he": "כ-225 לי\"י (כ-42 €): 2 מבוגרים × 100 לי\"י (קומת קרקע + קומה ראשונה) + תעריף תלמיד 25 לי\"י לילד בן 7; ילדים מתחת לגיל 7 חינם (ייתכן שצריך להזמין כרטיס חינם). הערכה לפי עמוד של צד שלישי מ-2026; חנות הכרטיסים הרשמית לא נפתחה. אישור צילום בתוספת."
+   },
+   "price_czk": 225,
+   "price_eur": 42.06,
+   "estimate": true,
+   "time": {
+    "en": "2 h (guided tour ≈ 45–60 min + gardens)",
+    "he": "שעתיים (סיור מודרך כ-45–60 דקות + הגנים)"
+   },
+   "kids": {
+    "en": "A real fairytale castle in the forest: carved wood halls, a stained-glass hall, armour and a theatre. The guide keeps it short; shoe covers over your shoes. Sunday is busy: book the first slot online; the Day 2 plan uses the 9:15 opening.",
+    "he": "טירת אגדות אמיתית ביער: אולמות עץ מגולפים, אולם ויטראז'ים, שריונות ותיאטרון. המדריך שומר על סיור קצר; מכסים נעליים בכיסויי בד. ביום ראשון עמוס: כדאי להזמין באינטרנט את השעה הראשונה; תוכנית יום 2 משתמשת בפתיחה של 9:15."
+   },
+   "optional": false,
+   "google": {
+    "name": "Peleș Castle",
+    "rating": 4.7,
+    "reviews": 77012,
+    "lat": 45.359982,
+    "lng": 25.542642,
+    "address": "Aleea Peleșului 2, 106100 Sinaia, Romania",
+    "website": "https://peles.ro/ro/",
+    "place_id": "ChIJbVXg0uwWs0ARrdXzlKVjbpo",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Pele%C8%99%20Castle&query_place_id=ChIJbVXg0uwWs0ARrdXzlKVjbpo",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.359982,25.542642&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 77012,
+    "url": "https://www.google.com/maps/search/?api=1&query=Pele%C8%99%20Castle&query_place_id=ChIJbVXg0uwWs0ARrdXzlKVjbpo"
+   },
+   "photo": {
+    "file": "img/ro/peles-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Peleș%20Castle&query_place_id=ChIJbVXg0uwWs0ARrdXzlKVjbpo",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Peleș Museum – opening hours",
+     "https://en.peles.ro/opening-hours/"
+    ],
+    [
+     "WowBrasov – Peleș tickets, hours (2026)",
+     "https://wowbrasov.com/en/discovering-peles-castle-a-magnificent-romanian-landmark"
+    ],
+    [
+     "Official ticket shop",
+     "https://bilete.peles.ro"
+    ]
+   ]
+  },
+  "sinaia_monastery": {
+   "id": "sinaia_monastery",
+   "name": {
+    "en": "Sinaia Monastery (short stop, free)",
+    "he": "מנזר סינאיה (עצירה קצרה, חינם)"
+   },
+   "hours": {
+    "en": "Daily about 8:00–20:00 (Google Maps)",
+    "he": "מדי יום בערך 8:00–20:00 (גוגל מפות)"
+   },
+   "price_text": {
+    "en": "Free (donation box). Modest dress for the church interior.",
+    "he": "חינם (קופסת תרומות). לבוש צנוע לכניסה לכנסייה."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "30–45 min",
+    "he": "30–45 דקות"
+   },
+   "kids": {
+    "en": "A calm cobbled courtyard under the mountains with two churches and a museum; a good leg-stretch on the way up from the airport (Day 1 daytime plan).",
+    "he": "חצר מרוצפת ושקטה מתחת להרים עם שתי כנסיות ומוזיאון; מקום טוב להתמתח בדרך מהשדה (תוכנית יום 1 בהגעה ביום)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Sinaia Monastery",
+    "rating": 4.7,
+    "reviews": 13489,
+    "lat": 45.355349,
+    "lng": 25.549074,
+    "address": "Strada Mănăstirii 2, 106100 Sinaia, Romania",
+    "website": "http://www.manastireasinaia.ro/",
+    "place_id": "ChIJ84SFyMEWs0ARVY-bzpBkDgI",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sinaia%20Monastery&query_place_id=ChIJ84SFyMEWs0ARVY-bzpBkDgI",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.355349,25.549074&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 13489,
+    "url": "https://www.google.com/maps/search/?api=1&query=Sinaia%20Monastery&query_place_id=ChIJ84SFyMEWs0ARVY-bzpBkDgI"
+   },
+   "photo": {
+    "file": "img/ro/sinaia_monastery-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Sinaia%20Monastery&query_place_id=ChIJ84SFyMEWs0ARVY-bzpBkDgI",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Sinaia Monastery (official)",
+     "http://www.manastireasinaia.ro/"
+    ]
+   ]
+  },
+  "babele": {
+   "id": "babele",
+   "name": {
+    "en": "Bușteni – Babele cable car (Bucegi plateau, Sphinx)",
+    "he": "רכבל בושטני – בבלה (רמת בוצ'ג'י, הספינקס)"
+   },
+   "hours": {
+    "en": "Winter 2026 timetable (summer likely longer): Mon, Wed–Fri 8:30–16:00 (last ascent 15:30), Sat–Sun 8:00–17:00, closed Tue for checks; stops in strong wind. Confirm with the operator.",
+    "he": "לוח חורף 2026 (בקיץ כנראה ארוך יותר): ב', ד'–ו' 8:30–16:00 (עלייה אחרונה 15:30), ש'–א' 8:00–17:00, סגור בשלישי לבדיקות; נעצר ברוח חזקה. לאשר מול המפעיל."
+   },
+   "price_text": {
+    "en": "≈ 690 RON (≈ €129): return 230 adult / 115 child 5–12 (under 5 free) per an independent 2026 guide; operator prices quoted elsewhere range 170–215 RON. Estimate – the operator's price list was not reachable.",
+    "he": "כ-690 לי\"י (כ-129 €): הלוך-חזור 230 מבוגר / 115 ילד 5–12 (מתחת ל-5 חינם) לפי מדריך עצמאי מ-2026; במקורות אחרים מופיעים 170–215 לי\"י. הערכה – מחירון המפעיל לא נטען."
+   },
+   "price_czk": 690,
+   "price_eur": 128.97,
+   "estimate": true,
+   "time": {
+    "en": "3 h (ride ≈ 20 min each way + 1 h up top)",
+    "he": "3 שעות (נסיעה כ-20 דקות לכל כיוון + שעה למעלה)"
+   },
+   "kids": {
+    "en": "A big gondola over the forest to 2,200 m, then a flat 10–15 min walk to the Babele rocks and the Sphinx – almost no hiking. Pricey and queues build up after 10:00, hence the 8:00 start; take jackets (10–15 °C up there). Google rating only 2.0 (393 reviews) – complaints are about price and queues.",
+    "he": "גונדולה גדולה מעל היער עד גובה 2,200 מ', ואז הליכה מישורית של 10–15 דקות לסלעי בבלה ולספינקס – כמעט בלי הליכה. יקר, ותורים מתארכים אחרי 10:00, ולכן יוצאים ב-8:00; להצטייד בג'קטים (10–15 מעלות למעלה). בגוגל רק 2.0 (393 ביקורות) – התלונות על המחיר ועל התורים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Busteni – Babele cable-car",
+    "rating": 2,
+    "reviews": 393,
+    "lat": 45.408829,
+    "lng": 25.52551,
+    "address": "105500 Bușteni, Romania",
+    "website": null,
+    "place_id": "ChIJORusLpIVs0ARmM6rHEA3Nog",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Busteni%20%E2%80%93%20Babele%20cable-car&query_place_id=ChIJORusLpIVs0ARmM6rHEA3Nog",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.408829,25.525510&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 2,
+    "out_of": 5,
+    "reviews": 393,
+    "url": "https://www.google.com/maps/search/?api=1&query=Busteni%20%E2%80%93%20Babele%20cable-car&query_place_id=ChIJORusLpIVs0ARmM6rHEA3Nog"
+   },
+   "photo": {
+    "file": "img/ro/babele-1.jpg",
+    "w": 1000,
+    "h": 1000,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Busteni%20–%20Babele%20cable-car&query_place_id=ChIJORusLpIVs0ARmM6rHEA3Nog",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "InfoContact – cable car schedule and prices (2026)",
+     "https://www.infocontact.ro/telecabina-busteni-program-si-pret-bilet"
+    ],
+    [
+     "Antena 3 – 2024 tariffs",
+     "https://www.antena3.ro/actualitate/tarife-telecabina-busteni-calatorie-babele-2024-698038.html"
+    ]
+   ]
+  },
+  "brasov_old": {
+   "id": "brasov_old",
+   "name": {
+    "en": "Brașov Old Town: Council Square, Rope Street, Black Church",
+    "he": "העיר העתיקה של ברשוב: כיכר המועצה, רחוב החבל, הכנסייה השחורה"
+   },
+   "hours": {
+    "en": "Open all day (square and streets 24/7); Black Church interior about 10:00–19:00, check",
+    "he": "פתוח כל היום (הכיכר והרחובות 24/7); פנים הכנסייה השחורה בערך 10:00–19:00, לבדוק"
+   },
+   "price_text": {
+    "en": "Free (Black Church entry is a few RON per person, not verified).",
+    "he": "חינם (כניסה לכנסייה השחורה כמה לי\"י לאדם, לא אומת)."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "1.5–2 h",
+    "he": "שעה וחצי–שעתיים"
+   },
+   "kids": {
+    "en": "A pedestrian square with colourful houses, fountains and cafés with ice cream, the narrow Rope Street (one of Europe's narrowest) and the Hollywood-style sign on the hill. Easy flat walking.",
+    "he": "כיכר להולכי רגל עם בתים צבעוניים, מזרקות וקפה עם גלידה, רחוב החבל הצר (אחד הצרים באירופה) והשלט בסגנון הוליווד על ההר. הליכה קלה ומישורית."
+   },
+   "optional": false,
+   "google": {
+    "name": "The Council Square",
+    "rating": 4.8,
+    "reviews": 22909,
+    "lat": 45.642129,
+    "lng": 25.589176,
+    "address": "Piața Sfatului, 500025 Brașov, Romania",
+    "website": "http://www.brasovcity.ro/",
+    "place_id": "ChIJ804d5npbs0ARBDErjy24yWk",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Council%20Square&query_place_id=ChIJ804d5npbs0ARBDErjy24yWk",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.642129,25.589176&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 22909,
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Council%20Square&query_place_id=ChIJ804d5npbs0ARBDErjy24yWk"
+   },
+   "photo": {
+    "file": "img/ro/brasov_old-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=The%20Council%20Square&query_place_id=ChIJ804d5npbs0ARBDErjy24yWk",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Google Maps – The Council Square",
+     "https://www.google.com/maps/search/?api=1&query=The%20Council%20Square%20Brasov"
+    ],
+    [
+     "Brașov city hall",
+     "http://www.brasovcity.ro/"
+    ]
+   ]
+  },
+  "tampa": {
+   "id": "tampa",
+   "name": {
+    "en": "Tâmpa cable car, Brașov",
+    "he": "רכבל טמפה, ברשוב"
+   },
+   "hours": {
+    "en": "Reported since Oct 2025: Tue–Sun 10:00–23:00, Mon 12:00–23:00 (morning maintenance break); summer times not confirmed",
+    "he": "דווח מאוקטובר 2025: ג'–א' 10:00–23:00, ב' 12:00–23:00 (הפסקת תחזוקה בבוקר); שעות קיץ לא אומתו"
+   },
+   "price_text": {
+    "en": "≈ 150 RON (≈ €28): return 45 adult / 30 child 6–12 (since 19 Oct 2025) → 2 × 45 + 2 × 30; the 5-year-old may be free or discounted. Estimate (2027 price not published).",
+    "he": "כ-150 לי\"י (כ-28 €): הלוך-חזור 45 מבוגר / 30 ילד 6–12 (מ-19.10.2025) → 2 × 45 + 2 × 30; ייתכן שהילד בן ה-5 חינם או בהנחה. הערכה (מחיר 2027 לא פורסם)."
+   },
+   "price_czk": 150,
+   "price_eur": 28.04,
+   "estimate": true,
+   "time": {
+    "en": "1–1.5 h",
+    "he": "שעה–שעה וחצי"
+   },
+   "kids": {
+    "en": "A 4-minute ride over the forest to the top of Tâmpa mountain with a view over the red roofs of Brașov and the Brașov sign; a short flat promenade at the top. Google rating 3.7 (older cabins, some queues).",
+    "he": "נסיעה של 4 דקות מעל היער לפסגת טמפה עם נוף לגגות האדומים של ברשוב ולשלט ברשוב; טיילת קצרה ומישורית למעלה. דירוג גוגל 3.7 (קרונות ישנים, לפעמים תור)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Tampa Cable Car",
+    "rating": 3.7,
+    "reviews": 937,
+    "lat": 45.638936,
+    "lng": 25.593185,
+    "address": "Aleea Tiberiu Brediceanu, Brașov, Romania",
+    "website": null,
+    "place_id": "ChIJdyMDOWNbs0AR8_aSC_duEyg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Tampa%20Cable%20Car&query_place_id=ChIJdyMDOWNbs0AR8_aSC_duEyg",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.638936,25.593185&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 3.7,
+    "out_of": 5,
+    "reviews": 937,
+    "url": "https://www.google.com/maps/search/?api=1&query=Tampa%20Cable%20Car&query_place_id=ChIJdyMDOWNbs0AR8_aSC_duEyg"
+   },
+   "photo": {
+    "file": "img/ro/tampa-1.jpg",
+    "w": 1000,
+    "h": 1000,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Tampa%20Cable%20Car&query_place_id=ChIJdyMDOWNbs0AR8_aSC_duEyg",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Playtech – Tâmpa cable car prices (Oct 2025)",
+     "https://playtech.ro/2025/cat-costa-sa-urci-si-sa-cobori-cu-telecabina-de-pe-tampa-turistii-au-parte-de-o-experienta-unica/"
+    ],
+    [
+     "InfoContact – Tâmpa cable car 2026",
+     "https://www.infocontact.ro/telecabina-tampa-program-2026/"
+    ]
+   ]
+  },
+  "bran": {
+   "id": "bran",
+   "name": {
+    "en": "Bran Castle (\"Dracula's Castle\")",
+    "he": "טירת בראן (\"טירת דרקולה\")"
+   },
+   "hours": {
+    "en": "1 Apr–1 Nov: Mon 12:00–19:00, Tue–Sun 9:00–19:00 (last entry at closing)",
+    "he": "1 באפריל–1 בנובמבר: ב' 12:00–19:00, ג'–א' 9:00–19:00 (כניסה אחרונה בסגירה)"
+   },
+   "price_text": {
+    "en": "≈ 360 RON (≈ €67) budgeted: official site 100 adult / 40 child 5–17, under 5 free (→ ≈ 280 RON), but August 2026 visitors report 120 / 60 at the till (→ 360 RON). Estimate; parking ≈ 20–30 RON extra. Book online – tickets sell out.",
+    "he": "כ-360 לי\"י (כ-67 €) בתקציב: באתר הרשמי 100 מבוגר / 40 ילד 5–17, מתחת ל-5 חינם (→ כ-280 לי\"י), אבל מבקרים באוגוסט 2026 מדווחים על 120 / 60 בקופה (→ 360 לי\"י). הערכה; חניה כ-20–30 לי\"י בנוסף. להזמין באינטרנט – הכרטיסים אוזלים."
+   },
+   "price_czk": 360,
+   "price_eur": 67.29,
+   "estimate": true,
+   "time": {
+    "en": "1.5–2 h",
+    "he": "שעה וחצי–שעתיים"
+   },
+   "kids": {
+    "en": "The Dracula-legend castle on a rock: narrow stairs, a secret staircase and small rooms – busy in August; the plan goes on a Monday (it opens at 12:00) at about 14:30, when the morning crowd has thinned. Souvenir market at the bottom. Lots of steps for a 5-year-old.",
+    "he": "טירת אגדת דרקולה על סלע: מדרגות צרות, מדרגות סודיות וחדרים קטנים – עמוס באוגוסט; התוכנית מגיעה ביום שני (נפתחת ב-12:00) בסביבות 14:30, כשהעומס של הבוקר פחת. שוק מזכרות למטה. הרבה מדרגות לילד בן 5."
+   },
+   "optional": false,
+   "google": {
+    "name": "Bran Castle",
+    "rating": 4.3,
+    "reviews": 114633,
+    "lat": 45.514902,
+    "lng": 25.367164,
+    "address": "Strada General Traian Moșoiu 24, 507025 Bran, Romania",
+    "website": "https://castelulbran.ro/",
+    "place_id": "ChIJMd4VpOVHs0ARf6sh2ZInks8",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Bran%20Castle&query_place_id=ChIJMd4VpOVHs0ARf6sh2ZInks8",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.514902,25.367164&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.3,
+    "out_of": 5,
+    "reviews": 114633,
+    "url": "https://www.google.com/maps/search/?api=1&query=Bran%20Castle&query_place_id=ChIJMd4VpOVHs0ARf6sh2ZInks8"
+   },
+   "photo": {
+    "file": "img/ro/bran-1.jpg",
+    "w": 1000,
+    "h": 562,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Bran%20Castle&query_place_id=ChIJMd4VpOVHs0ARf6sh2ZInks8",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Bran Castle – plan your visit (official)",
+     "https://bran-castle.com/pages/plan-your-visit"
+    ],
+    [
+     "Magpie – visitor reviews Aug 2026",
+     "https://platform.magpie.travel/things-to-do/bran-castle-standard-admission-ticket/1e04ee12-35c2-4dc8-8580-b0dfc3decae3"
+    ]
+   ]
+  },
+  "dino": {
+   "id": "dino",
+   "name": {
+    "en": "Dino Parc Râșnov",
+    "he": "דינו פארק ראשנוב"
+   },
+   "hours": {
+    "en": "Apr–Oct: Mon–Thu 10:00–18:00, Fri 10:00–18:30, Sat 10:00–19:00, Sun 10:00–18:30",
+    "he": "אפריל–אוקטובר: ב'–ה' 10:00–18:00, ו' 10:00–18:30, ש' 10:00–19:00, א' 10:00–18:30"
+   },
+   "price_text": {
+    "en": "200 RON (≈ €37): 2 adults × 60 + 2 children (3–18) × 40 (official 2026 prices; the online shop is slightly cheaper). Extras 15 RON each per person: adventure trails, 9D cinema, Dino Train; laser maze 10 RON. Volcano and earthquake simulator included.",
+    "he": "200 לי\"י (כ-37 €): 2 מבוגרים × 60 + 2 ילדים (3–18) × 40 (מחירים רשמיים 2026; בחנות המקוונת מעט זול יותר). תוספות 15 לי\"י לאדם: שבילי הרפתקאות, קולנוע 9D, רכבת הדינוזאורים; מבוך לייזר 10 לי\"י. הר געש וסימולטור רעידת אדמה כלולים."
+   },
+   "price_czk": 200,
+   "price_eur": 37.38,
+   "estimate": false,
+   "time": {
+    "en": "2.5–3 h",
+    "he": "2.5–3 שעות"
+   },
+   "kids": {
+    "en": "Life-size animatronic dinosaurs along a shaded forest path, a playground, a volcano and a small train – a big hit for 5- and 7-year-olds. Flat, easy walking.",
+    "he": "דינוזאורים אנימטרוניים בגודל טבעי לאורך שביל יער מוצל, מגרש משחקים, הר געש ורכבת קטנה – להיט לילדים בני 5 ו-7. הליכה קלה ומישורית."
+   },
+   "optional": false,
+   "google": {
+    "name": "Dino Parc Râșnov",
+    "rating": 4.6,
+    "reviews": 32895,
+    "lat": 45.591474,
+    "lng": 25.474063,
+    "address": "Strada Cetății, 505400 Râșnov, Romania",
+    "website": "https://dinoparc.ro/",
+    "place_id": "ChIJeb9jX69Fs0ARAEsx7MiVBHE",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Dino%20Parc%20R%C3%A2%C8%99nov&query_place_id=ChIJeb9jX69Fs0ARAEsx7MiVBHE",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.591474,25.474063&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 32895,
+    "url": "https://www.google.com/maps/search/?api=1&query=Dino%20Parc%20R%C3%A2%C8%99nov&query_place_id=ChIJeb9jX69Fs0ARAEsx7MiVBHE"
+   },
+   "photo": {
+    "file": "img/ro/dino-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Dino%20Parc%20Râșnov&query_place_id=ChIJeb9jX69Fs0ARAEsx7MiVBHE",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Dino Parc – tickets, hours 2026",
+     "https://dinoparc.ro/blog/bilete-dino-parc-rasnov-pret-program/"
+    ],
+    [
+     "Dino Parc (official)",
+     "https://dinoparc.ro/en/"
+    ]
+   ]
+  },
+  "rasnov": {
+   "id": "rasnov",
+   "name": {
+    "en": "Râșnov Citadel (optional, next to Dino Parc)",
+    "he": "מצודת ראשנוב (אופציונלי, ליד דינו פארק)"
+   },
+   "hours": {
+    "en": "Reportedly daily about 9:00–19:00; in 2026 the interior is under restoration and only the citadel garden is open (check before going)",
+    "he": "לפי דיווחים מדי יום בערך 9:00–19:00; ב-2026 הפנים בשיפוץ ורק גן המצודה פתוח (לבדוק לפני)"
+   },
+   "price_text": {
+    "en": "≈ 50 RON (≈ €9) estimate: older reports give about 10 RON per adult and free or reduced for children; the lift and any 2027 price are unconfirmed.",
+    "he": "כ-50 לי\"י (כ-9 €) הערכה: דיווחים ישנים מדברים על כ-10 לי\"י למבוגר וחינם או הנחה לילדים; המעלית ומחיר 2027 לא אומתו."
+   },
+   "price_czk": 50,
+   "price_eur": 9.35,
+   "estimate": true,
+   "time": {
+    "en": "1–1.5 h",
+    "he": "שעה–שעה וחצי"
+   },
+   "kids": {
+    "en": "A medieval hilltop fortress with walls and a garden with children's craft workshops in summer. The climb is uphill (use the lift or the road); skip it if the kids are tired after Dino Parc. Google rating 3.6.",
+    "he": "מצודה מימי הביניים על גבעה עם חומות וגן עם סדנאות יצירה לילדים בקיץ. העלייה בשיפוע (להשתמש במעלית או בכביש); לדלג אם הילדים עייפים אחרי דינו פארק. דירוג גוגל 3.6."
+   },
+   "optional": true,
+   "google": {
+    "name": "Cetatea Râșnov",
+    "rating": 3.6,
+    "reviews": 895,
+    "lat": 45.590644,
+    "lng": 25.468412,
+    "address": "Râșnov Citadel, Strada Cetății 505400, 505400 Râșnov, Romania",
+    "website": "https://www.cetatea-rasnov.ro/",
+    "place_id": "ChIJ0fk_EAxFs0ARiA5NhYGZXIY",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Cetatea%20R%C3%A2%C8%99nov&query_place_id=ChIJ0fk_EAxFs0ARiA5NhYGZXIY",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.590644,25.468412&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 3.6,
+    "out_of": 5,
+    "reviews": 895,
+    "url": "https://www.google.com/maps/search/?api=1&query=Cetatea%20R%C3%A2%C8%99nov&query_place_id=ChIJ0fk_EAxFs0ARiA5NhYGZXIY"
+   },
+   "photo": {
+    "file": "img/ro/rasnov-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Cetatea%20Râșnov&query_place_id=ChIJ0fk_EAxFs0ARiA5NhYGZXIY",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "InfoContact – Râșnov Citadel schedule (2026)",
+     "https://www.infocontact.ro/contact-cetatea-rasnov-program/"
+    ],
+    [
+     "Cotidianul – Râșnov summer programme",
+     "https://www.cotidianul.ro/brasov-cetatea-rasnov-se-poate-vizita-joi-gratuit/"
+    ]
+   ]
+  },
+  "libearty": {
+   "id": "libearty",
+   "name": {
+    "en": "Libearty Bear Sanctuary, Zărnești (guided walk)",
+    "he": "מקלט הדובים ליברטי, זרנשט (סיור מודרך)"
+   },
+   "hours": {
+    "en": "Tue–Sun, mornings only, guided tours at fixed times (classic tour 1 h 15 min at 9:45 and 11:15); closed Monday. Spots are limited – book ahead.",
+    "he": "ג'–א', בבקרים בלבד, סיורים מודרכים בשעות קבועות (סיור קלאסי שעה ורבע ב-9:45 וב-11:15); סגור בשני. מקומות מוגבלים – להזמין מראש."
+   },
+   "price_text": {
+    "en": "≈ 290 RON (≈ €54): classic tour from 95 RON per adult and 50 RON per child 5–18 (weekends and holidays cost more). Children under 5 are not admitted – bring proof of age for the 5-year-old. Estimate for 2027.",
+    "he": "כ-290 לי\"י (כ-54 €): סיור קלאסי מ-95 לי\"י למבוגר ו-50 לי\"י לילד 5–18 (בסופי שבוע ובחגים יקר יותר). ילדים מתחת לגיל 5 לא נכנסים – להביא הוכחת גיל לילד בן ה-5. הערכה ל-2027."
+   },
+   "price_czk": 290,
+   "price_eur": 54.21,
+   "estimate": true,
+   "time": {
+    "en": "2 h incl. tour",
+    "he": "שעתיים כולל הסיור"
+   },
+   "kids": {
+    "en": "Dozens of rescued brown bears in a big forest reserve, seen from an easy 1.5 km path with a guide (a small train for the Super VIP tour only). Quiet voices; bears are more active in the morning.",
+    "he": "עשרות דובים חומים שחולצו ביער גדול, נצפים משביל קל של כ-1.5 ק\"מ עם מדריך (רכבת קטנה רק בסיור סופר VIP). לדבר בשקט; הדובים פעילים יותר בבוקר."
+   },
+   "optional": false,
+   "google": {
+    "name": "Libearty Bear Sanctuary Zarnesti",
+    "rating": 4.6,
+    "reviews": 4590,
+    "lat": 45.593187,
+    "lng": 25.385312,
+    "address": "H9VP+74, 505800 Zărnești, Romania",
+    "website": "https://millionsoffriends.org/en/",
+    "place_id": "ChIJ2-Spxj5Ps0ARJoGtF3BfdpU",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Libearty%20Bear%20Sanctuary%20Zarnesti&query_place_id=ChIJ2-Spxj5Ps0ARJoGtF3BfdpU",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.593187,25.385312&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 4590,
+    "url": "https://www.google.com/maps/search/?api=1&query=Libearty%20Bear%20Sanctuary%20Zarnesti&query_place_id=ChIJ2-Spxj5Ps0ARJoGtF3BfdpU"
+   },
+   "photo": {
+    "file": "img/ro/libearty-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Libearty%20Bear%20Sanctuary%20Zarnesti&query_place_id=ChIJ2-Spxj5Ps0ARJoGtF3BfdpU",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Libearty – visit the sanctuary (official)",
+     "https://millionsoffriends.org/en/amp-libearty/visit-the-sanctuary/"
+    ],
+    [
+     "Explore with Erin – Libearty guide",
+     "https://explorewitherin.com/libearty-bear-sanctuary-romania/"
+    ]
+   ]
+  },
+  "adventure": {
+   "id": "adventure",
+   "name": {
+    "en": "Adventure Park Brașov (kids' rope trails, optional)",
+    "he": "פארק הרפתקאות ברשוב (שבילי חבלים לילדים, אופציונלי)"
+   },
+   "hours": {
+    "en": "Daily about 10:00–18:00 (Google Maps; summer hours may be longer)",
+    "he": "מדי יום בערך 10:00–18:00 (גוגל מפות; בקיץ אולי ארוך יותר)"
+   },
+   "price_text": {
+    "en": "≈ 200 RON (≈ €37) estimate for 2 children: about 90 RON per child for 3 hours (an Observator report, July 2026), adults 100 RON if they climb too. Kids' trails from age 4.",
+    "he": "כ-200 לי\"י (כ-37 €) הערכה ל-2 ילדים: כ-90 לי\"י לילד ל-3 שעות (דיווח של Observator, יולי 2026), מבוגרים 100 לי\"י אם מטפסים גם הם. שבילי ילדים מגיל 4."
+   },
+   "price_czk": 200,
+   "price_eur": 37.38,
+   "estimate": true,
+   "time": {
+    "en": "2–3 h",
+    "he": "2–3 שעות"
+   },
+   "kids": {
+    "en": "Rope courses in the trees with easy kids' trails, near a small lake with a playground. Fits as an alternative afternoon in Brașov (Day 3) instead of Bran.",
+    "he": "מסלולי חבלים בין העצים עם שבילי ילדים קלים, ליד אגם קטן עם מגרש משחקים. מתאים כחלופה אחר הצהריים בברשוב (יום 3) במקום בראן."
+   },
+   "optional": true,
+   "google": {
+    "name": "Adventure Park Brasov",
+    "rating": 4.6,
+    "reviews": 10991,
+    "lat": 45.613303,
+    "lng": 25.637837,
+    "address": "Strada Paltinului 16, 500312 Brașov, Romania",
+    "website": "http://www.parc-aventura.ro/",
+    "place_id": "ChIJtbdpkdhcs0ARxeQnxCx_djI",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Adventure%20Park%20Brasov&query_place_id=ChIJtbdpkdhcs0ARxeQnxCx_djI",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.613303,25.637837&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 10991,
+    "url": "https://www.google.com/maps/search/?api=1&query=Adventure%20Park%20Brasov&query_place_id=ChIJtbdpkdhcs0ARxeQnxCx_djI"
+   },
+   "photo": {
+    "file": "img/ro/adventure-1.jpg",
+    "w": 1000,
+    "h": 562,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Adventure%20Park%20Brasov&query_place_id=ChIJtbdpkdhcs0ARxeQnxCx_djI",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Observator – Parc Aventura Brașov (2026)",
+     "https://observatornews.ro/eveniment/aventura-care-atrage-zilnic-400-de-oameni-la-brasov-obstacole-emotii-si-curaj-in-mijlocul-naturii-661292.html"
+    ],
+    [
+     "Parc Aventura (official)",
+     "http://www.parc-aventura.ro/"
+    ]
+   ]
+  },
+  "prejmer": {
+   "id": "prejmer",
+   "name": {
+    "en": "Prejmer Fortified Church (UNESCO, optional)",
+    "he": "הכנסייה המבוצרת בפרז'מר (יונסק\"ו, אופציונלי)"
+   },
+   "hours": {
+    "en": "Daily about 9:00–17:30 (Google Maps)",
+    "he": "מדי יום בערך 9:00–17:30 (גוגל מפות)"
+   },
+   "price_text": {
+    "en": "≈ 40 RON (≈ €7) estimate; the official price was not found.",
+    "he": "כ-40 לי\"י (כ-7 €) הערכה; המחיר הרשמי לא נמצא."
+   },
+   "price_czk": 40,
+   "price_eur": 7.48,
+   "estimate": true,
+   "time": {
+    "en": "1 h",
+    "he": "שעה"
+   },
+   "kids": {
+    "en": "A massive peasant fortress with 270 tiny cell rooms along the walls and a dark tunnel – like a real castle for children; 20 min from Brașov, only if there is spare time.",
+    "he": "מבצר איכרים עצום עם 270 חדרונים קטנים לאורך החומות ומנהרה חשוכה – כמו טירה אמיתית לילדים; 20 דקות מברשוב, רק אם נשאר זמן."
+   },
+   "optional": true,
+   "google": {
+    "name": "The Fortified Church of Prejmer",
+    "rating": 4.7,
+    "reviews": 5444,
+    "lat": 45.722012,
+    "lng": 25.77374,
+    "address": "Strada Mare 2, 507165 Prejmer, Romania",
+    "website": "https://bisericafortificataprejmer.ro/",
+    "place_id": "ChIJ3W_er4xfs0ARpKDiyD0FTJg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Fortified%20Church%20of%20Prejmer&query_place_id=ChIJ3W_er4xfs0ARpKDiyD0FTJg",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.722012,25.773740&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 5444,
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Fortified%20Church%20of%20Prejmer&query_place_id=ChIJ3W_er4xfs0ARpKDiyD0FTJg"
+   },
+   "photo": {
+    "file": "img/ro/prejmer-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=The%20Fortified%20Church%20of%20Prejmer&query_place_id=ChIJ3W_er4xfs0ARpKDiyD0FTJg",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Prejmer Fortified Church (official)",
+     "https://bisericafortificataprejmer.ro/"
+    ],
+    [
+     "Wikipedia – Prejmer fortified church",
+     "https://en.wikipedia.org/wiki/Prejmer_fortified_church"
+    ]
+   ]
+  },
+  "therme": {
+   "id": "therme",
+   "name": {
+    "en": "Therme București (Galaxy water park zone)",
+    "he": "תרמה בוקרשט (אזור הגלקסי – פארק המים)"
+   },
+   "hours": {
+    "en": "Daily about 10:00–23:00 (Google Maps); check the Therme site",
+    "he": "מדי יום בערך 10:00–23:00 (גוגל מפות); לבדוק באתר תרמה"
+   },
+   "price_text": {
+    "en": "572 RON (≈ €107): One Day Holiday ticket on a Friday (Fri–Sun +10 RON on the Mon–Thu price): 2 × 151 adult + 2 × 135 child 3–14 (Mon–Thu would be 532 RON; 3-hour tickets are cheaper). Prices of mid-2026 – 2027 may be higher. Taxi from the city ≈ 35–45 min.",
+    "he": "572 לי\"י (כ-107 €): כרטיס One Day Holiday ביום שישי (ו'–א' +10 לי\"י על מחיר ב'–ה'): 2 × 151 מבוגר + 2 × 135 ילד 3–14 (בימים ב'–ה' זה 532 לי\"י; כרטיסי 3 שעות זולים יותר). מחירים מאמצע 2026 – ב-2027 אולי יקרים יותר. מונית מהעיר כ-35–45 דקות."
+   },
+   "price_czk": 572,
+   "price_eur": 106.92,
+   "estimate": false,
+   "time": {
+    "en": "5–6 h (a full day)",
+    "he": "5–6 שעות (יום שלם)"
+   },
+   "kids": {
+    "en": "A huge glass-dome water park: wave pool, slides, a children's area and warm pools. Under-14s may enter only the Galaxy zone (not The Palm or Elysium) and need an ID or birth certificate. Bring swimsuits (towels and slippers can be rented).",
+    "he": "פארק מים ענק מתחת לכיפת זכוכית: בריכת גלים, מגלשות, אזור ילדים ובריכות חמות. מתחת לגיל 14 נכנסים רק לאזור הגלקסי (לא The Palm ולא Elysium) ונדרשת תעודה או תעודת לידה. להביא בגדי ים (מגבות וכפכפים להשכרה)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Therme Bucharest",
+    "rating": 4.4,
+    "reviews": 47973,
+    "lat": 44.605123,
+    "lng": 26.085435,
+    "address": "Calea Bucureşti 1K, 077015 Balotești, Romania",
+    "website": "https://www.therme.ro/",
+    "place_id": "ChIJC1ABONsbskARRkeLX35-EPg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Therme%20Bucharest&query_place_id=ChIJC1ABONsbskARRkeLX35-EPg",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.605123,26.085435&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 47973,
+    "url": "https://www.google.com/maps/search/?api=1&query=Therme%20Bucharest&query_place_id=ChIJC1ABONsbskARRkeLX35-EPg"
+   },
+   "photo": {
+    "file": "img/ro/therme-1.jpg",
+    "w": 860,
+    "h": 573,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Therme%20Bucharest&query_place_id=ChIJC1ABONsbskARRkeLX35-EPg",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Bugetul – a weekend at Therme, July 2026",
+     "https://www.bugetul.ro/cât-te-costă-un-weekend-la-therme-în-iulie-2026-ie-20260718232204-articol2/"
+    ],
+    [
+     "Bugetul – Therme prices 2026",
+     "https://www.bugetul.ro/therme-a-marit-simtitor-preturile-in-2026-iata-cat-trebuie-sa-scoata-din-buzunar-o-familie-cu-doi-copii-pentru-o-zi-la-piscinele-din-balotesti-acum-in-aprilie/"
+    ],
+    [
+     "Therme București (official)",
+     "https://www.therme.ro/"
+    ]
+   ]
+  },
+  "herastrau": {
+   "id": "herastrau",
+   "name": {
+    "en": "Herăstrău Park (King Michael I Park): lake boats and playgrounds",
+    "he": "פארק הרשטרו (פארק המלך מיכאל הראשון): סירות באגם ומגרשי משחקים"
+   },
+   "hours": {
+    "en": "Park open 24/7; boat rental and the small passenger boat about 10:00–19:30 / 20:00",
+    "he": "הפארק פתוח 24/7; השכרת סירות והסירה המסיירת בערך 10:00–19:30 / 20:00"
+   },
+   "price_text": {
+    "en": "≈ 50 RON (≈ €9) estimate: passenger boat 15 RON adult / 10 RON child 7–14 per trip; rowing boats about 20 RON/hour (max 3 people, so 2 boats for 4). An undated price list – confirm at the pier.",
+    "he": "כ-50 לי\"י (כ-9 €) הערכה: סירה מסיירת 15 לי\"י מבוגר / 10 לי\"י ילד 7–14 לשיט; סירות משוטים כ-20 לי\"י לשעה (עד 3 אנשים, כלומר 2 סירות ל-4). מחירון ללא תאריך – לאשר במזח."
+   },
+   "price_czk": 50,
+   "price_eur": 9.35,
+   "estimate": true,
+   "time": {
+    "en": "2 h",
+    "he": "שעתיים"
+   },
+   "kids": {
+    "en": "Bucharest's biggest park around a lake: shady paths, playgrounds, boats and ice cream, right next to the Village Museum (Day 9).",
+    "he": "הפארק הגדול של בוקרשט סביב אגם: שבילים מוצלים, מגרשי משחקים, סירות וגלידה, ממש ליד מוזיאון הכפר (יום 9)."
+   },
+   "optional": false,
+   "google": {
+    "name": "King Mihai I Park",
+    "rating": 4.6,
+    "reviews": 66201,
+    "lat": 44.470201,
+    "lng": 26.082753,
+    "address": "Bucharest, Romania",
+    "website": null,
+    "place_id": "ChIJkZAHuxMCskARJlXBnqgO9lc",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=King%20Mihai%20I%20Park&query_place_id=ChIJkZAHuxMCskARJlXBnqgO9lc",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.470201,26.082753&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 66201,
+    "url": "https://www.google.com/maps/search/?api=1&query=King%20Mihai%20I%20Park&query_place_id=ChIJkZAHuxMCskARJlXBnqgO9lc"
+   },
+   "photo": {
+    "file": "img/ro/herastrau-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=King%20Mihai%20I%20Park&query_place_id=ChIJkZAHuxMCskARJlXBnqgO9lc",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "ALPAB – parks and boat prices",
+     "https://alpab.ro/parcuri/"
+    ],
+    [
+     "Cotidianul – Herăstrău passenger boat",
+     "https://www.cotidianul.ro/venituri-cu-35-mai-mari-fata-de-anul-trecut-pentru-debarcaderul-din-herastrau/"
+    ]
+   ]
+  },
+  "village_museum": {
+   "id": "village_museum",
+   "name": {
+    "en": "Village Museum (Muzeul Satului), open-air",
+    "he": "מוזיאון הכפר (Muzeul Satului), באוויר הפתוח"
+   },
+   "hours": {
+    "en": "Summer schedule announced for 2025: Wed–Sun 9:00–19:00 (last entry 18:30); closed Mon–Tue – the plan uses Wednesday. Check muzeul-satului.ro.",
+    "he": "לוח קיץ שפורסם ל-2025: ד'–א' 9:00–19:00 (כניסה אחרונה 18:30); סגור ב'–ג' – התוכנית משתמשת ביום רביעי. לבדוק ב-muzeul-satului.ro."
+   },
+   "price_text": {
+    "en": "≈ 80 RON (≈ €15) estimate: adults about 30 RON, children / pupils a fraction of that (2024 guide: adult 30, pensioner 15, student 8); the regular 2026 list was not found.",
+    "he": "כ-80 לי\"י (כ-15 €) הערכה: מבוגרים כ-30 לי\"י, ילדים/תלמידים חלק קטן מזה (מדריך 2024: מבוגר 30, גימלאי 15, סטודנט 8); המחירון הרגיל של 2026 לא נמצא."
+   },
+   "price_czk": 80,
+   "price_eur": 14.95,
+   "estimate": true,
+   "time": {
+    "en": "2 h",
+    "he": "שעתיים"
+   },
+   "kids": {
+    "en": "Real old houses, windmills and a wooden church moved from all over Romania, laid out around a shady lake-side park; flat paths and room to run. Combine with Herăstrău, next door.",
+    "he": "בתים עתיקים אמיתיים, טחנות רוח וכנסיית עץ שהועברו מכל רומניה, בפארק מוצל ליד האגם; שבילים מישוריים ומקום לרוץ. משלבים עם הרשטרו שליד."
+   },
+   "optional": false,
+   "google": {
+    "name": "\"Dimitrie Gusti\" National Village Museum",
+    "rating": 4.6,
+    "reviews": 15169,
+    "lat": 44.472355,
+    "lng": 26.076483,
+    "address": "Şoseaua Pavel D. Kiseleff 30, 011347 București, Romania",
+    "website": "http://muzeul-satului.ro/",
+    "place_id": "ChIJczdhfAMCskARo0Gnp5Fw34I",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=%22Dimitrie%20Gusti%22%20National%20Village%20Museum&query_place_id=ChIJczdhfAMCskARo0Gnp5Fw34I",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.472355,26.076483&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 15169,
+    "url": "https://www.google.com/maps/search/?api=1&query=%22Dimitrie%20Gusti%22%20National%20Village%20Museum&query_place_id=ChIJczdhfAMCskARo0Gnp5Fw34I"
+   },
+   "photo": {
+    "file": "img/ro/village_museum-1.jpg",
+    "w": 1000,
+    "h": 700,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=\"Dimitrie%20Gusti\"%20National%20Village%20Museum&query_place_id=ChIJczdhfAMCskARo0Gnp5Fw34I",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Village Museum – official site",
+     "http://muzeul-satului.ro/"
+    ],
+    [
+     "Agerpres – Village Museum winter schedule 2025 (mentions the summer schedule)",
+     "https://agerpres.ro/cultura-media/2025/10/07/muzeul-satului-dimitrie-gusti-trece-la-programul-de-iarna-din-13-octombrie--1491022"
+    ]
+   ]
+  },
+  "antipa": {
+   "id": "antipa",
+   "name": {
+    "en": "Grigore Antipa Natural History Museum",
+    "he": "מוזיאון הטבע על שם גריגורה אנטיפה"
+   },
+   "hours": {
+    "en": "Tue–Sun about 10:00–19:00 (Google), closed Monday; last entry 1 h earlier – check antipa.ro",
+    "he": "ג'–א' בערך 10:00–19:00 (גוגל), סגור בשני; כניסה אחרונה שעה קודם – לבדוק ב-antipa.ro"
+   },
+   "price_text": {
+    "en": "≈ 80 RON (≈ €15) estimate: adult 32 RON (March 2026), student/reduced 8 RON; the children's price was not published, so 2 × 32 + 2 × 8. The live butterfly greenhouse is a separate ticket.",
+    "he": "כ-80 לי\"י (כ-15 €) הערכה: מבוגר 32 לי\"י (מרץ 2026), סטודנט/מוזל 8 לי\"י; מחיר ילדים לא פורסם ולכן 2 × 32 + 2 × 8. חממת הפרפרים החיים בכרטיס נפרד."
+   },
+   "price_czk": 80,
+   "price_eur": 14.95,
+   "estimate": true,
+   "time": {
+    "en": "2–3 h",
+    "he": "2–3 שעות"
+   },
+   "kids": {
+    "en": "A modern, air-conditioned museum with dioramas, a huge Deinotherium skeleton, dinosaurs, a mineral hall and a live butterfly greenhouse – good in the August heat.",
+    "he": "מוזיאון מודרני ממוזג עם דיורמות, שלד דינותריום ענק, דינוזאורים, אולם מינרלים וחממת פרפרים חיים – מצוין בחום של אוגוסט."
+   },
+   "optional": false,
+   "google": {
+    "name": "Grigore Antipa National Museum of Natural History",
+    "rating": 4.8,
+    "reviews": 21727,
+    "lat": 44.453113,
+    "lng": 26.084638,
+    "address": "Şoseaua Pavel D. Kiseleff 1, 011341 București, Romania",
+    "website": "http://www.antipa.ro/",
+    "place_id": "ChIJ5e62fv8BskARHchO5C-RCxI",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Grigore%20Antipa%20National%20Museum%20of%20Natural%20History&query_place_id=ChIJ5e62fv8BskARHchO5C-RCxI",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.453113,26.084638&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 21727,
+    "url": "https://www.google.com/maps/search/?api=1&query=Grigore%20Antipa%20National%20Museum%20of%20Natural%20History&query_place_id=ChIJ5e62fv8BskARHchO5C-RCxI"
+   },
+   "photo": {
+    "file": "img/ro/antipa-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Grigore%20Antipa%20National%20Museum%20of%20Natural%20History&query_place_id=ChIJ5e62fv8BskARHchO5C-RCxI",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Antipa Museum (official)",
+     "http://www.antipa.ro/"
+    ],
+    [
+     "Playtech – Antipa prices March 2026",
+     "https://playtech.ro/stiri/intrare-gratuita-pentru-femei-la-muzeul-antipa-de-1-martie-2026-ce-preturi-sunt-pentru-restul-vizitatorilor-997184"
+    ]
+   ]
+  },
+  "cismigiu": {
+   "id": "cismigiu",
+   "name": {
+    "en": "Cișmigiu Gardens (playground, lake, rowing boats)",
+    "he": "גני צ'ישמיג'יו (מגרש משחקים, אגם, סירות משוטים)"
+   },
+   "hours": {
+    "en": "Park open 24/7; boat rental about 10:00–20:00 in summer (not confirmed)",
+    "he": "הפארק פתוח 24/7; השכרת סירות בערך 10:00–20:00 בקיץ (לא אומת)"
+   },
+   "price_text": {
+    "en": "Park free; rowing boat price not found (ask at the kiosk).",
+    "he": "הפארק חינם; מחיר סירת משוטים לא נמצא (לשאול בקיוסק)."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "1.5–2 h",
+    "he": "שעה וחצי–שעתיים"
+   },
+   "kids": {
+    "en": "The old central park, 450 m from the apartment: a lake with rowing boats, shady paths, playgrounds and ducks – an easy first afternoon in the city.",
+    "he": "הפארק המרכזי הוותיק, 450 מ' מהדירה: אגם עם סירות משוטים, שבילים מוצלים, מגרשי משחקים וברווזים – אחר צהריים קל ראשון בעיר."
+   },
+   "optional": false,
+   "google": {
+    "name": "Cișmigiu Garden",
+    "rating": 4.4,
+    "reviews": 42161,
+    "lat": 44.437344,
+    "lng": 26.09108,
+    "address": "Bulevardul Regina Elisabeta, 030167 București, Romania",
+    "website": "https://alpab.ro/parcuri/#:~:text=parcului:%2051,9%20ha-,Cismigiu,-Gradina%20Cismigiu%20a",
+    "place_id": "ChIJz29-j0P_sUARO0JmUSermD4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ci%C8%99migiu%20Garden&query_place_id=ChIJz29-j0P_sUARO0JmUSermD4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.437344,26.091080&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 42161,
+    "url": "https://www.google.com/maps/search/?api=1&query=Ci%C8%99migiu%20Garden&query_place_id=ChIJz29-j0P_sUARO0JmUSermD4"
+   },
+   "photo": {
+    "file": "img/ro/cismigiu-1.jpg",
+    "w": 981,
+    "h": 682,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Cișmigiu%20Garden&query_place_id=ChIJz29-j0P_sUARO0JmUSermD4",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "ALPAB – Cișmigiu Garden",
+     "https://alpab.ro/parcuri/"
+    ]
+   ]
+  },
+  "zoo": {
+   "id": "zoo",
+   "name": {
+    "en": "Bucharest Zoo, Băneasa (optional)",
+    "he": "גן החיות של בוקרשט, בנאסה (אופציונלי)"
+   },
+   "hours": {
+    "en": "Daily about 9:00–19:00 (Google Maps; summer hours older sources: weekdays 9–19, weekends 8–18)",
+    "he": "מדי יום בערך 9:00–19:00 (גוגל מפות; במקורות ישנים: ימי חול 9–19, סופ\"ש 8–18)"
+   },
+   "price_text": {
+    "en": "≈ 60 RON (≈ €11) estimate: adult 20 RON and child 10 RON after the 2026 increase (reduced rate not confirmed).",
+    "he": "כ-60 לי\"י (כ-11 €) הערכה: מבוגר 20 לי\"י וילד 10 לי\"י אחרי העלאה ב-2026 (מחיר מוזל לא אומת)."
+   },
+   "price_czk": 60,
+   "price_eur": 11.21,
+   "estimate": true,
+   "time": {
+    "en": "2–3 h",
+    "he": "2–3 שעות"
+   },
+   "kids": {
+    "en": "Cheap and easy, with big cats, bears, monkeys and a petting corner, but the enclosures are old (Google rating only 3.9). Take it only as a fallback; 25 min by taxi.",
+    "he": "זול וקל, עם חתולים גדולים, דובים, קופים ופינת ליטוף, אבל המתקנים ישנים (דירוג גוגל רק 3.9). רק כחלופה; 25 דקות במונית."
+   },
+   "optional": true,
+   "google": {
+    "name": "Zoo Bucharest",
+    "rating": 3.9,
+    "reviews": 16172,
+    "lat": 44.517269,
+    "lng": 26.10449,
+    "address": "Strada Vadul Moldovei 4, 077190 București, Romania",
+    "website": "http://bucurestizoo.ro/",
+    "place_id": "ChIJ9WX2sdoCskARKs0FxLuH-SM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Zoo%20Bucharest&query_place_id=ChIJ9WX2sdoCskARKs0FxLuH-SM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.517269,26.104490&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 3.9,
+    "out_of": 5,
+    "reviews": 16172,
+    "url": "https://www.google.com/maps/search/?api=1&query=Zoo%20Bucharest&query_place_id=ChIJ9WX2sdoCskARKs0FxLuH-SM"
+   },
+   "photo": {
+    "file": "img/ro/zoo-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Zoo%20Bucharest&query_place_id=ChIJ9WX2sdoCskARKs0FxLuH-SM",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Agerpres – zoo ticket prices Jan 2026",
+     "https://agerpres.ro/2026/01/29/tarife-majorate-la-gradina-zoologica-si-la-nottara-reduceri-de-50-la-tandarica-pentru-familiile-cu-m--1523347"
+    ],
+    [
+     "Bugetul – Romanian zoos and ticket prices",
+     "https://www.bugetul.ro/top-gradini-zoologice-din-romania-pe-care-merita-sa-le-vezi-cat-costa-biletul-de-intrare-cine-are-parte-de-reducere/"
+    ]
+   ]
+  },
+  "lipscani": {
+   "id": "lipscani",
+   "name": {
+    "en": "Old Town (Lipscani) and Stavropoleos Monastery",
+    "he": "העיר העתיקה (ליפסקאני) ומנזר סטברופולאוס"
+   },
+   "hours": {
+    "en": "Streets open 24/7; Stavropoleos Church about 8:00–19:00 (Google)",
+    "he": "הרחובות פתוחים 24/7; כנסיית סטברופולאוס בערך 8:00–19:00 (גוגל)"
+   },
+   "price_text": {
+    "en": "Free (a small donation at the church).",
+    "he": "חינם (תרומה קטנה בכנסייה)."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "1–1.5 h",
+    "he": "שעה–שעה וחצי"
+   },
+   "kids": {
+    "en": "A short walk through the cobbled pedestrian lanes with ice-cream shops, then the quiet, beautiful courtyard of Stavropoleos (5 minutes). Keep it short in the evening heat; busy bars at night.",
+    "he": "הליכה קצרה ברחובות מרוצפים להולכי רגל עם חנויות גלידה, ואז החצר השקטה והיפה של סטברופולאוס (5 דקות). לשמור על קצר בחום הערב; בלילה הרבה ברים."
+   },
+   "optional": false,
+   "google": {
+    "name": "The Church of the \"Stavropoleos\" Monastery",
+    "rating": 4.8,
+    "reviews": 6519,
+    "lat": 44.431793,
+    "lng": 26.098861,
+    "address": "Strada Stavropoleos 4, 030167 București, Romania",
+    "website": "https://www.stavropoleos.ro/en/monastery/the-church-of-stavropoleos-monastery/",
+    "place_id": "ChIJEZe8dkD_sUARM-n4qdjze5c",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Church%20of%20the%20%22Stavropoleos%22%20Monastery&query_place_id=ChIJEZe8dkD_sUARM-n4qdjze5c",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.431793,26.098861&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 6519,
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20Church%20of%20the%20%22Stavropoleos%22%20Monastery&query_place_id=ChIJEZe8dkD_sUARM-n4qdjze5c"
+   },
+   "photo": {
+    "file": "img/ro/lipscani-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=The%20Church%20of%20the%20\"Stavropoleos\"%20Monastery&query_place_id=ChIJEZe8dkD_sUARM-n4qdjze5c",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Stavropoleos Monastery (official)",
+     "https://www.stavropoleos.ro/en/monastery/the-church-of-stavropoleos-monastery/"
+    ]
+   ]
+  }
+ },
+ "days": [
+  {
+   "day": 1,
+   "date": "2027-08-14",
+   "weekday": {
+    "en": "Sat",
+    "he": "ש'"
+   },
+   "title": {
+    "en": "Daytime flight, car pick-up, Sinaia stop and check-in",
+    "he": "טיסת יום, איסוף רכב, עצירה בסינאיה וצ'ק-אין"
+   },
+   "trail": "green",
+   "overnight": "hotel_carpathia",
+   "plan": [
+    {
+     "en": "09:20 Wizz Air W4 3252 from TLV, landing at OTP 12:10.",
+     "he": "09:20 וויז אייר W4 3252 מנתב\"ג, נחיתה בבוקרשט ב-12:10."
+    },
+    {
+     "en": "Pick up the car at Henri Coandă Airport with 2 child seats (45–60 min; confirm the rovinieta is included). Drive 109 km on DN1 to Sinaia: 1h46 without traffic, but Saturday afternoon is busy towards the mountains in summer, so allow about 2h30.",
+     "he": "איסוף הרכב בשדה התעופה הנרי קואנדה עם 2 מושבי ילדים (45–60 דקות; לוודא שהרובינייטה כלולה). נסיעה של 109 ק\"מ ב-DN1 לסינאיה: שעה ו-46 דקות בלי פקקים, אבל בשבת אחר הצהריים העומס צפונה להרים באוגוסט גדול, אז לחשב כשעתיים וחצי."
+    },
+    {
+     "en": "Kid stop in Sinaia (30–45 min): the Sinaia Monastery courtyard and a walk in the Peleș park/lower castle grounds (the castle interior closes 16:15 – only worth it if you land by about 11:00, otherwise do it on Day 2).",
+     "he": "עצירת ילדים בסינאיה (30–45 דקות): חצר מנזר סינאיה והליכה בפארק פלש/בשטח התחתון של הטירה (פנים הטירה נסגר ב-16:15 – שווה רק אם נוחתים עד כ-11:00, אחרת ביום 2)."
+    },
+    {
+     "en": "3 min to the hotel (4-star, centre of Sinaia), check in, a swim in the indoor pool of the free spa, dinner in the hotel restaurant, early night.",
+     "he": "3 דקות למלון (4 כוכבים, במרכז סינאיה), צ'ק-אין, שחייה בבריכה המקורה של הספא החופשי, ארוחת ערב במסעדת המלון ולישון מוקדם."
+    }
+   ],
+   "attractions": [
+    "sinaia_monastery"
+   ],
+   "route": {
+    "km": 110.7,
+    "minutes": 109,
+    "legs": [
+     {
+      "from": "Bucharest Henri Coandă Airport (OTP) – car pick-up",
+      "to": "Sinaia Monastery / Peleș park",
+      "km": 109.4,
+      "min": 106
+     },
+     {
+      "from": "Sinaia Monastery / Peleș park",
+      "to": "Hotel Carpathia, Sinaia",
+      "km": 1.2,
+      "min": 3
+     }
+    ],
+    "points": [
+     {
+      "name": "Bucharest Henri Coandă Airport (OTP) – car pick-up",
+      "lat": 44.5711,
+      "lng": 26.0858
+     },
+     {
+      "name": "Sinaia Monastery / Peleș park",
+      "lat": 45.35535,
+      "lng": 25.54907
+     },
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       26.085891,
+       44.574227
+      ],
+      [
+       26.070219,
+       44.573182
+      ],
+      [
+       26.068623,
+       44.642701
+      ],
+      [
+       26.075427,
+       44.678499
+      ],
+      [
+       26.113284,
+       44.738847
+      ],
+      [
+       26.085936,
+       44.799132
+      ],
+      [
+       26.076784,
+       44.851492
+      ],
+      [
+       26.046677,
+       44.885044
+      ],
+      [
+       26.014004,
+       44.885973
+      ],
+      [
+       25.962311,
+       44.935805
+      ],
+      [
+       25.961326,
+       44.968525
+      ],
+      [
+       25.825319,
+       45.028551
+      ],
+      [
+       25.760293,
+       45.100317
+      ],
+      [
+       25.698571,
+       45.144319
+      ],
+      [
+       25.678708,
+       45.187646
+      ],
+      [
+       25.638836,
+       45.227578
+      ],
+      [
+       25.619081,
+       45.285368
+      ],
+      [
+       25.569016,
+       45.312025
+      ],
+      [
+       25.549426,
+       45.355328
+      ],
+      [
+       25.546889,
+       45.346495
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=44.5711,26.0858&destination=45.346357,25.546826&travelmode=driving&waypoints=45.35535%2C25.54907"
+   }
+  },
+  {
+   "day": 2,
+   "date": "2027-08-15",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Peleș Castle (first slot), pool afternoon",
+    "he": "טירת פלש (שעה ראשונה) ובריכה אחר הצהריים"
+   },
+   "trail": "green",
+   "overnight": "hotel_carpathia",
+   "plan": [
+    {
+     "en": "Buffet breakfast at the hotel, ready to leave by about 8:45.",
+     "he": "ארוחת בוקר בבופה במלון, מוכנים ליציאה בסביבות 8:45."
+    },
+    {
+     "en": "Peleș Castle is a 5-minute drive. Sunday is the busiest day, so book the first slot (about 9:15) online. Guided tour (about 45–60 min), then the terraces and gardens; park at the lower car park and walk up the wide path.",
+     "he": "טירת פלש במרחק 5 דקות נסיעה. יום ראשון הוא היום העמוס ביותר, אז להזמין באינטרנט את השעה הראשונה (בערך 9:15). סיור מודרך (כ-45–60 דקות), ואז המרפסות והגנים; חונים בחניון התחתון ועולים בשביל הרחב."
+    },
+    {
+     "en": "Lunch in Sinaia, then afternoon rest and the pool/sauna.",
+     "he": "ארוחת צהריים בסינאיה, ואחר כך מנוחה ובריכה/סאונה אחר הצהריים."
+    }
+   ],
+   "attractions": [
+    "peles"
+   ],
+   "route": {
+    "km": 5.6,
+    "minutes": 11,
+    "legs": [
+     {
+      "from": "Hotel Carpathia, Sinaia",
+      "to": "Peleș Castle",
+      "km": 2.9,
+      "min": 5
+     },
+     {
+      "from": "Peleș Castle",
+      "to": "Hotel Carpathia, Sinaia",
+      "km": 2.8,
+      "min": 6
+     }
+    ],
+    "points": [
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     },
+     {
+      "name": "Peleș Castle",
+      "lat": 45.35998,
+      "lng": 25.54264
+     },
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       25.546889,
+       45.346495
+      ],
+      [
+       25.547251,
+       45.346411
+      ],
+      [
+       25.54906,
+       45.350103
+      ],
+      [
+       25.549287,
+       45.350311
+      ],
+      [
+       25.548847,
+       45.350473
+      ],
+      [
+       25.547902,
+       45.351969
+      ],
+      [
+       25.546451,
+       45.353162
+      ],
+      [
+       25.54564,
+       45.353331
+      ],
+      [
+       25.544716,
+       45.353895
+      ],
+      [
+       25.543766,
+       45.353972
+      ],
+      [
+       25.543004,
+       45.354217
+      ],
+      [
+       25.54083,
+       45.35545
+      ],
+      [
+       25.540581,
+       45.35541
+      ],
+      [
+       25.540418,
+       45.355145
+      ],
+      [
+       25.540181,
+       45.354252
+      ],
+      [
+       25.539598,
+       45.353769
+      ],
+      [
+       25.53963,
+       45.354492
+      ],
+      [
+       25.539152,
+       45.354879
+      ],
+      [
+       25.538849,
+       45.355616
+      ],
+      [
+       25.538979,
+       45.356222
+      ],
+      [
+       25.53919,
+       45.356407
+      ],
+      [
+       25.540261,
+       45.356452
+      ],
+      [
+       25.54047,
+       45.356592
+      ],
+      [
+       25.539885,
+       45.356792
+      ],
+      [
+       25.540128,
+       45.35747
+      ],
+      [
+       25.539178,
+       45.358859
+      ],
+      [
+       25.539313,
+       45.359295
+      ],
+      [
+       25.539575,
+       45.359383
+      ],
+      [
+       25.539907,
+       45.359184
+      ],
+      [
+       25.540451,
+       45.359216
+      ],
+      [
+       25.54179,
+       45.358792
+      ],
+      [
+       25.542566,
+       45.358856
+      ],
+      [
+       25.543414,
+       45.358721
+      ],
+      [
+       25.544206,
+       45.358845
+      ],
+      [
+       25.544423,
+       45.358214
+      ],
+      [
+       25.545316,
+       45.357149
+      ],
+      [
+       25.546376,
+       45.35628
+      ],
+      [
+       25.547313,
+       45.355806
+      ],
+      [
+       25.54728,
+       45.35559
+      ],
+      [
+       25.546981,
+       45.355306
+      ],
+      [
+       25.545932,
+       45.354871
+      ],
+      [
+       25.545564,
+       45.354836
+      ],
+      [
+       25.543494,
+       45.355831
+      ],
+      [
+       25.542161,
+       45.355937
+      ],
+      [
+       25.543783,
+       45.355058
+      ],
+      [
+       25.544378,
+       45.354968
+      ],
+      [
+       25.545047,
+       45.354639
+      ],
+      [
+       25.546465,
+       45.354475
+      ],
+      [
+       25.54715,
+       45.354599
+      ],
+      [
+       25.548449,
+       45.355594
+      ],
+      [
+       25.548574,
+       45.355114
+      ],
+      [
+       25.549063,
+       45.3549
+      ],
+      [
+       25.54848,
+       45.35409
+      ],
+      [
+       25.548709,
+       45.35403
+      ],
+      [
+       25.549302,
+       45.354309
+      ],
+      [
+       25.54839,
+       45.351215
+      ],
+      [
+       25.54906,
+       45.350103
+      ],
+      [
+       25.547251,
+       45.346411
+      ],
+      [
+       25.546889,
+       45.346495
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.35998%2C25.54264"
+   }
+  },
+  {
+   "day": 3,
+   "date": "2027-08-16",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Brașov old town, cable car and Bran Castle",
+    "he": "העיר העתיקה של ברשוב, רכבל וטירת בראן"
+   },
+   "trail": "blue",
+   "overnight": "hotel_carpathia",
+   "plan": [
+    {
+     "en": "Leave at 8:30, 1h00 to Brașov (Monday morning, northbound traffic is fine). Council Square, Rope Street, the Black Church (opens about 10:00) and ice cream. On Mondays the Tâmpa cable car opens at 12:00: ride up around 12:00 (about 1 h).",
+     "he": "יוצאים ב-8:30, שעה לברשוב (בוקר של יום שני, התנועה צפונה סבירה). כיכר המועצה, רחוב החבל, הכנסייה השחורה (נפתחת בסביבות 10:00) וגלידה. בימי שני רכבל טמפה נפתח ב-12:00: עולים בסביבות 12:00 (כשעה)."
+    },
+    {
+     "en": "Quick lunch, then 35 min to Bran Castle for about 14:30 (booked online; on Mondays it opens at 12:00); visit 1.5–2 h.",
+     "he": "ארוחת צהריים מהירה, ואז 35 דקות לטירת בראן בסביבות 14:30 (הוזמן באינטרנט; בימי שני היא נפתחת ב-12:00); ביקור של שעה וחצי–שעתיים."
+    },
+    {
+     "en": "1h04 back to Sinaia, about 18:30. A long day (2h39 of driving in total): drop the Tâmpa cable car or swap Bran for the Brașov Adventure Park or the Prejmer fortified church (20 min from Brașov) if the kids are tired.",
+     "he": "שעה ו-4 דקות חזרה לסינאיה, בסביבות 18:30. יום ארוך (בסך הכול 2:39 שעות נסיעה): אפשר לוותר על רכבל טמפה או להחליף את בראן בפארק ההרפתקאות בברשוב או בכנסייה המבוצרת בפרז'מר (20 דקות מברשוב) אם הילדים עייפים."
+    }
+   ],
+   "attractions": [
+    "brasov_old",
+    "tampa",
+    "bran",
+    "adventure",
+    "prejmer"
+   ],
+   "route": {
+    "km": 127.5,
+    "minutes": 159,
+    "legs": [
+     {
+      "from": "Hotel Carpathia, Sinaia",
+      "to": "Brașov Council Square",
+      "km": 46.9,
+      "min": 60
+     },
+     {
+      "from": "Brașov Council Square",
+      "to": "Bran Castle",
+      "km": 30.8,
+      "min": 35
+     },
+     {
+      "from": "Bran Castle",
+      "to": "Hotel Carpathia, Sinaia",
+      "km": 49.8,
+      "min": 64
+     }
+    ],
+    "points": [
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     },
+     {
+      "name": "Brașov Council Square",
+      "lat": 45.64213,
+      "lng": 25.58918
+     },
+     {
+      "name": "Bran Castle",
+      "lat": 45.5149,
+      "lng": 25.36716
+     },
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       25.546889,
+       45.346495
+      ],
+      [
+       25.555727,
+       45.356088
+      ],
+      [
+       25.542153,
+       45.369417
+      ],
+      [
+       25.534472,
+       45.412548
+      ],
+      [
+       25.552607,
+       45.424671
+      ],
+      [
+       25.55013,
+       45.439037
+      ],
+      [
+       25.567803,
+       45.459417
+      ],
+      [
+       25.560741,
+       45.469279
+      ],
+      [
+       25.574067,
+       45.500387
+      ],
+      [
+       25.571313,
+       45.513413
+      ],
+      [
+       25.577023,
+       45.511179
+      ],
+      [
+       25.579695,
+       45.517772
+      ],
+      [
+       25.573034,
+       45.518807
+      ],
+      [
+       25.570569,
+       45.524098
+      ],
+      [
+       25.588206,
+       45.537936
+      ],
+      [
+       25.591778,
+       45.555049
+      ],
+      [
+       25.658896,
+       45.610735
+      ],
+      [
+       25.632955,
+       45.633569
+      ],
+      [
+       25.628992,
+       45.631652
+      ],
+      [
+       25.620217,
+       45.638247
+      ],
+      [
+       25.617488,
+       45.63631
+      ],
+      [
+       25.597538,
+       45.643321
+      ],
+      [
+       25.586864,
+       45.636851
+      ],
+      [
+       25.588503,
+       45.642311
+      ],
+      [
+       25.580855,
+       45.664245
+      ],
+      [
+       25.573626,
+       45.66563
+      ],
+      [
+       25.497172,
+       45.635597
+      ],
+      [
+       25.480897,
+       45.639527
+      ],
+      [
+       25.461356,
+       45.637695
+      ],
+      [
+       25.449584,
+       45.611041
+      ],
+      [
+       25.444383,
+       45.577337
+      ],
+      [
+       25.41903,
+       45.571406
+      ],
+      [
+       25.39435,
+       45.557191
+      ],
+      [
+       25.378154,
+       45.540218
+      ],
+      [
+       25.370655,
+       45.522283
+      ],
+      [
+       25.366213,
+       45.52244
+      ],
+      [
+       25.366447,
+       45.514484
+      ],
+      [
+       25.366213,
+       45.52244
+      ],
+      [
+       25.370655,
+       45.522283
+      ],
+      [
+       25.378154,
+       45.540218
+      ],
+      [
+       25.394558,
+       45.557358
+      ],
+      [
+       25.41903,
+       45.571406
+      ],
+      [
+       25.449044,
+       45.579233
+      ],
+      [
+       25.456202,
+       45.576491
+      ],
+      [
+       25.46021,
+       45.563634
+      ],
+      [
+       25.496144,
+       45.54755
+      ],
+      [
+       25.499654,
+       45.527851
+      ],
+      [
+       25.508616,
+       45.518906
+      ],
+      [
+       25.500158,
+       45.518724
+      ],
+      [
+       25.509971,
+       45.511885
+      ],
+      [
+       25.507438,
+       45.507464
+      ],
+      [
+       25.513422,
+       45.500596
+      ],
+      [
+       25.565654,
+       45.487103
+      ],
+      [
+       25.560694,
+       45.467672
+      ],
+      [
+       25.566466,
+       45.45615
+      ],
+      [
+       25.55013,
+       45.439037
+      ],
+      [
+       25.552607,
+       45.424671
+      ],
+      [
+       25.534472,
+       45.412548
+      ],
+      [
+       25.542153,
+       45.369417
+      ],
+      [
+       25.555727,
+       45.356088
+      ],
+      [
+       25.546889,
+       45.346495
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.64213%2C25.58918%7C45.5149%2C25.36716"
+   }
+  },
+  {
+   "day": 4,
+   "date": "2027-08-17",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Bears and dinosaurs",
+    "he": "דובים ודינוזאורים"
+   },
+   "trail": "blue",
+   "overnight": "hotel_carpathia",
+   "plan": [
+    {
+     "en": "Leave at 7:45 (Tuesday morning traffic towards the mountains is normal) – 1h03 to the Libearty Bear Sanctuary at Zărnești for the 9:45 guided tour (book ahead).",
+     "he": "יוצאים ב-7:45 (בוקר של יום שלישי, התנועה להרים רגילה) – שעה ו-3 דקות למקלט הדובים ליברטי בזרנשט לסיור המודרך של 9:45 (להזמין מראש)."
+    },
+    {
+     "en": "16 min to Dino Parc Râșnov: dinosaurs, playground and lunch; 2.5–3 h. Optional: the Râșnov Citadel next door (check that it is open).",
+     "he": "16 דקות לדינו פארק ראשנוב: דינוזאורים, מגרש משחקים וארוחת צהריים; 2.5–3 שעות. אופציונלי: מצודת ראשנוב שלידו (לבדוק שפתוחה)."
+    },
+    {
+     "en": "0h52 back to Sinaia, about 17:00 (southbound traffic is normal on a Tuesday afternoon). Evening in the pool.",
+     "he": "52 דקות חזרה לסינאיה, בסביבות 17:00 (ביום שלישי אחר הצהריים התנועה דרומה רגילה). ערב בבריכה."
+    }
+   ],
+   "attractions": [
+    "libearty",
+    "dino",
+    "rasnov"
+   ],
+   "route": {
+    "km": 97.5,
+    "minutes": 132,
+    "legs": [
+     {
+      "from": "Hotel Carpathia, Sinaia",
+      "to": "Libearty Bear Sanctuary, Zărnești",
+      "km": 47.5,
+      "min": 63
+     },
+     {
+      "from": "Libearty Bear Sanctuary, Zărnești",
+      "to": "Dino Parc Râșnov",
+      "km": 9.9,
+      "min": 16
+     },
+     {
+      "from": "Dino Parc Râșnov",
+      "to": "Hotel Carpathia, Sinaia",
+      "km": 40.1,
+      "min": 52
+     }
+    ],
+    "points": [
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     },
+     {
+      "name": "Libearty Bear Sanctuary, Zărnești",
+      "lat": 45.59319,
+      "lng": 25.38531
+     },
+     {
+      "name": "Dino Parc Râșnov",
+      "lat": 45.59147,
+      "lng": 25.47406
+     },
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       25.546889,
+       45.346495
+      ],
+      [
+       25.555727,
+       45.356088
+      ],
+      [
+       25.542153,
+       45.369417
+      ],
+      [
+       25.537411,
+       45.384282
+      ],
+      [
+       25.540239,
+       45.389573
+      ],
+      [
+       25.535408,
+       45.397743
+      ],
+      [
+       25.534472,
+       45.412548
+      ],
+      [
+       25.539466,
+       45.418612
+      ],
+      [
+       25.552607,
+       45.424671
+      ],
+      [
+       25.554774,
+       45.43044
+      ],
+      [
+       25.55013,
+       45.439037
+      ],
+      [
+       25.566466,
+       45.45615
+      ],
+      [
+       25.567614,
+       45.460389
+      ],
+      [
+       25.560694,
+       45.467672
+      ],
+      [
+       25.565654,
+       45.487103
+      ],
+      [
+       25.561328,
+       45.489167
+      ],
+      [
+       25.550585,
+       45.488929
+      ],
+      [
+       25.532276,
+       45.498031
+      ],
+      [
+       25.517021,
+       45.498506
+      ],
+      [
+       25.513296,
+       45.500698
+      ],
+      [
+       25.507438,
+       45.507464
+      ],
+      [
+       25.509971,
+       45.511885
+      ],
+      [
+       25.504417,
+       45.513981
+      ],
+      [
+       25.506699,
+       45.514758
+      ],
+      [
+       25.503308,
+       45.515167
+      ],
+      [
+       25.500158,
+       45.518724
+      ],
+      [
+       25.505728,
+       45.517782
+      ],
+      [
+       25.501877,
+       45.5204
+      ],
+      [
+       25.508616,
+       45.518906
+      ],
+      [
+       25.499654,
+       45.527851
+      ],
+      [
+       25.496215,
+       45.547463
+      ],
+      [
+       25.484781,
+       45.555268
+      ],
+      [
+       25.474549,
+       45.556125
+      ],
+      [
+       25.460113,
+       45.563714
+      ],
+      [
+       25.455147,
+       45.569496
+      ],
+      [
+       25.456202,
+       45.576491
+      ],
+      [
+       25.448674,
+       45.579701
+      ],
+      [
+       25.451863,
+       45.589509
+      ],
+      [
+       25.442815,
+       45.589752
+      ],
+      [
+       25.395468,
+       45.576913
+      ],
+      [
+       25.388522,
+       45.577996
+      ],
+      [
+       25.393567,
+       45.579375
+      ],
+      [
+       25.39195,
+       45.580286
+      ],
+      [
+       25.397323,
+       45.586682
+      ],
+      [
+       25.390303,
+       45.593386
+      ],
+      [
+       25.397323,
+       45.586682
+      ],
+      [
+       25.39195,
+       45.580286
+      ],
+      [
+       25.393567,
+       45.579375
+      ],
+      [
+       25.388522,
+       45.577996
+      ],
+      [
+       25.395692,
+       45.576902
+      ],
+      [
+       25.443115,
+       45.589813
+      ],
+      [
+       25.474133,
+       45.589948
+      ],
+      [
+       25.464677,
+       45.589838
+      ],
+      [
+       25.462057,
+       45.587471
+      ],
+      [
+       25.455251,
+       45.569198
+      ],
+      [
+       25.464638,
+       45.56068
+      ],
+      [
+       25.47475,
+       45.556071
+      ],
+      [
+       25.484552,
+       45.555368
+      ],
+      [
+       25.496144,
+       45.54755
+      ],
+      [
+       25.499654,
+       45.527851
+      ],
+      [
+       25.508616,
+       45.518906
+      ],
+      [
+       25.501877,
+       45.5204
+      ],
+      [
+       25.505728,
+       45.517782
+      ],
+      [
+       25.500158,
+       45.518724
+      ],
+      [
+       25.503308,
+       45.515167
+      ],
+      [
+       25.506699,
+       45.514758
+      ],
+      [
+       25.504417,
+       45.513981
+      ],
+      [
+       25.509971,
+       45.511885
+      ],
+      [
+       25.507438,
+       45.507464
+      ],
+      [
+       25.512988,
+       45.50102
+      ],
+      [
+       25.517021,
+       45.498506
+      ],
+      [
+       25.53238,
+       45.498001
+      ],
+      [
+       25.550827,
+       45.488856
+      ],
+      [
+       25.561328,
+       45.489167
+      ],
+      [
+       25.565654,
+       45.487103
+      ],
+      [
+       25.560694,
+       45.467672
+      ],
+      [
+       25.567614,
+       45.460389
+      ],
+      [
+       25.566466,
+       45.45615
+      ],
+      [
+       25.55013,
+       45.439037
+      ],
+      [
+       25.554774,
+       45.43044
+      ],
+      [
+       25.552607,
+       45.424671
+      ],
+      [
+       25.53954,
+       45.418662
+      ],
+      [
+       25.534472,
+       45.412548
+      ],
+      [
+       25.535408,
+       45.397743
+      ],
+      [
+       25.540233,
+       45.389632
+      ],
+      [
+       25.537411,
+       45.384282
+      ],
+      [
+       25.542153,
+       45.369417
+      ],
+      [
+       25.555727,
+       45.356088
+      ],
+      [
+       25.546889,
+       45.346495
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.59319%2C25.38531%7C45.59147%2C25.47406"
+   }
+  },
+  {
+   "day": 5,
+   "date": "2027-08-18",
+   "weekday": {
+    "en": "Wed",
+    "he": "ד'"
+   },
+   "title": {
+    "en": "Cable car to the Bucegi plateau, pool afternoon",
+    "he": "רכבל לרמת בוצ'ג'י ואחר צהריים בבריכה"
+   },
+   "trail": "blue",
+   "overnight": "hotel_carpathia",
+   "plan": [
+    {
+     "en": "Wednesday: be at the Bușteni cable car for the first ascent (about 8:30 on the 2026 winter timetable, so check the summer times; 11 min from Sinaia) – queues build up later; ride up to Babele, easy 10–15 min walk to the Sphinx and the rocks, jackets for the kids.",
+     "he": "יום רביעי: להיות ברכבל בושטני לעלייה הראשונה (בערך 8:30 לפי לוח החורף של 2026, לבדוק את שעות הקיץ; 11 דקות מסינאיה) – התורים גדלים מאוחר יותר; עולים לבבלה, הליכה קלה של 10–15 דקות לספינקס ולסלעים, ג'קטים לילדים."
+    },
+    {
+     "en": "Down by about 11:30, lunch in Bușteni or Sinaia (back before the afternoon crowds).",
+     "he": "יורדים בסביבות 11:30, ארוחת צהריים בבושטני או בסינאיה (חוזרים לפני ההמונים של אחר הצהריים)."
+    },
+    {
+     "en": "Afternoon: the hotel's indoor pool, saunas and hot tub (free spa access); pack. Fill the tank for tomorrow.",
+     "he": "אחר הצהריים: הבריכה המקורה, הסאונות והג'קוזי של המלון (ספא חינם); אורזים. מתדלקים לקראת מחר."
+    }
+   ],
+   "attractions": [
+    "babele"
+   ],
+   "route": {
+    "km": 18.1,
+    "minutes": 23,
+    "legs": [
+     {
+      "from": "Hotel Carpathia, Sinaia",
+      "to": "Bușteni – Babele cable car",
+      "km": 9.0,
+      "min": 11
+     },
+     {
+      "from": "Bușteni – Babele cable car",
+      "to": "Hotel Carpathia, Sinaia",
+      "km": 9.1,
+      "min": 12
+     }
+    ],
+    "points": [
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     },
+     {
+      "name": "Bușteni – Babele cable car",
+      "lat": 45.40883,
+      "lng": 25.52551
+     },
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       25.546889,
+       45.346495
+      ],
+      [
+       25.550138,
+       45.352237
+      ],
+      [
+       25.551673,
+       45.352547
+      ],
+      [
+       25.555646,
+       45.355735
+      ],
+      [
+       25.55556,
+       45.356611
+      ],
+      [
+       25.553898,
+       45.358841
+      ],
+      [
+       25.550723,
+       45.360427
+      ],
+      [
+       25.544053,
+       45.368254
+      ],
+      [
+       25.542153,
+       45.369417
+      ],
+      [
+       25.537769,
+       45.382312
+      ],
+      [
+       25.53767,
+       45.386658
+      ],
+      [
+       25.540239,
+       45.389573
+      ],
+      [
+       25.53873,
+       45.39457
+      ],
+      [
+       25.535446,
+       45.397602
+      ],
+      [
+       25.53454,
+       45.401309
+      ],
+      [
+       25.535135,
+       45.403029
+      ],
+      [
+       25.534654,
+       45.405179
+      ],
+      [
+       25.535259,
+       45.409016
+      ],
+      [
+       25.534553,
+       45.410631
+      ],
+      [
+       25.531254,
+       45.410584
+      ],
+      [
+       25.530125,
+       45.409313
+      ],
+      [
+       25.528794,
+       45.40964
+      ],
+      [
+       25.525421,
+       45.408702
+      ],
+      [
+       25.525165,
+       45.409174
+      ],
+      [
+       25.525564,
+       45.408664
+      ],
+      [
+       25.528297,
+       45.40953
+      ],
+      [
+       25.530125,
+       45.409313
+      ],
+      [
+       25.531254,
+       45.410584
+      ],
+      [
+       25.534553,
+       45.410631
+      ],
+      [
+       25.535259,
+       45.409016
+      ],
+      [
+       25.534654,
+       45.405179
+      ],
+      [
+       25.535135,
+       45.403029
+      ],
+      [
+       25.534535,
+       45.401393
+      ],
+      [
+       25.535408,
+       45.397743
+      ],
+      [
+       25.53873,
+       45.39457
+      ],
+      [
+       25.540233,
+       45.389632
+      ],
+      [
+       25.53767,
+       45.386658
+      ],
+      [
+       25.537769,
+       45.382312
+      ],
+      [
+       25.542153,
+       45.369417
+      ],
+      [
+       25.544269,
+       45.367823
+      ],
+      [
+       25.550723,
+       45.360427
+      ],
+      [
+       25.553898,
+       45.358841
+      ],
+      [
+       25.55556,
+       45.356611
+      ],
+      [
+       25.555646,
+       45.355735
+      ],
+      [
+       25.553279,
+       45.354343
+      ],
+      [
+       25.551673,
+       45.352547
+      ],
+      [
+       25.550138,
+       45.352237
+      ],
+      [
+       25.546889,
+       45.346495
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.40883%2C25.52551"
+   }
+  },
+  {
+   "day": 6,
+   "date": "2027-08-19",
+   "weekday": {
+    "en": "Thu",
+    "he": "ה'"
+   },
+   "title": {
+    "en": "Back to Bucharest, return the car, Cișmigiu Gardens",
+    "he": "חזרה לבוקרשט, החזרת הרכב וגני צ'ישמיג'יו"
+   },
+   "trail": "green",
+   "overnight": "hotel_maison",
+   "plan": [
+    {
+     "en": "Check out and leave Sinaia by 8:30 – Thursday morning DN1 towards Bucharest is fine. 1h46 to the airport (108 km); return the car (5 rental days) before 11:00–12:00.",
+     "he": "צ'ק-אאוט ויציאה מסינאיה עד 8:30 – בבוקר של יום חמישי DN1 לכיוון בוקרשט פנוי. שעה ו-46 דקות לשדה (108 ק\"מ); מחזירים את הרכב (5 ימי השכרה) לפני 11:00–12:00."
+    },
+    {
+     "en": "Taxi to the apartment (32 min, about €20; ask for 2 child seats or use a booked airport taxi). Self check-in from 15:00 – ask the host for early check-in or bag storage; lunch nearby.",
+     "he": "מונית לדירה (32 דקות, כ-20 €; לבקש 2 מושבי ילדים או מונית מוזמנת מהשדה). צ'ק-אין עצמי מ-15:00 – לבקש מהמארח צ'ק-אין מוקדם או שמירת מזוודות; ארוחת צהריים בסביבה."
+    },
+    {
+     "en": "Afternoon: Cișmigiu Gardens (a 7-minute walk): playground, lake and a rowing boat.",
+     "he": "אחר הצהריים: גני צ'ישמיג'יו (7 דקות הליכה): מגרש משחקים, אגם וסירת משוטים."
+    }
+   ],
+   "attractions": [
+    "cismigiu"
+   ],
+   "route": {
+    "km": 128.2,
+    "minutes": 137,
+    "legs": [
+     {
+      "from": "Hotel Carpathia, Sinaia",
+      "to": "Bucharest Henri Coandă Airport (OTP) – car return",
+      "km": 108.4,
+      "min": 106
+     },
+     {
+      "from": "Bucharest Henri Coandă Airport (OTP) – car return",
+      "to": "Maison Bucarest Apartments, Bucharest",
+      "km": 19.8,
+      "min": 32
+     }
+    ],
+    "points": [
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     },
+     {
+      "name": "Bucharest Henri Coandă Airport (OTP) – car return",
+      "lat": 44.5711,
+      "lng": 26.0858
+     },
+     {
+      "name": "Maison Bucarest Apartments, Bucharest",
+      "lat": 44.43471,
+      "lng": 26.08686
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       25.546889,
+       45.346495
+      ],
+      [
+       25.57351,
+       45.307991
+      ],
+      [
+       25.619042,
+       45.28542
+      ],
+      [
+       25.63968,
+       45.225819
+      ],
+      [
+       25.678792,
+       45.187367
+      ],
+      [
+       25.698609,
+       45.144142
+      ],
+      [
+       25.760032,
+       45.100488
+      ],
+      [
+       25.825275,
+       45.028519
+      ],
+      [
+       25.961252,
+       44.968473
+      ],
+      [
+       25.962196,
+       44.935773
+      ],
+      [
+       26.014023,
+       44.885845
+      ],
+      [
+       26.045741,
+       44.885162
+      ],
+      [
+       26.07671,
+       44.851435
+      ],
+      [
+       26.085846,
+       44.799117
+      ],
+      [
+       26.113176,
+       44.738578
+      ],
+      [
+       26.075427,
+       44.678755
+      ],
+      [
+       26.068522,
+       44.642706
+      ],
+      [
+       26.06989,
+       44.572631
+      ],
+      [
+       26.085891,
+       44.574227
+      ],
+      [
+       26.09325,
+       44.574585
+      ],
+      [
+       26.069897,
+       44.572697
+      ],
+      [
+       26.068379,
+       44.533967
+      ],
+      [
+       26.082107,
+       44.508608
+      ],
+      [
+       26.07219,
+       44.478022
+      ],
+      [
+       26.098217,
+       44.434751
+      ],
+      [
+       26.086889,
+       44.434824
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=44.43471,26.08686&travelmode=driving&waypoints=44.5711%2C26.0858"
+   }
+  },
+  {
+   "day": 7,
+   "date": "2027-08-20",
+   "weekday": {
+    "en": "Fri",
+    "he": "ו'"
+   },
+   "title": {
+    "en": "Therme water park",
+    "he": "פארק המים תרמה"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_maison",
+   "plan": [
+    {
+     "en": "Taxi to Therme București (35–45 min, about €15 each way; ask for child seats or book a taxi with seats). Weekday One Day Holiday tickets are the cheapest.",
+     "he": "מונית לתרמה בוקרשט (35–45 דקות, כ-15 € לכל כיוון; לבקש מושבי ילדים או להזמין מונית עם מושבים). כרטיסי One Day Holiday בימי חול הם הזולים ביותר."
+    },
+    {
+     "en": "10:30 – 16:30 in the Galaxy zone: wave pool, slides, kids' area, lunch inside. Back to the apartment for a quiet evening.",
+     "he": "10:30 – 16:30 באזור הגלקסי: בריכת גלים, מגלשות, אזור ילדים וארוחת צהריים בפנים. חוזרים לדירה לערב רגוע."
+    }
+   ],
+   "attractions": [
+    "therme"
+   ],
+   "route": null,
+   "no_drive_key": "no_drive_city"
+  },
+  {
+   "day": 8,
+   "date": "2027-08-21",
+   "weekday": {
+    "en": "Sat",
+    "he": "ש'"
+   },
+   "title": {
+    "en": "Natural history museum and the Old Town",
+    "he": "מוזיאון הטבע והעיר העתיקה"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_maison",
+   "plan": [
+    {
+     "en": "Taxi (10 min) or metro to the Antipa Museum (open Saturday; closed Monday): dinosaurs, the giant skeleton, the butterfly greenhouse; 2–3 h and lunch nearby.",
+     "he": "מונית (10 דקות) או מטרו למוזיאון אנטיפה (פתוח בשבת; סגור בשני): דינוזאורים, השלד הענק וחממת הפרפרים; 2–3 שעות וארוחת צהריים בסביבה."
+    },
+    {
+     "en": "Rest at the apartment, then a short evening walk in the Old Town (Lipscani) with ice cream and the Stavropoleos courtyard.",
+     "he": "מנוחה בדירה, ואז הליכה ערב קצרה בעיר העתיקה (ליפסקאני) עם גלידה והחצר של סטברופולאוס."
+    },
+    {
+     "en": "Fallback (rain or a different mood): Bucharest Zoo in Băneasa by taxi.",
+     "he": "חלופה (גשם או מצב רוח אחר): גן החיות של בוקרשט בבנאסה במונית."
+    }
+   ],
+   "attractions": [
+    "antipa",
+    "lipscani",
+    "zoo"
+   ],
+   "route": null,
+   "no_drive_key": "no_drive_city"
+  },
+  {
+   "day": 9,
+   "date": "2027-08-22",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Village Museum and Herăstrău Park",
+    "he": "מוזיאון הכפר ופארק הרשטרו"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_maison",
+   "plan": [
+    {
+     "en": "Taxi (about 20 min, €5–8) to the Village Museum (open Sunday): old houses, windmills and the wooden church, 9:30 – 11:30.",
+     "he": "מונית (כ-20 דקות, 5–8 €) למוזיאון הכפר (פתוח ביום ראשון): בתים עתיקים, טחנות רוח וכנסיית העץ, 9:30 – 11:30."
+    },
+    {
+     "en": "Walk into Herăstrău Park: playground, ice cream, the small passenger boat or two rowing boats on the lake.",
+     "he": "הליכה לפארק הרשטרו: מגרש משחקים, גלידה, הסירה המסיירת הקטנה או שתי סירות משוטים באגם."
+    },
+    {
+     "en": "Back by taxi for a rest; last dinner out and packing.",
+     "he": "חוזרים במונית למנוחה; ארוחת ערב אחרונה בחוץ ואריזות."
+    }
+   ],
+   "attractions": [
+    "village_museum",
+    "herastrau"
+   ],
+   "route": null,
+   "no_drive_key": "no_drive_city"
+  },
+  {
+   "day": 10,
+   "date": "2027-08-23",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Fly home",
+    "he": "טיסה הביתה"
+   },
+   "trail": "green",
+   "overnight": null,
+   "plan": [
+    {
+     "en": "TAROM RO 155 departs 20:45 and lands in TLV at 23:20.",
+     "he": "טארום RO 155 ממריאה ב-20:45 ונוחתת בנתב\"ג ב-23:20."
+    },
+    {
+     "en": "Self check-out, taxi to Henri Coandă Airport (25 min, about €20) about 3 hours before departure (morning traffic around Piața Victoriei and DN1 can be slow).",
+     "he": "צ'ק-אאוט עצמי, מונית לשדה התעופה הנרי קואנדה (25 דקות, כ-20 €) כשלוש שעות לפני ההמראה (תנועת הבוקר סביב כיכר ויקטוריה וב-DN1 יכולה להיות איטית)."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 17.7,
+    "minutes": 25,
+    "legs": [
+     {
+      "from": "Maison Bucarest Apartments, Bucharest",
+      "to": "Bucharest Henri Coandă Airport (OTP)",
+      "km": 17.7,
+      "min": 25
+     }
+    ],
+    "points": [
+     {
+      "name": "Maison Bucarest Apartments, Bucharest",
+      "lat": 44.43471,
+      "lng": 26.08686
+     },
+     {
+      "name": "Bucharest Henri Coandă Airport (OTP)",
+      "lat": 44.5711,
+      "lng": 26.0858
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       26.086889,
+       44.434824
+      ],
+      [
+       26.083243,
+       44.436806
+      ],
+      [
+       26.080959,
+       44.441905
+      ],
+      [
+       26.084715,
+       44.451947
+      ],
+      [
+       26.076622,
+       44.459106
+      ],
+      [
+       26.077959,
+       44.459734
+      ],
+      [
+       26.076106,
+       44.465381
+      ],
+      [
+       26.078488,
+       44.467229
+      ],
+      [
+       26.07306,
+       44.477691
+      ],
+      [
+       26.078869,
+       44.489215
+      ],
+      [
+       26.079156,
+       44.49607
+      ],
+      [
+       26.082239,
+       44.509027
+      ],
+      [
+       26.078976,
+       44.517248
+      ],
+      [
+       26.071195,
+       44.526259
+      ],
+      [
+       26.068513,
+       44.533955
+      ],
+      [
+       26.070236,
+       44.572176
+      ],
+      [
+       26.075603,
+       44.573885
+      ],
+      [
+       26.085891,
+       44.574227
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=44.43471,26.08686&destination=44.5711,26.0858&travelmode=driving"
+   }
+  }
+ ],
+ "routes_total": {
+  "km": 505.3,
+  "minutes": 596
+ },
+ "budget": {
+  "lines": [
+   {
+    "key": "flights",
+    "eur": 1261,
+    "status": "live",
+    "label": {
+     "en": "Flights – Wizz Air W4 3252 + TAROM RO 155, 4 passengers",
+     "he": "טיסות – וויז אייר W4 3252 + טארום RO 155, 4 נוסעים"
+    }
+   },
+   {
+    "key": "bags",
+    "eur": 360,
+    "status": "estimate",
+    "label": {
+     "en": "Baggage – 2 cabin trolleys + 2 suitcases each way",
+     "he": "כבודה – 2 טרולים + 2 מזוודות לכל כיוון"
+    }
+   },
+   {
+    "key": "car",
+    "eur": 250,
+    "status": "estimate",
+    "label": {
+     "en": "Estate car, automatic, 5 days",
+     "he": "רכב סטיישן אוטומטי, 5 ימים"
+    }
+   },
+   {
+    "key": "seats",
+    "eur": 40,
+    "status": "estimate",
+    "label": {
+     "en": "2 child boosters",
+     "he": "2 בוסטרים לילדים"
+    }
+   },
+   {
+    "key": "border",
+    "eur": 0,
+    "status": "live",
+    "label": {
+     "en": "Cross-border fee",
+     "he": "עמלת מעבר גבול"
+    }
+   },
+   {
+    "key": "transfers",
+    "eur": 70,
+    "status": "estimate",
+    "label": {
+     "en": "Bucharest taxis & airport transfers (with child seats)",
+     "he": "מוניות בבוקרשט והסעות לשדה (עם מושבי ילדים)"
+    }
+   },
+   {
+    "key": "vignette",
+    "eur": 0,
+    "status": "estimate",
+    "label": {
+     "en": "Rovinieta road vignette",
+     "he": "רובינייטה, מדבקת כביש"
+    }
+   },
+   {
+    "key": "fuel",
+    "eur": 62,
+    "status": "estimate",
+    "label": {
+     "en": "Fuel – ≈ 505 km",
+     "he": "דלק – כ-505 ק\"מ"
+    }
+   },
+   {
+    "key": "parking",
+    "eur": 20,
+    "status": "estimate",
+    "label": {
+     "en": "Parking",
+     "he": "חניה"
+    }
+   },
+   {
+    "key": "hotels",
+    "eur": 1420.88,
+    "status": "live",
+    "label": {
+     "en": "Hotels – 2 stays, 9 nights, free cancellation",
+     "he": "מלונות – 2 מקומות, 9 לילות, ביטול חינם"
+    }
+   },
+   {
+    "key": "att",
+    "eur": 541,
+    "status": "mixed",
+    "label": {
+     "en": "Attractions & Bucharest public transport (2,897 RON)",
+     "he": "אטרקציות ותחבורה ציבורית בבוקרשט (2,897 RON)"
+    }
+   }
+  ],
+  "total_eur": 4024.88,
+  "live_part_eur": 2681.88,
+  "attractions_local": 2897,
+  "fuel_km": 505
+ },
+ "ui": {
+  "en": {
+   "dir": "ltr",
+   "lang": "en",
+   "eyebrow": "Romania v2 research · air-conditioning check 21 Oct 2026 · awaiting your approval",
+   "total": "Estimated total",
+   "live_of": "of which {x} live prices",
+   "flights": "Flights",
+   "bases": "Bases",
+   "bases_v": "2 places",
+   "bases_s": "Sinaia 5 + Bucharest apartment 4 nights",
+   "driving": "Driving",
+   "drive_s": "car Days 1–6 only",
+   "changes": "How this plan was chosen",
+   "sec_flights": "Flights and alternatives",
+   "out_opts": "Outbound options",
+   "ret_opts": "Return options",
+   "option": "Option",
+   "when": "When",
+   "price4": "Price for 4",
+   "notes": "Notes",
+   "bags": "Baggage",
+   "fl_total": "Flights incl. baggage",
+   "dates": "v5 vs v4: what moving two days later changes",
+   "window": "10-day window",
+   "prague": "Prague 4 nights",
+   "lipno": "Lipno 5 nights",
+   "both": "Total",
+   "sec_days": "Day by day",
+   "sec_hotels": "Hotels",
+   "photo": "Photo",
+   "name": "Name",
+   "location": "Location",
+   "rating": "Rating",
+   "nights": "Nights",
+   "per_night": "Per night",
+   "sec_car": "Car (Romania only)",
+   "sec_routes": "Driving routes",
+   "day": "Day",
+   "from": "From",
+   "to": "To",
+   "km": "km",
+   "time": "Time",
+   "no_drive": "No driving",
+   "no_drive_city": "No car in Bucharest; public transport and taxi.",
+   "no_drive_free": "Free day at Lipno (optional Kleť: 92 km, 1h50).",
+   "sec_budget": "Budget",
+   "item": "Item",
+   "src": "Source",
+   "whole": "Whole trip",
+   "hours": "Hours",
+   "fprice": "Family price",
+   "tneed": "Time",
+   "nav": "Navigate",
+   "gmaps": "Google Maps",
+   "open_route": "Open route in Google Maps",
+   "overnight": "Overnight",
+   "home": "Home: TLV 23:20",
+   "optional": "OPTIONAL",
+   "live": "LIVE",
+   "est": "EST",
+   "checked": "CHECKED",
+   "mixed": "MIXED",
+   "photo_by": "Photo",
+   "legend": "LIVE = live price/rating found 17–18 Oct 2026 · EST = estimate · CHECKED = official or 2026 ticket price. EUR; 1 € ≈ 5.35 RON.",
+   "version": "Version",
+   "book": "Book on Booking.com",
+   "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
+   "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
+   "next": "Next step",
+   "next_t": "Romania v2 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "trails": {
+    "red": "",
+    "blue": "Sinaia",
+    "green": "Travel day",
+    "yellow": "Bucharest"
+   },
+   "trail_note": "(colour = area of the trip)",
+   "taxi_note": "Taxi leg (no rental car).",
+   "no_drive_air": "Short walk or hotel shuttle from the terminal.",
+   "cmp_item": "Item",
+   "dates2": "Dates and flights compared – 6 cheapest of all combinations (flights + estimated bags, hotels with free cancellation, car)",
+   "start": "Dates",
+   "airport_n": "Airport night",
+   "lipno_n": "Lipno 4 nights",
+   "prague_n": "Prague 4 nights",
+   "no_drive_base": "No driving today.",
+   "fl_bags": "Flights + bags",
+   "car_short": "Car",
+   "plan_eve": "evening arrival, late drive to the base",
+   "plan_day": "daytime arrival, straight to the base",
+   "ac": "Air conditioning",
+   "ac_short": "A/C ✓"
+  },
+  "he": {
+   "dir": "rtl",
+   "lang": "he",
+   "eyebrow": "רומניה גרסה 2 · בדיקת מיזוג אוויר 21.10.2026 · ממתין לאישורך",
+   "total": "סה\"כ משוער",
+   "live_of": "מתוכם {x} מחירים חיים",
+   "flights": "טיסות",
+   "bases": "בסיסים",
+   "bases_v": "2 מקומות",
+   "bases_s": "סינאיה 5 + דירה בבוקרשט 4 לילות",
+   "driving": "נהיגה",
+   "drive_s": "רכב רק בימים 1–6",
+   "changes": "איך נבחרה התוכנית",
+   "sec_flights": "טיסות וחלופות",
+   "out_opts": "אפשרויות טיסה הלוך",
+   "ret_opts": "אפשרויות טיסה חזור",
+   "option": "אפשרות",
+   "when": "מתי",
+   "price4": "מחיר ל-4",
+   "notes": "הערות",
+   "bags": "כבודה",
+   "fl_total": "טיסות כולל כבודה",
+   "dates": "גרסה 5 מול גרסה 4: מה משתנה כשזזים יומיים קדימה",
+   "window": "חלון של 10 ימים",
+   "prague": "פראג 4 לילות",
+   "lipno": "ליפנו 5 לילות",
+   "both": "סה\"כ",
+   "sec_days": "יום אחר יום",
+   "sec_hotels": "מלונות",
+   "photo": "תמונה",
+   "name": "שם",
+   "location": "מיקום",
+   "rating": "דירוג",
+   "nights": "לילות",
+   "per_night": "ללילה",
+   "sec_car": "רכב (רומניה בלבד)",
+   "sec_routes": "מסלולי נסיעה",
+   "day": "יום",
+   "from": "מ",
+   "to": "אל",
+   "km": "ק\"מ",
+   "time": "זמן",
+   "no_drive": "בלי נהיגה",
+   "no_drive_city": "בלי רכב בבוקרשט; תחבורה ציבורית ומוניות.",
+   "no_drive_free": "יום חופשי בליפנו (קלט אופציונלי: 92 ק\"מ, שעה ו-50 דקות).",
+   "sec_budget": "תקציב",
+   "item": "פריט",
+   "src": "מקור",
+   "whole": "כל הטיול",
+   "hours": "שעות",
+   "fprice": "מחיר למשפחה",
+   "tneed": "זמן",
+   "nav": "ניווט",
+   "gmaps": "Google Maps",
+   "open_route": "פתח מסלול ב-Google Maps",
+   "overnight": "לינה",
+   "home": "בבית: נתב\"ג 23:20",
+   "optional": "אופציונלי",
+   "live": "חי",
+   "est": "הערכה",
+   "checked": "נבדק",
+   "mixed": "משולב",
+   "photo_by": "צילום",
+   "legend": "חי = מחיר/דירוג חי מ-17–18.10.2026 · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו; 1 € ≈ 5.35 RON.",
+   "version": "גרסה",
+   "book": "הזמנה ב-Booking.com",
+   "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
+   "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
+   "next": "השלב הבא",
+   "next_t": "רומניה גרסה 2 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "trails": {
+    "red": "",
+    "blue": "סינאיה",
+    "green": "יום נסיעה",
+    "yellow": "בוקרשט"
+   },
+   "trail_note": "(הצבע = אזור בטיול)",
+   "taxi_note": "נסיעה במונית (בלי רכב שכור).",
+   "no_drive_air": "הליכה קצרה או שאטל המלון מהטרמינל.",
+   "cmp_item": "פריט",
+   "dates2": "השוואת תאריכים וטיסות – 6 הזולים מכל הצירופים (טיסות + הערכת כבודה, מלונות עם ביטול חינם, רכב)",
+   "start": "תאריכים",
+   "airport_n": "לילה בשדה",
+   "lipno_n": "ליפנו 4 לילות",
+   "prague_n": "פראג 4 לילות",
+   "no_drive_base": "בלי נהיגה היום.",
+   "fl_bags": "טיסות + כבודה",
+   "car_short": "רכב",
+   "plan_eve": "נחיתה בערב, נסיעה מאוחרת לבסיס",
+   "plan_day": "נחיתה ביום, ישר לבסיס",
+   "ac": "מיזוג אוויר",
+   "ac_short": "מזגן ✓"
+  }
+ },
+ "approved": {
+  "version": "ro v2",
+  "approved_on": "2026-10-21",
+  "by": "traveller"
+ },
+ "map": {
+  "country_outline_file": "romania.geojson",
+  "outline_source": "Natural Earth (public domain) via world-atlas 2.0.2",
+  "center": [
+   45.9,
+   24.9
+  ],
+  "zoom": 6,
+  "tiles_online": {
+   "url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+   "attribution": "© OpenStreetMap contributors"
+  }
+ },
+ "route_modes": {
+  "D1": "car",
+  "D2": "car",
+  "D3": "car",
+  "D4": "car",
+  "D5": "car",
+  "D6": "car to OTP, then taxi",
+  "D10": "taxi"
+ },
+ "points_of_interest_types": {
+  "airport": "OTP – arrival, departure, car pick-up and return",
+  "hotel": "overnight stays",
+  "attraction": "activities"
+ }
+}

@@ -1,0 +1,4163 @@
+{
+ "no_airport_hotel": true,
+ "country": {
+  "id": "si",
+  "name": {
+   "en": "Slovenia",
+   "he": "סלובניה"
+  },
+  "currency": "EUR",
+  "per_eur": 1,
+  "airport": {
+   "code": "LJU",
+   "name": "Ljubljana Jože Pučnik Airport",
+   "lat": 46.2237,
+   "lng": 14.4576
+  },
+  "city": {
+   "en": "Ljubljana",
+   "he": "לובליאנה"
+  },
+  "base": {
+   "en": "Lake Bled (Julian Alps)",
+   "he": "אגם בלד (האלפים היוליאניים)"
+  }
+ },
+ "variant": "day",
+ "version": {
+  "id": "v1",
+  "date": "2026-10-21",
+  "label": {
+   "en": "Slovenia v1",
+   "he": "סלובניה גרסה 1"
+  }
+ },
+ "taxi_days": [
+  "D10"
+ ],
+ "car_km": 410.8,
+ "changes": [
+  {
+   "en": "Dates Sun 15 – Tue 24 Aug 2027 (daytime arrival, straight to the base): the cheapest of 13 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €4,166).",
+   "he": "תאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה ביום, ישר לבסיס): הזול מבין 13 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-4,166 €)."
+  },
+  {
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: SWISS LX 257 + LX 2274 04:50→14:00; back: Aegean A3 791 + A3 926 09:20→19:00.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: סוויס LX 257 + LX 2274 04:50←14:00; חזור: אגיאן A3 791 + A3 926 09:20←19:00."
+  },
+  {
+   "en": "Next best: Sat 14 – Mon 23 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €4,226 (+€60); back SWISS 06:15→17:00.",
+   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-4,226 € (+60 €); חזור סוויס 06:15←17:00."
+  },
+  {
+   "en": "Next best: Tue 17 – Thu 26 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €4,259 (+€93); back Lufthansa 10:10→23:15.",
+   "he": "הבא בתור: ג' 17 – ה' 26 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-4,259 € (+93 €); חזור לופטהנזה 10:10←23:15."
+  },
+  {
+   "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
+   "he": "אותם כללים כמו בתוכנית לצ'כיה: בלי מעבר גבולות, עד 3 מלונות, כולם עם ביטול חינם, הרבה אטרקציות לילדים, מעט הליכה, ימים קצרים, בלי רכב בעיר."
+  }
+ ],
+ "trip": {
+  "dates": {
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "days": 10,
+   "nights": 9
+  },
+  "title": {
+   "en": "Slovenia Family Trip: Lake Bled, Bohinj, Postojna Cave & Ljubljana",
+   "he": "טיול משפחתי בסלובניה: אגם בלד, בוהין, מערת פוסטוינה ולובליאנה"
+  },
+  "lede": {
+   "en": "Sun 15 – Tue 24 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. A rental car from Ljubljana Airport (afternoon pick-up on arrival) and 5 nights in an air-conditioned apartment 300 m from Lake Bled (pletna boat to the island, Bled Castle, cream cake, Vintgar Gorge boardwalk, Lake Bohinj, Postojna Cave and Predjama Castle), then 4 nights in an air-conditioned Ljubljana apartment without a car (Old Town, House of Experiments, zoo, castle funicular, river boat, Tivoli Park).",
+   "he": "ראשון 15 – שלישי 24 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. רכב שכור משדה התעופה של לובליאנה (איסוף אחר הצהריים עם הנחיתה) ו-5 לילות בדירה ממוזגת במרחק 300 מ' מאגם בלד (סירת פלטנה לאי, טירת בלד, עוגת קרם, שביל העץ בערוץ וינטגר, אגם בוהין, מערת פוסטוינה וטירת פרדיאמה), ואחר כך 4 לילות בדירה ממוזגת בלובליאנה בלי רכב (העיר העתיקה, בית הניסויים, גן החיות, פוניקולר הטירה, שייט בנהר וטיבולי)."
+  }
+ },
+ "currency": "EUR",
+ "local_per_eur": 1,
+ "local_currency": "EUR",
+ "flights": {
+  "chosen": [
+   {
+    "dir": {
+     "en": "Outbound",
+     "he": "הלוך"
+    },
+    "date": "2027-08-15",
+    "wd": {
+     "en": "Sun",
+     "he": "א'"
+    },
+    "flight": "LX 257 + LX 2274",
+    "airline": "SWISS",
+    "from": "TLV",
+    "to": "LJU",
+    "dep": "04:50",
+    "arr": "14:00",
+    "duration": "10h 10m",
+    "price_eur": 958
+   },
+   {
+    "dir": {
+     "en": "Return",
+     "he": "חזור"
+    },
+    "date": "2027-08-24",
+    "wd": {
+     "en": "Tue",
+     "he": "ג'"
+    },
+    "flight": "A3 791 + A3 926",
+    "airline": "Aegean",
+    "from": "LJU",
+    "to": "TLV",
+    "dep": "09:20",
+    "arr": "19:00",
+    "duration": "8h 40m",
+    "price_eur": 864
+   }
+  ],
+  "evening_outbound_options": [
+   {
+    "what": {
+     "en": "SWISS LX 257 + LX 2274 · 04:50 → 14:00 · 1 stop ",
+     "he": "סוויס LX 257 + LX 2274 · 04:50 → 14:00 · עצירה ב"
+    },
+    "when": {
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
+    },
+    "price_eur": 958,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "Lufthansa LH 695 + LH 1462 · 08:00 → 21:50 · 1 stop ",
+     "he": "לופטהנזה LH 695 + LH 1462 · 08:00 → 21:50 · עצירה ב"
+    },
+    "when": {
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
+    },
+    "price_eur": 907,
+    "note": {
+     "en": "€51 cheaper; 14 hr 50 min with a connection.",
+     "he": "זולה ב-51 €; 14 שע׳ 50 דק׳ עם קונקשן."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Lufthansa LH 683 + LH 1698 · 07:00 → 19:20 · 1 stop ",
+     "he": "לופטהנזה LH 683 + LH 1698 · 07:00 → 19:20 · עצירה ב"
+    },
+    "when": {
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
+    },
+    "price_eur": 1231,
+    "note": {
+     "en": "€273 more; 13 hr 20 min with a connection.",
+     "he": "יקרה ב-273 €; 13 שע׳ 20 דק׳ עם קונקשן."
+    },
+    "best": false
+   }
+  ],
+  "return_options": [
+   {
+    "what": {
+     "en": "Aegean A3 791 + A3 926 · 09:20 → 19:00 · 1 stop ",
+     "he": "אגיאן A3 791 + A3 926 · 09:20 → 19:00 · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
+    },
+    "price_eur": 864,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "Aegean A3 791 + A3 928 · 09:20 → 02:45 (+1) · 1 stop ",
+     "he": "אגיאן A3 791 + A3 928 · 09:20 → 02:45 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
+    },
+    "price_eur": 996,
+    "note": {
+     "en": "€132 more; 16 hr 25 min with a connection; arrives the next day.",
+     "he": "יקרה ב-132 €; 16 שע׳ 25 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "KLM KL 1990 + KL 461 · 12:40 → 02:35 (+1) · 1 stop ",
+     "he": "KLM KL 1990 + KL 461 · 12:40 → 02:35 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
+    },
+    "price_eur": 1009,
+    "note": {
+     "en": "€145 more; 12 hr 55 min with a connection; arrives the next day.",
+     "he": "יקרה ב-145 €; 12 שע׳ 55 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   }
+  ],
+  "baggage_eur": 320,
+  "baggage_text": {
+   "en": "Checked-bag rules differ by fare and airline; for the 2 suitcases and 2 cabin trolleys I assume about €160 per direction (estimate – check the fare conditions when booking). Total ≈ €320.",
+   "he": "כללי הכבודה משתנים לפי תעריף וחברה; ל-2 המזוודות ו-2 הטרולים אני מניח כ-160 € לכיוון (הערכה – לבדוק בתנאי התעריף בזמן ההזמנה). סה\"כ כ-320 €."
+  },
+  "note": {
+   "en": "Live Google Flights prices found 17–18 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included.",
+   "he": "מחירים חיים מ-Google Flights מ-17–18.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה."
+  }
+ },
+ "date_options": [
+  {
+   "total_eur": 4166.3,
+   "plan": "day",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 958,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257 + LX 2274",
+    "dep": "04:50",
+    "arr": "14:00"
+   },
+   "back": {
+    "eur": 864,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 791 + A3 926",
+    "dep": "09:20",
+    "arr": "19:00"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": true
+  },
+  {
+   "total_eur": 4226.3,
+   "plan": "day",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 637,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257 + LX 2274",
+    "dep": "04:50",
+    "arr": "14:00"
+   },
+   "back": {
+    "eur": 1245,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 2279 + LX 252",
+    "dep": "06:15",
+    "arr": "17:00"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4259.3,
+   "plan": "day",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 700,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "",
+    "dep": "04:50",
+    "arr": "14:00"
+   },
+   "back": {
+    "eur": 1215,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1459 + LH 690",
+    "dep": "10:10",
+    "arr": "23:15"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4265.3,
+   "plan": "day",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 766,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257 + LX 2274",
+    "dep": "04:50",
+    "arr": "14:00"
+   },
+   "back": {
+    "eur": 1155,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 2279 + LX 252",
+    "dep": "06:15",
+    "arr": "17:00"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4326.3,
+   "plan": "day",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 767,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257 + LX 2274",
+    "dep": "04:50",
+    "arr": "14:00"
+   },
+   "back": {
+    "eur": 1215,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1463 + LH 686",
+    "dep": "06:25",
+    "arr": "15:25"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4410.3,
+   "plan": "day",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 851,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257 + LX 2274",
+    "dep": "04:50",
+    "arr": "14:00"
+   },
+   "back": {
+    "eur": 1215,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1463 + LH 686",
+    "dep": "06:25",
+    "arr": "15:25"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4452.3,
+   "plan": "eve",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 863,
+    "bags_eur": 160,
+    "airline": "Brussels Airlines",
+    "flight": "SN 3294 + SN 3343",
+    "dep": "04:50",
+    "arr": "18:25"
+   },
+   "back": {
+    "eur": 1245,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 2279 + LX 252",
+    "dep": "06:15",
+    "arr": "17:00"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4466.3,
+   "plan": "eve",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 907,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 695 + LH 1462",
+    "dep": "08:00",
+    "arr": "21:50"
+   },
+   "back": {
+    "eur": 1215,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1463 + LH 686",
+    "dep": "06:25",
+    "arr": "15:25"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4466.3,
+   "plan": "eve",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 907,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "",
+    "dep": "08:00",
+    "arr": "21:50"
+   },
+   "back": {
+    "eur": 1215,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1459 + LH 690",
+    "dep": "10:10",
+    "arr": "23:15"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4510.3,
+   "plan": "eve",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 1011,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 695 + LH 1462",
+    "dep": "08:00",
+    "arr": "21:50"
+   },
+   "back": {
+    "eur": 1155,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 2279 + LX 252",
+    "dep": "06:15",
+    "arr": "17:00"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4571.3,
+   "plan": "eve",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 1012,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 695 + LH 1462",
+    "dep": "08:00",
+    "arr": "21:50"
+   },
+   "back": {
+    "eur": 1215,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1463 + LH 686",
+    "dep": "06:25",
+    "arr": "15:25"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4682.3,
+   "plan": "day",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 850,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257 + LX 2274",
+    "dep": "04:50",
+    "arr": "14:00"
+   },
+   "back": {
+    "eur": 1488,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 791 + A3 926",
+    "dep": "09:20",
+    "arr": "19:00"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4695.3,
+   "plan": "eve",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 863,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 929 + A3 790",
+    "dep": "05:00",
+    "arr": "17:50"
+   },
+   "back": {
+    "eur": 1488,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 791 + A3 926",
+    "dep": "09:20",
+    "arr": "19:00"
+   },
+   "hotels_eur": 1659.3,
+   "car_eur": 365,
+   "chosen": false
+  }
+ ],
+ "airports": {
+  "LJU": {
+   "name": "Ljubljana Jože Pučnik Airport",
+   "lat": 46.2237,
+   "lng": 14.4576,
+   "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.223700,14.457600&travelmode=driving"
+  }
+ },
+ "sources": [
+  [
+   "Bled tourism – pletna boat price 2026",
+   "https://www.bled.si/en/what-to-see-do/attractions/38/1/"
+  ],
+  [
+   "Bled Castle – price list",
+   "https://www.blejski-grad.si/en/plan-your-visit/price-list/"
+  ],
+  [
+   "Vintgar Gorge – opening hours and All-in-One pass",
+   "https://www.vintgar.si/en/my-visit/opening-hours/"
+  ],
+  [
+   "Bohinj – panoramic boat (2026 prices)",
+   "https://www.bohinj.si/en/panoramic-boat/"
+  ],
+  [
+   "Vogel official site",
+   "https://www.vogel.si/en/"
+  ],
+  [
+   "Postojna Cave – tickets: cave + Predjama",
+   "https://tickets.postojnska-jama.eu/en/postojna-cave-predjama-castle/pack-107.html"
+  ],
+  [
+   "Visit Ljubljana – castle funicular",
+   "https://www.visitljubljana.com/en/poi/funicular-railway-to-ljubljana-castle/"
+  ],
+  [
+   "Ljubljana Zoo – info and opening hours",
+   "https://www.zoo.si/en/info"
+  ],
+  [
+   "DARS e-vignette (official shop)",
+   "https://evinjeta.dars.si"
+  ],
+  [
+   "fuel-prices.eu – Slovenia vignette prices",
+   "https://www.fuel-prices.eu/vignette/slovenia/2027/"
+  ],
+  [
+   "The Slovenia – new e-vignette 2026 prices",
+   "https://the-slovenia.com/en/slovenija/new-e-vignette-for-slovenian-motorways/"
+  ],
+  [
+   "fuel-prices.eu – Slovenia petrol prices",
+   "https://www.fuel-prices.eu/Slovenia(SI)/"
+  ],
+  [
+   "Trvlogue – Ljubljana Airport to the city centre (2026)",
+   "https://www.trvlogue.com/en/ljubljana-airport-city-center-guide"
+  ],
+  [
+   "Skyscanner – car hire at Ljubljana Airport",
+   "https://www.skyscanner.ie/car-hire-from/lju/car-hire-from-ljubljana-airport.html"
+  ],
+  [
+   "sendmybag.com – Wizz Air baggage 2026",
+   "https://www.sendmybag.com/airlines/wizz-air-baggage-allowance/"
+  ],
+  [
+   "aifly – El Al baggage",
+   "https://aifly.one/guides/el-al-baggage-allowance/"
+  ]
+ ],
+ "car": {
+  "lines": [
+   [
+    {
+     "en": "Estate/compact SUV, automatic, 5 days (≈ €65/day), Sun 15 (afternoon pick-up) – Fri 20 Aug (return by about 12:00)",
+     "he": "רכב סטיישן/קרוסאובר אוטומטי, 5 ימים (כ-65 € ליום), א' 15 (איסוף אחר הצהריים) – ו' 20 באוגוסט (החזרה עד כ-12:00)"
+    },
+    325,
+    true
+   ],
+   [
+    {
+     "en": "2 child seats / boosters, 5 days (€0 if you bring your own)",
+     "he": "2 מושבי ילדים/בוסטרים, 5 ימים (0 € אם מביאים משלכם)"
+    },
+    40,
+    true
+   ],
+   [
+    {
+     "en": "Slovenia e-vignette, passenger car 7 days €16 (DARS 2026 price; normally already valid on a rental car, then €0)",
+     "he": "וינייטה אלקטרונית לסלובניה, רכב פרטי 7 ימים 16 € (מחיר DARS 2026; בדרך כלל כבר בתוקף ברכב שכור, ואז 0 €)"
+    },
+    16,
+    true
+   ],
+   [
+    {
+     "en": "Cross-border fee (no border crossings)",
+     "he": "עמלת מעבר גבול (אין מעבר גבול)"
+    },
+    0,
+    false
+   ],
+   [
+    {
+     "en": "One-way fee (pick-up and return at Ljubljana Airport)",
+     "he": "עמלת החזרה במקום אחר (איסוף והחזרה בשדה התעופה של לובליאנה)"
+    },
+    0,
+    false
+   ]
+  ],
+  "text": {
+   "en": "Pick-up at Ljubljana Airport (LJU) after a daytime landing on Sun 15 Aug; return Fri 20 Aug at the airport by about 12:00 = 5 rental days. Sunday 15 Aug is a public holiday and Enterprise lists only 07:00–20:00 on Sundays: with a daytime landing before about 15:00 the desks are open. Category: compact estate or small SUV – 2 large suitcases + 2 trolleys in the boot, 2 boosters on the rear seat. The car price is an estimate (aggregator pages show about €33–150 a day).",
+   "he": "איסוף בשדה התעופה של לובליאנה (LJU) עם הנחיתה ביום א' 15 באוגוסט; החזרה ביום ו' 20 באוגוסט בשדה לפני אותה שעה של האיסוף = 5 ימי השכרה. ראשון 15 באוגוסט הוא חג ציבורי ו-Enterprise מציינת רק 07:00–20:00 בימי ראשון: בנחיתת יום לפני כ-15:00 הדלפקים פתוחים. קטגוריה: סטיישן קומפקטי או קרוסאובר קטן – 2 מזוודות גדולות ו-2 טרולי בתא המטען, 2 בוסטרים במושב האחורי. מחיר הרכב הוא הערכה (דפי השוואה מציגים כ-33–150 € ליום)."
+  }
+ },
+ "driving_notes": [
+  {
+   "en": "Night arrival (Sun 15 Aug, landing 21:50): the road LJU – Bled is a quiet motorway/main road, 33 min in daylight, 35–45 min at night; deer and wildlife can cross near forests, so drive calmly, and arrive after about 23:00. Return the car on Fri 20 Aug at a normally staffed time (a Friday).",
+   "he": "הגעה בלילה (ראשון 15 באוגוסט, נחיתה 21:50): הכביש מ-LJU לבלד הוא כביש מהיר/ראשי שקט, 33 דקות ביום, 35–45 דקות בלילה; ליד יערות עלולים לחצות איילים וחיות בר, אז נוהגים בשקט, ומגיעים אחרי כ-23:00. מחזירים את הרכב ביום ו' 20 באוגוסט בשעה שהדלפקים מאוישים בה (יום שישי)."
+  },
+  {
+   "en": "E-vignette: passenger car 7-day €16, 1-month €32, year €117.50 (DARS 2026 prices; 2027 not yet announced). Required on all motorways and expressways (A1/A2 to Postojna, Bled and the airport); cameras read the plate. Slovenian rental cars normally already have it – confirm at pick-up; otherwise buy at evinjeta.dars.si before driving (the 7-day pass covers the 5 rental days).",
+   "he": "וינייטה אלקטרונית: רכב פרטי ל-7 ימים 16 €, חודש 32 €, שנה 117.50 € (מחירי DARS 2026; 2027 טרם פורסמו). נדרשת בכל הכבישים המהירים (A1/A2 לפוסטוינה, לבלד ולשדה); מצלמות קוראות את הלוחית. ברכב שכור בסלובניה היא בדרך כלל כבר קיימת – לאשר באיסוף; אחרת לקנות ב-evinjeta.dars.si לפני הנסיעה (כרטיס ל-7 ימים מכסה את 5 ימי ההשכרה)."
+  },
+  {
+   "en": "Child seats: children under 12 and under 150 cm need an approved child seat or booster, and may not sit in the front without one. Request 2 seats when booking the car. (Rule as commonly published – confirm with the rental company.)",
+   "he": "מושבי ילדים: ילדים מתחת לגיל 12 ומתחת ל-150 ס\"מ חייבים מושב/בוסטר מאושר ואסור שישבו מקדימה בלעדיו. להזמין 2 מושבים בהזמנת הרכב. (כלל כפי שמפורסם בדרך כלל – לאשר מול חברת ההשכרה.)"
+  },
+  {
+   "en": "Dipped headlights are required day and night all year. Alcohol limit 0.05% (practically: do not drink if you drive). Speed limits: 50 km/h in towns, 90 outside, 110 on expressways, 130 on motorways. Phones only hands-free.",
+   "he": "אורות נמוכים חובה יום ולילה כל השנה. מגבלת אלכוהול 0.05% (בפועל: לא שותים אם נוהגים). מהירויות: 50 קמ\"ש בערים, 90 מחוץ לעיר, 110 בכבישים מהירים רגילים, 130 בכבישים מהירים. טלפון רק דרך דיבורית."
+  },
+  {
+   "en": "Parking: Bled has paid lots (about €1.50–2.50 an hour, estimate; the Mlino apartment has free parking); Vintgar has a car park/shuttle (Green Access ≈ €2.50 per adult); Bohinj and Predjama/Postojna have paid lots. Ljubljana's centre is largely car-free: no car there (return it at the airport). Fuel: Euro 95 about €1.56–1.76/l (EU Oil Bulletin / fuel-prices.eu, Aug–Oct 2026).",
+   "he": "חניה: בבלד יש חניונים בתשלום (כ-1.50–2.50 € לשעה, הערכה; בדירה במלינו חניה חינם); בוינטגר חניון/שאטל (Green Access ≈ 2.50 € למבוגר); בבוהין ובפרדיאמה/פוסטוינה חניונים בתשלום. מרכז לובליאנה סגור ברובו לרכבים: אין רכב שם (מחזירים אותו בשדה). דלק: בנזין 95 כ-1.56–1.76 € לליטר (דוח הנפט של האיחוד / fuel-prices.eu, אוגוסט–אוקטובר 2026)."
+  },
+  {
+   "en": "Day 5 (Postojna) is the only long drive: 1h12–1h26 each way on motorway. Mountain roads to Bohinj are winding but short; August weekend traffic around Bled and Vintgar builds from 10:00, so start early.",
+   "he": "יום 5 (פוסטוינה) הוא הנסיעה הארוכה היחידה: 1:12–1:26 שעות לכל כיוון בכביש מהיר. כבישי ההרים לבוהין מתפתלים אבל קצרים; בסופי שבוע באוגוסט התנועה סביב בלד ווינטגר גדלה מ-10:00, אז מתחילים מוקדם."
+  }
+ ],
+ "hotels": [
+  {
+   "id": "hotel_bled",
+   "gkey": "hotel_bled",
+   "name": "Apartment Muznik",
+   "area": {
+    "en": "Bled, Prežihova 4, Mlino (south shore; about 300 m to Lake Bled and the Mlino pletna pier, Bled centre ≈ 1.5 km; 37 km / 33 min from LJU)",
+    "he": "בלד, פרז'יחובה 4, מלינו (החוף הדרומי; כ-300 מ' מאגם בלד ומרציף הפלטנה במלינו, מרכז בלד כ-1.5 ק\"מ; 37 ק\"מ / 33 דקות משדה התעופה)"
+   },
+   "checkin": "2027-08-15",
+   "checkout": "2027-08-20",
+   "nights": 5,
+   "total_eur": 950.0,
+   "booking_score": 8.9,
+   "booking_reviews": 665,
+   "booking_url": "https://www.booking.com/hotel/si/apartment-muznik.html?checkin=2027-08-15&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Apartment for up to 5 with a fully equipped kitchen, free parking, terrace/garden and BBQ; free cancellation. Check-in from 15:00 (check-out until 10:00), private (key) check-in with no reception. You land at 21:50 and arrive after about 23:00: Booking's Q&A says to tell the property your arrival time in advance and to ask about any late-arrival fee, but it does not say whether a key box or code is used – get the late self check-in instructions in writing before you fly. No pool: the lake is the pool (swimming spots 300 m away).",
+    "he": "דירה עד 5 אנשים עם מטבח מאובזר, חניה חינם, מרפסת/גינה וגריל; ביטול חינם. צ'ק-אין מ-15:00 (צ'ק-אאוט עד 10:00), צ'ק-אין פרטי (מפתח) בלי קבלה. נוחתים ב-21:50 ומגיעים אחרי כ-23:00: לפי השאלות והתשובות ב-Booking צריך לעדכן מראש את הנכס בשעת ההגעה ולברר אם יש תוספת על הגעה מאוחרת, אבל לא נאמר אם יש כספת מפתחות או קוד – לקבל בכתב הוראות צ'ק-אין עצמי מאוחר לפני הטיסה. אין בריכה: האגם הוא הבריכה (מקומות רחצה במרחק 300 מ')."
+   },
+   "ac": {
+    "en": "Air conditioning confirmed (Booking facility list and Booking property Q&A, 21 Oct 2026): the apartment is air-conditioned and the A/C is free of charge. The room photo shows a wall-mounted unit.",
+    "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking ושאלות ותשובות על הנכס, 21.10.2026): הדירה ממוזגת והמיזוג חינם. בתמונת החדר נראית יחידה תלויה על הקיר."
+   },
+   "alt": {
+    "en": "ININ Apartments €889.13 (Booking 9.6, 209 reviews; A/C free, kitchenette, sleeps up to 8, about 3 km / 25 min walk from the lake, no pool). Apartmaji Sparakel €889.13 (Booking 8.8, 107 reviews; A/C free, kitchenette, sleeps 4, 1.1 km from the lake). Pr Anzl €1,614.13 (Booking 9.6, 1,038 reviews; kids' outdoor play equipment, water park/sauna listed, A/C in Booking's facility list – confirm the room type). (Alternative prices were checked for 14–23 Aug.)",
+    "he": "ININ Apartments ב-889.13 € (Booking 9.6, 209 ביקורות; מיזוג חינם, מטבחון, עד 8 אנשים, כ-3 ק\"מ / 25 דקות הליכה מהאגם, בלי בריכה). Apartmaji Sparakel ב-889.13 € (Booking 8.8, 107 ביקורות; מיזוג חינם, מטבחון, 4 אנשים, 1.1 ק\"מ מהאגם). Pr Anzl ב-1,614.13 € (Booking 9.6, 1,038 ביקורות; ציוד משחקים חיצוני לילדים, פארק מים/סאונה ברשימה, מיזוג ברשימת המתקנים של Booking – לוודא את סוג החדר). (מחירי החלופות נבדקו ל-14–23 באוגוסט.)"
+   },
+   "google_note": {
+    "en": "Google: 4.9 from 45 reviews; Booking.com 8.9 from 665 reviews.",
+    "he": "בגוגל: 4.9 מתוך 45 ביקורות; ב-Booking.com 8.9 מתוך 665 ביקורות."
+   },
+   "google": {
+    "name": "Apartments Muznik Bled",
+    "rating": 4.9,
+    "reviews": 45,
+    "lat": 46.357435,
+    "lng": 14.100263,
+    "address": "Prežihova cesta 4, 4260 Bled, Slovenia",
+    "website": "http://www.bled-accommodation.com/",
+    "place_id": "ChIJ1c3h6EqRekcRO0CrVKPSdd0",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Apartments%20Muznik%20Bled&query_place_id=ChIJ1c3h6EqRekcRO0CrVKPSdd0",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.357435,14.100263&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_bled-1.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Apartments%20Muznik%20Bled&query_place_id=ChIJ1c3h6EqRekcRO0CrVKPSdd0",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_bled-2.jpg",
+     "w": 1000,
+     "h": 500,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Apartments%20Muznik%20Bled&query_place_id=ChIJ1c3h6EqRekcRO0CrVKPSdd0",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 190.0,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 8.9,
+     "out_of": 10,
+     "reviews": 665,
+     "url": "https://www.booking.com/hotel/si/apartment-muznik.html?checkin=2027-08-15&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.9,
+     "out_of": 5,
+     "reviews": 45,
+     "url": "https://www.google.com/maps/search/?api=1&query=Apartments%20Muznik%20Bled&query_place_id=ChIJ1c3h6EqRekcRO0CrVKPSdd0"
+    }
+   ]
+  },
+  {
+   "id": "hotel_lj",
+   "gkey": "hotel_lj",
+   "name": "Absolutum Apartments",
+   "area": {
+    "en": "Ljubljana city centre, Trubarjeva cesta 23b (under 1 km from the Old Town and Triple Bridge; castle funicular station ≈ 700 m)",
+    "he": "מרכז לובליאנה, טרובארייבה 23b (פחות מ-1 ק\"מ מהעיר העתיקה ומהגשר המשולש; תחנת הפוניקולר לטירה כ-700 מ')"
+   },
+   "checkin": "2027-08-20",
+   "checkout": "2027-08-24",
+   "nights": 4,
+   "total_eur": 709.3,
+   "booking_score": 9.0,
+   "booking_reviews": 140,
+   "booking_url": "https://www.booking.com/hotel/si/absolutum-apartments.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Family apartment with one bedroom, sleeps up to 4, with a kitchenette and a garden; free cancellation. Check-in from 15:00, check-out until 11:00; you arrive around 13:00 from the airport on Fri 20 Aug, so ask the host for early check-in or bag storage. Lift not listed. Parking is not needed (no car in the city). Departure Tue 24 Aug is at about 06:15 for the 09:20 flight: agree a self check-out (leave the key as instructed).",
+    "he": "דירה משפחתית עם חדר שינה אחד, עד 4 אנשים, עם מטבחון וגינה; ביטול חינם. צ'ק-אין מ-15:00, צ'ק-אאוט עד 11:00; מגיעים מהשדה בסביבות 13:00 ביום ו' 20 באוגוסט, אז כדאי לבקש מהמארח צ'ק-אין מוקדם או שמירת מזוודות. מעלית לא מופיעה ברשימה. חניה אינה נחוצה (אין רכב בעיר). היציאה ביום ג' 24 באוגוסט היא בסביבות 06:15 לטיסה של 09:20: לתאם צ'ק-אאוט עצמי (משאירים את המפתח לפי ההוראות)."
+   },
+   "ac": {
+    "en": "Air conditioning confirmed (Booking facility list and Booking property Q&A, 21 Oct 2026): the family apartment is air-conditioned and the A/C is included at no extra charge.",
+    "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking ושאלות ותשובות על הנכס, 21.10.2026): הדירה המשפחתית ממוזגת והמיזוג כלול בלי תוספת תשלום."
+   },
+   "alt": {
+    "en": "MCS Metro Residence €608.40 (Booking 9.7, 84 reviews; two-bedroom for 6, kitchen, A/C, 5 min walk from the centre, check-in 16:00) – cheaper and bigger, but it was bookable with free cancellation only for starts on 14–15 Aug (€608.40 / €620.10), not from 16 Aug. Apartment Center II – Kersnikova €690.30 (Booking 8.9, 41 reviews; one bedroom for 4, kitchen, A/C free, under 1 km from the Old Town). Barbo Palace Apartments €997.30 (Booking 9.2, 1,304 reviews; two-bedroom, kitchenette, A/C in all apartments, 5 min walk to the sights). (Alternative prices were checked for 14–23 Aug.)",
+    "he": "MCS Metro Residence ב-608.40 € (Booking 9.7, 84 ביקורות; 2 חדרי שינה ל-6, מטבח, מיזוג, 5 דקות הליכה מהמרכז, צ'ק-אין 16:00) – זול וגדול יותר, אבל ניתן להזמנה עם ביטול חינם רק לתאריכי התחלה 14–15 באוגוסט (608.40 € / 620.10 €), לא מ-16 באוגוסט. Apartment Center II – Kersnikova ב-690.30 € (Booking 8.9, 41 ביקורות; חדר שינה ל-4, מטבח, מיזוג חינם, פחות מ-1 ק\"מ מהעיר העתיקה). Barbo Palace Apartments ב-997.30 € (Booking 9.2, 1,304 ביקורות; 2 חדרי שינה, מטבחון, מיזוג בכל הדירות, 5 דקות הליכה לאתרים). (מחירי החלופות נבדקו ל-14–23 באוגוסט.)"
+   },
+   "google_note": {
+    "en": "Google: 4.9 from only 10 reviews; Booking.com 9.0 from 140 reviews.",
+    "he": "בגוגל: 4.9 מתוך 10 ביקורות בלבד; ב-Booking.com 9.0 מתוך 140 ביקורות."
+   },
+   "google": {
+    "name": "Absolutum Apartments",
+    "rating": 4.9,
+    "reviews": 10,
+    "lat": 46.052849,
+    "lng": 14.509211,
+    "address": "Trubarjeva cesta 23b, 1000 Ljubljana, Slovenia",
+    "website": null,
+    "place_id": "ChIJeWPPTQAtZUcRL6FfOXEh4h4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Absolutum%20Apartments&query_place_id=ChIJeWPPTQAtZUcRL6FfOXEh4h4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.052849,14.509211&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_lj-1.jpg",
+     "w": 1000,
+     "h": 750,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Absolutum%20Apartments&query_place_id=ChIJeWPPTQAtZUcRL6FfOXEh4h4",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_lj-2.jpg",
+     "w": 1000,
+     "h": 562,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Absolutum%20Apartments&query_place_id=ChIJeWPPTQAtZUcRL6FfOXEh4h4",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 177.32,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.0,
+     "out_of": 10,
+     "reviews": 140,
+     "url": "https://www.booking.com/hotel/si/absolutum-apartments.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.9,
+     "out_of": 5,
+     "reviews": 10,
+     "url": "https://www.google.com/maps/search/?api=1&query=Absolutum%20Apartments&query_place_id=ChIJeWPPTQAtZUcRL6FfOXEh4h4"
+    }
+   ]
+  }
+ ],
+ "attractions": {
+  "bled_lake": {
+   "id": "bled_lake",
+   "name": {
+    "en": "Lake Bled: pletna boat to the island and the wishing bell",
+    "he": "אגם בלד: סירת פלטנה לאי ופעמון המשאלות"
+   },
+   "hours": {
+    "en": "Pletna boats run daily in daylight (Google: Mlino pier 9:00–17:00; they leave when full). Boarding points Mlino, Kazina, Vila Bled, Velika Zaka.",
+    "he": "סירות הפלטנה פועלות מדי יום בשעות האור (גוגל: מזח מלינו 9:00–17:00; יוצאות כשמתמלאות). נקודות עלייה: מלינו, קזינה, וילה בלד, וליקה זקה."
+   },
+   "price_text": {
+    "en": "€60: return trip €20 per adult and €10 per child 4–12 (official bled.si, 2026), paid in cash to the boatman (2 × 20 + 2 × 10). Church and tower entry on the island is extra (about €12 per adult, unverified).",
+    "he": "60 €: הלוך-חזור 20 € למבוגר ו-10 € לילד בגיל 4–12 (bled.si הרשמי, 2026), בתשלום במזומן לשייט (2 × 20 + 2 × 10). כניסה לכנסייה ולמגדל באי בתוספת (כ-12 € למבוגר, לא אומת)."
+   },
+   "price_czk": 60,
+   "price_eur": 60.0,
+   "estimate": false,
+   "time": {
+    "en": "2 h (15–30 min each way + about 40 min on the island)",
+    "he": "שעתיים (15–30 דקות לכל כיוון + כ-40 דקות באי)"
+   },
+   "kids": {
+    "en": "A traditional wooden gondola rowed across the lake to the only island in Slovenia; the kids can ring the wishing bell in the church. Calm water, life jackets on board; the pier is 300 m from the apartment. Afternoon swim at a lake beach. Day 2 is Monday, a calmer day than the weekend.",
+    "he": "גונדולת עץ מסורתית שמשוטים אותה על פני האגם לאי היחיד בסלובניה; הילדים יכולים לצלצל בפעמון המשאלות בכנסייה. מים שקטים, אפודי הצלה על הסירה; המזח 300 מ' מהדירה. אחר הצהריים אפשר לשחות בחוף של האגם. יום 2 הוא יום שני, רגוע יותר מסוף השבוע."
+   },
+   "optional": false,
+   "google": {
+    "name": "Mlino Port for Pletna Boat",
+    "rating": 4.6,
+    "reviews": 1298,
+    "lat": 46.359822,
+    "lng": 14.098886,
+    "address": "Cesta svobode 45, 4260 Bled, Slovenia",
+    "website": "http://www.veldes-bled.si/",
+    "place_id": "ChIJuaha8TWRekcRNp5jVgQMxTU",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Mlino%20Port%20for%20Pletna%20Boat&query_place_id=ChIJuaha8TWRekcRNp5jVgQMxTU",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.359822,14.098886&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 1298,
+    "url": "https://www.google.com/maps/search/?api=1&query=Mlino%20Port%20for%20Pletna%20Boat&query_place_id=ChIJuaha8TWRekcRNp5jVgQMxTU"
+   },
+   "photo": {
+    "file": "img/bled_lake-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Mlino%20Port%20for%20Pletna%20Boat&query_place_id=ChIJuaha8TWRekcRNp5jVgQMxTU",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Bled tourism – pletna boat (price 2026)",
+     "https://www.bled.si/en/what-to-see-do/attractions/38/1/"
+    ],
+    [
+     "Tanya guide – Lake Bled island",
+     "https://tanya.guide/lake-bled-island-travel-guide/"
+    ]
+   ]
+  },
+  "bled_castle": {
+   "id": "bled_castle",
+   "name": {
+    "en": "Bled Castle",
+    "he": "טירת בלד"
+   },
+   "hours": {
+    "en": "Daily; Google shows 8:00–20:00 (2026 guides say 8:00–20:00 or 8:30–19:00 in summer). Check blejski-grad.si.",
+    "he": "מדי יום; גוגל מציג 8:00–20:00 (מדריכי 2026: 8:00–20:00 או 8:30–19:00 בקיץ). לבדוק ב-blejski-grad.si."
+   },
+   "price_text": {
+    "en": "≈ €38: adult €19 × 2; children up to 6 free and one child up to 14 free with two adults (official price list valid from 1 Jan 2025, bought at the castle ticket office; if the 7-year-old is not free add €7). 2027 price not published.",
+    "he": "כ-38 €: מבוגר 19 € × 2; ילדים עד גיל 6 חינם וילד אחד עד גיל 14 חינם עם שני מבוגרים (מחירון רשמי בתוקף מ-1.1.2025, נרכש בקופת הטירה; אם בן ה-7 לא חינם להוסיף 7 €). מחיר 2027 לא פורסם."
+   },
+   "price_czk": 38,
+   "price_eur": 38.0,
+   "estimate": true,
+   "time": {
+    "en": "2 h",
+    "he": "שעתיים"
+   },
+   "kids": {
+    "en": "A real castle on a 130 m cliff above the lake: the views, a working printing press and a medieval smithy to watch. Short walk up from the car park (steps and a path, about 10 min) – the only climb of the day; do it after the boat while the kids are fresh.",
+    "he": "טירה אמיתית על צוק בגובה 130 מ' מעל האגם: הנוף, בית דפוס פעיל ונפחייה מימי הביניים לצפייה. עלייה קצרה מהחניון (מדרגות ושביל, כ-10 דקות) – העלייה היחידה של היום; כדאי אחרי הסירה כשהילדים רעננים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Bled Castle",
+    "rating": 4.4,
+    "reviews": 36104,
+    "lat": 46.369915,
+    "lng": 14.100623,
+    "address": "Grajska cesta 61, 4260 Bled, Slovenia",
+    "website": "http://www.blejski-grad.si/",
+    "place_id": "ChIJDU8PNy2RekcRsGO3F_-nwA0",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Bled%20Castle&query_place_id=ChIJDU8PNy2RekcRsGO3F_-nwA0",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.369915,14.100623&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 36104,
+    "url": "https://www.google.com/maps/search/?api=1&query=Bled%20Castle&query_place_id=ChIJDU8PNy2RekcRsGO3F_-nwA0"
+   },
+   "photo": {
+    "file": "img/bled_castle-1.jpg",
+    "w": 1000,
+    "h": 317,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bled_Island_%26_Bled_Castle_(1).jpg",
+    "credit": "Krzysztof Golik · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Bled Castle – price list",
+     "https://www.blejski-grad.si/en/plan-your-visit/price-list/"
+    ],
+    [
+     "The Traveler – Bled Castle 2026 guide",
+     "https://www.thetraveler.org/planning-a-trip-to-bled-castle-essential-2026-guide/"
+    ]
+   ]
+  },
+  "kremsnita": {
+   "id": "kremsnita",
+   "name": {
+    "en": "Bled cream cake (kremšnita) at Café Park",
+    "he": "קרמשניטה (עוגת הקרם של בלד) בבית הקפה פארק"
+   },
+   "hours": {
+    "en": "Daily 11:00–19:00 (Google Maps, Kavarna Park)",
+    "he": "מדי יום 11:00–19:00 (גוגל מפות, Kavarna Park)"
+   },
+   "price_text": {
+    "en": "≈ €20 estimate for 4 portions (about €5–6 each); the menu price could not be checked.",
+    "he": "כ-20 € הערכה ל-4 מנות (כ-5–6 € למנה); מחיר התפריט לא נבדק."
+   },
+   "price_czk": 20,
+   "price_eur": 20.0,
+   "estimate": true,
+   "time": {
+    "en": "45 min",
+    "he": "45 דקות"
+   },
+   "kids": {
+    "en": "The famous vanilla-custard and cream cake of Bled, on a terrace overlooking the lake; share portions between the kids. Google 4.1 (4,951 reviews): busy, expect a queue at peak hours.",
+    "he": "עוגת הקרם והקסטרד המפורסמת של בלד, על מרפסת עם נוף לאגם; מתחלקים במנות בין הילדים. בגוגל 4.1 (4,951 ביקורות): עמוס, בשעות השיא יש תור."
+   },
+   "optional": false,
+   "google": {
+    "name": "Kavarna Park",
+    "rating": 4.1,
+    "reviews": 4951,
+    "lat": 46.367407,
+    "lng": 14.108618,
+    "address": "Cesta svobode 10, 4260 Bled, Slovenia",
+    "website": "https://www.sava-hotels-resorts.com/en/sava-hotels-bled/services-and-experiences/gastronomy/cafe-park/",
+    "place_id": "ChIJYTSbXs2WekcRSA5If_DhHow",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Kavarna%20Park&query_place_id=ChIJYTSbXs2WekcRSA5If_DhHow",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.367407,14.108618&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.1,
+    "out_of": 5,
+    "reviews": 4951,
+    "url": "https://www.google.com/maps/search/?api=1&query=Kavarna%20Park&query_place_id=ChIJYTSbXs2WekcRSA5If_DhHow"
+   },
+   "photo": {
+    "file": "img/kremsnita-1.jpg",
+    "w": 1000,
+    "h": 563,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Kavarna%20Park&query_place_id=ChIJYTSbXs2WekcRSA5If_DhHow",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Google Maps – Kavarna Park, Bled",
+     "https://www.google.com/maps/search/?api=1&query=Kavarna%20Park%20Bled"
+    ]
+   ]
+  },
+  "vintgar": {
+   "id": "vintgar",
+   "name": {
+    "en": "Vintgar Gorge (wooden boardwalk)",
+    "he": "ערוץ וינטגר (שביל עץ)"
+   },
+   "hours": {
+    "en": "Season April–October; summer about 8:00–18:00 daily (the official page lists seasonal times; Google shows the autumn 9:00–15:00). Choose an entry time when buying the ticket online.",
+    "he": "עונה אפריל–אוקטובר; בקיץ כ-8:00–18:00 מדי יום (בעמוד הרשמי שעות לפי עונה; גוגל מציג שעות סתיו 9:00–15:00). בוחרים שעת כניסה בעת קניית הכרטיס."
+   },
+   "price_text": {
+    "en": "€40: All-in-One pass €15 per adult and €5 per child 3–15 (vintgar.si) → 2 × 15 + 2 × 5. Parking/shuttle (Green Access) extra, about €2.50 per adult.",
+    "he": "40 €: כרטיס All-in-One ב-15 € למבוגר וב-5 € לילד בגיל 3–15 (vintgar.si) → 2 × 15 + 2 × 5. חניה/שאטל (Green Access) בתוספת, כ-2.50 € למבוגר."
+   },
+   "price_czk": 40,
+   "price_eur": 40.0,
+   "estimate": false,
+   "time": {
+    "en": "2.5 h (1.6 km one way on the boardwalk + a snack at the Šum waterfall)",
+    "he": "שעתיים וחצי (1.6 ק\"מ לכיוון אחד על השביל + חטיף ליד מפל שום)"
+   },
+   "kids": {
+    "en": "A flat wooden path built along the Radovna river in a turquoise gorge, with bridges and waterfalls; no real climbing. The full out-and-back is about 3.2 km, a little over the 2 km target – turn back earlier (e.g. at the stone bridge) if the kids tire. Go early to avoid crowds.",
+    "he": "שביל עץ שטוח לאורך נהר רדובנה בערוץ טורקיז, עם גשרים ומפלים; בלי טיפוס אמיתי. הלוך-חזור מלא הוא כ-3.2 ק\"מ, מעט מעל יעד 2 ק\"מ – אפשר לחזור מוקדם יותר (למשל בגשר האבן) אם הילדים עייפים. כדאי להגיע מוקדם כדי להימנע מהצפיפות."
+   },
+   "optional": false,
+   "google": {
+    "name": "Soteska Vintgar",
+    "rating": 4.5,
+    "reviews": 24067,
+    "lat": 46.393593,
+    "lng": 14.08566,
+    "address": "Turistično društvo Gorje, Podhom 80, 4247 Zgornje Gorje, Slovenia",
+    "website": "https://www.vintgar.si/",
+    "place_id": "ChIJoToZY--QekcR6t0WOJLFvSI",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Soteska%20Vintgar&query_place_id=ChIJoToZY--QekcR6t0WOJLFvSI",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.393593,14.085660&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 24067,
+    "url": "https://www.google.com/maps/search/?api=1&query=Soteska%20Vintgar&query_place_id=ChIJoToZY--QekcR6t0WOJLFvSI"
+   },
+   "photo": {
+    "file": "img/vintgar-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Soteska%20Vintgar&query_place_id=ChIJoToZY--QekcR6t0WOJLFvSI",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Vintgar Gorge – opening hours",
+     "https://www.vintgar.si/en/my-visit/opening-hours/"
+    ],
+    [
+     "Vintgar Gorge – All-in-One pass",
+     "https://www.vintgar.si/en/?p=3232"
+    ]
+   ]
+  },
+  "straza": {
+   "id": "straza",
+   "name": {
+    "en": "Straža summer toboggan and chairlift, Bled (optional)",
+    "he": "מגלשת קיץ ומעלית כיסאות בסטראז'ה, בלד (אופציונלי)"
+   },
+   "hours": {
+    "en": "Summer daily ≈ 10:00–19:00 per 2025–26 guides; Google (off-season) shows Sat–Sun only 11:00–17:00. Planned on Tue 17 Aug as an option only: confirm it runs on weekdays before going, otherwise swap for a swim at the lake.",
+    "he": "בקיץ מדי יום כ-10:00–19:00 לפי מדריכי 2025–26; גוגל (מחוץ לעונה) מציג ש'–א' בלבד 11:00–17:00. מתוכנן ליום ג' 17 באוגוסט כאופציה בלבד: לאשר שהוא פועל בימי חול לפני ההגעה, אחרת מחליפים בשחייה באגם."
+   },
+   "price_text": {
+    "en": "≈ €50 estimate: about €15 per adult and €10 per child (chairlift plus rides) – 2026 figures differ between sources.",
+    "he": "כ-50 € הערכה: כ-15 € למבוגר ו-10 € לילד (מעלית כיסאות + מגלשות) – נתוני 2026 שונים בין המקורות."
+   },
+   "price_czk": 50,
+   "price_eur": 50.0,
+   "estimate": true,
+   "time": {
+    "en": "1.5 h",
+    "he": "שעה וחצי"
+   },
+   "kids": {
+    "en": "A chairlift up Straža hill and a summer toboggan (a sled on rails that the rider brakes) – the kids' favourite after the gorge; children under about 8 ride with an adult.",
+    "he": "מעלית כיסאות לראש גבעת סטראז'ה ומגלשת קיץ (מזחלת על פסים שהרוכב בולם בעצמו) – אהובה על הילדים אחרי הערוץ; ילדים מתחת לגיל כ-8 רוכבים עם מבוגר."
+   },
+   "optional": true,
+   "google": {
+    "name": "Straža Bled",
+    "rating": 4.2,
+    "reviews": 2495,
+    "lat": 46.362879,
+    "lng": 14.106079,
+    "address": "Pod Stražo, 4260 Bled, Slovenia",
+    "website": "http://www.straza-bled.si/",
+    "place_id": "ChIJiXOyrDSRekcRVZgjhtxTE9Q",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Stra%C5%BEa%20Bled&query_place_id=ChIJiXOyrDSRekcRVZgjhtxTE9Q",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.362879,14.106079&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.2,
+    "out_of": 5,
+    "reviews": 2495,
+    "url": "https://www.google.com/maps/search/?api=1&query=Stra%C5%BEa%20Bled&query_place_id=ChIJiXOyrDSRekcRVZgjhtxTE9Q"
+   },
+   "photo": {
+    "file": "img/straza-1.jpg",
+    "w": 1000,
+    "h": 562,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Straža%20Bled&query_place_id=ChIJiXOyrDSRekcRVZgjhtxTE9Q",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Bled tourism – Straža toboggan",
+     "https://www.bled.si/de/information/geschaftsseiten/neuigkeiten/2025052611165475/straza-hill-invites-you-to-summer-tobogganing-stunning-views-and-unforgettable-fun/"
+    ],
+    [
+     "Tanya guide – Straža",
+     "https://tanya.guide/?p=7922"
+    ]
+   ]
+  },
+  "bohinj": {
+   "id": "bohinj",
+   "name": {
+    "en": "Lake Bohinj: panoramic boat, beach and shore walk",
+    "he": "אגם בוהין: סירת פנורמה, חוף וטיול על שפת האגם"
+   },
+   "hours": {
+    "en": "Lake and shore always open; the boat runs daily in summer (timetable on bohinj.si, tickets sold at Ribčev Laz and Ukanc info points).",
+    "he": "האגם והחוף תמיד פתוחים; הסירה פועלת מדי יום בקיץ (לוח זמנים ב-bohinj.si, כרטיסים בנקודות המידע ברבצ'ב לאז ואוקאנץ)."
+   },
+   "price_text": {
+    "en": "≈ €36.50: boat return €14 per adult and €8.50 per child 6–14, children up to 5 free (bohinj.si 2026 price list) → 2 × 14 + 8.50. Beach and shore are free.",
+    "he": "כ-36.50 €: סירה הלוך-חזור 14 € למבוגר ו-8.50 € לילד בגיל 6–14, ילדים עד גיל 5 חינם (מחירון bohinj.si 2026) → 2 × 14 + 8.50. החוף והשביל חינם."
+   },
+   "price_czk": 36.5,
+   "price_eur": 36.5,
+   "estimate": false,
+   "time": {
+    "en": "3.5 h",
+    "he": "3.5 שעות"
+   },
+   "kids": {
+    "en": "Quieter and clearer than Bled, with a pebble beach, a stone bridge in Ribčev Laz and an easy flat path along the shore (take it for 1–2 km only). Take swimsuits; the lake is cold but fine on a hot day. Google 4.8 (4,514).",
+    "he": "שקט וצלול יותר מבלד, עם חוף חלוקים, גשר אבן ברבצ'ב לאז ושביל שטוח וקל לאורך החוף (ללכת רק 1–2 ק\"מ). לקחת בגדי ים; האגם קר אבל נעים ביום חם. בגוגל 4.8 (4,514)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Lake Bohinj",
+    "rating": 4.8,
+    "reviews": 4514,
+    "lat": 46.28401,
+    "lng": 13.859414,
+    "address": "4265 Bohinjsko jezero, Slovenia",
+    "website": null,
+    "place_id": "ChIJ80DSeVfzekcRzQi7cjKPsD8",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Lake%20Bohinj&query_place_id=ChIJ80DSeVfzekcRzQi7cjKPsD8",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.284010,13.859414&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 4514,
+    "url": "https://www.google.com/maps/search/?api=1&query=Lake%20Bohinj&query_place_id=ChIJ80DSeVfzekcRzQi7cjKPsD8"
+   },
+   "photo": {
+    "file": "img/bohinj-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Lake%20Bohinj&query_place_id=ChIJ80DSeVfzekcRzQi7cjKPsD8",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Bohinj – panoramic boat (2026 prices)",
+     "https://www.bohinj.si/en/panoramic-boat/"
+    ]
+   ]
+  },
+  "vogel": {
+   "id": "vogel",
+   "name": {
+    "en": "Vogel cable car, Bohinj (optional)",
+    "he": "רכבל ווגל, בוהין (אופציונלי)"
+   },
+   "hours": {
+    "en": "Official site: 8:00–18:00 in summer, every half hour; weather-dependent. Check vogel.si.",
+    "he": "אתר רשמי: 8:00–18:00 בקיץ, כל חצי שעה; תלוי מזג אוויר. לבדוק ב-vogel.si."
+   },
+   "price_text": {
+    "en": "≈ €65 estimate (about €25 per adult, €15 for the 7-year-old, the 5-year-old likely free). The 2026 price list could not be opened; one 2026 blog quotes a €39 / €20 package that also includes a boat and church entry.",
+    "he": "כ-65 € הערכה (כ-25 € למבוגר, 15 € לבן ה-7, בן ה-5 כנראה חינם). מחירון 2026 לא נפתח; בלוג מ-2026 מצטט חבילה של 39 € / 20 € שכוללת גם סירה וכניסה לכנסייה."
+   },
+   "price_czk": 65,
+   "price_eur": 65.0,
+   "estimate": true,
+   "time": {
+    "en": "2.5 h",
+    "he": "2.5 שעות"
+   },
+   "kids": {
+    "en": "A 5-minute gondola ride up to 1,535 m with a mountain panorama over Bohinj and the Julian Alps; a flat 10-minute stroll at the top and a playground-like meadow. Take jackets (10–15 °C cooler).",
+    "he": "נסיעה של 5 דקות בגונדולה לגובה 1,535 מ' עם פנורמת הרים מעל בוהין והאלפים היוליאניים; הליכה שטוחה של 10 דקות למעלה ושדה דשא. לקחת ג'קטים (10–15 מעלות קר יותר)."
+   },
+   "optional": true,
+   "google": {
+    "name": "Valley station - Vogel Cable Car",
+    "rating": 4.6,
+    "reviews": 3334,
+    "lat": 46.275721,
+    "lng": 13.835417,
+    "address": "Ukanc 6, 4265 Bohinjsko jezero, Slovenia",
+    "website": "http://www.vogel.si/",
+    "place_id": "ChIJ2-XOolbzekcRR7HGlo1_FtQ",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Valley%20station%20-%20Vogel%20Cable%20Car&query_place_id=ChIJ2-XOolbzekcRR7HGlo1_FtQ",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.275721,13.835417&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 3334,
+    "url": "https://www.google.com/maps/search/?api=1&query=Valley%20station%20-%20Vogel%20Cable%20Car&query_place_id=ChIJ2-XOolbzekcRR7HGlo1_FtQ"
+   },
+   "photo": {
+    "file": "img/vogel-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://commons.wikimedia.org/wiki/File:2025_Bohinj_Lake_seen_from_Vogel_cable_car_(nihalka).jpg",
+    "credit": "Qasinka · CC0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Vogel official site",
+     "https://www.vogel.si/en/"
+    ],
+    [
+     "Lake.com – Bohinj package (2026, based on 2025)",
+     "https://www.lake.com/articles/top-things-to-do-in-slovenia/"
+    ]
+   ]
+  },
+  "postojna": {
+   "id": "postojna",
+   "name": {
+    "en": "Postojna Cave (train ride and walking tour)",
+    "he": "מערת פוסטוינה (רכבת וסיור רגלי)"
+   },
+   "hours": {
+    "en": "Daily, tours at fixed times through the day (Google shows 10:00–16:00 off-season; summer has more departures). The ticket has a fixed tour time chosen at purchase; Predjama Castle can be visited any time within 30 days.",
+    "he": "מדי יום, סיורים בשעות קבועות לאורך היום (גוגל מציג 10:00–16:00 מחוץ לעונה; בקיץ יש יותר יציאות). בכרטיס נבחרת שעת סיור קבועה; את טירת פרדיאמה אפשר לבקר בכל שעה במשך 30 יום."
+   },
+   "price_text": {
+    "en": "≈ €110.80 for the cave + Predjama Castle package: adult €41.90 × 2, child 6–15 €25, child up to 5 €2 (official ticket shop 2026). Includes Predjama (so no separate Predjama price). 2027 price may rise.",
+    "he": "כ-110.80 € לחבילת מערה + טירת פרדיאמה: מבוגר 41.90 € × 2, ילד 6–15 25 €, ילד עד 5 2 € (חנות הכרטיסים הרשמית 2026). כולל את פרדיאמה (אין מחיר נפרד). מחיר 2027 עשוי לעלות."
+   },
+   "price_czk": 110.8,
+   "price_eur": 110.8,
+   "estimate": false,
+   "time": {
+    "en": "4 h incl. lunch (about 1.5 h in the cave)",
+    "he": "4 שעות כולל ארוחת צהריים (כ-1.5 שעות במערה)"
+   },
+   "kids": {
+    "en": "An electric train carries you 2 km into the cave, then an easy walk (1.5 km, flat, paved) among huge stalactites; the cave is 8–10 °C all year, so bring jackets. Don't miss the Vivarium (the 'baby dragon' olm). Google 4.8 (63,509).",
+    "he": "רכבת חשמלית מובילה 2 ק\"מ לתוך המערה, ואז הליכה קלה (1.5 ק\"מ, שטוחה, מרוצפת) בין נטיפים ענקיים; במערה 8–10 מעלות כל השנה, אז לקחת ג'קטים. לא לפספס את הוויבריום ('דרקון התינוק', אולם הפרוטאוס). בגוגל 4.8 (63,509)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Postojna Cave",
+    "rating": 4.8,
+    "reviews": 63509,
+    "lat": 45.78303,
+    "lng": 14.203842,
+    "address": "Jamska cesta 30, 6230 Postojna, Slovenia",
+    "website": "https://www.postojnska-jama.eu/sl/postojnska-jama/",
+    "place_id": "ChIJK4twzeExe0cRvgIt-_8gR40",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Postojna%20Cave&query_place_id=ChIJK4twzeExe0cRvgIt-_8gR40",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.783030,14.203842&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 63509,
+    "url": "https://www.google.com/maps/search/?api=1&query=Postojna%20Cave&query_place_id=ChIJK4twzeExe0cRvgIt-_8gR40"
+   },
+   "photo": {
+    "file": "img/postojna-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Postojna%20Cave&query_place_id=ChIJK4twzeExe0cRvgIt-_8gR40",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Postojna Cave – tickets: cave + Predjama",
+     "https://tickets.postojnska-jama.eu/en/postojna-cave-predjama-castle/pack-107.html"
+    ],
+    [
+     "Postojna Cave – family tickets",
+     "https://www.postojnska-jama.eu/en/tickets/family-tickets"
+    ]
+   ]
+  },
+  "predjama": {
+   "id": "predjama",
+   "name": {
+    "en": "Predjama Castle (built into a cliff)",
+    "he": "טירת פרדיאמה (בנויה בתוך צוק)"
+   },
+   "hours": {
+    "en": "Daily (Google shows 10:00–16:30 off-season; longer in summer).",
+    "he": "מדי יום (גוגל מציג 10:00–16:30 מחוץ לעונה; ארוך יותר בקיץ)."
+   },
+   "price_text": {
+    "en": "Included in the Postojna package above (€0 extra); single ticket about €17 per adult if bought alone (not verified).",
+    "he": "כלולה בחבילת פוסטוינה למעלה (0 € נוסף); כרטיס בודד כ-17 € למבוגר אם קונים לבד (לא אומת)."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "1.5 h (audio guide, 9 km from the cave)",
+    "he": "שעה וחצי (אודיו-גייד, 9 ק\"מ מהמערה)"
+   },
+   "kids": {
+    "en": "A fairytale castle glued into the mouth of a cave in a 123 m cliff; the audio guide tells the story of the knight Erazem. Stairs inside, but short. Google 4.7 (32,463).",
+    "he": "טירת אגדות שדבוקה לפתח מערה בצוק בגובה 123 מ'; האודיו-גייד מספר על האביר ארזם. יש מדרגות בפנים, אבל קצרות. בגוגל 4.7 (32,463)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Predjama Castle",
+    "rating": 4.7,
+    "reviews": 32463,
+    "lat": 45.815804,
+    "lng": 14.126879,
+    "address": "Predjama 1, 6230 Predjama, Slovenia",
+    "website": "https://www.postojnska-jama.eu/sl/predjamski-grad/",
+    "place_id": "ChIJXSrK02gle0cRgayVIdFnl9g",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Predjama%20Castle&query_place_id=ChIJXSrK02gle0cRgayVIdFnl9g",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.815804,14.126879&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 32463,
+    "url": "https://www.google.com/maps/search/?api=1&query=Predjama%20Castle&query_place_id=ChIJXSrK02gle0cRgayVIdFnl9g"
+   },
+   "photo": {
+    "file": "img/predjama-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Predjama_Castle,_Slovenia,_20240502_0831_7409.jpg",
+    "credit": "Jakub Hałun · CC BY 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Postojna Cave – cave + Predjama package",
+     "https://tickets.postojnska-jama.eu/en/postojna-cave-predjama-castle/pack-107.html"
+    ],
+    [
+     "Tanya guide – Bled Castle vs Predjama",
+     "https://tanya.guide/bled-castle-vs-predjama-castle/"
+    ]
+   ]
+  },
+  "lj_oldtown": {
+   "id": "lj_oldtown",
+   "name": {
+    "en": "Ljubljana Old Town: Triple Bridge, Dragon Bridge, river promenade",
+    "he": "העיר העתיקה של לובליאנה: הגשר המשולש, גשר הדרקונים וטיילת הנהר"
+   },
+   "hours": {
+    "en": "Open 24 hours (streets and bridges); the central market closes at about 14:00–16:00 on Sundays.",
+    "he": "פתוח 24 שעות (רחובות וגשרים); השוק המרכזי נסגר בסביבות 14:00–16:00 בימי ראשון."
+   },
+   "price_text": {
+    "en": "Free; budget about €15 for ice cream and a snack (estimate, not counted).",
+    "he": "חינם; לתקצב כ-15 € לגלידה וחטיף (הערכה, לא נספר)."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "1.5–2 h",
+    "he": "שעה וחצי–שעתיים"
+   },
+   "kids": {
+    "en": "A pedestrian centre with the Dragon Bridge (find the four dragons), cafés on the Ljubljanica, street performers and gelato; flat and short distances from the apartment.",
+    "he": "מרכז להולכי רגל עם גשר הדרקונים (למצוא את ארבעת הדרקונים), בתי קפה על נהר לובליאניצה, אמנים ברחוב וגלידה; שטוח ובמרחק קצר מהדירה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Triple Bridge",
+    "rating": 4.7,
+    "reviews": 3676,
+    "lat": 46.051134,
+    "lng": 14.506229,
+    "address": "Adamič-Lundrovo nabrežje 1, 1000 Ljubljana, Slovenia",
+    "website": "https://www.visitljubljana.com/en/visitors/things-to-do/sightseeing/triple-bridge/",
+    "place_id": "ChIJnatLrGMtZUcRKPDm9gSphN4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Triple%20Bridge&query_place_id=ChIJnatLrGMtZUcRKPDm9gSphN4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.051134,14.506229&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 3676,
+    "url": "https://www.google.com/maps/search/?api=1&query=Triple%20Bridge&query_place_id=ChIJnatLrGMtZUcRKPDm9gSphN4"
+   },
+   "photo": {
+    "file": "img/lj_oldtown-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Triple_Bridge_and_Preseren_Square_fron_the_Ljubljanica.jpg",
+    "credit": "Valerio2468 · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Google Maps – Triple Bridge",
+     "https://www.google.com/maps/search/?api=1&query=Triple%20Bridge%20Ljubljana"
+    ]
+   ]
+  },
+  "lj_castle": {
+   "id": "lj_castle",
+   "name": {
+    "en": "Ljubljana Castle and funicular",
+    "he": "טירת לובליאנה והפוניקולר"
+   },
+   "hours": {
+    "en": "Daily, including Monday; Google shows 9:00–18:00 (summer 9:00–20:00 per some guides). Funicular about 9:00–22:00 in summer.",
+    "he": "מדי יום, כולל יום שני; גוגל מציג 9:00–18:00 (בקיץ 9:00–20:00 לפי חלק מהמדריכים). הפוניקולר כ-9:00–22:00 בקיץ."
+   },
+   "price_text": {
+    "en": "≈ €46: Visit Ljubljana lists a family ticket (up to 2 adults and at least 1 child) at €46 for the castle with a return funicular (adult €19, child 7–18 €13.50). Estimate for 2027; children under 7 usually free.",
+    "he": "כ-46 €: Visit Ljubljana מציין כרטיס משפחתי (עד 2 מבוגרים וילד לפחות) ב-46 € לטירה עם פוניקולר הלוך-חזור (מבוגר 19 €, ילד 7–18 13.50 €). הערכה ל-2027; ילדים מתחת לגיל 7 בדרך כלל חינם."
+   },
+   "price_czk": 46,
+   "price_eur": 46.0,
+   "estimate": true,
+   "time": {
+    "en": "3 h",
+    "he": "3 שעות"
+   },
+   "kids": {
+    "en": "A glass funicular up the hill, a tower with a 360° view, a virtual castle show and a puppet museum; a lot of open courtyards for running. Back down on foot through the park if the kids are up for it (15 min, easy).",
+    "he": "פוניקולר זכוכית במעלה הגבעה, מגדל עם נוף 360°, מופע טירה וירטואלי ומוזיאון בובות; חצרות פתוחות רבות לריצה. חוזרים למטה ברגל דרך הפארק אם הילדים רוצים (15 דקות, קל)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Ljubljana Castle",
+    "rating": 4.4,
+    "reviews": 45423,
+    "lat": 46.048885,
+    "lng": 14.508374,
+    "address": "Grajska planota 1, 1000 Ljubljana, Slovenia",
+    "website": "https://www.ljubljanskigrad.si/",
+    "place_id": "ChIJfyAFWmMtZUcReLLmzQrTZ-Y",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ljubljana%20Castle&query_place_id=ChIJfyAFWmMtZUcReLLmzQrTZ-Y",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.048885,14.508374&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 45423,
+    "url": "https://www.google.com/maps/search/?api=1&query=Ljubljana%20Castle&query_place_id=ChIJfyAFWmMtZUcReLLmzQrTZ-Y"
+   },
+   "photo": {
+    "file": "img/lj_castle-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Ljubljana%20Castle&query_place_id=ChIJfyAFWmMtZUcReLLmzQrTZ-Y",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Visit Ljubljana – funicular to the castle",
+     "https://www.visitljubljana.com/en/poi/funicular-railway-to-ljubljana-castle/"
+    ],
+    [
+     "The Traveler – Ljubljana Castle tickets",
+     "https://www.thetraveler.org/ljubljana-castle-tickets-funicular-and-visitor-tips-explained/"
+    ]
+   ]
+  },
+  "lj_boat": {
+   "id": "lj_boat",
+   "name": {
+    "en": "Ljubljanica river cruise (tourist boat, 45 min)",
+    "he": "שייט בנהר לובליאניצה (סירת תיירים, 45 דקות)"
+   },
+   "hours": {
+    "en": "Several departures a day in summer from the Ribji trg pier (book on visitljubljana.com; cruises cancelled in bad river conditions).",
+    "he": "כמה יציאות ביום בקיץ ממזח ריבי טרג (להזמין ב-visitljubljana.com; שיוטים מבוטלים בתנאי נהר גרועים)."
+   },
+   "price_text": {
+    "en": "≈ €54 estimate: €18 per adult and €9 per child up to 12 (Visit Ljubljana, undated page) → 2 × 18 + 2 × 9.",
+    "he": "כ-54 € הערכה: 18 € למבוגר ו-9 € לילד עד גיל 12 (Visit Ljubljana, עמוד ללא תאריך) → 2 × 18 + 2 × 9."
+   },
+   "price_czk": 54,
+   "price_eur": 54.0,
+   "estimate": true,
+   "time": {
+    "en": "1 h",
+    "he": "שעה"
+   },
+   "kids": {
+    "en": "A relaxed boat under the bridges and past the riverside cafés and plane trees; shade and a seat for the kids after the castle.",
+    "he": "סירה רגועה מתחת לגשרים, על פני בתי הקפה לאורך הנהר ועצי הדולב; צל ומקום ישיבה לילדים אחרי הטירה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Ljubljana tourist boat (Ribji trg pier)",
+    "rating": null,
+    "reviews": null,
+    "lat": 46.0495,
+    "lng": 14.5055,
+    "address": "Ribji trg, Ljubljana, Slovenia",
+    "website": "https://www.visitljubljana.com/en/visitors/tours-and-trips/cruises-on-board-the-ljubljana-tourist-boat",
+    "place_id": "",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ljubljana%20tourist%20boat%20%28Ribji%20trg%20pier%29&query_place_id=",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.049500,14.505500&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": null,
+    "out_of": 5,
+    "reviews": null,
+    "url": "https://www.google.com/maps/search/?api=1&query=Ljubljana%20tourist%20boat%20%28Ribji%20trg%20pier%29&query_place_id="
+   },
+   "photo": {
+    "file": "img/lj_boat-1.jpg",
+    "w": 1000,
+    "h": 669,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Ljubljanica_01.jpg",
+    "credit": "Mihael Grmek · CC BY-SA 3.0 · Wikimedia Commons (the Ljubljanica river)"
+   },
+   "sources": [
+    [
+     "Visit Ljubljana – cruises on the tourist boat",
+     "https://www.visitljubljana.com/en/visitors/tours-and-trips/cruises-on-board-the-ljubljana-tourist-boat"
+    ]
+   ]
+  },
+  "tivoli": {
+   "id": "tivoli",
+   "name": {
+    "en": "Tivoli Park playground and ponds (free)",
+    "he": "פארק טיבולי, מגרשי משחקים ובריכות (חינם)"
+   },
+   "hours": {
+    "en": "Open 24 hours (Google Maps)",
+    "he": "פתוח 24 שעות (גוגל מפות)"
+   },
+   "price_text": {
+    "en": "Free.",
+    "he": "חינם."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "1.5–2 h",
+    "he": "שעה וחצי–שעתיים"
+   },
+   "kids": {
+    "en": "Ljubljana's big green park 10 minutes' walk from the centre: wide alleys, playgrounds, a photo gallery fence, and the path to Rožnik hill. Easy and shady on a hot afternoon. Google 4.7 (17,488).",
+    "he": "הפארק הירוק הגדול של לובליאנה במרחק 10 דקות הליכה מהמרכז: שדרות רחבות, מגרשי משחקים, גדר תערוכת צילומים והשביל לגבעת רוז'ניק. קל ומוצל בצהריים חמים. בגוגל 4.7 (17,488)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Tivoli Park",
+    "rating": 4.7,
+    "reviews": 17488,
+    "lat": 46.053754,
+    "lng": 14.494917,
+    "address": "Tivoli, 1000 Ljubljana, Slovenia",
+    "website": null,
+    "place_id": "ChIJXcLGkaAyZUcRcHEyUR34AA8",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Park&query_place_id=ChIJXcLGkaAyZUcRcHEyUR34AA8",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.053754,14.494917&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 17488,
+    "url": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Park&query_place_id=ChIJXcLGkaAyZUcRcHEyUR34AA8"
+   },
+   "photo": {
+    "file": "img/tivoli-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Tivoli%20Park&query_place_id=ChIJXcLGkaAyZUcRcHEyUR34AA8",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Google Maps – Tivoli Park",
+     "https://www.google.com/maps/search/?api=1&query=Tivoli%20Park%20Ljubljana"
+    ]
+   ]
+  },
+  "lj_zoo": {
+   "id": "lj_zoo",
+   "name": {
+    "en": "Ljubljana Zoo",
+    "he": "גן החיות של לובליאנה"
+   },
+   "hours": {
+    "en": "Open every day of the year (Sunday 22 Aug is fine); third-party listings give 9:00–19:00 in August (Google shows 9:00–18:00; the zoo's header says entry until 18:00). Check zoo.si.",
+    "he": "פתוח כל יום בשנה (יום ראשון 22 באוגוסט בסדר); רישומי צד שלישי מציינים 9:00–19:00 באוגוסט (גוגל מציג 9:00–18:00; כותרת אתר הגן מציינת כניסה עד 18:00). לבדוק ב-zoo.si."
+   },
+   "price_text": {
+    "en": "≈ €33 estimate: adult about €10 and child about €6.50 (third-party listing; the official price list was not available) → 2 × 10 + 2 × 6.50.",
+    "he": "כ-33 € הערכה: מבוגר כ-10 € וילד כ-6.50 € (רישום צד שלישי; מחירון רשמי לא היה זמין) → 2 × 10 + 2 × 6.50."
+   },
+   "price_czk": 33,
+   "price_eur": 33.0,
+   "estimate": true,
+   "time": {
+    "en": "3 h",
+    "he": "3 שעות"
+   },
+   "kids": {
+    "en": "A hillside zoo in the woods of Rožnik with about 120 species (elephants, giraffes, lions, a petting area); shaded paths, steep in places. Take a taxi or bus there and walk down through the woods.",
+    "he": "גן חיות על מדרון ביער רוז'ניק עם כ-120 מינים (פילים, ג'ירפות, אריות, פינת ליטוף); שבילים מוצלים, תלולים במקומות. מגיעים במונית או באוטובוס וחוזרים ברגל דרך היער."
+   },
+   "optional": false,
+   "google": {
+    "name": "Ljubljana Zoo",
+    "rating": 4.6,
+    "reviews": 15061,
+    "lat": 46.05274,
+    "lng": 14.472088,
+    "address": "Večna pot 70, 1000 Ljubljana, Slovenia",
+    "website": "http://www.zoo.si/",
+    "place_id": "ChIJSwvOqKzSekcRs3N7Zn2QcEE",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ljubljana%20Zoo&query_place_id=ChIJSwvOqKzSekcRs3N7Zn2QcEE",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.052740,14.472088&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 15061,
+    "url": "https://www.google.com/maps/search/?api=1&query=Ljubljana%20Zoo&query_place_id=ChIJSwvOqKzSekcRs3N7Zn2QcEE"
+   },
+   "photo": {
+    "file": "img/lj_zoo-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Ljubljana%20Zoo&query_place_id=ChIJSwvOqKzSekcRs3N7Zn2QcEE",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Ljubljana Zoo – opening hours news",
+     "https://www.zoo.si/en/news/new-opening-hours"
+    ],
+    [
+     "Ljubljana Zoo – info",
+     "https://www.zoo.si/en/info"
+    ]
+   ]
+  },
+  "atlantis": {
+   "id": "atlantis",
+   "name": {
+    "en": "Atlantis Water Park, BTC City (indoor, air-conditioned alternative)",
+    "he": "פארק המים אטלנטיס, BTC סיטי (חלופה פנימית וממוזגת)"
+   },
+   "hours": {
+    "en": "Google: daily 9:00–21:00 (Mondays from 12:00); an older brochure says 9:00–23:00. Check btc.si. If used on Mon 23 Aug, arrive after 12:00.",
+    "he": "גוגל: מדי יום 9:00–21:00 (ימי שני מ-12:00); חוברת ישנה מציינת 9:00–23:00. לבדוק ב-btc.si. אם משתמשים בו ביום ב' 23 באוגוסט, להגיע אחרי 12:00."
+   },
+   "price_text": {
+    "en": "≈ €130 estimate: the official BTC shop lists an adult e-ticket at €38; the child price was not found (assumed about €28 each). Taxi from the centre about €15 each way (not counted).",
+    "he": "כ-130 € הערכה: חנות BTC הרשמית מציינת כרטיס אלקטרוני למבוגר ב-38 €; מחיר ילד לא נמצא (מוערך כ-28 € לילד). מונית מהמרכז כ-15 € לכיוון (לא נספר)."
+   },
+   "price_czk": 130,
+   "price_eur": 130.0,
+   "estimate": true,
+   "time": {
+    "en": "4 h",
+    "he": "4 שעות"
+   },
+   "kids": {
+    "en": "An indoor water world with slides, wave pool and kids' pools – the best bad-weather or very hot day plan. 6 km from the centre (taxi or bus). Google 4.2 (1,888); parts of the complex were being refurbished in autumn 2026.",
+    "he": "עולם מים פנימי עם מגלשות, בריכת גלים ובריכות ילדים – התוכנית הטובה ליום גשום או חם מאוד. 6 ק\"מ מהמרכז (מונית או אוטובוס). בגוגל 4.2 (1,888); חלקים מהמתחם שופצו בסתיו 2026."
+   },
+   "optional": true,
+   "google": {
+    "name": "Vodno mesto Atlantis",
+    "rating": 4.2,
+    "reviews": 1888,
+    "lat": 46.062978,
+    "lng": 14.548366,
+    "address": "Španska ulica 1, 1000 Ljubljana, Slovenia",
+    "website": "https://www.atlantis-vodnomesto.si/",
+    "place_id": "ChIJCbE4eWcyZUcRjJe3ApbVV14",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Vodno%20mesto%20Atlantis&query_place_id=ChIJCbE4eWcyZUcRjJe3ApbVV14",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.062978,14.548366&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.2,
+    "out_of": 5,
+    "reviews": 1888,
+    "url": "https://www.google.com/maps/search/?api=1&query=Vodno%20mesto%20Atlantis&query_place_id=ChIJCbE4eWcyZUcRjJe3ApbVV14"
+   },
+   "photo": {
+    "file": "img/atlantis-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Vodno%20mesto%20Atlantis&query_place_id=ChIJCbE4eWcyZUcRjJe3ApbVV14",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "BTC City shop – Atlantis Water Park",
+     "https://shop.btc-city.com/en/atlantis-water-park"
+    ],
+    [
+     "Visit Ljubljana – Atlantis",
+     "https://www.visitljubljana.com/en/poi/vodno-mesto-atlantis-water-park"
+    ]
+   ]
+  },
+  "hisa": {
+   "id": "hisa",
+   "name": {
+    "en": "House of Experiments (hands-on science museum)",
+    "he": "בית הניסויים (מוזיאון מדע אינטראקטיבי)"
+   },
+   "hours": {
+    "en": "Google: Sat–Sun 10:00–18:00, Wed–Thu 10:00–13:00, closed Mon, Tue and Fri – so go on Saturday 21 Aug (a Sunday listing in Sep 2026: 10:00–18:00). Do not plan it for Mon 23, Tue 24 or Fri 20 Aug.",
+    "he": "גוגל: ש'–א' 10:00–18:00, ד'–ה' 10:00–13:00, סגור בב', ג' וו' – לכן הולכים ביום שבת 21 באוגוסט (רישום ליום ראשון בספטמבר 2026: 10:00–18:00). לא לתכנן ליום ב' 23, ג' 24 או ו' 20 באוגוסט."
+   },
+   "price_text": {
+    "en": "≈ €44 estimate: €11 per person, children under 5 free (Visit Ljubljana listing, one day in Sep 2026) → 4 × 11 as the 5-year-old is not under 5.",
+    "he": "כ-44 € הערכה: 11 € לאדם, ילדים מתחת לגיל 5 חינם (רישום Visit Ljubljana ליום אחד בספטמבר 2026) → 4 × 11 כי בן ה-5 אינו מתחת ל-5."
+   },
+   "price_czk": 44,
+   "price_eur": 44.0,
+   "estimate": true,
+   "time": {
+    "en": "2.5 h",
+    "he": "2.5 שעות"
+   },
+   "kids": {
+    "en": "More than 60 hands-on experiments (light, sound, optical illusions, soap bubbles); at Trubarjeva 39, a 5-minute walk from the apartment. Google 4.7 (810). Air-conditioned and ideal for a hot Saturday; a Saturday is busier, so arrive at 10:00.",
+    "he": "יותר מ-60 ניסויים אינטראקטיביים (אור, צליל, אשליות אופטיות, בועות סבון); ברחוב טרובארייבה 39, 5 דקות הליכה מהדירה. בגוגל 4.7 (810). ממוזג ומתאים ליום שבת חם; בשבת עמוס יותר, אז להגיע ב-10:00."
+   },
+   "optional": false,
+   "google": {
+    "name": "The House of experiments",
+    "rating": 4.7,
+    "reviews": 810,
+    "lat": 46.052616,
+    "lng": 14.51088,
+    "address": "Trubarjeva cesta 39, 1000 Ljubljana, Slovenia",
+    "website": "http://www.he.si/",
+    "place_id": "ChIJDXV3smItZUcR5tj0g3HzgjI",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20House%20of%20experiments&query_place_id=ChIJDXV3smItZUcR5tj0g3HzgjI",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.052616,14.510880&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 810,
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20House%20of%20experiments&query_place_id=ChIJDXV3smItZUcR5tj0g3HzgjI"
+   },
+   "photo": {
+    "file": "img/hisa-1.jpg",
+    "w": 1000,
+    "h": 1000,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=The%20House%20of%20experiments&query_place_id=ChIJDXV3smItZUcR5tj0g3HzgjI",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Visit Ljubljana – House of Experiments (Sunday programme)",
+     "https://www.visitljubljana.com/sl/turizem-ljubljana/program-za-nedeljo"
+    ],
+    [
+     "Visit Ljubljana – Hiša eksperimentov",
+     "https://www.visitljubljana.com/de/poi/hisa-eksperimentov-haus-der-experimente"
+    ]
+   ]
+  },
+  "pms": {
+   "id": "pms",
+   "name": {
+    "en": "Slovenian Museum of Natural History (optional)",
+    "he": "המוזיאון הסלובני להיסטוריה של הטבע (אופציונלי)"
+   },
+   "hours": {
+    "en": "Daily 10:00–18:00 (Google; the museum site says 10:00–20:00, Thursdays until 20:00).",
+    "he": "מדי יום 10:00–18:00 (גוגל; אתר המוזיאון מציין 10:00–20:00, בימי ה' עד 20:00)."
+   },
+   "price_text": {
+    "en": "≈ €13: family ticket €13 (adult €6.50); undated official price list.",
+    "he": "כ-13 €: כרטיס משפחתי 13 € (מבוגר 6.50 €); מחירון רשמי ללא תאריך."
+   },
+   "price_czk": 13,
+   "price_eur": 13.0,
+   "estimate": true,
+   "time": {
+    "en": "1.5 h",
+    "he": "שעה וחצי"
+   },
+   "kids": {
+    "en": "Skeletons, a mammoth, dioramas of Slovenian animals and minerals; 700 m from the apartment and air-conditioned – a short rest-hour visit.",
+    "he": "שלדים, ממותה, דיורמות של בעלי חיים ומינרלים סלובניים; 700 מ' מהדירה וממוזג – ביקור קצר בשעת מנוחה."
+   },
+   "optional": true,
+   "google": {
+    "name": "Natural History Museum of Slovenia",
+    "rating": 4.5,
+    "reviews": 710,
+    "lat": 46.052211,
+    "lng": 14.499648,
+    "address": "Prešernova cesta 20, 1000 Ljubljana, Slovenia",
+    "website": "https://www.pms-lj.si/",
+    "place_id": "ChIJq8u7imAtZUcR0aicieXs9w4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Natural%20History%20Museum%20of%20Slovenia&query_place_id=ChIJq8u7imAtZUcR0aicieXs9w4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.052211,14.499648&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 710,
+    "url": "https://www.google.com/maps/search/?api=1&query=Natural%20History%20Museum%20of%20Slovenia&query_place_id=ChIJq8u7imAtZUcR0aicieXs9w4"
+   },
+   "photo": {
+    "file": "img/pms-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Natural%20History%20Museum%20of%20Slovenia&query_place_id=ChIJq8u7imAtZUcR0aicieXs9w4",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Natural History Museum – hours and prices",
+     "https://pms-lj.si/en/working-hours-and-price-list"
+    ]
+   ]
+  }
+ },
+ "days": [
+  {
+   "day": 1,
+   "date": "2027-08-15",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Daytime flight, car pick-up, Bled lake walk and check-in",
+    "he": "טיסת יום, איסוף רכב, טיול באגם בלד וצ'ק-אין"
+   },
+   "trail": "green",
+   "overnight": "hotel_bled",
+   "plan": [
+    {
+     "en": "04:50 SWISS LX 257 + LX 2274 from TLV, landing at LJU 14:00.",
+     "he": "04:50 סוויס LX 257 + LX 2274 מנתב\"ג, נחיתה בלובליאנה ב-14:00."
+    },
+    {
+     "en": "Pick up the car at Ljubljana Airport with 2 child seats (45–60 min; confirm the e-vignette is on the car; Sunday 15 Aug is a public holiday, so check desk hours – Enterprise lists 07:00–20:00 on Sundays). Drive 36 km / 31 min to Bled; the holiday Sunday is busy at the lake, so leave the airport by about 16:00.",
+     "he": "איסוף הרכב בשדה התעופה של לובליאנה עם 2 מושבי ילדים (45–60 דקות; לאשר שהוינייטה האלקטרונית על הרכב; ראשון 15 באוגוסט הוא חג ציבורי, אז לבדוק שעות דלפק – Enterprise מציינת 07:00–20:00 בימי ראשון). נסיעה של 36 ק\"מ / 31 דקות לבלד; יום ראשון בחג עמוס באגם, לכן לצאת מהשדה עד כ-16:00."
+    },
+    {
+     "en": "Kid stop (1–1.5 h): a kremšnita at Café Park (open daily 11:00–19:00) and a flat stroll on the lake promenade; first swim at a beach.",
+     "he": "עצירת ילדים (שעה–שעה וחצי): קרמשניטה בקפה פארק (פתוח מדי יום 11:00–19:00) וטיול שטוח בטיילת האגם; שחייה ראשונה בחוף."
+    },
+    {
+     "en": "5 min to the apartment (check-in key arrangement agreed with the host), early night; groceries on Monday.",
+     "he": "5 דקות לדירה (סידור מפתח מול המארח), לישון מוקדם; קניות ביום שני."
+    }
+   ],
+   "attractions": [
+    "kremsnita"
+   ],
+   "route": {
+    "km": 37.9,
+    "minutes": 36,
+    "legs": [
+     {
+      "from": "Ljubljana Jože Pučnik Airport (LJU) – car pick-up",
+      "to": "Park Café, Bled (kremšnita and lake walk)",
+      "km": 36.0,
+      "min": 31
+     },
+     {
+      "from": "Park Café, Bled (kremšnita and lake walk)",
+      "to": "Apartment Muznik, Bled",
+      "km": 1.9,
+      "min": 5
+     }
+    ],
+    "points": [
+     {
+      "name": "Ljubljana Jože Pučnik Airport (LJU) – car pick-up",
+      "lat": 46.2237,
+      "lng": 14.4576
+     },
+     {
+      "name": "Park Café, Bled (kremšnita and lake walk)",
+      "lat": 46.36741,
+      "lng": 14.10862
+     },
+     {
+      "name": "Apartment Muznik, Bled",
+      "lat": 46.357435,
+      "lng": 14.100263
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.462729,
+       46.22633
+      ],
+      [
+       14.460243,
+       46.228551
+      ],
+      [
+       14.462227,
+       46.230426
+      ],
+      [
+       14.458365,
+       46.2324
+      ],
+      [
+       14.460446,
+       46.234655
+      ],
+      [
+       14.457836,
+       46.235571
+      ],
+      [
+       14.419048,
+       46.236792
+      ],
+      [
+       14.403945,
+       46.240667
+      ],
+      [
+       14.401728,
+       46.239046
+      ],
+      [
+       14.386713,
+       46.252374
+      ],
+      [
+       14.37767,
+       46.257287
+      ],
+      [
+       14.344325,
+       46.264586
+      ],
+      [
+       14.317701,
+       46.27619
+      ],
+      [
+       14.293524,
+       46.281167
+      ],
+      [
+       14.284953,
+       46.292436
+      ],
+      [
+       14.283044,
+       46.304036
+      ],
+      [
+       14.277608,
+       46.310826
+      ],
+      [
+       14.270932,
+       46.313185
+      ],
+      [
+       14.2528,
+       46.314896
+      ],
+      [
+       14.235536,
+       46.322362
+      ],
+      [
+       14.203293,
+       46.331527
+      ],
+      [
+       14.182613,
+       46.346242
+      ],
+      [
+       14.161967,
+       46.368558
+      ],
+      [
+       14.149838,
+       46.36351
+      ],
+      [
+       14.133725,
+       46.36816
+      ],
+      [
+       14.122886,
+       46.366927
+      ],
+      [
+       14.116508,
+       46.36867
+      ],
+      [
+       14.109281,
+       46.367185
+      ],
+      [
+       14.109886,
+       46.368338
+      ],
+      [
+       14.106759,
+       46.364799
+      ],
+      [
+       14.099251,
+       46.362236
+      ],
+      [
+       14.10034,
+       46.35742
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.2237,14.4576&destination=46.357435,14.100263&travelmode=driving&waypoints=46.36741%2C14.10862"
+   }
+  },
+  {
+   "day": 2,
+   "date": "2027-08-16",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Lake Bled: pletna boat, castle and cream cake",
+    "he": "אגם בלד: סירת פלטנה, טירה ועוגת קרם"
+   },
+   "trail": "green",
+   "overnight": "hotel_bled",
+   "plan": [
+    {
+     "en": "Slow morning after the 04:50 flight; groceries for the kitchen, breakfast in the apartment, then walk 300 m to the Mlino pier (5 min).",
+     "he": "בוקר איטי אחרי ההגעה המאוחרת; קניות למטבח, ארוחת בוקר בדירה, ואז הליכה של 300 מ' למזח מלינו (5 דקות)."
+    },
+    {
+     "en": "Pletna boat to the island (about 2 h with the 40 min stop): the wishing bell in the church. Pay the boatman in cash. Monday is calmer than the weekend.",
+     "he": "סירת פלטנה לאי (כשעתיים כולל 40 דקות עצירה): פעמון המשאלות בכנסייה. משלמים לשייט במזומן. יום שני רגוע יותר מסוף השבוע."
+    },
+    {
+     "en": "Lunch, then Bled Castle (open daily, including Monday; drive 5 min or walk up from the north shore); in the afternoon a kremšnita at Café Park and a swim at a lake beach. Everything within 3 km of the apartment – almost no driving.",
+     "he": "ארוחת צהריים, ואז טירת בלד (פתוחה מדי יום, כולל יום שני; 5 דקות נסיעה או הליכה מהחוף הצפוני); אחר הצהריים קרמשניטה בקפה פארק ושחייה בחוף של האגם. הכול במרחק 3 ק\"מ מהדירה – כמעט בלי נסיעה."
+    }
+   ],
+   "attractions": [
+    "bled_lake",
+    "bled_castle",
+    "kremsnita"
+   ],
+   "route": {
+    "km": 5.3,
+    "minutes": 13,
+    "legs": [
+     {
+      "from": "Apartment Muznik, Bled",
+      "to": "Mlino pletna pier, Lake Bled",
+      "km": 0.5,
+      "min": 1
+     },
+     {
+      "from": "Mlino pletna pier, Lake Bled",
+      "to": "Bled Castle",
+      "km": 2.2,
+      "min": 5
+     },
+     {
+      "from": "Bled Castle",
+      "to": "Park Café (kremšnita), Bled",
+      "km": 0.7,
+      "min": 2
+     },
+     {
+      "from": "Park Café (kremšnita), Bled",
+      "to": "Apartment Muznik, Bled",
+      "km": 1.9,
+      "min": 5
+     }
+    ],
+    "points": [
+     {
+      "name": "Apartment Muznik, Bled",
+      "lat": 46.357435,
+      "lng": 14.100263
+     },
+     {
+      "name": "Mlino pletna pier, Lake Bled",
+      "lat": 46.35982,
+      "lng": 14.09889
+     },
+     {
+      "name": "Bled Castle",
+      "lat": 46.36885,
+      "lng": 14.11465
+     },
+     {
+      "name": "Park Café (kremšnita), Bled",
+      "lat": 46.36741,
+      "lng": 14.10862
+     },
+     {
+      "name": "Apartment Muznik, Bled",
+      "lat": 46.357435,
+      "lng": 14.100263
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.10034,
+       46.35742
+      ],
+      [
+       14.100488,
+       46.357775
+      ],
+      [
+       14.100397,
+       46.358509
+      ],
+      [
+       14.099494,
+       46.360019
+      ],
+      [
+       14.098939,
+       46.35969
+      ],
+      [
+       14.098392,
+       46.35954
+      ],
+      [
+       14.098869,
+       46.359695
+      ],
+      [
+       14.099461,
+       46.359991
+      ],
+      [
+       14.099648,
+       46.360335
+      ],
+      [
+       14.099522,
+       46.361101
+      ],
+      [
+       14.099171,
+       46.361791
+      ],
+      [
+       14.099194,
+       46.36215
+      ],
+      [
+       14.099413,
+       46.362367
+      ],
+      [
+       14.103894,
+       46.363955
+      ],
+      [
+       14.104966,
+       46.364119
+      ],
+      [
+       14.106759,
+       46.364799
+      ],
+      [
+       14.107481,
+       46.365504
+      ],
+      [
+       14.108221,
+       46.366532
+      ],
+      [
+       14.108771,
+       46.366842
+      ],
+      [
+       14.113114,
+       46.368174
+      ],
+      [
+       14.116562,
+       46.36852
+      ],
+      [
+       14.116202,
+       46.369779
+      ],
+      [
+       14.115911,
+       46.369882
+      ],
+      [
+       14.115637,
+       46.369783
+      ],
+      [
+       14.114836,
+       46.368773
+      ],
+      [
+       14.114665,
+       46.368319
+      ],
+      [
+       14.113114,
+       46.368174
+      ],
+      [
+       14.110225,
+       46.367295
+      ],
+      [
+       14.109697,
+       46.36757
+      ],
+      [
+       14.109981,
+       46.36819
+      ],
+      [
+       14.109792,
+       46.368339
+      ],
+      [
+       14.109686,
+       46.368236
+      ],
+      [
+       14.109824,
+       46.368061
+      ],
+      [
+       14.109281,
+       46.367185
+      ],
+      [
+       14.109824,
+       46.368061
+      ],
+      [
+       14.10972,
+       46.368306
+      ],
+      [
+       14.109886,
+       46.368338
+      ],
+      [
+       14.109981,
+       46.36819
+      ],
+      [
+       14.109697,
+       46.36757
+      ],
+      [
+       14.110225,
+       46.367295
+      ],
+      [
+       14.108313,
+       46.366608
+      ],
+      [
+       14.106759,
+       46.364799
+      ],
+      [
+       14.104966,
+       46.364119
+      ],
+      [
+       14.103894,
+       46.363955
+      ],
+      [
+       14.102032,
+       46.363218
+      ],
+      [
+       14.100334,
+       46.362743
+      ],
+      [
+       14.099251,
+       46.362236
+      ],
+      [
+       14.099171,
+       46.361791
+      ],
+      [
+       14.099645,
+       46.360453
+      ],
+      [
+       14.099494,
+       46.360019
+      ],
+      [
+       14.100397,
+       46.358509
+      ],
+      [
+       14.100488,
+       46.357775
+      ],
+      [
+       14.10034,
+       46.35742
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.357435,14.100263&destination=46.357435,14.100263&travelmode=driving&waypoints=46.35982%2C14.09889%7C46.36885%2C14.11465%7C46.36741%2C14.10862"
+   }
+  },
+  {
+   "day": 3,
+   "date": "2027-08-17",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Vintgar Gorge boardwalk and a toboggan",
+    "he": "שביל העץ בערוץ וינטגר ומגלשת קיץ"
+   },
+   "trail": "blue",
+   "overnight": "hotel_bled",
+   "plan": [
+    {
+     "en": "Book a morning entry slot online and drive 17 km / 33 min to Vintgar Gorge (open daily in season, Tuesday included): a flat boardwalk by the turquoise river to the Šum waterfall (1.6 km one way; turn back earlier if the kids tire).",
+     "he": "להזמין מראש כניסה לשעת בוקר ולנסוע 17 ק\"מ / 33 דקות לערוץ וינטגר (פתוח מדי יום בעונה, כולל יום שלישי): שביל עץ שטוח ליד הנהר הטורקיז עד מפל שום (1.6 ק\"מ לכיוון אחד; לחזור מוקדם יותר אם הילדים עייפים)."
+    },
+    {
+     "en": "Picnic lunch from the apartment kitchen, then rest in the air-conditioned apartment during the hottest hours.",
+     "he": "ארוחת פיקניק ממטבח הדירה, ואז מנוחה בדירה הממוזגת בשעות החמות ביותר."
+    },
+    {
+     "en": "Optional late afternoon: chairlift and summer toboggan on Straža hill – first confirm it runs on a Tuesday (Google shows weekends only off-season); otherwise swim at the lake.",
+     "he": "אופציונלי בשעות אחר הצהריים המאוחרות: מעלית כיסאות ומגלשת קיץ על גבעת סטראז'ה – קודם לאשר שהיא פועלת ביום שלישי (גוגל מציג סופי שבוע בלבד מחוץ לעונה); אחרת שוחים באגם."
+    }
+   ],
+   "attractions": [
+    "vintgar",
+    "straza"
+   ],
+   "route": {
+    "km": 37.5,
+    "minutes": 80,
+    "legs": [
+     {
+      "from": "Apartment Muznik, Bled",
+      "to": "Vintgar Gorge entrance (Podhom)",
+      "km": 17.5,
+      "min": 33
+     },
+     {
+      "from": "Vintgar Gorge entrance (Podhom)",
+      "to": "Straža Bled toboggan",
+      "km": 16.3,
+      "min": 32
+     },
+     {
+      "from": "Straža Bled toboggan",
+      "to": "Apartment Muznik, Bled",
+      "km": 3.7,
+      "min": 15
+     }
+    ],
+    "points": [
+     {
+      "name": "Apartment Muznik, Bled",
+      "lat": 46.357435,
+      "lng": 14.100263
+     },
+     {
+      "name": "Vintgar Gorge entrance (Podhom)",
+      "lat": 46.3994,
+      "lng": 14.0904
+     },
+     {
+      "name": "Straža Bled toboggan",
+      "lat": 46.36288,
+      "lng": 14.10608
+     },
+     {
+      "name": "Apartment Muznik, Bled",
+      "lat": 46.357435,
+      "lng": 14.100263
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.10034,
+       46.35742
+      ],
+      [
+       14.09932,
+       46.362303
+      ],
+      [
+       14.106759,
+       46.364799
+      ],
+      [
+       14.108474,
+       46.36671
+      ],
+      [
+       14.113114,
+       46.368174
+      ],
+      [
+       14.118284,
+       46.368533
+      ],
+      [
+       14.122074,
+       46.366684
+      ],
+      [
+       14.12755,
+       46.366911
+      ],
+      [
+       14.134056,
+       46.368126
+      ],
+      [
+       14.137392,
+       46.366493
+      ],
+      [
+       14.141992,
+       46.365111
+      ],
+      [
+       14.149838,
+       46.36351
+      ],
+      [
+       14.156917,
+       46.366038
+      ],
+      [
+       14.160711,
+       46.368363
+      ],
+      [
+       14.161818,
+       46.368596
+      ],
+      [
+       14.162376,
+       46.368061
+      ],
+      [
+       14.161575,
+       46.367642
+      ],
+      [
+       14.160695,
+       46.368176
+      ],
+      [
+       14.153039,
+       46.37743
+      ],
+      [
+       14.142101,
+       46.385482
+      ],
+      [
+       14.137875,
+       46.389467
+      ],
+      [
+       14.133511,
+       46.395571
+      ],
+      [
+       14.12958,
+       46.404556
+      ],
+      [
+       14.127253,
+       46.407124
+      ],
+      [
+       14.124554,
+       46.408888
+      ],
+      [
+       14.119809,
+       46.41055
+      ],
+      [
+       14.096764,
+       46.41438
+      ],
+      [
+       14.094915,
+       46.414993
+      ],
+      [
+       14.093936,
+       46.416395
+      ],
+      [
+       14.092556,
+       46.416481
+      ],
+      [
+       14.092777,
+       46.415424
+      ],
+      [
+       14.091864,
+       46.414057
+      ],
+      [
+       14.096835,
+       46.411175
+      ],
+      [
+       14.099463,
+       46.408334
+      ],
+      [
+       14.105202,
+       46.40701
+      ],
+      [
+       14.107855,
+       46.406901
+      ],
+      [
+       14.109359,
+       46.405946
+      ],
+      [
+       14.104506,
+       46.403625
+      ],
+      [
+       14.10426,
+       46.402504
+      ],
+      [
+       14.103529,
+       46.402577
+      ],
+      [
+       14.099831,
+       46.400637
+      ],
+      [
+       14.103529,
+       46.402577
+      ],
+      [
+       14.10426,
+       46.402504
+      ],
+      [
+       14.104506,
+       46.403625
+      ],
+      [
+       14.109359,
+       46.405946
+      ],
+      [
+       14.107074,
+       46.407019
+      ],
+      [
+       14.106714,
+       46.408434
+      ],
+      [
+       14.104264,
+       46.408672
+      ],
+      [
+       14.101873,
+       46.409534
+      ],
+      [
+       14.100373,
+       46.411333
+      ],
+      [
+       14.099596,
+       46.410932
+      ],
+      [
+       14.097305,
+       46.41198
+      ],
+      [
+       14.091237,
+       46.415335
+      ],
+      [
+       14.091371,
+       46.416035
+      ],
+      [
+       14.097157,
+       46.414203
+      ],
+      [
+       14.120473,
+       46.410319
+      ],
+      [
+       14.124838,
+       46.408636
+      ],
+      [
+       14.127193,
+       46.407046
+      ],
+      [
+       14.129456,
+       46.404524
+      ],
+      [
+       14.1334,
+       46.395515
+      ],
+      [
+       14.137029,
+       46.390241
+      ],
+      [
+       14.141106,
+       46.386133
+      ],
+      [
+       14.152878,
+       46.377407
+      ],
+      [
+       14.156585,
+       46.373391
+      ],
+      [
+       14.159694,
+       46.36885
+      ],
+      [
+       14.159422,
+       46.368011
+      ],
+      [
+       14.157391,
+       46.366774
+      ],
+      [
+       14.149838,
+       46.36351
+      ],
+      [
+       14.145094,
+       46.364274
+      ],
+      [
+       14.137686,
+       46.366408
+      ],
+      [
+       14.134056,
+       46.368126
+      ],
+      [
+       14.12755,
+       46.366911
+      ],
+      [
+       14.122886,
+       46.366927
+      ],
+      [
+       14.119191,
+       46.36834
+      ],
+      [
+       14.116508,
+       46.36867
+      ],
+      [
+       14.111533,
+       46.367705
+      ],
+      [
+       14.11075,
+       46.366709
+      ],
+      [
+       14.111987,
+       46.364328
+      ],
+      [
+       14.109293,
+       46.36482
+      ],
+      [
+       14.106097,
+       46.362849
+      ],
+      [
+       14.102032,
+       46.361547
+      ],
+      [
+       14.102643,
+       46.362643
+      ],
+      [
+       14.102077,
+       46.361486
+      ],
+      [
+       14.106114,
+       46.362854
+      ],
+      [
+       14.109293,
+       46.36482
+      ],
+      [
+       14.111987,
+       46.364328
+      ],
+      [
+       14.11075,
+       46.366709
+      ],
+      [
+       14.111533,
+       46.367705
+      ],
+      [
+       14.108474,
+       46.36671
+      ],
+      [
+       14.106759,
+       46.364799
+      ],
+      [
+       14.09932,
+       46.362303
+      ],
+      [
+       14.10034,
+       46.35742
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.357435,14.100263&destination=46.357435,14.100263&travelmode=driving&waypoints=46.3994%2C14.0904%7C46.36288%2C14.10608"
+   }
+  },
+  {
+   "day": 4,
+   "date": "2027-08-18",
+   "weekday": {
+    "en": "Wed",
+    "he": "ד'"
+   },
+   "title": {
+    "en": "Lake Bohinj: boat, beach and (optional) Vogel",
+    "he": "אגם בוהין: סירה, חוף ואופציונלית ווגל"
+   },
+   "trail": "blue",
+   "overnight": "hotel_bled",
+   "plan": [
+    {
+     "en": "Drive 27 km / 29 min to Ribčev Laz at the east end of Lake Bohinj; the panoramic boat to Ukanc and back, then the pebble beach and a flat shore stroll (1–2 km).",
+     "he": "נסיעה של 27 ק\"מ / 29 דקות לרבצ'ב לאז בקצה המזרחי של אגם בוהין; סירת פנורמה לאוקאנץ וחזרה, ואז חוף החלוקים והליכה שטוחה על החוף (1–2 ק\"מ)."
+    },
+    {
+     "en": "Lunch at the lake. Optional: Vogel cable car from Ukanc (7 km, 11 min) for the mountain view; take jackets.",
+     "he": "ארוחת צהריים ליד האגם. אופציונלי: רכבל ווגל מאוקאנץ (7 ק\"מ, 11 דקות) לנוף הרים; לקחת ג'קטים."
+    },
+    {
+     "en": "Back in Bled by about 17:00 (30 min); supper in the apartment or in town. Driving 1h13 in total.",
+     "he": "חזרה לבלד עד כ-17:00 (30 דקות); ארוחת ערב בדירה או בעיר. בסך הכול 1:13 שעות נסיעה."
+    }
+   ],
+   "attractions": [
+    "bohinj",
+    "vogel"
+   ],
+   "route": {
+    "km": 63.6,
+    "minutes": 73,
+    "legs": [
+     {
+      "from": "Apartment Muznik, Bled",
+      "to": "Lake Bohinj, Ribčev Laz",
+      "km": 27.3,
+      "min": 29
+     },
+     {
+      "from": "Lake Bohinj, Ribčev Laz",
+      "to": "Vogel cable car valley station, Ukanc",
+      "km": 6.7,
+      "min": 11
+     },
+     {
+      "from": "Vogel cable car valley station, Ukanc",
+      "to": "Apartment Muznik, Bled",
+      "km": 29.7,
+      "min": 33
+     }
+    ],
+    "points": [
+     {
+      "name": "Apartment Muznik, Bled",
+      "lat": 46.357435,
+      "lng": 14.100263
+     },
+     {
+      "name": "Lake Bohinj, Ribčev Laz",
+      "lat": 46.28742,
+      "lng": 13.88607
+     },
+     {
+      "name": "Vogel cable car valley station, Ukanc",
+      "lat": 46.27572,
+      "lng": 13.83542
+     },
+     {
+      "name": "Apartment Muznik, Bled",
+      "lat": 46.357435,
+      "lng": 14.100263
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.10034,
+       46.35742
+      ],
+      [
+       14.099494,
+       46.360019
+      ],
+      [
+       14.096618,
+       46.359397
+      ],
+      [
+       14.092148,
+       46.356696
+      ],
+      [
+       14.072986,
+       46.34986
+      ],
+      [
+       14.070207,
+       46.346793
+      ],
+      [
+       14.066957,
+       46.345327
+      ],
+      [
+       14.058737,
+       46.323
+      ],
+      [
+       14.063141,
+       46.315063
+      ],
+      [
+       14.063431,
+       46.310638
+      ],
+      [
+       14.061538,
+       46.305684
+      ],
+      [
+       14.058029,
+       46.304028
+      ],
+      [
+       14.048635,
+       46.303378
+      ],
+      [
+       14.045101,
+       46.302283
+      ],
+      [
+       14.036807,
+       46.29761
+      ],
+      [
+       14.032835,
+       46.290779
+      ],
+      [
+       14.021951,
+       46.285184
+      ],
+      [
+       14.018837,
+       46.285088
+      ],
+      [
+       14.014019,
+       46.288092
+      ],
+      [
+       14.007371,
+       46.289281
+      ],
+      [
+       13.981787,
+       46.288004
+      ],
+      [
+       13.976677,
+       46.286703
+      ],
+      [
+       13.969633,
+       46.281848
+      ],
+      [
+       13.962137,
+       46.283305
+      ],
+      [
+       13.953986,
+       46.281779
+      ],
+      [
+       13.9528,
+       46.278501
+      ],
+      [
+       13.950321,
+       46.27702
+      ],
+      [
+       13.952542,
+       46.272635
+      ],
+      [
+       13.95021,
+       46.273522
+      ],
+      [
+       13.940939,
+       46.272767
+      ],
+      [
+       13.937889,
+       46.273711
+      ],
+      [
+       13.930799,
+       46.271616
+      ],
+      [
+       13.924895,
+       46.27355
+      ],
+      [
+       13.917008,
+       46.272037
+      ],
+      [
+       13.913156,
+       46.270281
+      ],
+      [
+       13.912501,
+       46.268553
+      ],
+      [
+       13.90513,
+       46.267514
+      ],
+      [
+       13.898003,
+       46.268846
+      ],
+      [
+       13.895081,
+       46.272851
+      ],
+      [
+       13.886396,
+       46.277817
+      ],
+      [
+       13.886773,
+       46.280965
+      ],
+      [
+       13.892165,
+       46.284265
+      ],
+      [
+       13.894105,
+       46.287956
+      ],
+      [
+       13.886704,
+       46.290256
+      ],
+      [
+       13.894033,
+       46.288258
+      ],
+      [
+       13.893981,
+       46.287159
+      ],
+      [
+       13.892123,
+       46.284229
+      ],
+      [
+       13.886773,
+       46.280965
+      ],
+      [
+       13.886396,
+       46.277817
+      ],
+      [
+       13.883474,
+       46.276244
+      ],
+      [
+       13.874186,
+       46.278415
+      ],
+      [
+       13.866847,
+       46.279075
+      ],
+      [
+       13.861192,
+       46.278386
+      ],
+      [
+       13.850496,
+       46.281456
+      ],
+      [
+       13.838672,
+       46.278739
+      ],
+      [
+       13.83725,
+       46.277873
+      ],
+      [
+       13.838243,
+       46.277058
+      ],
+      [
+       13.835495,
+       46.275778
+      ],
+      [
+       13.838672,
+       46.278739
+      ],
+      [
+       13.850496,
+       46.281456
+      ],
+      [
+       13.861192,
+       46.278386
+      ],
+      [
+       13.866847,
+       46.279075
+      ],
+      [
+       13.874186,
+       46.278415
+      ],
+      [
+       13.88026,
+       46.277533
+      ],
+      [
+       13.882389,
+       46.276206
+      ],
+      [
+       13.886286,
+       46.277832
+      ],
+      [
+       13.895081,
+       46.272851
+      ],
+      [
+       13.898003,
+       46.268846
+      ],
+      [
+       13.905394,
+       46.267514
+      ],
+      [
+       13.912501,
+       46.268553
+      ],
+      [
+       13.913156,
+       46.270281
+      ],
+      [
+       13.917008,
+       46.272037
+      ],
+      [
+       13.924895,
+       46.27355
+      ],
+      [
+       13.930799,
+       46.271616
+      ],
+      [
+       13.937889,
+       46.273711
+      ],
+      [
+       13.940939,
+       46.272767
+      ],
+      [
+       13.95021,
+       46.273522
+      ],
+      [
+       13.952542,
+       46.272635
+      ],
+      [
+       13.950321,
+       46.27702
+      ],
+      [
+       13.9528,
+       46.278501
+      ],
+      [
+       13.953986,
+       46.281779
+      ],
+      [
+       13.962137,
+       46.283305
+      ],
+      [
+       13.969633,
+       46.281848
+      ],
+      [
+       13.976677,
+       46.286703
+      ],
+      [
+       13.981787,
+       46.288004
+      ],
+      [
+       14.007371,
+       46.289281
+      ],
+      [
+       14.014019,
+       46.288092
+      ],
+      [
+       14.018837,
+       46.285088
+      ],
+      [
+       14.021951,
+       46.285184
+      ],
+      [
+       14.032835,
+       46.290779
+      ],
+      [
+       14.036807,
+       46.29761
+      ],
+      [
+       14.045101,
+       46.302283
+      ],
+      [
+       14.048635,
+       46.303378
+      ],
+      [
+       14.058029,
+       46.304028
+      ],
+      [
+       14.061538,
+       46.305684
+      ],
+      [
+       14.063431,
+       46.310638
+      ],
+      [
+       14.063141,
+       46.315063
+      ],
+      [
+       14.058737,
+       46.323
+      ],
+      [
+       14.066957,
+       46.345327
+      ],
+      [
+       14.070207,
+       46.346793
+      ],
+      [
+       14.072986,
+       46.34986
+      ],
+      [
+       14.092148,
+       46.356696
+      ],
+      [
+       14.096576,
+       46.359382
+      ],
+      [
+       14.099494,
+       46.360019
+      ],
+      [
+       14.10034,
+       46.35742
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.357435,14.100263&destination=46.357435,14.100263&travelmode=driving&waypoints=46.28742%2C13.88607%7C46.27572%2C13.83542"
+   }
+  },
+  {
+   "day": 5,
+   "date": "2027-08-19",
+   "weekday": {
+    "en": "Thu",
+    "he": "ה'"
+   },
+   "title": {
+    "en": "Postojna Cave and Predjama Castle (the long day)",
+    "he": "מערת פוסטוינה וטירת פרדיאמה (היום הארוך)"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_bled",
+   "plan": [
+    {
+     "en": "Leave by 7:45: 105 km / 1h12 to Postojna (A2/A1 motorway, vignette needed). Book the first morning cave tour online with the Predjama combo ticket (cave and castle open daily, Thursday included).",
+     "he": "יוצאים עד 7:45: 105 ק\"מ / 1:12 שעות לפוסטוינה (כביש מהיר A2/A1, נדרשת וינייטה). להזמין מראש סיור בוקר ראשון במערה עם כרטיס משולב לפרדיאמה (המערה והטירה פתוחות מדי יום, כולל יום חמישי)."
+    },
+    {
+     "en": "Cave tour (train + 1.5 km flat walk, 8–10 °C – jackets), the Vivarium and lunch.",
+     "he": "סיור במערה (רכבת + 1.5 ק\"מ הליכה שטוחה, 8–10 מעלות – ג'קטים), הוויבריום וארוחת צהריים."
+    },
+    {
+     "en": "Predjama Castle in the cliff (9 km / 15 min), then drive back to Bled (1h12). Total driving 2h53 – the longest day; kids sleep in the car on the way back. Drop this day if you prefer a lighter week. Pack tonight: check-out tomorrow.",
+     "he": "טירת פרדיאמה בצוק (9 ק\"מ / 15 דקות), ואז נסיעה חזרה לבלד (1:12). בסך הכול 2:53 שעות נסיעה – היום הארוך ביותר; הילדים ישנים ברכב בדרך חזרה. אפשר לוותר על היום הזה לשבוע קל יותר. אורזים הערב: מחר צ'ק-אאוט."
+    }
+   ],
+   "attractions": [
+    "postojna",
+    "predjama"
+   ],
+   "route": {
+    "km": 228.5,
+    "minutes": 173,
+    "legs": [
+     {
+      "from": "Apartment Muznik, Bled",
+      "to": "Predjama Castle",
+      "km": 113.8,
+      "min": 86
+     },
+     {
+      "from": "Predjama Castle",
+      "to": "Postojna Cave",
+      "km": 9.2,
+      "min": 15
+     },
+     {
+      "from": "Postojna Cave",
+      "to": "Apartment Muznik, Bled",
+      "km": 105.4,
+      "min": 72
+     }
+    ],
+    "points": [
+     {
+      "name": "Apartment Muznik, Bled",
+      "lat": 46.357435,
+      "lng": 14.100263
+     },
+     {
+      "name": "Predjama Castle",
+      "lat": 45.8158037,
+      "lng": 14.1268795
+     },
+     {
+      "name": "Postojna Cave",
+      "lat": 45.78303,
+      "lng": 14.20384
+     },
+     {
+      "name": "Apartment Muznik, Bled",
+      "lat": 46.357435,
+      "lng": 14.100263
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.10034,
+       46.35742
+      ],
+      [
+       14.113114,
+       46.368174
+      ],
+      [
+       14.16068,
+       46.367562
+      ],
+      [
+       14.203798,
+       46.331163
+      ],
+      [
+       14.277685,
+       46.310616
+      ],
+      [
+       14.292884,
+       46.281343
+      ],
+      [
+       14.383385,
+       46.25439
+      ],
+      [
+       14.464484,
+       46.201774
+      ],
+      [
+       14.486155,
+       46.17438
+      ],
+      [
+       14.475956,
+       46.145454
+      ],
+      [
+       14.481907,
+       46.125144
+      ],
+      [
+       14.460871,
+       46.093871
+      ],
+      [
+       14.44533,
+       46.030461
+      ],
+      [
+       14.334088,
+       45.995523
+      ],
+      [
+       14.307894,
+       45.975405
+      ],
+      [
+       14.30245,
+       45.951449
+      ],
+      [
+       14.271607,
+       45.934147
+      ],
+      [
+       14.25561,
+       45.898424
+      ],
+      [
+       14.294097,
+       45.838174
+      ],
+      [
+       14.284793,
+       45.810548
+      ],
+      [
+       14.231213,
+       45.793214
+      ],
+      [
+       14.220348,
+       45.768274
+      ],
+      [
+       14.199979,
+       45.760926
+      ],
+      [
+       14.199117,
+       45.771861
+      ],
+      [
+       14.210186,
+       45.777093
+      ],
+      [
+       14.159749,
+       45.810155
+      ],
+      [
+       14.146779,
+       45.809806
+      ],
+      [
+       14.139503,
+       45.821208
+      ],
+      [
+       14.127736,
+       45.814787
+      ],
+      [
+       14.139503,
+       45.821208
+      ],
+      [
+       14.146779,
+       45.809806
+      ],
+      [
+       14.159749,
+       45.810155
+      ],
+      [
+       14.202841,
+       45.782618
+      ],
+      [
+       14.210178,
+       45.777052
+      ],
+      [
+       14.194715,
+       45.758257
+      ],
+      [
+       14.220038,
+       45.767739
+      ],
+      [
+       14.230684,
+       45.792774
+      ],
+      [
+       14.285783,
+       45.811684
+      ],
+      [
+       14.294431,
+       45.837682
+      ],
+      [
+       14.263832,
+       45.875241
+      ],
+      [
+       14.255926,
+       45.901961
+      ],
+      [
+       14.277828,
+       45.94154
+      ],
+      [
+       14.303897,
+       45.953011
+      ],
+      [
+       14.310197,
+       45.977948
+      ],
+      [
+       14.350119,
+       46.003031
+      ],
+      [
+       14.445907,
+       46.030963
+      ],
+      [
+       14.461791,
+       46.094786
+      ],
+      [
+       14.482061,
+       46.125121
+      ],
+      [
+       14.476083,
+       46.145014
+      ],
+      [
+       14.486012,
+       46.176988
+      ],
+      [
+       14.462521,
+       46.203463
+      ],
+      [
+       14.38341,
+       46.25452
+      ],
+      [
+       14.293149,
+       46.281348
+      ],
+      [
+       14.277608,
+       46.310826
+      ],
+      [
+       14.203293,
+       46.331527
+      ],
+      [
+       14.161967,
+       46.368558
+      ],
+      [
+       14.149838,
+       46.36351
+      ],
+      [
+       14.113114,
+       46.368174
+      ],
+      [
+       14.10034,
+       46.35742
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.357435,14.100263&destination=46.357435,14.100263&travelmode=driving&waypoints=45.8158037%2C14.1268795%7C45.78303%2C14.20384"
+   }
+  },
+  {
+   "day": 6,
+   "date": "2027-08-20",
+   "weekday": {
+    "en": "Fri",
+    "he": "ו'"
+   },
+   "title": {
+    "en": "Back to Ljubljana, return the car, Old Town and Tivoli",
+    "he": "חזרה ללובליאנה, החזרת הרכב, העיר העתיקה וטיבולי"
+   },
+   "trail": "green",
+   "overnight": "hotel_lj",
+   "plan": [
+    {
+     "en": "Check out by 10:00, fuel up, and drive 38 km / 34 min to Ljubljana Airport (LJU, Brnik); return the car (5 rental days: Sun afternoon to Fri) by 12:00 (a Friday – desks are open).",
+     "he": "צ'ק-אאוט עד 10:00, תדלוק, ונסיעה של 38 ק\"מ / 34 דקות לשדה התעופה של לובליאנה (LJU, ברניק); מחזירים את הרכב (5 ימי השכרה: ממוצאי יום ראשון עד יום שישי) עד 12:00 (יום שישי – הדלפקים פתוחים)."
+    },
+    {
+     "en": "Taxi or pre-booked transfer with child seats to the apartment (27 min, about €40 – estimate); public bus no. 28 or a shared shuttle is cheaper. Check-in from 15:00: ask the host for early check-in or bag storage; lunch nearby.",
+     "he": "מונית או הסעה מוזמנת עם מושבי ילדים לדירה (27 דקות, כ-40 € – הערכה); אוטובוס 28 או שאטל משותף זולים יותר. צ'ק-אין מ-15:00: לבקש מהמארח צ'ק-אין מוקדם או שמירת מזוודות; ארוחת צהריים בסביבה."
+    },
+    {
+     "en": "Afternoon: the Old Town (Triple Bridge, Dragon Bridge, central market, a weekday) and the Tivoli Park playground, all on foot.",
+     "he": "אחר הצהריים: העיר העתיקה (הגשר המשולש, גשר הדרקונים, השוק המרכזי, ביום חול) ומגרש המשחקים בפארק טיבולי, הכול ברגל."
+    }
+   ],
+   "attractions": [
+    "lj_oldtown",
+    "tivoli"
+   ],
+   "route": {
+    "km": 66.1,
+    "minutes": 61,
+    "legs": [
+     {
+      "from": "Apartment Muznik, Bled",
+      "to": "Ljubljana Jože Pučnik Airport (LJU) – car return",
+      "km": 38.0,
+      "min": 34
+     },
+     {
+      "from": "Ljubljana Jože Pučnik Airport (LJU) – car return",
+      "to": "Absolutum Apartments, Ljubljana",
+      "km": 28.1,
+      "min": 27
+     }
+    ],
+    "points": [
+     {
+      "name": "Apartment Muznik, Bled",
+      "lat": 46.357435,
+      "lng": 14.100263
+     },
+     {
+      "name": "Ljubljana Jože Pučnik Airport (LJU) – car return",
+      "lat": 46.2237,
+      "lng": 14.4576
+     },
+     {
+      "name": "Absolutum Apartments, Ljubljana",
+      "lat": 46.05285,
+      "lng": 14.50921
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.10034,
+       46.35742
+      ],
+      [
+       14.09932,
+       46.362303
+      ],
+      [
+       14.113114,
+       46.368174
+      ],
+      [
+       14.134056,
+       46.368126
+      ],
+      [
+       14.149838,
+       46.36351
+      ],
+      [
+       14.16068,
+       46.367562
+      ],
+      [
+       14.203798,
+       46.331163
+      ],
+      [
+       14.251804,
+       46.315017
+      ],
+      [
+       14.277685,
+       46.310616
+      ],
+      [
+       14.293259,
+       46.281156
+      ],
+      [
+       14.377681,
+       46.257156
+      ],
+      [
+       14.399141,
+       46.240757
+      ],
+      [
+       14.396212,
+       46.23881
+      ],
+      [
+       14.394446,
+       46.241542
+      ],
+      [
+       14.418586,
+       46.236603
+      ],
+      [
+       14.456206,
+       46.235978
+      ],
+      [
+       14.462729,
+       46.22633
+      ],
+      [
+       14.457836,
+       46.235571
+      ],
+      [
+       14.432259,
+       46.236249
+      ],
+      [
+       14.44174,
+       46.225626
+      ],
+      [
+       14.435912,
+       46.218808
+      ],
+      [
+       14.462416,
+       46.203376
+      ],
+      [
+       14.484338,
+       46.181726
+      ],
+      [
+       14.485729,
+       46.169537
+      ],
+      [
+       14.475898,
+       46.144479
+      ],
+      [
+       14.481991,
+       46.125476
+      ],
+      [
+       14.463506,
+       46.097769
+      ],
+      [
+       14.4965,
+       46.061139
+      ],
+      [
+       14.509755,
+       46.053201
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.357435,14.100263&destination=46.05285,14.50921&travelmode=driving&waypoints=46.2237%2C14.4576"
+   }
+  },
+  {
+   "day": 7,
+   "date": "2027-08-21",
+   "weekday": {
+    "en": "Sat",
+    "he": "ש'"
+   },
+   "title": {
+    "en": "House of Experiments (Saturday opening)",
+    "he": "בית הניסויים (פתוח בשבת)"
+   },
+   "trail": "green",
+   "overnight": "hotel_lj",
+   "plan": [
+    {
+     "en": "10:00 House of Experiments, Trubarjeva 39 (5 min walk) – open Sat–Tue 10:00–18:00 (closed Mon, Tue and Fri, so it must be today or tomorrow). About 2.5 hours.",
+     "he": "10:00 בית הניסויים, טרובארייבה 39 (5 דקות הליכה) – פתוח ש'–ג' 10:00–18:00 (סגור בב', ג' וו', ולכן חייבים היום או מחר). כ-2.5 שעות."
+    },
+    {
+     "en": "Lunch, a rest in the air-conditioned apartment, then the Natural History Museum (700 m, air-conditioned, optional) or an ice-cream walk by the river.",
+     "he": "ארוחת צהריים, מנוחה בדירה הממוזגת, ואז המוזיאון להיסטוריה של הטבע (700 מ', ממוזג, אופציונלי) או טיול גלידה לאורך הנהר."
+    }
+   ],
+   "attractions": [
+    "hisa",
+    "pms"
+   ],
+   "route": null
+  },
+  {
+   "day": 8,
+   "date": "2027-08-22",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Ljubljana Zoo in the Rožnik woods",
+    "he": "גן החיות של לובליאנה ביער רוז'ניק"
+   },
+   "trail": "green",
+   "overnight": "hotel_lj",
+   "plan": [
+    {
+     "en": "Taxi (about 8 min, €8–10 – estimate) or city bus to the zoo at opening time (9:00; open every day), about 3 hours with the animals; walk down through the woods to Tivoli for an ice cream.",
+     "he": "מונית (כ-8 דקות, 8–10 € – הערכה) או אוטובוס עירוני לגן החיות בפתיחה (9:00; פתוח כל יום), כ-3 שעות עם החיות; יורדים ברגל דרך היער לטיבולי לגלידה."
+    },
+    {
+     "en": "Rest in the apartment in the heat; the evening is free (Old Town dinner). Rain or very hot day: switch to the Atlantis indoor water park (open daily 9:00–21:00).",
+     "he": "מנוחה בדירה בחום; הערב חופשי (ארוחת ערב בעיר העתיקה). יום גשום או חם מאוד: מחליפים לפארק המים הפנימי אטלנטיס (פתוח מדי יום 9:00–21:00)."
+    }
+   ],
+   "attractions": [
+    "lj_zoo",
+    "atlantis"
+   ],
+   "route": null
+  },
+  {
+   "day": 9,
+   "date": "2027-08-23",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Ljubljana Castle by funicular and a river boat",
+    "he": "טירת לובליאנה בפוניקולר ושייט בנהר"
+   },
+   "trail": "green",
+   "overnight": "hotel_lj",
+   "plan": [
+    {
+     "en": "Morning: funicular up to Ljubljana Castle (700 m from the apartment; the castle is open on Mondays), the tower, the virtual castle and the puppet museum; walk back down through the park. (The House of Experiments is closed on Mondays – it was done on Saturday.)",
+     "he": "בוקר: פוניקולר לטירת לובליאנה (700 מ' מהדירה; הטירה פתוחה בימי שני), המגדל, הטירה הווירטואלית ומוזיאון הבובות; חוזרים ברגל דרך הפארק. (בית הניסויים סגור בימי שני – נעשה בשבת.)"
+    },
+    {
+     "en": "Lunch by the river, a rest in the air-conditioned apartment, then the 45-minute Ljubljanica boat cruise from Ribji trg in the late afternoon; souvenirs and a last dinner.",
+     "he": "ארוחת צהריים ליד הנהר, מנוחה בדירה הממוזגת, ואז שייט של 45 דקות בנהר לובליאניצה ממזח ריבי טרג בשעות אחר הצהריים המאוחרות; מזכרות וארוחת ערב אחרונה."
+    },
+    {
+     "en": "Pack tonight and pre-book the airport taxi for 06:15 tomorrow (confirm the driver and a child-seat request); agree the self check-out with the host; buy a breakfast snack for the morning.",
+     "he": "אורזים הערב ומזמינים מראש מונית לשדה ל-06:15 מחר (לאשר נהג ובקשת מושבי ילדים); מתאמים צ'ק-אאוט עצמי עם המארח; קונים חטיף לארוחת בוקר בבוקר."
+    }
+   ],
+   "attractions": [
+    "lj_castle",
+    "lj_boat"
+   ],
+   "route": null
+  },
+  {
+   "day": 10,
+   "date": "2027-08-24",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Early flight home",
+    "he": "טיסה הביתה בבוקר מוקדם"
+   },
+   "trail": "green",
+   "overnight": null,
+   "plan": [
+    {
+     "en": "Aegean A3 791 + A3 926 departs 09:20 and lands in TLV at 19:00.",
+     "he": "אגיאן A3 791 + A3 926 ממריאה ב-09:20 ונוחתת בנתב\"ג ב-19:00."
+    },
+    {
+     "en": "Wake about 05:30; self check-out. Pre-booked taxi at about 06:15 to Ljubljana Airport (27 min, about €40 – estimate; early-morning traffic is light) so you are at the airport by about 07:00 for the 09:20 flight. No public bus or shuttle is reliable at that hour.",
+     "he": "מתעוררים בסביבות 05:30; צ'ק-אאוט עצמי. מונית מוזמנת מראש בסביבות 06:15 לשדה התעופה של לובליאנה (27 דקות, כ-40 € – הערכה; התנועה בבוקר מוקדם דלילה) כדי להיות בשדה בסביבות 07:00 לטיסה של 09:20. אין אוטובוס או שאטל אמינים בשעה כזאת."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 27.5,
+    "minutes": 27,
+    "legs": [
+     {
+      "from": "Absolutum Apartments, Ljubljana",
+      "to": "Ljubljana Jože Pučnik Airport (LJU)",
+      "km": 27.5,
+      "min": 27
+     }
+    ],
+    "points": [
+     {
+      "name": "Absolutum Apartments, Ljubljana",
+      "lat": 46.05285,
+      "lng": 14.50921
+     },
+     {
+      "name": "Ljubljana Jože Pučnik Airport (LJU)",
+      "lat": 46.2237,
+      "lng": 14.4576
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.509755,
+       46.053201
+      ],
+      [
+       14.504475,
+       46.054425
+      ],
+      [
+       14.496536,
+       46.061104
+      ],
+      [
+       14.463828,
+       46.097706
+      ],
+      [
+       14.482061,
+       46.125121
+      ],
+      [
+       14.476059,
+       46.144555
+      ],
+      [
+       14.485938,
+       46.169768
+      ],
+      [
+       14.484556,
+       46.181605
+      ],
+      [
+       14.466912,
+       46.200039
+      ],
+      [
+       14.439465,
+       46.218697
+      ],
+      [
+       14.441562,
+       46.226224
+      ],
+      [
+       14.432482,
+       46.233383
+      ],
+      [
+       14.432275,
+       46.235919
+      ],
+      [
+       14.45757,
+       46.235655
+      ],
+      [
+       14.462729,
+       46.22633
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.05285,14.50921&destination=46.2237,14.4576&travelmode=driving"
+   }
+  }
+ ],
+ "routes_total": {
+  "km": 466.4,
+  "minutes": 463
+ },
+ "budget": {
+  "lines": [
+   {
+    "key": "flights",
+    "eur": 1822,
+    "status": "live"
+   },
+   {
+    "key": "bags",
+    "eur": 320,
+    "status": "estimate"
+   },
+   {
+    "key": "car",
+    "eur": 325,
+    "status": "estimate"
+   },
+   {
+    "key": "seats",
+    "eur": 40,
+    "status": "estimate"
+   },
+   {
+    "key": "border",
+    "eur": 0,
+    "status": "live"
+   },
+   {
+    "key": "transfers",
+    "eur": 95,
+    "status": "estimate"
+   },
+   {
+    "key": "vignette",
+    "eur": 16,
+    "status": "estimate"
+   },
+   {
+    "key": "fuel",
+    "eur": 48,
+    "status": "estimate"
+   },
+   {
+    "key": "parking",
+    "eur": 25,
+    "status": "estimate"
+   },
+   {
+    "key": "hotels",
+    "eur": 1659.3,
+    "status": "live"
+   },
+   {
+    "key": "att",
+    "eur": 522,
+    "status": "mixed"
+   }
+  ],
+  "total_eur": 4872.3,
+  "live_part_eur": 3481.3,
+  "attractions_local": 522.3,
+  "fuel_km": 444
+ }
+}

@@ -1,0 +1,4005 @@
+{
+ "version": {
+  "id": "v2",
+  "date": "2026-10-15",
+  "label": {
+   "en": "v2 – kids & short days (15 Oct 2026)",
+   "he": "גרסה 2 – ילדים וימים קצרים (15.10.2026)"
+  }
+ },
+ "changes": [
+  {
+   "en": "Hebrew version added (switch language at the top).",
+   "he": "נוספה גרסה בעברית (החלפת שפה בראש העמוד)."
+  },
+  {
+   "en": "No border crossings: the Germany day (Bastei) and the whole Bohemian Switzerland region were removed. The car never leaves Czechia, so no cross-border fee.",
+   "he": "בלי מעבר גבולות: יום גרמניה (באסטיי) ואזור שווייץ הבוהמית הוסרו. הרכב לא יוצא מצ'כיה, ולכן אין עמלת מעבר גבול."
+  },
+  {
+   "en": "Evening outbound flight Smartwings QS 1285 (18:25 → 21:35), €271 cheaper than the morning flight.",
+   "he": "טיסת ערב הלוך – סמארטווינגס QS 1285 (18:25 ← 21:35), זולה ב-271 € מטיסת הבוקר."
+  },
+  {
+   "en": "More kids' attractions, less hiking: added Aquapalace water park, DinoPark, Railway Kingdom and Zoo Ohrada; removed the Pravčická brána hike and Tiské stěny.",
+   "he": "יותר אטרקציות לילדים ופחות הליכה: נוספו פארק המים אקווה-פאלאס, דינו-פארק, ממלכת הרכבות וגן החיות אוהרדה; הוסרו מסלול ההליכה לפרבצ'יצקה בראנה וטיסקה סטני."
+  },
+  {
+   "en": "Shorter days: one or two main activities per day; only the transfer day and the flight day have more than 1h10 of driving.",
+   "he": "ימים קצרים יותר: פעילות מרכזית אחת או שתיים ביום; רק ביום המעבר וביום הטיסה יש יותר משעה ועשר דקות נהיגה."
+  },
+  {
+   "en": "Fewer hotel changes: 2 hotels and only 1 move (Prague 4 nights → Lipno 5 nights), instead of 3 hotels.",
+   "he": "פחות החלפות מלון: 2 מלונות ומעבר אחד בלבד (פראג 4 לילות ← ליפנו 5 לילות) במקום 3 מלונות."
+  }
+ ],
+ "trip": {
+  "dates": {
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "days": 10,
+   "nights": 9
+  },
+  "title": {
+   "en": "Czech Family Road Trip",
+   "he": "טיול משפחתי בצ'כיה"
+  },
+  "lede": {
+   "en": "Sun 15 – Tue 24 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. Two bases only: 4 nights in Prague (zoo, water park, dinosaurs, a slow city day), then 5 nights at Lake Lipno with a pool, beach, treetop walk, river rafting and a castle with bears.",
+   "he": "א' 15 – ג' 24 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. שני בסיסים בלבד: 4 לילות בפראג (גן חיות, פארק מים, דינוזאורים ויום עיר רגוע), ואז 5 לילות באגם ליפנו עם בריכה, חוף, שביל בצמרות העצים, רפטינג בנהר וטירה עם דובים."
+  }
+ },
+ "currency": "EUR",
+ "czk_per_eur": 24.5,
+ "flights": {
+  "chosen": [
+   {
+    "dir": {
+     "en": "Outbound",
+     "he": "הלוך"
+    },
+    "date": "2027-08-15",
+    "wd": {
+     "en": "Sun",
+     "he": "א'"
+    },
+    "flight": "QS 1285",
+    "from": "TLV",
+    "to": "PRG",
+    "dep": "18:25",
+    "arr": "21:35",
+    "duration": "4h 10m",
+    "price_eur": 701
+   },
+   {
+    "dir": {
+     "en": "Return",
+     "he": "חזור"
+    },
+    "date": "2027-08-24",
+    "wd": {
+     "en": "Tue",
+     "he": "ג'"
+    },
+    "flight": "QS 1284",
+    "from": "PRG",
+    "to": "TLV",
+    "dep": "12:45",
+    "arr": "17:35",
+    "duration": "3h 50m",
+    "price_eur": 919
+   }
+  ],
+  "evening_outbound_options": [
+   {
+    "what": {
+     "en": "Smartwings QS 1285 · TLV 18:25 → PRG 21:35 · nonstop",
+     "he": "סמארטווינגס QS 1285 · ת\"א 18:25 ← פראג 21:35 · ישירה"
+    },
+    "when": {
+     "en": "Every date 11–17 Aug (also Sat)",
+     "he": "בכל התאריכים 11–17 באוגוסט (גם בשבת)"
+    },
+    "price_eur": 701,
+    "note": {
+     "en": "Chosen. Cheapest evening flight on every date.",
+     "he": "נבחרה. טיסת הערב הזולה ביותר בכל התאריכים."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "Austrian OS 80 + OS 649 · TLV 15:30 → PRG 21:50 · 1 stop Vienna",
+     "he": "אוסטריאן OS 80 + OS 649 · ת\"א 15:30 ← פראג 21:50 · עצירה בווינה"
+    },
+    "when": {
+     "en": "Daily",
+     "he": "יומי"
+    },
+    "price_eur": 863,
+    "note": {
+     "en": "€162 more and 3 hours longer.",
+     "he": "יקרה ב-162 € וארוכה ב-3 שעות."
+    }
+   },
+   {
+    "what": {
+     "en": "El Al LY 2523 · TLV 17:55 → PRG 20:55 · nonstop",
+     "he": "אל על LY 2523 · ת\"א 17:55 ← פראג 20:55 · ישירה"
+    },
+    "when": {
+     "en": "Thu 12 Aug",
+     "he": "ה' 12 באוגוסט"
+    },
+    "price_eur": 1187,
+    "note": {
+     "en": "€486 more.",
+     "he": "יקרה ב-486 €."
+    }
+   },
+   {
+    "what": {
+     "en": "SWISS LX 253 + LX 1484 · TLV 18:15 → PRG 08:40 next day · 1 stop Zurich",
+     "he": "סוויס LX 253 + LX 1484 · ת\"א 18:15 ← פראג 08:40 למחרת · עצירה בציריך"
+    },
+    "when": {
+     "en": "Wed 11 / Fri 13 Aug",
+     "he": "ד' 11 / ו' 13 באוגוסט"
+    },
+    "price_eur": 636,
+    "note": {
+     "en": "€65 cheaper, but a night spent at Zurich airport. Not recommended with kids.",
+     "he": "זולה ב-65 €, אבל לילה בשדה התעופה בציריך. לא מומלץ עם ילדים."
+    }
+   }
+  ],
+  "return_options": [
+   {
+    "what": {
+     "en": "Smartwings QS 1284 · PRG 12:45 → TLV 17:35 · nonstop",
+     "he": "סמארטווינגס QS 1284 · פראג 12:45 ← ת\"א 17:35 · ישירה"
+    },
+    "when": {
+     "en": "Every date 19–26 Aug",
+     "he": "בכל התאריכים 19–26 באוגוסט"
+    },
+    "price_eur": 919,
+    "note": {
+     "en": "Chosen. Home by early evening.",
+     "he": "נבחרה. בבית בתחילת הערב."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "Smartwings QS 1286 · PRG 23:45 → TLV 04:35 · nonstop",
+     "he": "סמארטווינגס QS 1286 · פראג 23:45 ← ת\"א 04:35 · ישירה"
+    },
+    "when": {
+     "en": "Every date",
+     "he": "בכל התאריכים"
+    },
+    "price_eur": 919,
+    "note": {
+     "en": "Same price; relaxed last day but lands 04:35.",
+     "he": "אותו מחיר; יום אחרון רגוע, אבל נחיתה ב-04:35."
+    }
+   },
+   {
+    "what": {
+     "en": "Aegean A3 867 + A3 928 · PRG 19:00 → TLV 02:45 · 1 stop Athens",
+     "he": "אגיאן A3 867 + A3 928 · פראג 19:00 ← ת\"א 02:45 · עצירה באתונה"
+    },
+    "when": {
+     "en": "Tue 24 Aug (€752 on 19–20 Aug)",
+     "he": "ג' 24 באוגוסט (752 € ב-19–20 באוגוסט)"
+    },
+    "price_eur": 870,
+    "note": {
+     "en": "€49 cheaper on our date, but a connection and a 02:45 landing.",
+     "he": "זולה ב-49 € בתאריך שלנו, אבל עם קונקשן ונחיתה ב-02:45."
+    }
+   },
+   {
+    "what": {
+     "en": "SWISS LX 1489 + LX 256 · PRG 19:30 → TLV 03:35 · 1 stop Zurich",
+     "he": "סוויס LX 1489 + LX 256 · פראג 19:30 ← ת\"א 03:35 · עצירה בציריך"
+    },
+    "when": {
+     "en": "Fri 20 / Sat 21 Aug only",
+     "he": "רק ו' 20 / ש' 21 באוגוסט"
+    },
+    "price_eur": 688,
+    "note": {
+     "en": "€231 cheaper, but would shorten the trip to 6–7 nights.",
+     "he": "זולה ב-231 €, אבל מקצרת את הטיול ל-6–7 לילות."
+    }
+   }
+  ],
+  "baggage_eur": 164,
+  "baggage_text": {
+   "en": "Smartwings LITE includes one 8 kg cabin trolley per passenger (your 2 trolleys are covered). Two 23 kg checked suitcases cost from 1,000 CZK (≈ €41) each per direction online: 2 × 2 × €41 ≈ €164 (estimate).",
+   "he": "תעריף LITE של סמארטווינגס כולל טרולי של 8 ק\"ג לכל נוסע (2 הטרולים שלכם מכוסים). שתי מזוודות של 23 ק\"ג עולות מ-1,000 קרונות (כ-41 €) כל אחת לכל כיוון בהזמנה מראש: 2 × 2 × 41 € ≈ 164 € (הערכה)."
+  },
+  "note": {
+   "en": "Live Google Flights prices found 15 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included. Other airports (Vienna, Munich, Budapest…) are no longer options because they mean crossing a border; Prague was also the cheapest in v1.",
+   "he": "מחירים חיים מ-Google Flights מ-15.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה. שדות תעופה אחרים (וינה, מינכן, בודפשט…) כבר לא רלוונטיים כי הם דורשים מעבר גבול; גם בגרסה 1 פראג הייתה הזולה ביותר."
+  }
+ },
+ "date_windows": [
+  {
+   "w": {
+    "en": "Thu 12 → Sat 21 Aug",
+    "he": "ה' 12 ← ש' 21 באוגוסט"
+   },
+   "prague": 768.22,
+   "lipno": 881.92
+  },
+  {
+   "w": {
+    "en": "Sat 14 → Mon 23 Aug",
+    "he": "ש' 14 ← ב' 23 באוגוסט"
+   },
+   "prague": 666.33,
+   "lipno": 875.24
+  },
+  {
+   "w": {
+    "en": "Sun 15 → Tue 24 Aug",
+    "he": "א' 15 ← ג' 24 באוגוסט"
+   },
+   "prague": 564.45,
+   "lipno": 878.11,
+   "best": true
+  }
+ ],
+ "airports": {
+  "PRG": {
+   "name": "Prague Václav Havel Airport",
+   "lat": 50.1008,
+   "lng": 14.26,
+   "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.100800,14.260000&travelmode=driving"
+  }
+ },
+ "car": {
+  "lines": [
+   [
+    {
+     "en": "Estate car, automatic, 9 days (≈ €65/day)",
+     "he": "רכב סטיישן אוטומטי, 9 ימים (כ-65 € ליום)"
+    },
+    585,
+    true
+   ],
+   [
+    {
+     "en": "2 child boosters (€0 if you bring your own)",
+     "he": "2 בוסטרים לילדים (0 € אם מביאים משלכם)"
+    },
+    150,
+    true
+   ],
+   [
+    {
+     "en": "Cross-border fee (no border crossings)",
+     "he": "עמלת מעבר גבול (אין מעבר גבול)"
+    },
+    0,
+    false
+   ],
+   [
+    {
+     "en": "One-way fee (same pick-up and return)",
+     "he": "עמלת החזרה במקום אחר (איסוף והחזרה באותו מקום)"
+    },
+    0,
+    false
+   ]
+  ],
+  "text": {
+   "en": "Pick-up Prague Airport Sun 15 Aug ≈ 22:15, return Tue 24 Aug ≈ 11:00 (counts as 9 days). Category: intermediate/standard estate, e.g. Škoda Octavia Combi automatic. 2 large suitcases + 2 trolleys fit in the boot, with 2 high-back boosters on the rear seat. Choose a company whose airport desk is open after 22:00, and confirm the Czech e-vignette is included.",
+   "he": "איסוף בשדה התעופה בפראג ב-א' 15 באוגוסט בערך ב-22:15, החזרה ב-ג' 24 באוגוסט בערך ב-11:00 (נחשב 9 ימים). קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית. 2 מזוודות גדולות ו-2 טרולים נכנסים לתא המטען, עם 2 בוסטרים עם גב במושב האחורי. לבחור חברה שהדלפק שלה בשדה פתוח אחרי 22:00, ולוודא שהווינייטה הצ'כית כלולה."
+  }
+ },
+ "driving_notes": [
+  {
+   "en": "Czech motorway e-vignette: normally included with Czech rental cars (10 days 300 CZK if not).",
+   "he": "וינייטה אלקטרונית לכבישים מהירים: בדרך כלל כלולה ברכב שכור צ'כי (אם לא – 300 קרונות ל-10 ימים)."
+  },
+  {
+   "en": "Children under 36 kg AND under 150 cm must sit in a child seat. High-back boosters suit ages 5 and 7.",
+   "he": "ילדים מתחת ל-36 ק\"ג וגם מתחת ל-150 ס\"מ חייבים מושב בטיחות. בוסטר עם גב מתאים לגילאי 5 ו-7."
+  },
+  {
+   "en": "Headlights on day and night. Zero alcohol. Speed limits 50 / 90 / 130 km/h.",
+   "he": "אורות דולקים יום ולילה. אפס אלכוהול. מהירות 50 / 90 / 130 קמ\"ש."
+  },
+  {
+   "en": "Prague: leave the car at the hotel on the city day and use trams. Petrol ≈ €1.85/l (Oct 2026).",
+   "he": "בפראג: ביום העיר משאירים את הרכב במלון ונוסעים בחשמליות. דלק כ-1.85 € לליטר (אוקטובר 2026)."
+  }
+ ],
+ "hotels": [
+  {
+   "id": "hotel_ghi",
+   "gkey": "hotel_ghi",
+   "name": "Grand Hotel International Prague",
+   "area": {
+    "en": "Prague 6 – Dejvice (15 min to the zoo, 30 min to the airport)",
+    "he": "פראג 6 – דייביצה (15 דק' לגן החיות, 30 דק' לשדה התעופה)"
+   },
+   "checkin": "2027-08-15",
+   "checkout": "2027-08-19",
+   "nights": 4,
+   "total_eur": 564.45,
+   "booking_score": 9.2,
+   "booking_reviews": 19016,
+   "booking_url": "https://www.booking.com/hotel/cz/hotel-international-prague.html?checkin=2027-08-15&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Family Room (1 king + 2 sofa beds). Breakfast included and free on-site parking (per Booking.com Q&A). 24-hour reception, so a late arrival is fine.",
+    "he": "חדר משפחה (מיטה זוגית + 2 ספות נפתחות). ארוחת בוקר כלולה וחניה חינם במלון (לפי Booking.com). קבלה 24 שעות, כך שהגעה מאוחרת אינה בעיה."
+   },
+   "alt": {
+    "en": "Cheaper alternative: Iris Hotel Eden (Prague 10), €468.40 for the same 4 nights, Booking 9.1/10 (15,866 reviews), free parking; breakfast may not be included.",
+    "he": "חלופה זולה יותר: Iris Hotel Eden (פראג 10), 468.40 € לאותם 4 לילות, Booking 9.1/10 (15,866 ביקורות), חניה חינם; ייתכן שארוחת בוקר לא כלולה."
+   },
+   "google": {
+    "name": "Hotel International Prague",
+    "rating": 4.3,
+    "reviews": 6491,
+    "lat": 50.109375,
+    "lng": 14.393657,
+    "address": "Koulova 1501/15, 160 45 Praha 6, Czechia",
+    "website": "https://www.hotelint.cz/",
+    "place_id": "ChIJRxt6CzGVC0cR5Ad6BIHdoOA",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20International%20Prague&query_place_id=ChIJRxt6CzGVC0cR5Ad6BIHdoOA",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.109375,14.393657&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_ghi-1.jpg",
+     "w": 900,
+     "h": 675,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Hotel%20International%20Prague&query_place_id=ChIJRxt6CzGVC0cR5Ad6BIHdoOA",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_ghi-2.jpg",
+     "w": 900,
+     "h": 600,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Hotel%20International%20Prague&query_place_id=ChIJRxt6CzGVC0cR5Ad6BIHdoOA",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 141.11,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.2,
+     "out_of": 10,
+     "reviews": 19016,
+     "url": "https://www.booking.com/hotel/cz/hotel-international-prague.html?checkin=2027-08-15&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.3,
+     "out_of": 5,
+     "reviews": 6491,
+     "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20International%20Prague&query_place_id=ChIJRxt6CzGVC0cR5Ad6BIHdoOA"
+    }
+   ]
+  },
+  {
+   "id": "hotel_doky",
+   "gkey": "hotel_doky",
+   "name": "Apartmány Doky Lipno (A9 & D1)",
+   "area": {
+    "en": "Lipno nad Vltavou, lakefront (Doky Holiday Resort)",
+    "he": "ליפנו נאד ולטאבו, על שפת האגם (Doky Holiday Resort)"
+   },
+   "checkin": "2027-08-19",
+   "checkout": "2027-08-24",
+   "nights": 5,
+   "total_eur": 878.11,
+   "booking_score": 9.1,
+   "booking_reviews": 43,
+   "booking_url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-19&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "2-bedroom apartment (sleeps up to 7) with kitchenette, heated outdoor pool with a shallow end, beachfront, free parking. Treetop Walkway 4 km away.",
+    "he": "דירת 2 חדרי שינה (עד 7 אנשים) עם מטבחון, בריכה חיצונית מחוממת עם חלק רדוד, על החוף, חניה חינם. שביל הצמרות במרחק 4 ק\"מ."
+   },
+   "alt": {
+    "en": "Alternative with many more reviews: Hotel Element, €1,321.83 for the same 5 nights, Booking 8.8/10 (5,621 reviews), kids' club and water-park access.",
+    "he": "חלופה עם הרבה יותר ביקורות: Hotel Element, 1,321.83 € לאותם 5 לילות, Booking 8.8/10 (5,621 ביקורות), מועדון ילדים וגישה לפארק מים."
+   },
+   "google_note": {
+    "en": "Google rating is for the Doky Holiday Resort complex.",
+    "he": "דירוג גוגל הוא של מתחם Doky Holiday Resort."
+   },
+   "google": {
+    "name": "Doky Holiday Resort",
+    "rating": 4.6,
+    "reviews": 181,
+    "lat": 48.637508,
+    "lng": 14.22619,
+    "address": "Lipno nad Vltavou 498, 382 78 Lipno nad Vltavou, Czechia",
+    "website": "http://www.dokyholiday.cz/",
+    "place_id": "ChIJ0_Id1il7c0cRzcxuR1LQaWk",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Doky%20Holiday%20Resort&query_place_id=ChIJ0_Id1il7c0cRzcxuR1LQaWk",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.637508,14.226190&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_doky-1.jpg",
+     "w": 800,
+     "h": 533,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Doky%20Holiday%20Resort&query_place_id=ChIJ0_Id1il7c0cRzcxuR1LQaWk",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_doky-2.jpg",
+     "w": 900,
+     "h": 554,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Doky%20Holiday%20Resort&query_place_id=ChIJ0_Id1il7c0cRzcxuR1LQaWk",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 175.62,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.1,
+     "out_of": 10,
+     "reviews": 43,
+     "url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-19&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.6,
+     "out_of": 5,
+     "reviews": 181,
+     "url": "https://www.google.com/maps/search/?api=1&query=Doky%20Holiday%20Resort&query_place_id=ChIJ0_Id1il7c0cRzcxuR1LQaWk"
+    }
+   ]
+  }
+ ],
+ "attractions": {
+  "prague_zoo": {
+   "id": "prague_zoo",
+   "name": {
+    "en": "Prague Zoo",
+    "he": "גן החיות של פראג"
+   },
+   "hours": {
+    "en": "August 9:00–19:00 (last entry 18:30)",
+    "he": "באוגוסט 9:00–19:00 (כניסה אחרונה 18:30)"
+   },
+   "price_text": {
+    "en": "Family ticket (2 adults + up to 4 kids): 850 CZK online / 1,000 CZK at the gate (≈ €35–41).",
+    "he": "כרטיס משפחתי (2 מבוגרים + עד 4 ילדים): 850 קרונות באינטרנט / 1,000 בקופה (כ-35–41 €)."
+   },
+   "price_czk": 850,
+   "price_eur": 34.69,
+   "estimate": false,
+   "time": {
+    "en": "4–5 h",
+    "he": "4–5 שעות"
+   },
+   "kids": {
+    "en": "One of the world's top zoos: chairlift over the park, children's zoo, Indonesian jungle pavilion, gorillas and elephants.",
+    "he": "מגני החיות הטובים בעולם: רכבל מעל הפארק, פינת ליטוף, ביתן ג'ונגל אינדונזי, גורילות ופילים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Prague Zoo",
+    "rating": 4.8,
+    "reviews": 70436,
+    "lat": 50.117732,
+    "lng": 14.406201,
+    "address": "U Trojského zámku 120/3, 171 00 Praha 7, Czechia",
+    "website": "https://www.zoopraha.cz/",
+    "place_id": "ChIJmwPb-dTqC0cRvbXrAjxU2ZY",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Prague%20Zoo&query_place_id=ChIJmwPb-dTqC0cRvbXrAjxU2ZY",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.117732,14.406201&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 70436,
+    "url": "https://www.google.com/maps/search/?api=1&query=Prague%20Zoo&query_place_id=ChIJmwPb-dTqC0cRvbXrAjxU2ZY"
+   },
+   "photo": {
+    "file": "img/prague_zoo-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Prague_07-2016_Zoo_img10_chairlift.jpg",
+    "credit": "A.Savin · FAL · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Prague Zoo guide",
+     "https://thebettervacation.com/prague-zoo"
+    ],
+    [
+     "zoopraha.cz",
+     "https://www.zoopraha.cz/"
+    ]
+   ]
+  },
+  "prague_castle": {
+   "id": "prague_castle",
+   "name": {
+    "en": "Prague Castle – changing of the guard",
+    "he": "טירת פראג – החלפת המשמר"
+   },
+   "hours": {
+    "en": "Grounds 6:00–22:00; big guard ceremony at 12:00",
+    "he": "המתחם 6:00–22:00; טקס החלפת המשמר הגדול ב-12:00"
+   },
+   "price_text": {
+    "en": "Grounds and ceremony free.",
+    "he": "הכניסה למתחם ולטקס חינם."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "1–1.5 h",
+    "he": "1–1.5 שעות"
+   },
+   "kids": {
+    "en": "Soldiers, music and flags at noon. Take tram 22 to the 'Pražský hrad' stop, so there's no uphill walk.",
+    "he": "חיילים, מוזיקה ודגלים בצהריים. נוסעים בחשמלית 22 לתחנת Pražský hrad, כך שאין עלייה ברגל."
+   },
+   "optional": false,
+   "google": {
+    "name": "Prague Castle",
+    "rating": 4.7,
+    "reviews": 203681,
+    "lat": 50.091097,
+    "lng": 14.401616,
+    "address": "Hradčany, 119 08 Prague 1, Czechia",
+    "website": "https://www.hrad.cz/",
+    "place_id": "ChIJw7ckbB6VC0cRnyUSr4g8zyo",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Prague%20Castle&query_place_id=ChIJw7ckbB6VC0cRnyUSr4g8zyo",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.091097,14.401616&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 203681,
+    "url": "https://www.google.com/maps/search/?api=1&query=Prague%20Castle&query_place_id=ChIJw7ckbB6VC0cRnyUSr4g8zyo"
+   },
+   "photo": {
+    "file": "img/prague_castle-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Praha_-_Pra%C5%BEsk%C3%BD_hrad_(2).jpg",
+    "credit": "Fred Romero from Paris, France · CC BY 2.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Prague Castle tickets 2026",
+     "https://www.trvlogue.com/en/prague-castle-tickets-guide"
+    ],
+    [
+     "hrad.cz",
+     "https://www.hrad.cz/"
+    ]
+   ]
+  },
+  "charles_bridge": {
+   "id": "charles_bridge",
+   "name": {
+    "en": "Charles Bridge",
+    "he": "גשר קארל"
+   },
+   "hours": {
+    "en": "Open 24/7",
+    "he": "פתוח 24/7"
+   },
+   "price_text": {
+    "en": "Free",
+    "he": "חינם"
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "30 min",
+    "he": "30 דקות"
+   },
+   "kids": {
+    "en": "Statues, street musicians and caricature artists.",
+    "he": "פסלים, נגני רחוב וציירי קריקטורות."
+   },
+   "optional": false,
+   "google": {
+    "name": "Charles Bridge",
+    "rating": 4.8,
+    "reviews": 201404,
+    "lat": 50.086477,
+    "lng": 14.411437,
+    "address": "Karlův most, 110 00 Praha 1, Czechia",
+    "website": "https://prague.eu/cs/objevujte/karluv-most-2",
+    "place_id": "ChIJn7WO5eWUC0cRJrHT0TiXIHU",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Charles%20Bridge&query_place_id=ChIJn7WO5eWUC0cRJrHT0TiXIHU",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.086477,14.411437&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 201404,
+    "url": "https://www.google.com/maps/search/?api=1&query=Charles%20Bridge&query_place_id=ChIJn7WO5eWUC0cRJrHT0TiXIHU"
+   },
+   "photo": {
+    "file": "img/charles_bridge-1.jpg",
+    "w": 1000,
+    "h": 562,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Praha_Charles_Bridge_20170430_01.jpg",
+    "credit": "Uoaei1 · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "prague.eu – Charles Bridge",
+     "https://prague.eu/cs/objevujte/karluv-most-2"
+    ]
+   ]
+  },
+  "orloj": {
+   "id": "orloj",
+   "name": {
+    "en": "Astronomical Clock (Old Town Square)",
+    "he": "השעון האסטרונומי (כיכר העיר העתיקה)"
+   },
+   "hours": {
+    "en": "Apostles parade every hour 9:00–23:00",
+    "he": "תהלוכת השליחים בכל שעה עגולה 9:00–23:00"
+   },
+   "price_text": {
+    "en": "Free from the square",
+    "he": "חינם מהכיכר"
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "30 min",
+    "he": "30 דקות"
+   },
+   "kids": {
+    "en": "Be there 5 minutes before the hour: the skeleton rings its bell and the 12 apostles appear.",
+    "he": "להגיע 5 דקות לפני השעה העגולה: השלד מצלצל בפעמון ו-12 השליחים מופיעים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Prague Astronomical Clock",
+    "rating": 4.7,
+    "reviews": 104150,
+    "lat": 50.087021,
+    "lng": 14.420706,
+    "address": "Staroměstské nám. 1, 110 00 Josefov, Czechia",
+    "website": "https://prague.eu/cs/objevujte/staromestska-radnice-s-orlojem",
+    "place_id": "ChIJSS_AOemUC0cRlgaiWrJEe_E",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Prague%20Astronomical%20Clock&query_place_id=ChIJSS_AOemUC0cRlgaiWrJEe_E",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.087021,14.420706&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 104150,
+    "url": "https://www.google.com/maps/search/?api=1&query=Prague%20Astronomical%20Clock&query_place_id=ChIJSS_AOemUC0cRlgaiWrJEe_E"
+   },
+   "photo": {
+    "file": "img/orloj-1.jpg",
+    "w": 1000,
+    "h": 752,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Czech-2013-Prague-Astronomical_clock_face.jpg",
+    "credit": "Godot13 · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "prague.eu – Astronomical Clock",
+     "https://prague.eu/cs/objevujte/staromestska-radnice-s-orlojem"
+    ]
+   ]
+  },
+  "slovanka": {
+   "id": "slovanka",
+   "name": {
+    "en": "Pedal boats at Slovanka island",
+    "he": "סירות פדלים באי סלובנקה"
+   },
+   "hours": {
+    "en": "Apr–Oct daily ≈ 11:00–23:00 (weather)",
+    "he": "אפריל–אוקטובר מדי יום, בערך 11:00–23:00 (לפי מזג האוויר)"
+   },
+   "price_text": {
+    "en": "≈ 350 CZK per hour (≈ €14); kids' life jackets free; cash advised.",
+    "he": "כ-350 קרונות לשעה (כ-14 €); אפודות הצלה לילדים חינם; מומלץ מזומן."
+   },
+   "price_czk": 350,
+   "price_eur": 14.29,
+   "estimate": true,
+   "time": {
+    "en": "1 h",
+    "he": "שעה"
+   },
+   "kids": {
+    "en": "Pedal on the river with the castle in view. The kids' favourite part of the city day.",
+    "he": "שטים בנהר מול הטירה. החלק האהוב על הילדים ביום העיר."
+   },
+   "optional": false,
+   "google": {
+    "name": "Rental boats and pedal boats Slovanka",
+    "rating": 4.4,
+    "reviews": 1297,
+    "lat": 50.07931,
+    "lng": 14.412191,
+    "address": "Slovanský ostrov, 110 00 Praha 1, Czechia",
+    "website": "http://www.slovanka.net/index.php",
+    "place_id": "ChIJ3d3Hh_CUC0cRZy9kexR3viU",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Rental%20boats%20and%20pedal%20boats%20Slovanka&query_place_id=ChIJ3d3Hh_CUC0cRZy9kexR3viU",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.079310,14.412191&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 1297,
+    "url": "https://www.google.com/maps/search/?api=1&query=Rental%20boats%20and%20pedal%20boats%20Slovanka&query_place_id=ChIJ3d3Hh_CUC0cRZy9kexR3viU"
+   },
+   "photo": {
+    "file": "img/slovanka-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Prag,_Slawische_Insel,_Tretbootverleih_--_2019_--_6739.jpg",
+    "credit": "Dietmar Rabich · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Paddle boats in Prague (2025)",
+     "https://www.hotel-golf.cz/en/paddle-boats-in-prague/"
+    ]
+   ]
+  },
+  "railway": {
+   "id": "railway",
+   "name": {
+    "en": "Railway Kingdom (Království železnic) – rainy-day option",
+    "he": "ממלכת הרכבות – חלופה ליום גשום"
+   },
+   "hours": {
+    "en": "Daily 9:00–19:00 (last tickets 18:00)",
+    "he": "מדי יום 9:00–19:00 (כרטיס אחרון 18:00)"
+   },
+   "price_text": {
+    "en": "390 CZK per person incl. children (under 1 m: 50 CZK), so ≈ 1,560 CZK (≈ €64) for your family.",
+    "he": "390 קרונות לאדם כולל ילדים (מתחת למטר: 50), כלומר כ-1,560 קרונות (כ-64 €) למשפחה."
+   },
+   "price_czk": 1560,
+   "price_eur": 63.67,
+   "estimate": false,
+   "time": {
+    "en": "1.5–2 h",
+    "he": "1.5–2 שעות"
+   },
+   "kids": {
+    "en": "Czechia's largest model railway: a miniature Prague with trains, cars and buttons the kids can press. Indoors.",
+    "he": "דגם הרכבות הגדול בצ'כיה: פראג בזעיר-אנפין עם רכבות, מכוניות וכפתורים שהילדים לוחצים. מקורה."
+   },
+   "optional": true,
+   "google": {
+    "name": "Království Železnic",
+    "rating": 4.5,
+    "reviews": 6596,
+    "lat": 50.071271,
+    "lng": 14.402626,
+    "address": "Stroupežnického 23, 150 00 Praha 5-Smíchov, Czechia",
+    "website": "http://www.kralovstvi-zeleznic.cz/",
+    "place_id": "ChIJ2b26R1aUC0cRk8obXQqE9yM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A1lovstv%C3%AD%20%C5%BDeleznic&query_place_id=ChIJ2b26R1aUC0cRk8obXQqE9yM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.071271,14.402626&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 6596,
+    "url": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A1lovstv%C3%AD%20%C5%BDeleznic&query_place_id=ChIJ2b26R1aUC0cRk8obXQqE9yM"
+   },
+   "photo": {
+    "file": "img/railway-1.jpg",
+    "w": 900,
+    "h": 675,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A1lovstv%C3%AD%20%C5%BDeleznic&query_place_id=ChIJ2b26R1aUC0cRk8obXQqE9yM",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "prague.eu – Railway Kingdom",
+     "https://prague.eu/cs/objevujte/kralovstvi-zeleznic-interaktivni-model-prahy/"
+    ]
+   ]
+  },
+  "aquapalace": {
+   "id": "aquapalace",
+   "name": {
+    "en": "Aquapalace Praha water park",
+    "he": "פארק המים אקווה-פאלאס"
+   },
+   "hours": {
+    "en": "Daily 9:00–22:00",
+    "he": "מדי יום 9:00–22:00"
+   },
+   "price_text": {
+    "en": "Family 3-hour ticket 2,849 CZK (≈ €116); the online shop charges weekday prices every day. Under 100 cm free.",
+    "he": "כרטיס משפחתי ל-3 שעות 2,849 קרונות (כ-116 €); בחנות המקוונת המחיר הוא מחיר אמצע שבוע בכל יום. מתחת ל-100 ס\"מ חינם."
+   },
+   "price_czk": 2849,
+   "price_eur": 116.29,
+   "estimate": false,
+   "time": {
+    "en": "3 h",
+    "he": "3 שעות"
+   },
+   "kids": {
+    "en": "Czechia's largest water park: pirate-ship hall, wave pool, lazy river, kids' slides.",
+    "he": "פארק המים הגדול בצ'כיה: אולם ספינת פיראטים, בריכת גלים, נהר עצל ומגלשות לילדים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Aquapalace Prague",
+    "rating": 4.4,
+    "reviews": 16783,
+    "lat": 50.007469,
+    "lng": 14.571526,
+    "address": "Pražská 138, 251 01 Čestlice-Říčany u Prahy, Czechia",
+    "website": "https://www.aquapalace.cz/",
+    "place_id": "ChIJHQGOQXaOC0cRxbUG2YrxJ4o",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Aquapalace%20Prague&query_place_id=ChIJHQGOQXaOC0cRxbUG2YrxJ4o",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.007469,14.571526&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 16783,
+    "url": "https://www.google.com/maps/search/?api=1&query=Aquapalace%20Prague&query_place_id=ChIJHQGOQXaOC0cRxbUG2YrxJ4o"
+   },
+   "photo": {
+    "file": "img/aquapalace-1.jpg",
+    "w": 900,
+    "h": 900,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Aquapalace%20Prague&query_place_id=ChIJHQGOQXaOC0cRxbUG2YrxJ4o",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Aquapalace price list (official)",
+     "https://www.aquapalace.cz/en/sekce/vodni_svet/cenik"
+    ]
+   ]
+  },
+  "dinopark": {
+   "id": "dinopark",
+   "name": {
+    "en": "DinoPark Harfa (rooftop dinosaur park)",
+    "he": "דינו-פארק הרפה (פארק דינוזאורים על הגג)"
+   },
+   "hours": {
+    "en": "Apr–Sep daily 9:00–19:00 (2026 season)",
+    "he": "אפריל–ספטמבר מדי יום 9:00–19:00 (עונת 2026)"
+   },
+   "price_text": {
+    "en": "Family ticket (2+2) 1,130 CZK (≈ €46); adult 350, child 3–14 290 CZK.",
+    "he": "כרטיס משפחתי (2+2) 1,130 קרונות (כ-46 €); מבוגר 350, ילד 3–14 290 קרונות."
+   },
+   "price_czk": 1130,
+   "price_eur": 46.12,
+   "estimate": true,
+   "time": {
+    "en": "1–1.5 h",
+    "he": "1–1.5 שעות"
+   },
+   "kids": {
+    "en": "Life-size moving dinosaurs, a walking robot Stegosaurus and a 3D cinema on the roof of the Harfa mall.",
+    "he": "דינוזאורים בגודל טבעי שזזים, סטגוזאורוס רובוטי שהולך וקולנוע תלת-ממד על גג קניון הרפה."
+   },
+   "optional": false,
+   "google": {
+    "name": "DinoPark Harfa Praha",
+    "rating": 4.4,
+    "reviews": 6738,
+    "lat": 50.104698,
+    "lng": 14.490969,
+    "address": "Českomoravská 15a, 190 93 Praha 9, Czechia",
+    "website": "https://www.dinopark.cz/cz/praha",
+    "place_id": "ChIJ4S5LS0uTC0cR1yZ1NrIRupM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=DinoPark%20Harfa%20Praha&query_place_id=ChIJ4S5LS0uTC0cR1yZ1NrIRupM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.104698,14.490969&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 6738,
+    "url": "https://www.google.com/maps/search/?api=1&query=DinoPark%20Harfa%20Praha&query_place_id=ChIJ4S5LS0uTC0cR1yZ1NrIRupM"
+   },
+   "photo": {
+    "file": "img/dinopark-1.jpg",
+    "w": 900,
+    "h": 900,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=DinoPark%20Harfa%20Praha&query_place_id=ChIJ4S5LS0uTC0cR1yZ1NrIRupM",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "prague.eu – DinoPark Harfa",
+     "https://prague.eu/cs/objevujte/dinopark-harfa-praha/"
+    ],
+    [
+     "DinoPark (official)",
+     "https://www.dinopark.cz/cz/praha"
+    ]
+   ]
+  },
+  "hluboka": {
+   "id": "hluboka",
+   "name": {
+    "en": "Hluboká Castle",
+    "he": "טירת הלובוקה"
+   },
+   "hours": {
+    "en": "August daily 9:00–17:00",
+    "he": "באוגוסט מדי יום 9:00–17:00"
+   },
+   "price_text": {
+    "en": "Park free. Castle Kitchen tour (35 min, family-friendly): 2026 price not found online, estimate ≈ 600 CZK (≈ €24) for your family.",
+    "he": "הפארק חינם. סיור מטבח הטירה (35 דק', מתאים לילדים): מחיר 2026 לא נמצא; הערכה כ-600 קרונות (כ-24 €) למשפחה."
+   },
+   "price_czk": 600,
+   "price_eur": 24.49,
+   "estimate": true,
+   "time": {
+    "en": "1.5 h",
+    "he": "1.5 שעות"
+   },
+   "kids": {
+    "en": "White fairy-tale castle. The short kitchen tour suits small kids; buy timed tickets online.",
+    "he": "טירת אגדות לבנה. סיור המטבח הקצר מתאים לילדים קטנים; כדאי לקנות כרטיס עם שעה באינטרנט."
+   },
+   "optional": false,
+   "google": {
+    "name": "The State Chateau of Hluboká",
+    "rating": 4.8,
+    "reviews": 28555,
+    "lat": 49.051124,
+    "lng": 14.441594,
+    "address": "Hluboká Castle, Zámek 142, 373 41 Hluboká nad Vltavou, Czechia",
+    "website": "http://zamek-hluboka.cz/cs",
+    "place_id": "ChIJGX7l40pSc0cRQP8wUpNwk88",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20State%20Chateau%20of%20Hlubok%C3%A1&query_place_id=ChIJGX7l40pSc0cRQP8wUpNwk88",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.051124,14.441594&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 28555,
+    "url": "https://www.google.com/maps/search/?api=1&query=The%20State%20Chateau%20of%20Hlubok%C3%A1&query_place_id=ChIJGX7l40pSc0cRQP8wUpNwk88"
+   },
+   "photo": {
+    "file": "img/hluboka-1.jpg",
+    "w": 1000,
+    "h": 778,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Hluboka_Castle_during_sunset.jpg",
+    "credit": "Michal Klajban · CC BY 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Hluboká Castle visit (2026)",
+     "https://loudavymkrokem.cz/hrady/zamek-hluboka-nad-vltavou/"
+    ],
+    [
+     "zamek-hluboka.cz",
+     "http://zamek-hluboka.cz/"
+    ]
+   ]
+  },
+  "zoo_ohrada": {
+   "id": "zoo_ohrada",
+   "name": {
+    "en": "Zoo Ohrada (Hluboká)",
+    "he": "גן החיות אוהרדה (הלובוקה)"
+   },
+   "hours": {
+    "en": "Summer daily 8:30–19:00",
+    "he": "בקיץ מדי יום 8:30–19:00"
+   },
+   "price_text": {
+    "en": "2026 prices not found online; older list: adult 90, child 50 CZK. Estimate ≈ 300 CZK (≈ €12).",
+    "he": "מחירי 2026 לא נמצאו; מחירון ישן: מבוגר 90, ילד 50 קרונות. הערכה כ-300 קרונות (כ-12 €)."
+   },
+   "price_czk": 300,
+   "price_eur": 12.24,
+   "estimate": true,
+   "time": {
+    "en": "1–1.5 h",
+    "he": "1–1.5 שעות"
+   },
+   "kids": {
+    "en": "Small, shady zoo of Czech animals (otters, lynx, bears) 2 km from the castle. Easy add-on if the kids still have energy.",
+    "he": "גן חיות קטן ומוצל של חיות צ'כיות (לוטרות, לינקסים, דובים) 2 ק\"מ מהטירה. תוספת קלה אם לילדים נשאר כוח."
+   },
+   "optional": true,
+   "google": {
+    "name": "Zoo Hluboká",
+    "rating": 4.7,
+    "reviews": 14430,
+    "lat": 49.042306,
+    "lng": 14.422425,
+    "address": "Ohrada 417/417, 373 41 Hluboká nad Vltavou, Czechia",
+    "website": "http://www.zoohluboka.cz/",
+    "place_id": "ChIJrVCOjc9Tc0cRbp66fHjyXWA",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Zoo%20Hlubok%C3%A1&query_place_id=ChIJrVCOjc9Tc0cRbp66fHjyXWA",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.042306,14.422425&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 14430,
+    "url": "https://www.google.com/maps/search/?api=1&query=Zoo%20Hlubok%C3%A1&query_place_id=ChIJrVCOjc9Tc0cRbp66fHjyXWA"
+   },
+   "photo": {
+    "file": "img/zoo_ohrada-1.jpg",
+    "w": 900,
+    "h": 675,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Zoo%20Hlubok%C3%A1&query_place_id=ChIJrVCOjc9Tc0cRbp66fHjyXWA",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "zoohluboka.cz",
+     "http://www.zoohluboka.cz/"
+    ]
+   ]
+  },
+  "treetop_lipno": {
+   "id": "treetop_lipno",
+   "name": {
+    "en": "Treetop Walkway Lipno",
+    "he": "שביל הצמרות בליפנו"
+   },
+   "hours": {
+    "en": "1 Jun – 28 Sep: 10:00–19:00 (last tickets 18:00)",
+    "he": "1 ביוני – 28 בספטמבר: 10:00–19:00 (כרטיס אחרון 18:00)"
+   },
+   "price_text": {
+    "en": "Dynamic: family (2+2) ≈ 730–1,140 CZK; budget 1,000 CZK (≈ €41). Cheaper if booked ~14 days ahead. Tube slide extra.",
+    "he": "מחיר דינמי: משפחה (2+2) כ-730–1,140 קרונות; תקציב 1,000 קרונות (כ-41 €). זול יותר בהזמנה כשבועיים מראש. המגלשה בתשלום נוסף."
+   },
+   "price_czk": 1000,
+   "price_eur": 40.82,
+   "estimate": true,
+   "time": {
+    "en": "1.5–2 h",
+    "he": "1.5–2 שעות"
+   },
+   "kids": {
+    "en": "Gentle wooden ramp (stroller-friendly) up to a 40 m tower over the lake; come down by the tube slide.",
+    "he": "רמפת עץ מתונה (מתאימה לעגלה) עד מגדל בגובה 40 מ' מעל האגם; יורדים במגלשת צינור."
+   },
+   "optional": false,
+   "google": {
+    "name": "Treetop Trail Lipno",
+    "rating": 4.6,
+    "reviews": 13144,
+    "lat": 48.6527,
+    "lng": 14.23051,
+    "address": "Lipno nad Vltavou 307, 382 78 Lipno nad Vltavou, Czechia",
+    "website": "https://www.stezkakorunamistromu.cz/",
+    "place_id": "ChIJmRhYptdkc0cRTav682ANGdM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Treetop%20Trail%20Lipno&query_place_id=ChIJmRhYptdkc0cRTav682ANGdM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.652700,14.230510&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 13144,
+    "url": "https://www.google.com/maps/search/?api=1&query=Treetop%20Trail%20Lipno&query_place_id=ChIJmRhYptdkc0cRTav682ANGdM"
+   },
+   "photo": {
+    "file": "img/treetop_lipno-1.jpg",
+    "w": 960,
+    "h": 643,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Stezka_korunami_strom%C5%AF._Lipno_nad_Vltavou._(17.).jpg",
+    "credit": "Richenza · CC BY-SA 3.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Treetop Walkway (official)",
+     "https://www.stezkakorunamistromu.cz/en/"
+    ],
+    [
+     "Prices 2026",
+     "https://camping-panorama.cz/en/lipno-2026-tree-top-walk-hours-prices-and-tips-for-your-visit/"
+    ]
+   ]
+  },
+  "kralovstvi_lesa": {
+   "id": "kralovstvi_lesa",
+   "name": {
+    "en": "Kingdom of the Forest (Království lesa)",
+    "he": "ממלכת היער"
+   },
+   "hours": {
+    "en": "Summer daily ≈ 10:00–19:00",
+    "he": "בקיץ מדי יום, בערך 10:00–19:00"
+   },
+   "price_text": {
+    "en": "From 340 CZK pp online; family from ≈ 1,120 CZK (≈ €46). Buy at lipnocard.cz.",
+    "he": "מ-340 קרונות לאדם באינטרנט; משפחה מכ-1,120 קרונות (כ-46 €). רכישה ב-lipnocard.cz."
+   },
+   "price_czk": 1120,
+   "price_eur": 45.71,
+   "estimate": true,
+   "time": {
+    "en": "2 h",
+    "he": "שעתיים"
+   },
+   "kids": {
+    "en": "Huge forest adventure playground next to the Treetop Walkway, with rope bridges, climbing and a new marble run.",
+    "he": "מתחם הרפתקאות ענק ביער ליד שביל הצמרות, עם גשרי חבלים, טיפוס ומסלול גולות חדש."
+   },
+   "optional": false,
+   "google": {
+    "name": "Království Lesa Lipno",
+    "rating": 4.5,
+    "reviews": 3174,
+    "lat": 48.651062,
+    "lng": 14.234348,
+    "address": "Lipno nad Vltavou 307 Lipno nad Vltavou, 382 78 Lipno nad Vltavou, Czechia",
+    "website": "https://www.kralovstvilesa.cz/",
+    "place_id": "ChIJpWzjyyllc0cRLGkn6UCxRb0",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A1lovstv%C3%AD%20Lesa%20Lipno&query_place_id=ChIJpWzjyyllc0cRLGkn6UCxRb0",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.651062,14.234348&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 3174,
+    "url": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A1lovstv%C3%AD%20Lesa%20Lipno&query_place_id=ChIJpWzjyyllc0cRLGkn6UCxRb0"
+   },
+   "photo": {
+    "file": "img/kralovstvi_lesa-1.jpg",
+    "w": 900,
+    "h": 600,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Kr%C3%A1lovstv%C3%AD%20Lesa%20Lipno&query_place_id=ChIJpWzjyyllc0cRLGkn6UCxRb0",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Kingdom of the Forest (official)",
+     "https://www.kralovstvilesa.cz/en/"
+    ]
+   ]
+  },
+  "bobovka_lipno": {
+   "id": "bobovka_lipno",
+   "name": {
+    "en": "Slideland bobsled track",
+    "he": "מסלול מזחלות הקיץ סליידלנד"
+   },
+   "hours": {
+    "en": "Daily from ≈ 10:00 to 18:00 (longer on summer weekends)",
+    "he": "מדי יום, בערך 10:00–18:00 (ארוך יותר בסופי שבוע בקיץ)"
+   },
+   "price_text": {
+    "en": "≈ 120–150 CZK per ride; kids ride with a parent; budget 4 rides ≈ 600 CZK (≈ €24).",
+    "he": "כ-120–150 קרונות לנסיעה; ילדים נוסעים עם הורה; תקציב 4 נסיעות כ-600 קרונות (כ-24 €)."
+   },
+   "price_czk": 600,
+   "price_eur": 24.49,
+   "estimate": true,
+   "time": {
+    "en": "45 min",
+    "he": "45 דקות"
+   },
+   "kids": {
+    "en": "Two summer toboggan runs; children from 3 ride with a parent.",
+    "he": "שני מסלולי מזחלות קיץ; ילדים מגיל 3 נוסעים עם הורה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Slideland Bobova Draha Lipno",
+    "rating": 4.6,
+    "reviews": 5838,
+    "lat": 48.646691,
+    "lng": 14.221829,
+    "address": "Slupečná 301, 382 78 Lipno nad Vltavou, Czechia",
+    "website": "http://www.slideland.cz/",
+    "place_id": "ChIJj0sjPtNkc0cRtJEaiC35LRQ",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Slideland%20Bobova%20Draha%20Lipno&query_place_id=ChIJj0sjPtNkc0cRtJEaiC35LRQ",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.646691,14.221829&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 5838,
+    "url": "https://www.google.com/maps/search/?api=1&query=Slideland%20Bobova%20Draha%20Lipno&query_place_id=ChIJj0sjPtNkc0cRtJEaiC35LRQ"
+   },
+   "photo": {
+    "file": "img/bobovka_lipno-1.jpg",
+    "w": 900,
+    "h": 675,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Slideland%20Bobova%20Draha%20Lipno&query_place_id=ChIJj0sjPtNkc0cRtJEaiC35LRQ",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Slideland (official)",
+     "http://www.slideland.cz/"
+    ]
+   ]
+  },
+  "lipno_beach": {
+   "id": "lipno_beach",
+   "name": {
+    "en": "Lipno lake beach",
+    "he": "חוף אגם ליפנו"
+   },
+   "hours": {
+    "en": "Open access",
+    "he": "פתוח תמיד"
+   },
+   "price_text": {
+    "en": "Free",
+    "he": "חינם"
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "2–3 h",
+    "he": "2–3 שעות"
+   },
+   "kids": {
+    "en": "Grassy beach with a shallow entry, a few minutes' walk from the apartment.",
+    "he": "חוף דשא עם כניסה רדודה, כמה דקות הליכה מהדירה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Pláž Lipno",
+    "rating": 4.4,
+    "reviews": 218,
+    "lat": 48.64018,
+    "lng": 14.22185,
+    "address": "Slupečná 113, 382 78 Lipno nad Vltavou, Czechia",
+    "website": "https://www.lipno.info/",
+    "place_id": "ChIJo2uzWCl7c0cRMdv6pk8m2XI",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Pl%C3%A1%C5%BE%20Lipno&query_place_id=ChIJo2uzWCl7c0cRMdv6pk8m2XI",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.640180,14.221850&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 218,
+    "url": "https://www.google.com/maps/search/?api=1&query=Pl%C3%A1%C5%BE%20Lipno&query_place_id=ChIJo2uzWCl7c0cRMdv6pk8m2XI"
+   },
+   "photo": {
+    "file": "img/lipno_beach-1.jpg",
+    "w": 1000,
+    "h": 562,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Lipno_nad_Vltavou,_pl%C3%A1%C5%BE_(srpen_2024).jpg",
+    "credit": "Vojtasekd · CC BY 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "lipno.info",
+     "https://www.lipno.info/"
+    ]
+   ]
+  },
+  "malecek": {
+   "id": "malecek",
+   "name": {
+    "en": "Family rafting on the Vltava (Maleček)",
+    "he": "רפטינג משפחתי בנהר הוולטאבה (מאלצ'ק)"
+   },
+   "hours": {
+    "en": "May–Sep daily; short trips through the old town from 30 min. Book ahead.",
+    "he": "מאי–ספטמבר מדי יום; שייט קצר דרך העיר העתיקה מ-30 דקות. להזמין מראש."
+   },
+   "price_text": {
+    "en": "2026 price not published; estimate ≈ 1,200–1,800 CZK for a family raft (≈ €50–75). Life jackets included.",
+    "he": "מחיר 2026 לא פורסם; הערכה כ-1,200–1,800 קרונות לרפסודה משפחתית (כ-50–75 €). אפודות הצלה כלולות."
+   },
+   "price_czk": 1500,
+   "price_eur": 61.22,
+   "estimate": true,
+   "time": {
+    "en": "1–1.5 h",
+    "he": "1–1.5 שעות"
+   },
+   "kids": {
+    "en": "Calm inflatable raft through the old town under the castle, with small weirs that act like fun 'slides'.",
+    "he": "רפסודה מתנפחת ורגועה דרך העיר העתיקה מתחת לטירה, עם מפלונים קטנים שהם כמו 'מגלשות'."
+   },
+   "optional": false,
+   "google": {
+    "name": "Malecek Rafting & Canoe - rafting in Cesky Krumlov",
+    "rating": 4.6,
+    "reviews": 539,
+    "lat": 48.810429,
+    "lng": 14.318652,
+    "address": "Kaplická 27, 381 01 Český Krumlov 1-Horní Brána, Czechia",
+    "website": "https://www.malecek.cz/cz/?utm_source=google&utm_medium=medailonek&utm_campaign=gmb",
+    "place_id": "ChIJ0aNj93Zdc0cRAnQEvsZD_RY",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Malecek%20Rafting%20%26%20Canoe%20-%20rafting%20in%20Cesky%20Krumlov&query_place_id=ChIJ0aNj93Zdc0cRAnQEvsZD_RY",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.810429,14.318652&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 539,
+    "url": "https://www.google.com/maps/search/?api=1&query=Malecek%20Rafting%20%26%20Canoe%20-%20rafting%20in%20Cesky%20Krumlov&query_place_id=ChIJ0aNj93Zdc0cRAnQEvsZD_RY"
+   },
+   "photo": {
+    "file": "img/malecek-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov_from_a_river_raft_-_panoramio.jpg",
+    "credit": "Art Anderson · CC BY-SA 3.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Maleček (official)",
+     "https://www.malecek.cz/"
+    ]
+   ]
+  },
+  "ck_castle": {
+   "id": "ck_castle",
+   "name": {
+    "en": "Český Krumlov Castle – bear moat & courtyards",
+    "he": "טירת צ'סקי קרומלוב – תעלת הדובים והחצרות"
+   },
+   "hours": {
+    "en": "Courtyards and moat open daily",
+    "he": "החצרות והתעלה פתוחות מדי יום"
+   },
+   "price_text": {
+    "en": "Free. Optional tower + museum: adult 280, child 6–17 80 CZK.",
+    "he": "חינם. אופציונלי – מגדל ומוזיאון: מבוגר 280, ילד 6–17 80 קרונות."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "1 h",
+    "he": "שעה"
+   },
+   "kids": {
+    "en": "Real brown bears live in the castle moat. Ice cream in the old town afterwards.",
+    "he": "דובים חומים אמיתיים חיים בתעלת הטירה. אחר כך גלידה בעיר העתיקה."
+   },
+   "optional": false,
+   "google": {
+    "name": "State Castle & Chateau Český Krumlov",
+    "rating": 4.8,
+    "reviews": 29004,
+    "lat": 48.81285,
+    "lng": 14.313989,
+    "address": "Zámek 59, 381 01 Český Krumlov 1, Czechia",
+    "website": "https://www.zamek-ceskykrumlov.cz/cs",
+    "place_id": "ChIJV71mh51dc0cRhlWWvtEL6_8",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=State%20Castle%20%26%20Chateau%20%C4%8Cesk%C3%BD%20Krumlov&query_place_id=ChIJV71mh51dc0cRhlWWvtEL6_8",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.812850,14.313989&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 29004,
+    "url": "https://www.google.com/maps/search/?api=1&query=State%20Castle%20%26%20Chateau%20%C4%8Cesk%C3%BD%20Krumlov&query_place_id=ChIJV71mh51dc0cRhlWWvtEL6_8"
+   },
+   "photo": {
+    "file": "img/ck_castle-1.jpg",
+    "w": 1000,
+    "h": 662,
+    "source_page": "https://commons.wikimedia.org/wiki/File:%C4%8Cesk%C3%BD_Krumlov_Castle,_Czechia,_20250504_1248_8849.jpg",
+    "credit": "Jakub Hałun · CC BY 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Castle (official)",
+     "https://www.zamek-ceskykrumlov.cz/en/visitors-information/tours/1077-castle-museum-and-castle-tower"
+    ]
+   ]
+  },
+  "frymburk_ferry": {
+   "id": "frymburk_ferry",
+   "name": {
+    "en": "Frymburk ferry & beach",
+    "he": "המעבורת והחוף בפרימבורק"
+   },
+   "hours": {
+    "en": "Season from 24 Apr; sails every hour on the hour",
+    "he": "העונה מ-24 באפריל; יוצאת בכל שעה עגולה"
+   },
+   "price_text": {
+    "en": "2026 fare not published; similar Lipno ferry 25 CZK pp, so a family return ≈ 200 CZK (≈ €8).",
+    "he": "מחיר 2026 לא פורסם; מעבורת דומה בליפנו 25 קרונות לאדם, כלומר הלוך-חזור למשפחה כ-200 קרונות (כ-8 €)."
+   },
+   "price_czk": 200,
+   "price_eur": 8.16,
+   "estimate": true,
+   "time": {
+    "en": "1–2 h",
+    "he": "1–2 שעות"
+   },
+   "kids": {
+    "en": "Short car-ferry crossing of the lake; beach and playground by the pier.",
+    "he": "חציית האגם במעבורת קצרה; חוף ומגרש משחקים ליד המזח."
+   },
+   "optional": false,
+   "google": {
+    "name": "Přívoz Frymburk",
+    "rating": 4.8,
+    "reviews": 815,
+    "lat": 48.658219,
+    "lng": 14.165871,
+    "address": "Vodní Nádrž, 382 79 Lipno, Czechia",
+    "website": "http://privozfrymburk.cz/",
+    "place_id": "ChIJp02y6yRjc0cRkH0We11E3bg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=P%C5%99%C3%ADvoz%20Frymburk&query_place_id=ChIJp02y6yRjc0cRkH0We11E3bg",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.658219,14.165871&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 815,
+    "url": "https://www.google.com/maps/search/?api=1&query=P%C5%99%C3%ADvoz%20Frymburk&query_place_id=ChIJp02y6yRjc0cRkH0We11E3bg"
+   },
+   "photo": {
+    "file": "img/frymburk_ferry-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Frymburk,_p%C5%99%C3%ADvoz.jpg",
+    "credit": "PatrikPaprika · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Kudy z nudy – ferry",
+     "https://www.kudyznudy.cz/aktivity/pristaviste-do-frydavy-ve-frymburku"
+    ]
+   ]
+  },
+  "klet_lift": {
+   "id": "klet_lift",
+   "name": {
+    "en": "Kleť chairlift (optional, no hiking)",
+    "he": "רכבל הכיסאות לקלט (אופציונלי, בלי הליכה)"
+   },
+   "hours": {
+    "en": "Summer daily ≈ 9:00–17:00 (to 18:00 weekends)",
+    "he": "בקיץ מדי יום, בערך 9:00–17:00 (עד 18:00 בסופי שבוע)"
+   },
+   "price_text": {
+    "en": "2026 fares not published; estimate ≈ 640 CZK return for the family + ≈ 100 CZK for the tower.",
+    "he": "מחירי 2026 לא פורסמו; הערכה כ-640 קרונות הלוך-חזור למשפחה + כ-100 למגדל."
+   },
+   "price_czk": 740,
+   "price_eur": 30.2,
+   "estimate": true,
+   "time": {
+    "en": "2.5 h incl. 55 min drive each way",
+    "he": "2.5 שעות כולל 55 דק' נסיעה לכל כיוון"
+   },
+   "kids": {
+    "en": "20-min chairlift ride to a stone lookout tower (1,084 m). The chairlift takes you up, so there's no climb.",
+    "he": "20 דקות ברכבל כיסאות עד מגדל תצפית מאבן (1,084 מ'). הרכבל מעלה אתכם, כך שאין טיפוס."
+   },
+   "optional": true,
+   "google": {
+    "name": "Lanovka Krasetín - Kleť",
+    "rating": 4.5,
+    "reviews": 496,
+    "lat": 48.87844,
+    "lng": 14.299915,
+    "address": "382 03 Holubov-Křemže, Czechia",
+    "website": "https://www.lanovkaklet.cz/",
+    "place_id": "ChIJ0x9kLgFcc0cRlQYx3qB7zCs",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Lanovka%20Kraset%C3%ADn%20-%20Kle%C5%A5&query_place_id=ChIJ0x9kLgFcc0cRlQYx3qB7zCs",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.878440,14.299915&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 496,
+    "url": "https://www.google.com/maps/search/?api=1&query=Lanovka%20Kraset%C3%ADn%20-%20Kle%C5%A5&query_place_id=ChIJ0x9kLgFcc0cRlQYx3qB7zCs"
+   },
+   "photo": {
+    "file": "img/klet_lift-1.jpg",
+    "w": 960,
+    "h": 1441,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Kle%C5%A5,_lanov%C3%A1_dr%C3%A1ha.jpg",
+    "credit": "I would appreciate being notified if you use my work outside Wikimedia.\n\nMore of · CC BY 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "lanovkaklet.cz",
+     "https://www.lanovkaklet.cz/"
+    ]
+   ]
+  }
+ },
+ "days": [
+  {
+   "day": 1,
+   "date": "2027-08-15",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Evening flight to Prague",
+    "he": "טיסת ערב לפראג"
+   },
+   "trail": "green",
+   "overnight": "hotel_ghi",
+   "plan": [
+    {
+     "en": "18:25 Smartwings QS 1285 from TLV, landing at PRG 21:35.",
+     "he": "18:25 סמארטווינגס QS 1285 מנתב\"ג, נחיתה בפראג ב-21:35."
+    },
+    {
+     "en": "Pick up the car (book a desk that is open after 22:00), then drive 30 min to the hotel. Kids to bed.",
+     "he": "איסוף הרכב (להזמין דלפק שפתוח אחרי 22:00) ונסיעה של 30 דקות למלון. הילדים למיטה."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 16.7,
+    "minutes": 29,
+    "legs": [
+     {
+      "from": "Prague Airport (PRG) car rental",
+      "to": "Grand Hotel International Prague",
+      "km": 16.7,
+      "min": 29
+     }
+    ],
+    "points": [
+     {
+      "name": "Prague Airport (PRG) car rental",
+      "lat": 50.1008,
+      "lng": 14.26
+     },
+     {
+      "name": "Grand Hotel International Prague",
+      "lat": 50.1094,
+      "lng": 14.3936
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.259444,
+       50.096693
+      ],
+      [
+       14.259033,
+       50.096571
+      ],
+      [
+       14.260932,
+       50.096249
+      ],
+      [
+       14.261001,
+       50.091795
+      ],
+      [
+       14.25486,
+       50.091838
+      ],
+      [
+       14.252399,
+       50.089039
+      ],
+      [
+       14.251873,
+       50.086225
+      ],
+      [
+       14.252866,
+       50.085163
+      ],
+      [
+       14.255179,
+       50.084806
+      ],
+      [
+       14.255474,
+       50.083478
+      ],
+      [
+       14.254783,
+       50.081285
+      ],
+      [
+       14.259053,
+       50.081372
+      ],
+      [
+       14.265357,
+       50.07954
+      ],
+      [
+       14.270371,
+       50.078796
+      ],
+      [
+       14.281415,
+       50.078979
+      ],
+      [
+       14.286848,
+       50.078
+      ],
+      [
+       14.292566,
+       50.077917
+      ],
+      [
+       14.295843,
+       50.076641
+      ],
+      [
+       14.293729,
+       50.075143
+      ],
+      [
+       14.292437,
+       50.07553
+      ],
+      [
+       14.291637,
+       50.076894
+      ],
+      [
+       14.294559,
+       50.083159
+      ],
+      [
+       14.296864,
+       50.094287
+      ],
+      [
+       14.297611,
+       50.094213
+      ],
+      [
+       14.29784,
+       50.09352
+      ],
+      [
+       14.326358,
+       50.09253
+      ],
+      [
+       14.333382,
+       50.093314
+      ],
+      [
+       14.361443,
+       50.098254
+      ],
+      [
+       14.377389,
+       50.099593
+      ],
+      [
+       14.394565,
+       50.100463
+      ],
+      [
+       14.395555,
+       50.100171
+      ],
+      [
+       14.396061,
+       50.100596
+      ],
+      [
+       14.395468,
+       50.101129
+      ],
+      [
+       14.39432,
+       50.110413
+      ],
+      [
+       14.393863,
+       50.1094
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.1008,14.26&destination=50.1094,14.3936&travelmode=driving"
+   }
+  },
+  {
+   "day": 2,
+   "date": "2027-08-16",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Prague Zoo",
+    "he": "גן החיות של פראג"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_ghi",
+   "plan": [
+    {
+     "en": "Slow breakfast. 13-min drive to the zoo, about 10:00–15:00 with lunch inside.",
+     "he": "ארוחת בוקר רגועה. 13 דקות נסיעה לגן החיות, בערך 10:00–15:00, עם ארוחת צהריים בפנים."
+    },
+    {
+     "en": "Afternoon rest at the hotel.",
+     "he": "אחר הצהריים מנוחה במלון."
+    }
+   ],
+   "attractions": [
+    "prague_zoo"
+   ],
+   "route": {
+    "km": 18.6,
+    "minutes": 30,
+    "legs": [
+     {
+      "from": "Grand Hotel International Prague",
+      "to": "Prague Zoo",
+      "km": 8.5,
+      "min": 13
+     },
+     {
+      "from": "Prague Zoo",
+      "to": "Grand Hotel International Prague",
+      "km": 10.1,
+      "min": 17
+     }
+    ],
+    "points": [
+     {
+      "name": "Grand Hotel International Prague",
+      "lat": 50.1094,
+      "lng": 14.3936
+     },
+     {
+      "name": "Prague Zoo",
+      "lat": 50.1177,
+      "lng": 14.4062
+     },
+     {
+      "name": "Grand Hotel International Prague",
+      "lat": 50.1094,
+      "lng": 14.3936
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.393863,
+       50.1094
+      ],
+      [
+       14.394336,
+       50.108474
+      ],
+      [
+       14.395227,
+       50.101256
+      ],
+      [
+       14.394768,
+       50.10053
+      ],
+      [
+       14.395369,
+       50.100041
+      ],
+      [
+       14.395883,
+       50.095999
+      ],
+      [
+       14.396598,
+       50.095101
+      ],
+      [
+       14.397066,
+       50.095002
+      ],
+      [
+       14.399129,
+       50.095453
+      ],
+      [
+       14.40123,
+       50.096186
+      ],
+      [
+       14.40225,
+       50.09679
+      ],
+      [
+       14.404621,
+       50.097431
+      ],
+      [
+       14.406997,
+       50.097762
+      ],
+      [
+       14.414521,
+       50.09798
+      ],
+      [
+       14.416897,
+       50.098648
+      ],
+      [
+       14.418023,
+       50.09947
+      ],
+      [
+       14.418735,
+       50.100849
+      ],
+      [
+       14.418571,
+       50.101837
+      ],
+      [
+       14.417177,
+       50.10473
+      ],
+      [
+       14.417208,
+       50.106273
+      ],
+      [
+       14.418061,
+       50.108428
+      ],
+      [
+       14.419771,
+       50.110462
+      ],
+      [
+       14.422643,
+       50.112307
+      ],
+      [
+       14.42614,
+       50.113465
+      ],
+      [
+       14.42895,
+       50.113766
+      ],
+      [
+       14.432453,
+       50.113555
+      ],
+      [
+       14.435567,
+       50.113728
+      ],
+      [
+       14.434896,
+       50.115681
+      ],
+      [
+       14.433392,
+       50.116221
+      ],
+      [
+       14.433093,
+       50.117324
+      ],
+      [
+       14.42532,
+       50.117533
+      ],
+      [
+       14.420632,
+       50.116943
+      ],
+      [
+       14.420135,
+       50.117684
+      ],
+      [
+       14.416705,
+       50.117492
+      ],
+      [
+       14.413973,
+       50.116778
+      ],
+      [
+       14.411894,
+       50.117172
+      ],
+      [
+       14.411629,
+       50.11782
+      ],
+      [
+       14.41175,
+       50.119168
+      ],
+      [
+       14.408956,
+       50.118831
+      ],
+      [
+       14.40725,
+       50.119212
+      ],
+      [
+       14.401712,
+       50.12084
+      ],
+      [
+       14.401232,
+       50.12155
+      ],
+      [
+       14.40175,
+       50.122733
+      ],
+      [
+       14.401232,
+       50.12155
+      ],
+      [
+       14.401712,
+       50.12084
+      ],
+      [
+       14.40852,
+       50.11887
+      ],
+      [
+       14.41175,
+       50.119168
+      ],
+      [
+       14.411629,
+       50.11782
+      ],
+      [
+       14.411982,
+       50.117132
+      ],
+      [
+       14.413973,
+       50.116778
+      ],
+      [
+       14.416766,
+       50.117497
+      ],
+      [
+       14.418153,
+       50.117459
+      ],
+      [
+       14.420365,
+       50.116915
+      ],
+      [
+       14.425251,
+       50.117531
+      ],
+      [
+       14.432877,
+       50.117325
+      ],
+      [
+       14.433166,
+       50.116143
+      ],
+      [
+       14.434625,
+       50.11564
+      ],
+      [
+       14.434968,
+       50.114668
+      ],
+      [
+       14.436027,
+       50.114616
+      ],
+      [
+       14.436283,
+       50.11424
+      ],
+      [
+       14.435867,
+       50.114003
+      ],
+      [
+       14.433891,
+       50.113783
+      ],
+      [
+       14.428336,
+       50.113955
+      ],
+      [
+       14.426084,
+       50.113749
+      ],
+      [
+       14.422315,
+       50.112513
+      ],
+      [
+       14.420084,
+       50.111159
+      ],
+      [
+       14.418016,
+       50.109075
+      ],
+      [
+       14.416873,
+       50.106709
+      ],
+      [
+       14.416756,
+       50.104667
+      ],
+      [
+       14.418254,
+       50.101046
+      ],
+      [
+       14.41778,
+       50.099811
+      ],
+      [
+       14.416619,
+       50.098845
+      ],
+      [
+       14.415099,
+       50.098312
+      ],
+      [
+       14.413362,
+       50.09805
+      ],
+      [
+       14.406973,
+       50.097865
+      ],
+      [
+       14.403401,
+       50.097333
+      ],
+      [
+       14.397468,
+       50.095262
+      ],
+      [
+       14.396695,
+       50.095301
+      ],
+      [
+       14.396073,
+       50.096118
+      ],
+      [
+       14.395614,
+       50.100086
+      ],
+      [
+       14.396061,
+       50.100596
+      ],
+      [
+       14.395468,
+       50.101129
+      ],
+      [
+       14.394546,
+       50.108554
+      ],
+      [
+       14.394816,
+       50.109435
+      ],
+      [
+       14.39432,
+       50.110413
+      ],
+      [
+       14.394088,
+       50.110399
+      ],
+      [
+       14.393863,
+       50.1094
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.1094,14.3936&destination=50.1094,14.3936&travelmode=driving&waypoints=50.1177%2C14.4062"
+   }
+  },
+  {
+   "day": 3,
+   "date": "2027-08-17",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Prague city day (by tram, little walking)",
+    "he": "יום בעיר פראג (בחשמלית, מעט הליכה)"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_ghi",
+   "plan": [
+    {
+     "en": "Tram 22 to Prague Castle for the changing of the guard at 12:00.",
+     "he": "חשמלית 22 לטירת פראג לטקס החלפת המשמר ב-12:00."
+    },
+    {
+     "en": "Tram down to Malá Strana, walk across Charles Bridge to see the Astronomical Clock on the hour.",
+     "he": "חשמלית למלה סטרנה, הליכה על גשר קארל ולראות את השעון האסטרונומי בשעה העגולה."
+    },
+    {
+     "en": "Pedal boats at Slovanka island, then back to the hotel. Rain? Railway Kingdom instead.",
+     "he": "סירות פדלים באי סלובנקה ואז חזרה למלון. יורד גשם? ממלכת הרכבות במקום."
+    }
+   ],
+   "attractions": [
+    "prague_castle",
+    "charles_bridge",
+    "orloj",
+    "slovanka",
+    "railway"
+   ],
+   "route": null
+  },
+  {
+   "day": 4,
+   "date": "2027-08-18",
+   "weekday": {
+    "en": "Wed",
+    "he": "ד'"
+   },
+   "title": {
+    "en": "Water park + dinosaurs",
+    "he": "פארק מים + דינוזאורים"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_ghi",
+   "plan": [
+    {
+     "en": "25-min drive to Aquapalace: 3-hour family ticket, about 10:00–13:00.",
+     "he": "25 דקות נסיעה לאקווה-פאלאס: כרטיס משפחתי ל-3 שעות, בערך 10:00–13:00."
+    },
+    {
+     "en": "Lunch, then DinoPark on the roof of the Harfa mall (about 1 h), 15 min from the hotel.",
+     "he": "ארוחת צהריים ואז דינו-פארק על גג קניון הרפה (כשעה), 15 דקות מהמלון."
+    }
+   ],
+   "attractions": [
+    "aquapalace",
+    "dinopark"
+   ],
+   "route": {
+    "km": 53.0,
+    "minutes": 63,
+    "legs": [
+     {
+      "from": "Grand Hotel International Prague",
+      "to": "Aquapalace Praha",
+      "km": 24.2,
+      "min": 25
+     },
+     {
+      "from": "Aquapalace Praha",
+      "to": "DinoPark Harfa",
+      "km": 18.1,
+      "min": 24
+     },
+     {
+      "from": "DinoPark Harfa",
+      "to": "Grand Hotel International Prague",
+      "km": 10.7,
+      "min": 15
+     }
+    ],
+    "points": [
+     {
+      "name": "Grand Hotel International Prague",
+      "lat": 50.1094,
+      "lng": 14.3936
+     },
+     {
+      "name": "Aquapalace Praha",
+      "lat": 50.0075,
+      "lng": 14.5715
+     },
+     {
+      "name": "DinoPark Harfa",
+      "lat": 50.1047,
+      "lng": 14.491
+     },
+     {
+      "name": "Grand Hotel International Prague",
+      "lat": 50.1094,
+      "lng": 14.3936
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.393863,
+       50.1094
+      ],
+      [
+       14.395813,
+       50.095589
+      ],
+      [
+       14.394718,
+       50.094247
+      ],
+      [
+       14.387509,
+       50.092216
+      ],
+      [
+       14.381685,
+       50.088693
+      ],
+      [
+       14.381114,
+       50.085224
+      ],
+      [
+       14.391863,
+       50.076211
+      ],
+      [
+       14.397744,
+       50.073091
+      ],
+      [
+       14.397856,
+       50.069229
+      ],
+      [
+       14.400362,
+       50.065096
+      ],
+      [
+       14.405764,
+       50.062281
+      ],
+      [
+       14.407975,
+       50.049966
+      ],
+      [
+       14.409869,
+       50.047673
+      ],
+      [
+       14.406142,
+       50.04055
+      ],
+      [
+       14.410074,
+       50.03262
+      ],
+      [
+       14.414438,
+       50.031603
+      ],
+      [
+       14.437696,
+       50.033073
+      ],
+      [
+       14.451785,
+       50.037564
+      ],
+      [
+       14.462739,
+       50.037543
+      ],
+      [
+       14.472047,
+       50.039709
+      ],
+      [
+       14.483887,
+       50.040046
+      ],
+      [
+       14.489827,
+       50.03748
+      ],
+      [
+       14.49395,
+       50.030217
+      ],
+      [
+       14.498161,
+       50.02673
+      ],
+      [
+       14.536133,
+       50.011637
+      ],
+      [
+       14.543822,
+       50.009386
+      ],
+      [
+       14.561864,
+       50.006087
+      ],
+      [
+       14.566716,
+       50.004377
+      ],
+      [
+       14.566151,
+       50.003708
+      ],
+      [
+       14.564227,
+       50.004369
+      ],
+      [
+       14.56465,
+       50.005066
+      ],
+      [
+       14.569816,
+       50.008274
+      ],
+      [
+       14.571555,
+       50.008727
+      ],
+      [
+       14.571439,
+       50.007907
+      ],
+      [
+       14.570132,
+       50.007712
+      ],
+      [
+       14.57035,
+       50.006463
+      ],
+      [
+       14.566638,
+       50.006956
+      ],
+      [
+       14.562849,
+       50.006189
+      ],
+      [
+       14.54159,
+       50.010069
+      ],
+      [
+       14.499118,
+       50.026415
+      ],
+      [
+       14.494347,
+       50.030021
+      ],
+      [
+       14.48851,
+       50.039295
+      ],
+      [
+       14.488765,
+       50.044863
+      ],
+      [
+       14.472706,
+       50.054258
+      ],
+      [
+       14.469582,
+       50.061454
+      ],
+      [
+       14.468964,
+       50.069603
+      ],
+      [
+       14.470934,
+       50.072093
+      ],
+      [
+       14.470248,
+       50.073485
+      ],
+      [
+       14.467881,
+       50.074209
+      ],
+      [
+       14.468695,
+       50.075786
+      ],
+      [
+       14.473218,
+       50.078221
+      ],
+      [
+       14.468009,
+       50.090556
+      ],
+      [
+       14.47584,
+       50.095477
+      ],
+      [
+       14.474979,
+       50.099239
+      ],
+      [
+       14.469725,
+       50.09944
+      ],
+      [
+       14.490303,
+       50.107292
+      ],
+      [
+       14.491863,
+       50.105399
+      ],
+      [
+       14.49079,
+       50.104946
+      ],
+      [
+       14.487494,
+       50.103691
+      ],
+      [
+       14.482569,
+       50.104484
+      ],
+      [
+       14.481764,
+       50.105795
+      ],
+      [
+       14.48269,
+       50.107294
+      ],
+      [
+       14.476569,
+       50.111037
+      ],
+      [
+       14.463703,
+       50.111585
+      ],
+      [
+       14.458707,
+       50.113511
+      ],
+      [
+       14.450831,
+       50.113776
+      ],
+      [
+       14.446329,
+       50.115084
+      ],
+      [
+       14.427249,
+       50.113905
+      ],
+      [
+       14.421421,
+       50.11204
+      ],
+      [
+       14.417593,
+       50.108485
+      ],
+      [
+       14.416716,
+       50.105019
+      ],
+      [
+       14.418254,
+       50.101046
+      ],
+      [
+       14.416619,
+       50.098845
+      ],
+      [
+       14.403401,
+       50.097333
+      ],
+      [
+       14.396946,
+       50.095219
+      ],
+      [
+       14.39432,
+       50.110413
+      ],
+      [
+       14.393863,
+       50.1094
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.1094,14.3936&destination=50.1094,14.3936&travelmode=driving&waypoints=50.0075%2C14.5715%7C50.1047%2C14.491"
+   }
+  },
+  {
+   "day": 5,
+   "date": "2027-08-19",
+   "weekday": {
+    "en": "Thu",
+    "he": "ה'"
+   },
+   "title": {
+    "en": "Move to Lipno, with Hluboká Castle on the way",
+    "he": "מעבר לליפנו, עם טירת הלובוקה בדרך"
+   },
+   "trail": "green",
+   "overnight": "hotel_doky",
+   "plan": [
+    {
+     "en": "Check out about 09:30 and drive 1h55 (motorway rest stop on the way).",
+     "he": "יציאה מהמלון בערך ב-09:30 ונסיעה של שעה ו-55 דקות (עצירת מנוחה בכביש המהיר)."
+    },
+    {
+     "en": "Hluboká Castle: kitchen tour and park. Optional Zoo Ohrada next door.",
+     "he": "טירת הלובוקה: סיור המטבח והפארק. אופציונלי: גן החיות אוהרדה הסמוך."
+    },
+    {
+     "en": "1h05 to Lipno, check in, evening swim in the pool.",
+     "he": "שעה וחמש דקות לליפנו, צ'ק-אין ושחייה בבריכה בערב."
+    }
+   ],
+   "attractions": [
+    "hluboka",
+    "zoo_ohrada"
+   ],
+   "route": {
+    "km": 234.3,
+    "minutes": 182,
+    "legs": [
+     {
+      "from": "Grand Hotel International Prague",
+      "to": "Hluboká Castle & Zoo Ohrada",
+      "km": 154.1,
+      "min": 115
+     },
+     {
+      "from": "Hluboká Castle & Zoo Ohrada",
+      "to": "Apartmány Doky Lipno",
+      "km": 80.3,
+      "min": 67
+     }
+    ],
+    "points": [
+     {
+      "name": "Grand Hotel International Prague",
+      "lat": 50.1094,
+      "lng": 14.3936
+     },
+     {
+      "name": "Hluboká Castle & Zoo Ohrada",
+      "lat": 49.0511,
+      "lng": 14.4416
+     },
+     {
+      "name": "Apartmány Doky Lipno",
+      "lat": 48.6375,
+      "lng": 14.226
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.393863,
+       50.1094
+      ],
+      [
+       14.38103,
+       50.085627
+      ],
+      [
+       14.409891,
+       50.032728
+      ],
+      [
+       14.487175,
+       50.039115
+      ],
+      [
+       14.687329,
+       49.935157
+      ],
+      [
+       14.715379,
+       49.903214
+      ],
+      [
+       14.681137,
+       49.847753
+      ],
+      [
+       14.673085,
+       49.74698
+      ],
+      [
+       14.632904,
+       49.654901
+      ],
+      [
+       14.660986,
+       49.612768
+      ],
+      [
+       14.660652,
+       49.470203
+      ],
+      [
+       14.726035,
+       49.391437
+      ],
+      [
+       14.727406,
+       49.222719
+      ],
+      [
+       14.674093,
+       49.171196
+      ],
+      [
+       14.564803,
+       49.106911
+      ],
+      [
+       14.507423,
+       49.04432
+      ],
+      [
+       14.471456,
+       49.039112
+      ],
+      [
+       14.443827,
+       49.051339
+      ],
+      [
+       14.475557,
+       49.039081
+      ],
+      [
+       14.518199,
+       49.053385
+      ],
+      [
+       14.522483,
+       48.978604
+      ],
+      [
+       14.42669,
+       48.838095
+      ],
+      [
+       14.484586,
+       48.749311
+      ],
+      [
+       14.47665,
+       48.711166
+      ],
+      [
+       14.41123,
+       48.626375
+      ],
+      [
+       14.313388,
+       48.616238
+      ],
+      [
+       14.281016,
+       48.631033
+      ],
+      [
+       14.251112,
+       48.616742
+      ],
+      [
+       14.226229,
+       48.637759
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.1094,14.3936&destination=48.6375,14.226&travelmode=driving&waypoints=49.0511%2C14.4416"
+   }
+  },
+  {
+   "day": 6,
+   "date": "2027-08-20",
+   "weekday": {
+    "en": "Fri",
+    "he": "ו'"
+   },
+   "title": {
+    "en": "Treetop walk, forest playground, bobsled",
+    "he": "שביל הצמרות, מתחם היער ומזחלות"
+   },
+   "trail": "blue",
+   "overnight": "hotel_doky",
+   "plan": [
+    {
+     "en": "Morning: Treetop Walkway and tube slide, then Kingdom of the Forest next door.",
+     "he": "בבוקר: שביל הצמרות ומגלשת הצינור, ואז ממלכת היער שליד."
+    },
+    {
+     "en": "A few bobsled rides, then the afternoon at the pool or beach.",
+     "he": "כמה נסיעות במזחלות ואחר הצהריים בבריכה או בחוף."
+    }
+   ],
+   "attractions": [
+    "treetop_lipno",
+    "kralovstvi_lesa",
+    "bobovka_lipno"
+   ],
+   "route": {
+    "km": 7.0,
+    "minutes": 17,
+    "legs": [
+     {
+      "from": "Apartmány Doky Lipno",
+      "to": "Treetop Walkway & Kingdom of the Forest",
+      "km": 3.6,
+      "min": 9
+     },
+     {
+      "from": "Treetop Walkway & Kingdom of the Forest",
+      "to": "Apartmány Doky Lipno",
+      "km": 3.4,
+      "min": 8
+     }
+    ],
+    "points": [
+     {
+      "name": "Apartmány Doky Lipno",
+      "lat": 48.6375,
+      "lng": 14.226
+     },
+     {
+      "name": "Treetop Walkway & Kingdom of the Forest",
+      "lat": 48.6527,
+      "lng": 14.2305
+     },
+     {
+      "name": "Apartmány Doky Lipno",
+      "lat": 48.6375,
+      "lng": 14.226
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.226229,
+       48.637759
+      ],
+      [
+       14.225786,
+       48.63793
+      ],
+      [
+       14.226379,
+       48.638315
+      ],
+      [
+       14.226051,
+       48.638423
+      ],
+      [
+       14.225407,
+       48.639141
+      ],
+      [
+       14.224173,
+       48.641633
+      ],
+      [
+       14.223596,
+       48.642221
+      ],
+      [
+       14.222705,
+       48.642695
+      ],
+      [
+       14.22156,
+       48.642947
+      ],
+      [
+       14.220022,
+       48.642875
+      ],
+      [
+       14.219838,
+       48.642965
+      ],
+      [
+       14.219709,
+       48.642806
+      ],
+      [
+       14.216478,
+       48.642237
+      ],
+      [
+       14.214393,
+       48.64224
+      ],
+      [
+       14.214389,
+       48.642398
+      ],
+      [
+       14.215269,
+       48.643812
+      ],
+      [
+       14.218255,
+       48.644901
+      ],
+      [
+       14.218102,
+       48.645693
+      ],
+      [
+       14.217736,
+       48.64629
+      ],
+      [
+       14.218001,
+       48.646937
+      ],
+      [
+       14.219298,
+       48.648031
+      ],
+      [
+       14.220498,
+       48.648563
+      ],
+      [
+       14.22112,
+       48.649511
+      ],
+      [
+       14.221621,
+       48.650736
+      ],
+      [
+       14.223201,
+       48.652253
+      ],
+      [
+       14.223891,
+       48.652637
+      ],
+      [
+       14.224513,
+       48.653306
+      ],
+      [
+       14.225534,
+       48.654078
+      ],
+      [
+       14.226653,
+       48.654671
+      ],
+      [
+       14.227901,
+       48.6543
+      ],
+      [
+       14.229507,
+       48.653431
+      ],
+      [
+       14.22984,
+       48.653025
+      ],
+      [
+       14.230999,
+       48.652864
+      ],
+      [
+       14.231233,
+       48.652961
+      ],
+      [
+       14.23132,
+       48.652768
+      ],
+      [
+       14.23065,
+       48.65296
+      ],
+      [
+       14.229744,
+       48.65307
+      ],
+      [
+       14.229178,
+       48.653635
+      ],
+      [
+       14.227391,
+       48.654509
+      ],
+      [
+       14.226653,
+       48.654671
+      ],
+      [
+       14.225534,
+       48.654078
+      ],
+      [
+       14.224513,
+       48.653306
+      ],
+      [
+       14.223891,
+       48.652637
+      ],
+      [
+       14.223201,
+       48.652253
+      ],
+      [
+       14.221621,
+       48.650736
+      ],
+      [
+       14.22112,
+       48.649511
+      ],
+      [
+       14.220498,
+       48.648563
+      ],
+      [
+       14.219298,
+       48.648031
+      ],
+      [
+       14.218001,
+       48.646937
+      ],
+      [
+       14.217736,
+       48.64629
+      ],
+      [
+       14.218102,
+       48.645693
+      ],
+      [
+       14.218255,
+       48.644901
+      ],
+      [
+       14.215269,
+       48.643812
+      ],
+      [
+       14.214389,
+       48.642398
+      ],
+      [
+       14.214393,
+       48.64224
+      ],
+      [
+       14.216478,
+       48.642237
+      ],
+      [
+       14.220926,
+       48.642977
+      ],
+      [
+       14.221852,
+       48.642908
+      ],
+      [
+       14.222705,
+       48.642695
+      ],
+      [
+       14.223596,
+       48.642221
+      ],
+      [
+       14.224173,
+       48.641633
+      ],
+      [
+       14.225407,
+       48.639141
+      ],
+      [
+       14.226154,
+       48.638355
+      ],
+      [
+       14.226151,
+       48.638203
+      ],
+      [
+       14.225786,
+       48.63793
+      ],
+      [
+       14.226229,
+       48.637759
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.6375,14.226&destination=48.6375,14.226&travelmode=driving&waypoints=48.6527%2C14.2305"
+   }
+  },
+  {
+   "day": 7,
+   "date": "2027-08-21",
+   "weekday": {
+    "en": "Sat",
+    "he": "ש'"
+   },
+   "title": {
+    "en": "Český Krumlov: rafting + bears",
+    "he": "צ'סקי קרומלוב: רפטינג ודובים"
+   },
+   "trail": "blue",
+   "overnight": "hotel_doky",
+   "plan": [
+    {
+     "en": "35-min drive. Morning family raft through the old town (reserve ahead).",
+     "he": "35 דקות נסיעה. בבוקר רפסודה משפחתית דרך העיר העתיקה (להזמין מראש)."
+    },
+    {
+     "en": "Castle courtyards and the bear moat, ice cream, back to Lipno by mid-afternoon.",
+     "he": "חצרות הטירה ותעלת הדובים, גלידה, וחזרה לליפנו עד אמצע אחר הצהריים."
+    }
+   ],
+   "attractions": [
+    "malecek",
+    "ck_castle"
+   ],
+   "route": {
+    "km": 62.6,
+    "minutes": 70,
+    "legs": [
+     {
+      "from": "Apartmány Doky Lipno",
+      "to": "Český Krumlov (Maleček rafting)",
+      "km": 31.3,
+      "min": 35
+     },
+     {
+      "from": "Český Krumlov (Maleček rafting)",
+      "to": "Apartmány Doky Lipno",
+      "km": 31.3,
+      "min": 35
+     }
+    ],
+    "points": [
+     {
+      "name": "Apartmány Doky Lipno",
+      "lat": 48.6375,
+      "lng": 14.226
+     },
+     {
+      "name": "Český Krumlov (Maleček rafting)",
+      "lat": 48.8104,
+      "lng": 14.3187
+     },
+     {
+      "name": "Apartmány Doky Lipno",
+      "lat": 48.6375,
+      "lng": 14.226
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.226229,
+       48.637759
+      ],
+      [
+       14.222511,
+       48.642759
+      ],
+      [
+       14.210834,
+       48.642252
+      ],
+      [
+       14.196648,
+       48.630555
+      ],
+      [
+       14.190972,
+       48.631156
+      ],
+      [
+       14.173565,
+       48.643475
+      ],
+      [
+       14.173608,
+       48.652272
+      ],
+      [
+       14.167971,
+       48.664053
+      ],
+      [
+       14.170594,
+       48.669496
+      ],
+      [
+       14.193225,
+       48.691539
+      ],
+      [
+       14.193152,
+       48.694802
+      ],
+      [
+       14.204933,
+       48.701156
+      ],
+      [
+       14.206446,
+       48.722374
+      ],
+      [
+       14.210493,
+       48.731291
+      ],
+      [
+       14.221953,
+       48.735024
+      ],
+      [
+       14.241965,
+       48.737504
+      ],
+      [
+       14.257399,
+       48.74535
+      ],
+      [
+       14.265729,
+       48.746737
+      ],
+      [
+       14.270715,
+       48.75334
+      ],
+      [
+       14.279966,
+       48.756454
+      ],
+      [
+       14.283829,
+       48.76085
+      ],
+      [
+       14.282488,
+       48.764219
+      ],
+      [
+       14.285572,
+       48.765312
+      ],
+      [
+       14.286365,
+       48.774036
+      ],
+      [
+       14.298021,
+       48.779211
+      ],
+      [
+       14.297097,
+       48.782692
+      ],
+      [
+       14.305393,
+       48.791677
+      ],
+      [
+       14.30176,
+       48.795945
+      ],
+      [
+       14.314039,
+       48.800601
+      ],
+      [
+       14.31213,
+       48.804872
+      ],
+      [
+       14.320768,
+       48.807499
+      ],
+      [
+       14.318759,
+       48.81042
+      ],
+      [
+       14.320768,
+       48.807499
+      ],
+      [
+       14.31213,
+       48.804872
+      ],
+      [
+       14.314039,
+       48.800601
+      ],
+      [
+       14.30176,
+       48.795945
+      ],
+      [
+       14.305393,
+       48.791677
+      ],
+      [
+       14.297097,
+       48.782692
+      ],
+      [
+       14.298021,
+       48.779211
+      ],
+      [
+       14.286365,
+       48.774036
+      ],
+      [
+       14.285572,
+       48.765312
+      ],
+      [
+       14.282488,
+       48.764219
+      ],
+      [
+       14.283829,
+       48.76085
+      ],
+      [
+       14.279966,
+       48.756454
+      ],
+      [
+       14.270715,
+       48.75334
+      ],
+      [
+       14.265729,
+       48.746737
+      ],
+      [
+       14.257399,
+       48.74535
+      ],
+      [
+       14.241965,
+       48.737504
+      ],
+      [
+       14.221953,
+       48.735024
+      ],
+      [
+       14.210493,
+       48.731291
+      ],
+      [
+       14.206446,
+       48.722374
+      ],
+      [
+       14.204933,
+       48.701156
+      ],
+      [
+       14.193152,
+       48.694802
+      ],
+      [
+       14.193225,
+       48.691539
+      ],
+      [
+       14.170594,
+       48.669496
+      ],
+      [
+       14.167971,
+       48.664053
+      ],
+      [
+       14.173608,
+       48.652272
+      ],
+      [
+       14.173565,
+       48.643475
+      ],
+      [
+       14.190972,
+       48.631156
+      ],
+      [
+       14.196648,
+       48.630555
+      ],
+      [
+       14.210834,
+       48.642252
+      ],
+      [
+       14.222511,
+       48.642759
+      ],
+      [
+       14.226229,
+       48.637759
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.6375,14.226&destination=48.6375,14.226&travelmode=driving&waypoints=48.8104%2C14.3187"
+   }
+  },
+  {
+   "day": 8,
+   "date": "2027-08-22",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Lake day: ferry + beach",
+    "he": "יום אגם: מעבורת וחוף"
+   },
+   "trail": "blue",
+   "overnight": "hotel_doky",
+   "plan": [
+    {
+     "en": "20 min to Frymburk: ferry across the lake and back, playground and beach by the pier.",
+     "he": "20 דקות לפרימבורק: מעבורת לצד השני של האגם וחזרה, מגרש משחקים וחוף ליד המזח."
+    },
+    {
+     "en": "Afternoon at the apartment pool.",
+     "he": "אחר הצהריים בבריכה של הדירה."
+    }
+   ],
+   "attractions": [
+    "frymburk_ferry",
+    "lipno_beach"
+   ],
+   "route": {
+    "km": 19.6,
+    "minutes": 31,
+    "legs": [
+     {
+      "from": "Apartmány Doky Lipno",
+      "to": "Frymburk ferry & beach",
+      "km": 10.8,
+      "min": 21
+     },
+     {
+      "from": "Frymburk ferry & beach",
+      "to": "Apartmány Doky Lipno",
+      "km": 8.7,
+      "min": 10
+     }
+    ],
+    "points": [
+     {
+      "name": "Apartmány Doky Lipno",
+      "lat": 48.6375,
+      "lng": 14.226
+     },
+     {
+      "name": "Frymburk ferry & beach",
+      "lat": 48.6582,
+      "lng": 14.1659
+     },
+     {
+      "name": "Apartmány Doky Lipno",
+      "lat": 48.6375,
+      "lng": 14.226
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.226229,
+       48.637759
+      ],
+      [
+       14.225786,
+       48.63793
+      ],
+      [
+       14.226349,
+       48.63821
+      ],
+      [
+       14.228442,
+       48.637312
+      ],
+      [
+       14.237023,
+       48.635921
+      ],
+      [
+       14.237987,
+       48.634396
+      ],
+      [
+       14.236368,
+       48.631647
+      ],
+      [
+       14.235497,
+       48.631415
+      ],
+      [
+       14.233045,
+       48.632401
+      ],
+      [
+       14.230285,
+       48.632802
+      ],
+      [
+       14.224436,
+       48.632458
+      ],
+      [
+       14.221834,
+       48.631779
+      ],
+      [
+       14.211176,
+       48.626313
+      ],
+      [
+       14.20257,
+       48.627153
+      ],
+      [
+       14.199949,
+       48.62676
+      ],
+      [
+       14.195109,
+       48.625123
+      ],
+      [
+       14.192576,
+       48.625038
+      ],
+      [
+       14.189533,
+       48.625535
+      ],
+      [
+       14.18646,
+       48.626802
+      ],
+      [
+       14.183173,
+       48.629084
+      ],
+      [
+       14.175,
+       48.629667
+      ],
+      [
+       14.171021,
+       48.63066
+      ],
+      [
+       14.170041,
+       48.631305
+      ],
+      [
+       14.170042,
+       48.632635
+      ],
+      [
+       14.172381,
+       48.634454
+      ],
+      [
+       14.172272,
+       48.638369
+      ],
+      [
+       14.170882,
+       48.640717
+      ],
+      [
+       14.167552,
+       48.642392
+      ],
+      [
+       14.163832,
+       48.646211
+      ],
+      [
+       14.163719,
+       48.647176
+      ],
+      [
+       14.165145,
+       48.649742
+      ],
+      [
+       14.162161,
+       48.653008
+      ],
+      [
+       14.160411,
+       48.656913
+      ],
+      [
+       14.159498,
+       48.657564
+      ],
+      [
+       14.16095,
+       48.658477
+      ],
+      [
+       14.165579,
+       48.657958
+      ],
+      [
+       14.166018,
+       48.658255
+      ],
+      [
+       14.165491,
+       48.659465
+      ],
+      [
+       14.166206,
+       48.660279
+      ],
+      [
+       14.166132,
+       48.662254
+      ],
+      [
+       14.168258,
+       48.663669
+      ],
+      [
+       14.170468,
+       48.660371
+      ],
+      [
+       14.170125,
+       48.656528
+      ],
+      [
+       14.173608,
+       48.652272
+      ],
+      [
+       14.17367,
+       48.650819
+      ],
+      [
+       14.172148,
+       48.647663
+      ],
+      [
+       14.173826,
+       48.64302
+      ],
+      [
+       14.176481,
+       48.640653
+      ],
+      [
+       14.179441,
+       48.63932
+      ],
+      [
+       14.181291,
+       48.636968
+      ],
+      [
+       14.184799,
+       48.635705
+      ],
+      [
+       14.191643,
+       48.630852
+      ],
+      [
+       14.194868,
+       48.630226
+      ],
+      [
+       14.196648,
+       48.630555
+      ],
+      [
+       14.207618,
+       48.638402
+      ],
+      [
+       14.20935,
+       48.641428
+      ],
+      [
+       14.210834,
+       48.642252
+      ],
+      [
+       14.216478,
+       48.642237
+      ],
+      [
+       14.220926,
+       48.642977
+      ],
+      [
+       14.222511,
+       48.642759
+      ],
+      [
+       14.224051,
+       48.641802
+      ],
+      [
+       14.226229,
+       48.637759
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.6375,14.226&destination=48.6375,14.226&travelmode=driving&waypoints=48.6582%2C14.1659"
+   }
+  },
+  {
+   "day": 9,
+   "date": "2027-08-23",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Free day at Lipno",
+    "he": "יום חופשי בליפנו"
+   },
+   "trail": "blue",
+   "overnight": "hotel_doky",
+   "plan": [
+    {
+     "en": "Pool, beach, bobsled again, packing.",
+     "he": "בריכה, חוף, עוד מזחלות ואריזות."
+    },
+    {
+     "en": "Optional: Kleť chairlift for the view (55 min each way, no hiking).",
+     "he": "אופציונלי: רכבל הכיסאות לקלט לתצפית (55 דקות לכל כיוון, בלי הליכה)."
+    }
+   ],
+   "attractions": [
+    "klet_lift"
+   ],
+   "route": null
+  },
+  {
+   "day": 10,
+   "date": "2027-08-24",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Fly home",
+    "he": "טיסה הביתה"
+   },
+   "trail": "green",
+   "overnight": null,
+   "plan": [
+    {
+     "en": "Leave Lipno about 08:15 and drive 2h55 to PRG. Return the car by about 11:00.",
+     "he": "יציאה מליפנו בערך ב-08:15 ונסיעה של שעתיים ו-55 דקות לשדה התעופה. החזרת הרכב עד בערך 11:00."
+    },
+    {
+     "en": "Smartwings QS 1284 departs 12:45 and lands in TLV at 17:35.",
+     "he": "סמארטווינגס QS 1284 ממריאה ב-12:45 ונוחתת בנתב\"ג ב-17:35."
+    },
+    {
+     "en": "Prefer a lazy morning? Take QS 1286 at 23:45 (same price, lands 04:35).",
+     "he": "מעדיפים בוקר רגוע? QS 1286 ב-23:45 (אותו מחיר, נחיתה ב-04:35)."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 231.1,
+    "minutes": 174,
+    "legs": [
+     {
+      "from": "Apartmány Doky Lipno",
+      "to": "Prague Airport (PRG) car return",
+      "km": 231.1,
+      "min": 174
+     }
+    ],
+    "points": [
+     {
+      "name": "Apartmány Doky Lipno",
+      "lat": 48.6375,
+      "lng": 14.226
+     },
+     {
+      "name": "Prague Airport (PRG) car return",
+      "lat": 50.1008,
+      "lng": 14.26
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       14.226229,
+       48.637759
+      ],
+      [
+       14.244155,
+       48.617866
+      ],
+      [
+       14.281211,
+       48.631041
+      ],
+      [
+       14.344404,
+       48.617261
+      ],
+      [
+       14.411595,
+       48.626486
+      ],
+      [
+       14.448235,
+       48.650519
+      ],
+      [
+       14.486015,
+       48.744036
+      ],
+      [
+       14.427008,
+       48.839117
+      ],
+      [
+       14.522622,
+       48.97859
+      ],
+      [
+       14.519657,
+       49.055812
+      ],
+      [
+       14.565519,
+       49.107307
+      ],
+      [
+       14.724074,
+       49.216709
+      ],
+      [
+       14.739074,
+       49.31023
+      ],
+      [
+       14.724939,
+       49.395403
+      ],
+      [
+       14.660645,
+       49.47075
+      ],
+      [
+       14.660986,
+       49.612768
+      ],
+      [
+       14.632917,
+       49.654443
+      ],
+      [
+       14.712072,
+       49.915047
+      ],
+      [
+       14.606919,
+       49.982756
+      ],
+      [
+       14.509484,
+       49.960639
+      ],
+      [
+       14.481466,
+       49.979334
+      ],
+      [
+       14.346481,
+       49.999783
+      ],
+      [
+       14.333325,
+       50.020761
+      ],
+      [
+       14.272064,
+       50.037819
+      ],
+      [
+       14.29627,
+       50.075697
+      ],
+      [
+       14.255974,
+       50.082756
+      ],
+      [
+       14.259444,
+       50.096693
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.6375,14.226&destination=50.1008,14.26&travelmode=driving"
+   }
+  }
+ ],
+ "routes_total": {
+  "km": 642.9,
+  "minutes": 596
+ },
+ "budget": {
+  "lines": [
+   {
+    "key": "flights",
+    "eur": 1620,
+    "status": "live"
+   },
+   {
+    "key": "bags",
+    "eur": 164,
+    "status": "estimate"
+   },
+   {
+    "key": "car",
+    "eur": 585,
+    "status": "estimate"
+   },
+   {
+    "key": "seats",
+    "eur": 150,
+    "status": "estimate"
+   },
+   {
+    "key": "border",
+    "eur": 0,
+    "status": "live"
+   },
+   {
+    "key": "vignette",
+    "eur": 0,
+    "status": "estimate"
+   },
+   {
+    "key": "fuel",
+    "eur": 83,
+    "status": "estimate"
+   },
+   {
+    "key": "parking",
+    "eur": 35,
+    "status": "estimate"
+   },
+   {
+    "key": "hotels",
+    "eur": 1442.56,
+    "status": "live"
+   },
+   {
+    "key": "att",
+    "eur": 429,
+    "status": "mixed"
+   }
+  ],
+  "total_eur": 4508.56,
+  "live_part_eur": 3062.56,
+  "attractions_czk": 10499,
+  "fuel_km": 694
+ }
+}
