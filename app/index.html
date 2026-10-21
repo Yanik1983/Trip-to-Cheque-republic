@@ -709,8 +709,9 @@ img{max-width:100%}
 h1,h2,h3{line-height:1.25;margin:0}
 .topbar{position:sticky;top:0;z-index:1000;background:var(--surface);border-bottom:1px solid var(--border);padding:8px 16px;padding-top:calc(8px + env(safe-area-inset-top));display:flex;align-items:center;gap:12px}
 .topbar{flex-wrap:wrap}
-.dsel{flex-basis:100%;display:flex;gap:6px}
-.dsel button{flex:1 1 0;min-width:0;min-height:44px;padding:4px 6px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--text);font:inherit;font-weight:700;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1.15}
+.dsel{flex-basis:100%;display:flex;gap:6px;overflow-x:auto}
+.ac-line{color:var(--accent);margin:4px 0}
+.dsel button{flex:1 1 0;min-width:58px;min-height:44px;padding:4px 6px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--text);font:inherit;font-weight:700;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1.15}
 .dsel button small{font-size:11px;font-weight:600;color:var(--muted)}
 .dsel button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .dsel button[aria-pressed="true"] small{color:var(--accent-ink);opacity:.85}
@@ -839,10 +840,12 @@ footer .links a{font-weight:600}
 (function(){
 'use strict';
 var DATA=null, OUTLINE=null, lang='he', tab='overview', selDay=1, mapSel='all', dest='cz';
-var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data.json',outline:'czechia.geojson',report:'../v5/index.html'},
- {id:'hu',he:'הונגריה',en:'Hungary',data:'trip-data-hu.json',outline:'hungary.geojson',report:'../hu/v1/index.html'},
- {id:'pl',he:'פולין',en:'Poland',data:'trip-data-pl.json',outline:'poland.geojson',report:'../pl/v2/index.html'},
- {id:'ro',he:'רומניה',en:'Romania',data:'trip-data-ro.json',outline:'romania.geojson',report:'../ro/v1/index.html'}];
+var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data.json',outline:'czechia.geojson',report:'../v6/index.html'},
+ {id:'hu',he:'הונגריה',en:'Hungary',data:'trip-data-hu.json',outline:'hungary.geojson',report:'../hu/v2/index.html'},
+ {id:'pl',he:'פולין',en:'Poland',data:'trip-data-pl.json',outline:'poland.geojson',report:'../pl/v3/index.html'},
+ {id:'ro',he:'רומניה',en:'Romania',data:'trip-data-ro.json',outline:'romania.geojson',report:'../ro/v2/index.html'},
+ {id:'si',he:'סלובניה',en:'Slovenia',data:'trip-data-si.json',outline:'slovenia.geojson',report:'../si/v1/index.html'},
+ {id:'ge',he:'גאורגיה',en:'Georgia',data:'trip-data-ge.json',outline:'georgia.geojson',report:'../ge/v1/index.html'}];
 var CACHE={};
 function DST(){return DESTS.filter(function(d){return d.id===dest})[0]||DESTS[0]}
 function AIRK(){return Object.keys(DATA.airports)[0]}
@@ -897,7 +900,7 @@ function hotelById(id){return DATA.hotels.filter(function(h){return h.id===id})[
 function dayOfAttr(id){var r=null;DATA.days.forEach(function(d){if((d.attractions||[]).indexOf(id)>-1&&r==null)r=d.day});return r}
 function modeOf(day){return (DATA.route_modes||{})['D'+day]||''}
 function tableWrap(h){return '<div class="tbl-wrap" tabindex="0">'+h+'</div>'}
-function ratingHtml(r){if(!r)return '';var t='★ '+r.score+'/'+r.out_of+' ('+num(r.reviews)+')';return '<span class="rating">'+(r.url?ext(r.url,esc(t)):esc(t))+'</span>'}
+function ratingHtml(r){if(!r||r.score==null)return '';var t='★ '+r.score+'/'+r.out_of+' ('+num(r.reviews)+')';return '<span class="rating">'+(r.url?ext(r.url,esc(t)):esc(t))+'</span>'}
 
 function renderTabbar(){
   $('#tabbarIn').innerHTML=TABS.map(function(k){
@@ -979,7 +982,7 @@ function vHotels(){
     '<dl class="dl"><dt>'+esc(ST('checkin'))+'</dt><dd>'+esc(fdate(x.checkin))+'</dd><dt>'+esc(ST('checkout'))+'</dt><dd>'+esc(fdate(x.checkout))+'</dd>'+
     '<dt>'+esc(U('nights'))+'</dt><dd>'+x.nights+'</dd><dt>'+esc(U('per_night'))+'</dt><dd>'+eur(x.price_per_night_eur)+'</dd><dt>'+esc(ST('book_total'))+'</dt><dd><b>'+eur(x.total_eur)+'</b></dd>'+
     '<dt>'+esc(U('rating'))+'</dt><dd>'+x.ratings.map(function(r){return '<div class="rating">'+ext(r.url,esc(r.source+' '+r.score+'/'+r.out_of+' ('+num(r.reviews)+')'))+'</div>'}).join('')+(x.google_note?'<div class="muted">'+esc(T(x.google_note))+'</div>':'')+'</dd></dl>'+
-    '<div><b>'+esc(ST('room'))+':</b> '+esc(T(x.room))+'</div><details class="alts alt-h"><summary>'+esc(ST('alt'))+'</summary><p>'+esc(T(x.alt))+'</p></details>'+
+    '<div><b>'+esc(ST('room'))+':</b> '+esc(T(x.room))+'</div>'+(x.ac?'<div class="ac-line">❄ <b>'+esc(U('ac'))+':</b> '+esc(T(x.ac))+'</div>':'')+'<details class="alts alt-h"><summary>'+esc(ST('alt'))+'</summary><p>'+esc(T(x.alt))+'</p></details>'+
     '<div class="links">'+ext(x.booking_url,esc(U('book')),'btn primary')+ext(x.google.nav_url,esc(U('nav')),'btn')+ext(x.google.maps_url,esc(U('gmaps')),'btn')+'</div></div>';
   });
   return h;

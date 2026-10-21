@@ -1,33 +1,37 @@
 {
  "version": {
-  "id": "v5",
-  "date": "2026-10-17",
+  "id": "v6",
+  "date": "2026-10-21",
   "label": {
-   "en": "v5 – v4 two days later, Tue 17 – Thu 26 Aug (17 Oct 2026)",
-   "he": "גרסה 5 – גרסה 4 יומיים מאוחר יותר, ג' 17 – ה' 26 באוגוסט (17.10.2026)"
+   "en": "v6 – air conditioning in every hotel (21 Oct 2026)",
+   "he": "גרסה 6 – מיזוג אוויר בכל המלונות (21.10.2026)"
   }
  },
  "taxi_days": [
   "D10",
   "D8"
  ],
- "car_km": 562.4,
+ "car_km": 563.8,
  "changes": [
   {
-   "en": "Same plan as v4, two days later: Tue 17 – Thu 26 Aug 2027. I checked every start date from 15 to 22 Aug; flights cost the same on all of them, and this start gives the cheapest hotels.",
-   "he": "אותה תוכנית כמו בגרסה 4, יומיים מאוחר יותר: ג' 17 – ה' 26 באוגוסט 2027. בדקתי כל תאריך התחלה בין 15 ל-22 באוגוסט; הטיסות עולות אותו דבר בכולם, ובתאריך הזה המלונות הכי זולים."
+   "en": "Air conditioning is now a must for every hotel. I checked each one on Booking.com on 21 Oct 2026 (property facilities, plus the family room/apartment in the Q&A): the airport hotel has it, but the Lipno apartment (Doky) and the Prague apartment (Encore) do not.",
+   "he": "מיזוג אוויר הוא עכשיו תנאי חובה בכל מלון. בדקתי כל אחד ב-Booking.com ב-21.10.2026 (מתקני המלון, ובשאלות ותשובות גם את חדר/דירת המשפחה): במלון בשדה יש, אבל בדירה בליפנו (Doky) ובדירה בפראג (Encore) אין."
   },
   {
-   "en": "Hotels €1,394.04 instead of €1,561.71 (−€167.67). The Prague stay is now Sunday to Thursday, when the apartment costs €409.97 instead of €571.93. Weekdays also mean smaller crowds at the zoo and the castle.",
-   "he": "מלונות 1,394.04 € במקום 1,561.71 € (167.67 € פחות). השהות בפראג היא עכשיו מא' עד ה', ואז הדירה עולה 409.97 € במקום 571.93 €. בימי חול גם פחות עומס בגן החיות ובטירה."
+   "en": "Lipno: Jedeme Lipno replaces Doky – a beachfront apartment with A/C and a kitchenette (1 bedroom, sleeps 4), self check-in, €552 for 4 nights instead of €767.55. No pool (Doky's was the reason to choose it), but the lake beach is at the door. Booking 9.3, but only 8 reviews.",
+   "he": "ליפנו: Jedeme Lipno במקום Doky – דירה על החוף עם מיזוג ומטבחון (חדר שינה אחד, עד 4 אנשים), צ'ק-אין עצמי, 552 € ל-4 לילות במקום 767.55 €. בלי בריכה (הבריכה של Doky הייתה הסיבה לבחור בה), אבל חוף האגם ממש ליד הדלת. Booking 9.3, אבל רק 8 ביקורות."
   },
   {
-   "en": "Return flight QS 1284 is now €920 (was €919). Outbound QS 1285 still €701.",
-   "he": "טיסת החזור QS 1284 עולה עכשיו 920 € (היה 919 €). טיסת ההלוך QS 1285 עדיין 701 €."
+   "en": "Prague: The Nova Apart Hotel replaces Encore – one-bedroom apartment with a sofa bed (sleeps 4), kitchenette, A/C in the living room that cools the whole apartment, self check-in, 411 m to I.P. Pavlova metro (line C). Booking 9.4 from 481 reviews. €620 for 4 nights instead of €409.97 (+€210).",
+   "he": "פראג: The Nova Apart Hotel במקום Encore – דירת חדר שינה עם ספה נפתחת (עד 4 אנשים), מטבחון, מיזוג בסלון שמקרר את כל הדירה, צ'ק-אין עצמי, 411 מ' למטרו I.P. Pavlova (קו C). Booking 9.4 מ-481 ביקורות. 620 € ל-4 לילות במקום 409.97 € (210 € יותר)."
   },
   {
-   "en": "Alternative hotels and flights re-priced for the new dates.",
-   "he": "המלונות והטיסות החלופיים תומחרו מחדש לתאריכים החדשים."
+   "en": "Hotels total €1,388.52 instead of €1,394.04 (−€5.52), because Lipno got cheaper. I re-priced every start date from 15 to 22 Aug with the new hotels: Tue 17 – Thu 26 Aug is still the best-verified choice (Sun 22 is €35 cheaper on hotels but I could not verify the 31 Aug flight, and it puts the zoo and the water park on a weekend).",
+   "he": "סה\"כ מלונות 1,388.52 € במקום 1,394.04 € (5.52 € פחות), כי ליפנו נהייתה זולה יותר. תמחרתי מחדש כל תאריך התחלה בין 15 ל-22 באוגוסט עם המלונות החדשים: ג' 17 – ה' 26 באוגוסט עדיין הבחירה הטובה ביותר שאימתתי (ראשון 22 זול ב-35 € במלונות, אבל לא הצלחתי לאמת את טיסת ה-31 באוגוסט, והוא מביא את גן החיות ופארק המים לסוף שבוע)."
+  },
+  {
+   "en": "Day plans updated: no pool at Lipno (beach instead), and the Prague days start from I.P. Pavlova metro (line C).",
+   "he": "תוכניות הימים עודכנו: אין בריכה בליפנו (חוף במקומה), והימים בפראג יוצאים ממטרו I.P. Pavlova (קו C)."
   }
  ],
  "trip": {
@@ -42,8 +46,8 @@
    "he": "טיול משפחתי בצ'כיה"
   },
   "lede": {
-   "en": "Tue 17 – Thu 26 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at the airport, then a rental car to Hluboká Castle and 4 nights at Lake Lipno (pool, beach, treetop walk, rafting, bears), and finally 4 nights in a Prague apartment without a car (zoo, water park, dinosaurs, castle).",
-   "he": "ג' 17 – ה' 26 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה, ואז רכב שכור לטירת הלובוקה ו-4 לילות באגם ליפנו (בריכה, חוף, שביל צמרות, רפטינג, דובים), ולסיום 4 לילות בדירה בפראג בלי רכב (גן חיות, פארק מים, דינוזאורים, טירה)."
+   "en": "Tue 17 – Thu 26 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at the airport, then a rental car to Hluboká Castle and 4 nights at Lake Lipno (a beachfront apartment, treetop walk, rafting, bears), and finally 4 nights in a Prague apartment without a car (zoo, water park, dinosaurs, castle).",
+   "he": "ג' 17 – ה' 26 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה, ואז רכב שכור לטירת הלובוקה ו-4 לילות באגם ליפנו (דירה על החוף, שביל צמרות, רפטינג, דובים), ולסיום 4 לילות בדירה בפראג בלי רכב (גן חיות, פארק מים, דינוזאורים, טירה)."
   }
  },
  "currency": "EUR",
@@ -228,72 +232,72 @@
    "start": "2027-08-15",
    "end": "2027-08-24",
    "airport": 211.73,
-   "lipno": 778.05,
-   "prague": 571.93,
-   "total": 1561.71,
+   "lipno": 552.0,
+   "prague": 737.0,
+   "total": 1500.73,
    "chosen": false
   },
   {
    "start": "2027-08-16",
    "end": "2027-08-25",
    "airport": 197.35,
-   "lipno": 764.4,
-   "prague": 498.56,
-   "total": 1460.31,
+   "lipno": 552.0,
+   "prague": 663.0,
+   "total": 1412.35,
    "chosen": false
   },
   {
    "start": "2027-08-17",
    "end": "2027-08-26",
    "airport": 216.52,
-   "lipno": 767.55,
-   "prague": 409.97,
-   "total": 1394.04,
+   "lipno": 552.0,
+   "prague": 620.0,
+   "total": 1388.52,
    "chosen": true
   },
   {
    "start": "2027-08-18",
    "end": "2027-08-27",
    "airport": 216.52,
-   "lipno": 770.7,
-   "prague": 409.97,
-   "total": 1397.19,
+   "lipno": 552.0,
+   "prague": 645.0,
+   "total": 1413.52,
    "chosen": false
   },
   {
    "start": "2027-08-19",
    "end": "2027-08-28",
    "airport": 211.73,
-   "lipno": 773.85,
-   "prague": 452.91,
-   "total": 1438.49,
+   "lipno": 527.0,
+   "prague": 700.0,
+   "total": 1438.73,
    "chosen": false
   },
   {
    "start": "2027-08-20",
    "end": "2027-08-29",
    "airport": 206.93,
-   "lipno": 773.85,
-   "prague": 511.07,
-   "total": 1491.85,
+   "lipno": 502.0,
+   "prague": 746.0,
+   "total": 1454.93,
    "chosen": false
   },
   {
    "start": "2027-08-21",
    "end": "2027-08-30",
    "airport": 206.93,
-   "lipno": 764.4,
-   "prague": 509.13,
-   "total": 1480.46,
+   "lipno": 477.0,
+   "prague": 753.0,
+   "total": 1436.93,
    "chosen": false
   },
   {
    "start": "2027-08-22",
    "end": "2027-08-31",
    "airport": 211.73,
-   "lipno": 764.4,
-   "prague": 507.2,
-   "total": 1483.33,
+   "lipno": 418.4,
+   "prague": 723.0,
+   "total": 1353.13,
    "chosen": false
   }
  ],
@@ -402,8 +406,12 @@
     "he": "חדר משפחה, ביטול חינם. קבלה 24 שעות, כך שההגעה המאוחרת אינה בעיה; שאטל לשדה (ייתכן בתשלום) או הליכה קצרה. בלי ארוחת בוקר (כ-15 € לאדם). לפי Booking.com מיטה נוספת עולה 25 € – לוודא בהזמנה שיש מיטות ל-4."
    },
    "alt": {
-    "en": "Ramada Airport Hotel €218 (Booking 7.7). Courtyard by Marriott Prague Airport €409.01 (Booking 8.8).",
-    "he": "Ramada Airport Hotel ב-218 € (Booking 7.7). Courtyard by Marriott Prague Airport ב-409.01 € (Booking 8.8)."
+    "en": "Ramada Airport Hotel €218 (Booking 7.7, A/C). Courtyard by Marriott Prague Airport €409.01 (Booking 8.8, A/C).",
+    "he": "Ramada Airport Hotel ב-218 € (Booking 7.7, יש מיזוג). Courtyard by Marriott Prague Airport ב-409.01 € (Booking 8.8, יש מיזוג)."
+   },
+   "ac": {
+    "en": "Yes – the family room is air-conditioned, free of charge (Booking.com, 21 Oct 2026).",
+    "he": "יש – חדר המשפחה ממוזג, ללא תשלום (Booking.com, 21.10.2026)."
    },
    "google": {
     "name": "Holiday Inn Prague Airport by IHG",
@@ -452,144 +460,152 @@
    ]
   },
   {
-   "id": "hotel_doky",
-   "gkey": "hotel_doky",
-   "name": "Apartmány Doky Lipno (A9 & D1)",
+   "id": "hotel_jedeme",
+   "gkey": "hotel_jedeme",
+   "name": "Jedeme Lipno",
    "area": {
-    "en": "Lipno nad Vltavou, lakefront (Doky Holiday Resort)",
-    "he": "ליפנו נאד ולטאבו, על שפת האגם (Doky Holiday Resort)"
+    "en": "Lipno nad Vltavou, beachfront (private beach area, children's playground)",
+    "he": "ליפנו נאד ולטאבו, על החוף (אזור חוף פרטי, מגרש משחקים לילדים)"
    },
    "checkin": "2027-08-18",
    "checkout": "2027-08-22",
    "nights": 4,
-   "total_eur": 767.55,
-   "booking_score": 9.1,
-   "booking_reviews": 43,
-   "booking_url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "total_eur": 552.0,
+   "booking_score": 9.3,
+   "booking_reviews": 8,
+   "booking_url": "https://www.booking.com/hotel/cz/lipno-na-pohodu.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
-    "en": "2-bedroom apartment (sleeps up to 7) with kitchenette, heated outdoor pool with a shallow end, beachfront, free parking. Free-cancellation rate.",
-    "he": "דירת 2 חדרי שינה (עד 7) עם מטבחון, בריכה חיצונית מחוממת עם חלק רדוד, על החוף, חניה חינם. תעריף עם ביטול חינם."
+    "en": "Apartment with 1 bedroom (sleeps up to 4 with proper beds), kitchenette, free cancellation. Self check-in, free parking, direct beach access. No pool. Only 8 reviews so far, so check the latest ones before booking.",
+    "he": "דירה עם חדר שינה אחד (עד 4 אנשים במיטות של ממש), מטבחון, ביטול חינם. צ'ק-אין עצמי, חניה חינם, גישה ישירה לחוף. בלי בריכה. רק 8 ביקורות עד עכשיו, כדאי לבדוק את החדשות לפני ההזמנה."
+   },
+   "ac": {
+    "en": "Yes – air conditioning in the apartment (Booking.com, 21 Oct 2026).",
+    "he": "יש – מיזוג אוויר בדירה (Booking.com, 21.10.2026)."
    },
    "alt": {
-    "en": "Cheaper, no pool: KORZO Lipno 2, €626.28 (Booking 8.8, 737 reviews). Bigger hotel with kids' club: Hotel Element €1,237.56.",
-    "he": "זול יותר, בלי בריכה: KORZO Lipno 2 ב-626.28 € (Booking 8.8, 737 ביקורות). מלון גדול עם מועדון ילדים: Hotel Element ב-1,237.56 €."
+    "en": "Beachfront with A/C: Molo Lipno apartment by Míra Hejda, €992 (Booking 9.7 from 17 reviews; 1 bedroom, full kitchen). Hotel with a 24-hour desk and water park: Molo Lipno Residence, €1,722 (Booking 9.1, 118 reviews).",
+    "he": "על החוף עם מיזוג: דירת Molo Lipno של Míra Hejda ב-992 € (Booking 9.7 מ-17 ביקורות; חדר שינה אחד, מטבח מלא). מלון עם קבלה 24 שעות ופארק מים: Molo Lipno Residence ב-1,722 € (Booking 9.1, 118 ביקורות)."
    },
    "google_note": {
-    "en": "Google rating is for the Doky Holiday Resort complex.",
-    "he": "דירוג גוגל הוא של מתחם Doky Holiday Resort."
+    "en": "Google shows only 8 reviews for this apartment.",
+    "he": "בגוגל יש רק 8 ביקורות על הדירה."
    },
    "google": {
-    "name": "Doky Holiday Resort",
+    "name": "Jedeme Lipno",
     "rating": 4.6,
-    "reviews": 181,
-    "lat": 48.637508,
-    "lng": 14.22619,
-    "address": "Lipno nad Vltavou 498, 382 78 Lipno nad Vltavou, Czechia",
-    "website": "http://www.dokyholiday.cz/",
-    "place_id": "ChIJ0_Id1il7c0cRzcxuR1LQaWk",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=Doky%20Holiday%20Resort&query_place_id=ChIJ0_Id1il7c0cRzcxuR1LQaWk",
-    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.637508,14.226190&travelmode=driving"
+    "reviews": 8,
+    "lat": 48.638176,
+    "lng": 14.224625,
+    "address": "382 78 Lipno nad Vltavou, Czechia",
+    "website": "https://www.booking.com/hotel/cz/lipno-na-pohodu.en-gb.html?aid=2068758&utm_source=seogooglelocal&utm_medium=description&utm_term=hotel-14475148&utm_campaign=en-gb&label=seogooglelocal-link-imagesaow-hotel-14475148_grp-0_gendate-20261014",
+    "place_id": "ChIJ37vvuCl7c0cR7owsre4qmIc",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Jedeme%20Lipno&query_place_id=ChIJ37vvuCl7c0cR7owsre4qmIc",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.638176,14.224625&travelmode=driving"
    },
    "photos": [
     {
-     "file": "img/hotel_doky-1.jpg",
-     "w": 800,
-     "h": 533,
-     "source_page": "https://www.google.com/maps/search/?api=1&query=Doky%20Holiday%20Resort&query_place_id=ChIJ0_Id1il7c0cRzcxuR1LQaWk",
+     "file": "img/hotel_jedeme-1.jpg",
+     "w": 748,
+     "h": 410,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Jedeme%20Lipno&query_place_id=ChIJ37vvuCl7c0cR7owsre4qmIc",
      "credit": "Google Maps listing photo"
     },
     {
-     "file": "img/hotel_doky-2.jpg",
-     "w": 900,
-     "h": 554,
-     "source_page": "https://www.google.com/maps/search/?api=1&query=Doky%20Holiday%20Resort&query_place_id=ChIJ0_Id1il7c0cRzcxuR1LQaWk",
+     "file": "img/hotel_jedeme-2.jpg",
+     "w": 748,
+     "h": 410,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Jedeme%20Lipno&query_place_id=ChIJ37vvuCl7c0cR7owsre4qmIc",
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 191.89,
-   "ratings": [
-    {
-     "source": "Booking.com",
-     "score": 9.1,
-     "out_of": 10,
-     "reviews": 43,
-     "url": "https://www.booking.com/hotel/cz/apartmany-doky-lipno-a9-a-d1.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
-    },
-    {
-     "source": "Google Maps",
-     "score": 4.6,
-     "out_of": 5,
-     "reviews": 181,
-     "url": "https://www.google.com/maps/search/?api=1&query=Doky%20Holiday%20Resort&query_place_id=ChIJ0_Id1il7c0cRzcxuR1LQaWk"
-    }
-   ]
-  },
-  {
-   "id": "hotel_encore",
-   "gkey": "hotel_encore",
-   "name": "Encore Boutique Residence by Dwellfort",
-   "area": {
-    "en": "Prague 3 – Vinohrady (480 m to metro A Jiřího z Poděbrad)",
-    "he": "פראג 3 – וינוהראדי (480 מ' למטרו A, תחנת Jiřího z Poděbrad)"
-   },
-   "checkin": "2027-08-22",
-   "checkout": "2027-08-26",
-   "nights": 4,
-   "total_eur": 409.97,
-   "booking_score": 9.3,
-   "booking_reviews": 1819,
-   "booking_url": "https://www.booking.com/hotel/cz/encore-boutique-residence.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
-   "room": {
-    "en": "Deluxe apartment: bedroom + sofa bed (up to 5), full kitchen, free cancellation. Self check-in with instructions sent before arrival; you arrive around midday, so ask about an early luggage drop. No breakfast; supermarkets and bakeries nearby. Confirm the beds for 4 when booking.",
-    "he": "דירת דלוקס: חדר שינה + ספה נפתחת (עד 5), מטבח מלא, ביטול חינם. צ'ק-אין עצמי עם הוראות שנשלחות מראש; מגיעים בסביבות הצהריים, אז כדאי לשאול על השארת מזוודות מוקדם. בלי ארוחת בוקר; סופרמרקטים ומאפיות בסביבה. לוודא בהזמנה שיש מיטות ל-4."
-   },
-   "alt": {
-    "en": "Same price (€409.97) and owner: Hidden Art Boutique Residence (Booking 9.2, 2,405 reviews) or Kinsky Garden (9.0, near Petřín). Gesto Apartments, Žižkov, €456 (Booking 9.0). With breakfast and parking: Grand Hotel International €593.76.",
-    "he": "באותו מחיר (409.97 €) ומאותו בעלים: Hidden Art Boutique Residence (Booking 9.2, 2,405 ביקורות) או Kinsky Garden (9.0, ליד פטשין). Gesto Apartments בז'יז'קוב, 456 € (Booking 9.0). עם ארוחת בוקר וחניה: Grand Hotel International ב-593.76 €."
-   },
-   "google": {
-    "name": "Encore Boutique Residence by Dwellfort",
-    "rating": 4.9,
-    "reviews": 726,
-    "lat": 50.079816,
-    "lng": 14.454452,
-    "address": "Jagellonská 21, 130 00 Praha 3-Vinohrady, Czechia",
-    "website": "https://www.dwellfort.com/book-now/?property=238761",
-    "place_id": "ChIJdRnakFKVC0cR-gi4_W7MFTM",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM",
-    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.079816,14.454452&travelmode=driving"
-   },
-   "photos": [
-    {
-     "file": "img/hotel_encore-1.jpg",
-     "w": 900,
-     "h": 600,
-     "source_page": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM",
-     "credit": "Google Maps listing photo"
-    },
-    {
-     "file": "img/hotel_encore-2.jpg",
-     "w": 900,
-     "h": 600,
-     "source_page": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM",
-     "credit": "Google Maps listing photo"
-    }
-   ],
-   "price_per_night_eur": 102.49,
+   "price_per_night_eur": 138.0,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 9.3,
      "out_of": 10,
-     "reviews": 1819,
-     "url": "https://www.booking.com/hotel/cz/encore-boutique-residence.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 8,
+     "url": "https://www.booking.com/hotel/cz/lipno-na-pohodu.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
-     "score": 4.9,
+     "score": 4.6,
      "out_of": 5,
-     "reviews": 726,
-     "url": "https://www.google.com/maps/search/?api=1&query=Encore%20Boutique%20Residence%20by%20Dwellfort&query_place_id=ChIJdRnakFKVC0cR-gi4_W7MFTM"
+     "reviews": 8,
+     "url": "https://www.google.com/maps/search/?api=1&query=Jedeme%20Lipno&query_place_id=ChIJ37vvuCl7c0cR7owsre4qmIc"
+    }
+   ]
+  },
+  {
+   "id": "hotel_nova",
+   "gkey": "hotel_nova",
+   "name": "The Nova Apart Hotel",
+   "area": {
+    "en": "Prague 2 – Nové Město (411 m to I.P. Pavlova metro, line C)",
+    "he": "פראג 2 – נובה מסטו (411 מ' למטרו I.P. Pavlova, קו C)"
+   },
+   "checkin": "2027-08-22",
+   "checkout": "2027-08-26",
+   "nights": 4,
+   "total_eur": 620.0,
+   "booking_score": 9.4,
+   "booking_reviews": 481,
+   "booking_url": "https://www.booking.com/hotel/cz/the-nova.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "One-bedroom apartment with a sofa bed in the living room (sleeps 4), kitchenette, free cancellation. Self check-in; you arrive around midday, so ask about an early luggage drop. No breakfast.",
+    "he": "דירת חדר שינה עם ספה נפתחת בסלון (עד 4 אנשים), מטבחון, ביטול חינם. צ'ק-אין עצמי; מגיעים בסביבות הצהריים, אז כדאי לשאול על השארת מזוודות מוקדם. בלי ארוחת בוקר."
+   },
+   "ac": {
+    "en": "Yes – the air conditioning in the living room cools the whole apartment (Booking.com, 21 Oct 2026).",
+    "he": "יש – המזגן בסלון מקרר את כל הדירה (Booking.com, 21.10.2026)."
+   },
+   "alt": {
+    "en": "Louren Apartments, Holešovice, €668.48 (Booking 9.1, 923 reviews; 2 bedrooms, kitchenette, A/C, metro 700 m). With a staffed 24-hour desk: Hotel Suite Home Prague €757.60 (Booking 9.0, 1,338 reviews; kitchen, A/C, metro 5 min). Malá Strana: MOOo by the Castle €748 (Booking 9.7, 1,522 reviews, A/C).",
+    "he": "Louren Apartments בהולשוביצה ב-668.48 € (Booking 9.1, 923 ביקורות; 2 חדרי שינה, מטבחון, מיזוג, מטרו 700 מ'). עם קבלה 24 שעות: Hotel Suite Home Prague ב-757.60 € (Booking 9.0, 1,338 ביקורות; מטבח, מיזוג, מטרו 5 דקות). במלה סטרנה: MOOo by the Castle ב-748 € (Booking 9.7, 1,522 ביקורות, מיזוג)."
+   },
+   "google": {
+    "name": "The Nova Apart Hotel",
+    "rating": 4.8,
+    "reviews": 41,
+    "lat": 50.071869,
+    "lng": 14.430999,
+    "address": "Koubkova 1851/2, 120 00 Nové Město, Czechia",
+    "website": "https://thenova.cz/",
+    "place_id": "ChIJQ9zRRBmVC0cR_aRlzhH0cb0",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Nova%20Apart%20Hotel&query_place_id=ChIJQ9zRRBmVC0cR_aRlzhH0cb0",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.071869,14.430999&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_nova-1.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=The%20Nova%20Apart%20Hotel&query_place_id=ChIJQ9zRRBmVC0cR_aRlzhH0cb0",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_nova-2.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=The%20Nova%20Apart%20Hotel&query_place_id=ChIJQ9zRRBmVC0cR_aRlzhH0cb0",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 155.0,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.4,
+     "out_of": 10,
+     "reviews": 481,
+     "url": "https://www.booking.com/hotel/cz/the-nova.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.8,
+     "out_of": 5,
+     "reviews": 41,
+     "url": "https://www.google.com/maps/search/?api=1&query=The%20Nova%20Apart%20Hotel&query_place_id=ChIJQ9zRRBmVC0cR_aRlzhH0cb0"
     }
    ]
   }
@@ -1404,8 +1420,8 @@
     "he": "2–3 שעות"
    },
    "kids": {
-    "en": "Grassy beach with a shallow entry, a few minutes' walk from the apartment.",
-    "he": "חוף דשא עם כניסה רדודה, כמה דקות הליכה מהדירה."
+    "en": "Grassy beach with a shallow entry, right at the apartment (beachfront).",
+    "he": "חוף דשא עם כניסה רדודה, ממש ליד הדירה (על החוף)."
    },
    "optional": false,
    "google": {
@@ -1718,7 +1734,7 @@
     "he": "איסוף רכב, טירת הלובוקה, והלאה לליפנו"
    },
    "trail": "green",
-   "overnight": "hotel_doky",
+   "overnight": "hotel_jedeme",
    "plan": [
     {
      "en": "Slow morning and breakfast, then walk back to the terminal and pick up the car at 11:00.",
@@ -1729,8 +1745,8 @@
      "he": "נסיעה של שעתיים ו-6 דקות לטירת הלובוקה: סיור המטבח והפארק. אופציונלי: גן החיות אוהרדה הסמוך."
     },
     {
-     "en": "1h07 to Lipno, check in, evening swim in the pool.",
-     "he": "שעה ו-7 דקות לליפנו, צ'ק-אין ושחייה בבריכה בערב."
+     "en": "1h07 to Lipno, check in, then a first walk to the lake (the beach is at the door).",
+     "he": "שעה ו-7 דקות לליפנו, צ'ק-אין, ואז הליכה ראשונה לאגם (החוף ממש ליד הדלת)."
     }
    ],
    "attractions": [
@@ -1738,19 +1754,19 @@
     "zoo_ohrada"
    ],
    "route": {
-    "km": 242.1,
-    "minutes": 193,
+    "km": 243.0,
+    "minutes": 192,
     "legs": [
      {
       "from": "Prague Airport (PRG) – car pick-up",
       "to": "Hluboká Castle & Zoo Ohrada",
-      "km": 161.8,
-      "min": 126
+      "km": 162.7,
+      "min": 125
      },
      {
       "from": "Hluboká Castle & Zoo Ohrada",
-      "to": "Apartmány Doky Lipno",
-      "km": 80.3,
+      "to": "Jedeme Lipno apartment",
+      "km": 80.4,
       "min": 67
      }
     ],
@@ -1766,9 +1782,9 @@
       "lng": 14.4416
      },
      {
-      "name": "Apartmány Doky Lipno",
-      "lat": 48.6375,
-      "lng": 14.226
+      "name": "Jedeme Lipno apartment",
+      "lat": 48.638175,
+      "lng": 14.224625
      }
     ],
     "geometry": {
@@ -1854,12 +1870,8 @@
        49.123451
       ],
       [
-       14.331598,
-       49.044957
-      ],
-      [
-       14.363488,
-       49.063779
+       14.386523,
+       49.024462
       ],
       [
        14.443827,
@@ -1906,13 +1918,13 @@
        48.616742
       ],
       [
-       14.226229,
-       48.637759
+       14.224864,
+       48.638212
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.1008,14.26&destination=48.6375,14.226&travelmode=driving&waypoints=49.0511%2C14.4416"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.1008,14.26&destination=48.638175,14.224625&travelmode=driving&waypoints=49.0511%2C14.4416"
    }
   },
   {
@@ -1927,7 +1939,7 @@
     "he": "שביל הצמרות, מתחם היער ומזחלות"
    },
    "trail": "blue",
-   "overnight": "hotel_doky",
+   "overnight": "hotel_jedeme",
    "plan": [
     {
      "en": "Morning: Treetop Walkway and tube slide, then Kingdom of the Forest next door.",
@@ -1944,27 +1956,27 @@
     "bobovka_lipno"
    ],
    "route": {
-    "km": 7.0,
-    "minutes": 17,
+    "km": 7.2,
+    "minutes": 18,
     "legs": [
      {
-      "from": "Apartmány Doky Lipno",
+      "from": "Jedeme Lipno apartment",
       "to": "Treetop Walkway & Kingdom of the Forest",
       "km": 3.6,
       "min": 9
      },
      {
       "from": "Treetop Walkway & Kingdom of the Forest",
-      "to": "Apartmány Doky Lipno",
-      "km": 3.4,
-      "min": 8
+      "to": "Jedeme Lipno apartment",
+      "km": 3.7,
+      "min": 9
      }
     ],
     "points": [
      {
-      "name": "Apartmány Doky Lipno",
-      "lat": 48.6375,
-      "lng": 14.226
+      "name": "Jedeme Lipno apartment",
+      "lat": 48.638175,
+      "lng": 14.224625
      },
      {
       "name": "Treetop Walkway & Kingdom of the Forest",
@@ -1972,24 +1984,28 @@
       "lng": 14.2305
      },
      {
-      "name": "Apartmány Doky Lipno",
-      "lat": 48.6375,
-      "lng": 14.226
+      "name": "Jedeme Lipno apartment",
+      "lat": 48.638175,
+      "lng": 14.224625
      }
     ],
     "geometry": {
      "coordinates": [
       [
-       14.226229,
-       48.637759
+       14.224864,
+       48.638212
       ],
       [
-       14.225786,
-       48.63793
+       14.225017,
+       48.637784
       ],
       [
-       14.226379,
-       48.638315
+       14.225511,
+       48.637677
+      ],
+      [
+       14.22639,
+       48.638288
       ],
       [
        14.226051,
@@ -2000,12 +2016,12 @@
        48.639141
       ],
       [
-       14.224173,
-       48.641633
+       14.224051,
+       48.641802
       ],
       [
-       14.223596,
-       48.642221
+       14.223441,
+       48.642328
       ],
       [
        14.222705,
@@ -2108,6 +2124,10 @@
        48.653025
       ],
       [
+       14.23065,
+       48.65296
+      ],
+      [
        14.230999,
        48.652864
       ],
@@ -2120,12 +2140,12 @@
        48.652768
       ],
       [
-       14.23065,
-       48.65296
+       14.230501,
+       48.652997
       ],
       [
-       14.229744,
-       48.65307
+       14.22984,
+       48.653025
       ],
       [
        14.229178,
@@ -2216,12 +2236,12 @@
        48.642695
       ],
       [
-       14.223596,
-       48.642221
+       14.223441,
+       48.642328
       ],
       [
-       14.224173,
-       48.641633
+       14.224051,
+       48.641802
       ],
       [
        14.225407,
@@ -2236,17 +2256,21 @@
        48.638203
       ],
       [
-       14.225786,
-       48.63793
+       14.225511,
+       48.637677
       ],
       [
-       14.226229,
-       48.637759
+       14.225017,
+       48.637784
+      ],
+      [
+       14.224864,
+       48.638212
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.6375,14.226&destination=48.6375,14.226&travelmode=driving&waypoints=48.6527%2C14.2305"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.638175,14.224625&destination=48.638175,14.224625&travelmode=driving&waypoints=48.6527%2C14.2305"
    }
   },
   {
@@ -2261,7 +2285,7 @@
     "he": "צ'סקי קרומלוב: רפטינג ודובים"
    },
    "trail": "blue",
-   "overnight": "hotel_doky",
+   "overnight": "hotel_jedeme",
    "plan": [
     {
      "en": "35-min drive. Morning family raft through the old town (reserve ahead).",
@@ -2277,27 +2301,27 @@
     "ck_castle"
    ],
    "route": {
-    "km": 62.6,
+    "km": 62.7,
     "minutes": 70,
     "legs": [
      {
-      "from": "Apartmány Doky Lipno",
+      "from": "Jedeme Lipno apartment",
       "to": "Český Krumlov (Maleček rafting)",
-      "km": 31.3,
+      "km": 31.4,
       "min": 35
      },
      {
       "from": "Český Krumlov (Maleček rafting)",
-      "to": "Apartmány Doky Lipno",
+      "to": "Jedeme Lipno apartment",
       "km": 31.3,
       "min": 35
      }
     ],
     "points": [
      {
-      "name": "Apartmány Doky Lipno",
-      "lat": 48.6375,
-      "lng": 14.226
+      "name": "Jedeme Lipno apartment",
+      "lat": 48.638175,
+      "lng": 14.224625
      },
      {
       "name": "Český Krumlov (Maleček rafting)",
@@ -2305,16 +2329,16 @@
       "lng": 14.3187
      },
      {
-      "name": "Apartmány Doky Lipno",
-      "lat": 48.6375,
-      "lng": 14.226
+      "name": "Jedeme Lipno apartment",
+      "lat": 48.638175,
+      "lng": 14.224625
      }
     ],
     "geometry": {
      "coordinates": [
       [
-       14.226229,
-       48.637759
+       14.224864,
+       48.638212
       ],
       [
        14.222511,
@@ -2561,13 +2585,13 @@
        48.642759
       ],
       [
-       14.226229,
-       48.637759
+       14.224864,
+       48.638212
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.6375,14.226&destination=48.6375,14.226&travelmode=driving&waypoints=48.8104%2C14.3187"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.638175,14.224625&destination=48.638175,14.224625&travelmode=driving&waypoints=48.8104%2C14.3187"
    }
   },
   {
@@ -2582,15 +2606,15 @@
     "he": "יום אגם: מעבורת וחוף"
    },
    "trail": "blue",
-   "overnight": "hotel_doky",
+   "overnight": "hotel_jedeme",
    "plan": [
     {
      "en": "20 min to Frymburk: ferry across the lake and back, playground and beach by the pier.",
      "he": "20 דקות לפרימבורק: מעבורת לצד השני של האגם וחזרה, מגרש משחקים וחוף ליד המזח."
     },
     {
-     "en": "Afternoon at the apartment pool.",
-     "he": "אחר הצהריים בבריכה של הדירה."
+     "en": "Afternoon on the beach by the apartment.",
+     "he": "אחר הצהריים בחוף ליד הדירה."
     },
     {
      "en": "Optional: Kleť chairlift for the view (55 min each way, no hiking).",
@@ -2603,27 +2627,27 @@
     "klet_lift"
    ],
    "route": {
-    "km": 19.6,
-    "minutes": 31,
+    "km": 19.7,
+    "minutes": 32,
     "legs": [
      {
-      "from": "Apartmány Doky Lipno",
+      "from": "Jedeme Lipno apartment",
       "to": "Frymburk ferry & beach",
-      "km": 10.8,
+      "km": 10.9,
       "min": 21
      },
      {
       "from": "Frymburk ferry & beach",
-      "to": "Apartmány Doky Lipno",
-      "km": 8.7,
-      "min": 10
+      "to": "Jedeme Lipno apartment",
+      "km": 8.8,
+      "min": 11
      }
     ],
     "points": [
      {
-      "name": "Apartmány Doky Lipno",
-      "lat": 48.6375,
-      "lng": 14.226
+      "name": "Jedeme Lipno apartment",
+      "lat": 48.638175,
+      "lng": 14.224625
      },
      {
       "name": "Frymburk ferry & beach",
@@ -2631,20 +2655,20 @@
       "lng": 14.1659
      },
      {
-      "name": "Apartmány Doky Lipno",
-      "lat": 48.6375,
-      "lng": 14.226
+      "name": "Jedeme Lipno apartment",
+      "lat": 48.638175,
+      "lng": 14.224625
      }
     ],
     "geometry": {
      "coordinates": [
       [
-       14.226229,
-       48.637759
+       14.224864,
+       48.638212
       ],
       [
-       14.225786,
-       48.63793
+       14.225363,
+       48.63769
       ],
       [
        14.226349,
@@ -2695,16 +2719,8 @@
        48.627153
       ],
       [
-       14.199949,
-       48.62676
-      ],
-      [
-       14.195109,
-       48.625123
-      ],
-      [
-       14.192576,
-       48.625038
+       14.193901,
+       48.62495
       ],
       [
        14.189533,
@@ -2883,13 +2899,21 @@
        48.641802
       ],
       [
-       14.226229,
-       48.637759
+       14.226154,
+       48.638355
+      ],
+      [
+       14.225511,
+       48.637677
+      ],
+      [
+       14.224864,
+       48.638212
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.6375,14.226&destination=48.6375,14.226&travelmode=driving&waypoints=48.6582%2C14.1659"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.638175,14.224625&destination=48.638175,14.224625&travelmode=driving&waypoints=48.6582%2C14.1659"
    }
   },
   {
@@ -2904,40 +2928,40 @@
     "he": "חזרה לפראג והחזרת הרכב"
    },
    "trail": "green",
-   "overnight": "hotel_encore",
+   "overnight": "hotel_nova",
    "plan": [
     {
      "en": "Leave Lipno about 07:45 and drive 2h54 to PRG (rest stop on the motorway). Return the car by 11:00 (4 rental days exactly).",
      "he": "יציאה מליפנו בערך ב-07:45 ונסיעה של שעתיים ו-54 דקות לשדה התעופה (עצירת מנוחה בכביש המהיר). החזרת הרכב עד 11:00 (בדיוק 4 ימי השכרה)."
     },
     {
-     "en": "Taxi with 2 child seats to the apartment (about 37 min, ≈ €40). Lunch and rest; evening playground in Riegrovy sady park nearby.",
-     "he": "מונית עם 2 מושבי ילדים לדירה (כ-37 דק', כ-40 €). ארוחת צהריים ומנוחה; בערב מגרש המשחקים בפארק ריגרובי סאדי הסמוך."
+     "en": "Taxi with 2 child seats to the apartment (about 34 min, ≈ €40). Lunch and rest; evening at the Folimanka playground (8 min walk).",
+     "he": "מונית עם 2 מושבי ילדים לדירה (כ-34 דק', כ-40 €). ארוחת צהריים ומנוחה; בערב מגרש המשחקים בפולימנקה (8 דקות הליכה)."
     }
    ],
    "attractions": [],
    "route": {
-    "km": 251.3,
-    "minutes": 211,
+    "km": 249.4,
+    "minutes": 209,
     "legs": [
      {
-      "from": "Apartmány Doky Lipno",
+      "from": "Jedeme Lipno apartment",
       "to": "Prague Airport (PRG) – car return",
-      "km": 231.1,
-      "min": 174
+      "km": 231.2,
+      "min": 175
      },
      {
       "from": "Prague Airport (PRG) – car return",
-      "to": "Encore Boutique Residence, Vinohrady",
-      "km": 20.2,
-      "min": 37
+      "to": "The Nova Apart Hotel, Prague 2",
+      "km": 18.2,
+      "min": 34
      }
     ],
     "points": [
      {
-      "name": "Apartmány Doky Lipno",
-      "lat": 48.6375,
-      "lng": 14.226
+      "name": "Jedeme Lipno apartment",
+      "lat": 48.638175,
+      "lng": 14.224625
      },
      {
       "name": "Prague Airport (PRG) – car return",
@@ -2945,16 +2969,16 @@
       "lng": 14.26
      },
      {
-      "name": "Encore Boutique Residence, Vinohrady",
-      "lat": 50.0798,
-      "lng": 14.4545
+      "name": "The Nova Apart Hotel, Prague 2",
+      "lat": 50.071869,
+      "lng": 14.430999
      }
     ],
     "geometry": {
      "coordinates": [
       [
-       14.226229,
-       48.637759
+       14.224864,
+       48.638212
       ],
       [
        14.244155,
@@ -3061,25 +3085,17 @@
        50.096693
       ],
       [
-       14.254783,
-       50.081285
+       14.267336,
+       50.079221
       ],
       [
-       14.295533,
-       50.075246
-      ],
-      [
-       14.421738,
-       50.09973
-      ],
-      [
-       14.45453,
-       50.079714
+       14.430982,
+       50.071942
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.6375,14.226&destination=50.0798,14.4545&travelmode=driving&waypoints=50.1008%2C14.26"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.638175,14.224625&destination=50.071869,14.430999&travelmode=driving&waypoints=50.1008%2C14.26"
    }
   },
   {
@@ -3094,15 +3110,15 @@
     "he": "גן החיות של פראג"
    },
    "trail": "yellow",
-   "overnight": "hotel_encore",
+   "overnight": "hotel_nova",
    "plan": [
     {
-     "en": "Metro A to Muzeum, metro C to Nádraží Holešovice, then bus 112 to the zoo (about 40 min). Zoo about 10:00–15:00.",
-     "he": "מטרו A ל-Muzeum, מטרו C ל-Nádraží Holešovice ואוטובוס 112 לגן החיות (כ-40 דק'). בגן החיות בערך 10:00–15:00."
+     "en": "Metro C from I.P. Pavlova to Nádraží Holešovice (direct), then bus 112 to the zoo (about 40 min). Zoo about 10:00–15:00.",
+     "he": "מטרו C מ-I.P. Pavlova ל-Nádraží Holešovice (ישיר) ואוטובוס 112 לגן החיות (כ-40 דק'). בגן החיות בערך 10:00–15:00."
     },
     {
-     "en": "Afternoon rest in the apartment; dinner cooked at home or in Vinohrady.",
-     "he": "אחר הצהריים מנוחה בדירה; ארוחת ערב בבית או בווינוהראדי."
+     "en": "Afternoon rest in the apartment; dinner cooked at home or nearby.",
+     "he": "אחר הצהריים מנוחה בדירה; ארוחת ערב בבית או בסביבה."
     }
    ],
    "attractions": [
@@ -3123,15 +3139,15 @@
     "he": "פארק מים + דינוזאורים"
    },
    "trail": "yellow",
-   "overnight": "hotel_encore",
+   "overnight": "hotel_nova",
    "plan": [
     {
-     "en": "Taxi to Aquapalace (about 17 min, ≈ €20); 3-hour family ticket about 10:00–13:00. (Public transport: metro C to Opatov + free Aquabus, about 45 min.)",
-     "he": "מונית לאקווה-פאלאס (כ-17 דק', כ-20 €); כרטיס משפחתי ל-3 שעות בערך 10:00–13:00. (בתחבורה ציבורית: מטרו C לאופאטוב + אקווה-בוס חינם, כ-45 דק'.)"
+     "en": "Taxi to Aquapalace (about 16 min, ≈ €20); 3-hour family ticket about 10:00–13:00. (Public transport: metro C from I.P. Pavlova to Opatov + free Aquabus, about 40 min.)",
+     "he": "מונית לאקווה-פאלאס (כ-16 דק', כ-20 €); כרטיס משפחתי ל-3 שעות בערך 10:00–13:00. (בתחבורה ציבורית: מטרו C מ-I.P. Pavlova לאופאטוב + אקווה-בוס חינם, כ-40 דק'.)"
     },
     {
-     "en": "Taxi to the Harfa mall for lunch and DinoPark on the roof (about 1 h), then metro B + A or a 10-min taxi home.",
-     "he": "מונית לקניון הרפה לארוחת צהריים ודינו-פארק על הגג (כשעה), ואז מטרו B + A או 10 דקות במונית הביתה."
+     "en": "Taxi to the Harfa mall for lunch and DinoPark on the roof (about 1 h), then a 13-min taxi home.",
+     "he": "מונית לקניון הרפה לארוחת צהריים ודינו-פארק על הגג (כשעה), ואז 13 דקות במונית הביתה."
     }
    ],
    "attractions": [
@@ -3139,14 +3155,14 @@
     "dinopark"
    ],
    "route": {
-    "km": 38.2,
-    "minutes": 51,
+    "km": 40.8,
+    "minutes": 53,
     "legs": [
      {
-      "from": "Encore Boutique Residence, Vinohrady",
+      "from": "The Nova Apart Hotel, Prague 2",
       "to": "Aquapalace Praha",
-      "km": 14.4,
-      "min": 17
+      "km": 14.8,
+      "min": 16
      },
      {
       "from": "Aquapalace Praha",
@@ -3156,16 +3172,16 @@
      },
      {
       "from": "DinoPark Harfa",
-      "to": "Encore Boutique Residence, Vinohrady",
-      "km": 5.7,
-      "min": 10
+      "to": "The Nova Apart Hotel, Prague 2",
+      "km": 7.9,
+      "min": 13
      }
     ],
     "points": [
      {
-      "name": "Encore Boutique Residence, Vinohrady",
-      "lat": 50.0798,
-      "lng": 14.4545
+      "name": "The Nova Apart Hotel, Prague 2",
+      "lat": 50.071869,
+      "lng": 14.430999
      },
      {
       "name": "Aquapalace Praha",
@@ -3178,64 +3194,68 @@
       "lng": 14.491
      },
      {
-      "name": "Encore Boutique Residence, Vinohrady",
-      "lat": 50.0798,
-      "lng": 14.4545
+      "name": "The Nova Apart Hotel, Prague 2",
+      "lat": 50.071869,
+      "lng": 14.430999
      }
     ],
     "geometry": {
      "coordinates": [
       [
-       14.45453,
-       50.079714
+       14.430982,
+       50.071942
       ],
       [
-       14.456075,
-       50.079954
+       14.432255,
+       50.072069
       ],
       [
-       14.459542,
-       50.075072
+       14.432059,
+       50.070735
       ],
       [
-       14.470096,
-       50.073478
+       14.429438,
+       50.070739
       ],
       [
-       14.470683,
-       50.071784
+       14.430696,
+       50.061811
       ],
       [
-       14.468696,
-       50.069579
+       14.440521,
+       50.053316
       ],
       [
-       14.469505,
-       50.060775
+       14.468694,
+       50.040612
       ],
       [
-       14.472513,
-       50.054211
+       14.473975,
+       50.039702
       ],
       [
-       14.488697,
-       50.044732
+       14.482662,
+       50.040188
       ],
       [
-       14.488236,
-       50.038399
+       14.487577,
+       50.038936
       ],
       [
-       14.493436,
-       50.030534
+       14.490762,
+       50.036472
       ],
       [
-       14.497321,
-       50.027221
+       14.494582,
+       50.029466
       ],
       [
-       14.541506,
-       50.009943
+       14.499352,
+       50.026135
+      ],
+      [
+       14.537836,
+       50.011034
       ],
       [
        14.561864,
@@ -3246,12 +3266,16 @@
        50.004377
       ],
       [
-       14.566232,
-       50.0037
+       14.565987,
+       50.003741
       ],
       [
-       14.564346,
-       50.004822
+       14.564227,
+       50.004369
+      ],
+      [
+       14.56465,
+       50.005066
       ],
       [
        14.569816,
@@ -3370,45 +3394,61 @@
        50.10461
       ],
       [
-       14.469006,
-       50.099334
+       14.46913,
+       50.099415
       ],
       [
        14.474926,
        50.099271
       ],
       [
-       14.475711,
-       50.095707
+       14.475686,
+       50.09553
       ],
       [
-       14.46774,
-       50.090794
+       14.468575,
+       50.091889
       ],
       [
-       14.470599,
-       50.084445
+       14.46778,
+       50.090302
       ],
       [
-       14.456476,
-       50.082512
+       14.455157,
+       50.087337
       ],
       [
-       14.455229,
-       50.081728
+       14.448815,
+       50.086731
       ],
       [
-       14.456075,
-       50.079954
+       14.441859,
+       50.087373
       ],
       [
-       14.45453,
-       50.079714
+       14.43827,
+       50.086565
+      ],
+      [
+       14.440721,
+       50.0849
+      ],
+      [
+       14.434836,
+       50.075986
+      ],
+      [
+       14.436086,
+       50.072845
+      ],
+      [
+       14.430982,
+       50.071942
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.0798,14.4545&destination=50.0798,14.4545&travelmode=driving&waypoints=50.0075%2C14.5715%7C50.1047%2C14.491"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.071869,14.430999&destination=50.071869,14.430999&travelmode=driving&waypoints=50.0075%2C14.5715%7C50.1047%2C14.491"
    }
   },
   {
@@ -3423,19 +3463,19 @@
     "he": "יום בעיר פראג (בחשמלית, מעט הליכה)"
    },
    "trail": "yellow",
-   "overnight": "hotel_encore",
+   "overnight": "hotel_nova",
    "plan": [
     {
-     "en": "Metro A to Malostranská, then tram 22 up to Prague Castle for the changing of the guard at 12:00.",
-     "he": "מטרו A ל-Malostranská וחשמלית 22 עד טירת פראג לטקס החלפת המשמר ב-12:00."
+     "en": "Metro C from I.P. Pavlova to Muzeum, change to metro A to Malostranská, then tram 22 up to Prague Castle for the changing of the guard at 12:00.",
+     "he": "מטרו C מ-I.P. Pavlova ל-Muzeum, מעבר למטרו A ל-Malostranská וחשמלית 22 עד טירת פראג לטקס החלפת המשמר ב-12:00."
     },
     {
      "en": "Tram down to Malá Strana, walk across Charles Bridge to see the Astronomical Clock on the hour.",
      "he": "חשמלית למלה סטרנה, הליכה על גשר קארל ולראות את השעון האסטרונומי בשעה העגולה."
     },
     {
-     "en": "Pedal boats at Slovanka island, then metro home. Rain? Railway Kingdom instead.",
-     "he": "סירות פדלים באי סלובנקה ואז מטרו הביתה. יורד גשם? ממלכת הרכבות במקום."
+     "en": "Pedal boats at Slovanka island, then tram or metro back. Rain? Railway Kingdom instead.",
+     "he": "סירות פדלים באי סלובנקה ואז חשמלית או מטרו חזרה. יורד גשם? ממלכת הרכבות במקום."
     }
    ],
    "attractions": [
@@ -3463,8 +3503,8 @@
    "overnight": null,
    "plan": [
     {
-     "en": "Relaxed breakfast, taxi to the airport about 10:30 (34 min, ≈ €30).",
-     "he": "ארוחת בוקר רגועה, מונית לשדה התעופה בערך ב-10:30 (34 דקות, כ-30 €)."
+     "en": "Relaxed breakfast, taxi to the airport about 10:30 (32 min, ≈ €30).",
+     "he": "ארוחת בוקר רגועה, מונית לשדה התעופה בערך ב-10:30 (32 דקות, כ-30 €)."
     },
     {
      "en": "Smartwings QS 1284 departs 12:45 and lands in TLV at 17:35.",
@@ -3477,21 +3517,21 @@
    ],
    "attractions": [],
    "route": {
-    "km": 19.0,
-    "minutes": 34,
+    "km": 17.8,
+    "minutes": 32,
     "legs": [
      {
-      "from": "Encore Boutique Residence, Vinohrady",
+      "from": "The Nova Apart Hotel, Prague 2",
       "to": "Prague Airport (PRG)",
-      "km": 19.0,
-      "min": 34
+      "km": 17.8,
+      "min": 32
      }
     ],
     "points": [
      {
-      "name": "Encore Boutique Residence, Vinohrady",
-      "lat": 50.0798,
-      "lng": 14.4545
+      "name": "The Nova Apart Hotel, Prague 2",
+      "lat": 50.071869,
+      "lng": 14.430999
      },
      {
       "name": "Prague Airport (PRG)",
@@ -3502,28 +3542,28 @@
     "geometry": {
      "coordinates": [
       [
-       14.45453,
-       50.079714
+       14.430982,
+       50.071942
       ],
       [
-       14.453451,
-       50.079558
+       14.432255,
+       50.072069
       ],
       [
-       14.454544,
-       50.077433
+       14.432059,
+       50.070735
       ],
       [
-       14.437669,
-       50.075847
+       14.430757,
+       50.070728
       ],
       [
-       14.432261,
-       50.077031
+       14.430416,
+       50.077095
       ],
       [
-       14.419608,
-       50.07766
+       14.419751,
+       50.077664
       ],
       [
        14.419009,
@@ -3534,8 +3574,8 @@
        50.07526
       ],
       [
-       14.398878,
-       50.072586
+       14.398715,
+       50.07262
       ],
       [
        14.38263,
@@ -3590,8 +3630,8 @@
        50.078979
       ],
       [
-       14.270371,
-       50.078796
+       14.267336,
+       50.079221
       ],
       [
        14.258716,
@@ -3632,13 +3672,13 @@
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.0798,14.4545&destination=50.1008,14.26&travelmode=driving"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.071869,14.430999&destination=50.1008,14.26&travelmode=driving"
    }
   }
  ],
  "routes_total": {
-  "km": 639.8,
-  "minutes": 607
+  "km": 640.6,
+  "minutes": 606
  },
  "budget": {
   "lines": [
@@ -3710,8 +3750,8 @@
     "eur": 73,
     "status": "estimate",
     "label": {
-     "en": "Fuel – ≈ 607 km",
-     "he": "דלק – כ-607 ק\"מ"
+     "en": "Fuel – ≈ 609 km",
+     "he": "דלק – כ-609 ק\"מ"
     }
    },
    {
@@ -3725,7 +3765,7 @@
    },
    {
     "key": "hotels",
-    "eur": 1394.04,
+    "eur": 1388.52,
     "status": "live",
     "label": {
      "en": "Hotels – 3 stays, 9 nights, free cancellation",
@@ -3742,34 +3782,25 @@
     }
    }
   ],
-  "total_eur": 4152.04,
-  "live_part_eur": 3015.04,
+  "total_eur": 4146.52,
+  "live_part_eur": 3009.52,
   "attractions_czk": 10859,
-  "fuel_km": 607
+  "fuel_km": 609
  },
  "compare": {
   "versions": [
-   "v4",
-   "v5"
+   "v5",
+   "v6"
   ],
   "rows": [
-   {
-    "key": "flights",
-    "label": {
-     "en": "Flights – Smartwings QS 1285 + QS 1284, 4 passengers",
-     "he": "טיסות – סמארטווינגס QS 1285 + QS 1284, 4 נוסעים"
-    },
-    "v4": 1620,
-    "v5": 1621
-   },
    {
     "key": "hotels",
     "label": {
      "en": "Hotels – 3 stays, 9 nights, free cancellation",
      "he": "מלונות – 3 מקומות, 9 לילות, ביטול חינם"
     },
-    "v4": 1561.71,
-    "v5": 1394.04
+    "v5": 1394.04,
+    "v6": 1388.52
    },
    {
     "key": "total",
@@ -3777,8 +3808,8 @@
      "en": "Estimated total",
      "he": "סה\"כ משוער"
     },
-    "v4": 4318.71,
-    "v5": 4152.04
+    "v5": 4152.04,
+    "v6": 4146.52
    }
   ]
  },
@@ -3786,7 +3817,7 @@
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "v5 research · prices checked 17 Oct 2026 · approved 17 Oct 2026",
+   "eyebrow": "v6 research · prices checked 17–21 Oct 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -3795,7 +3826,7 @@
    "bases_s": "Airport 1 + Lipno 4 + Prague apartment 4 nights",
    "driving": "Driving",
    "drive_s": "car Days 2–6 only",
-   "changes": "What changed in v5",
+   "changes": "What changed in v6",
    "sec_flights": "Evening flights and alternatives",
    "out_opts": "Evening outbound options",
    "ret_opts": "Return options",
@@ -3846,13 +3877,13 @@
    "checked": "CHECKED",
    "mixed": "MIXED",
    "photo_by": "Photo",
-   "legend": "LIVE = live price/rating found 15–17 Oct 2026 (all prices 17 Oct) · EST = estimate · CHECKED = official or 2026 ticket price. EUR; 1 € ≈ 24.5 CZK.",
+   "legend": "LIVE = live price/rating found 15–21 Oct 2026 (flights 17 Oct, hotels 21 Oct) · EST = estimate · CHECKED = official or 2026 ticket price. EUR; 1 € ≈ 24.5 CZK.",
    "version": "Version",
    "book": "Book on Booking.com",
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food (no breakfast at the airport hotel or in Prague), souvenirs, insurance, home-airport parking, optional Railway Kingdom / Zoo Ohrada / Kleť.",
    "next": "Next step",
-   "next_t": "Tell me what to change, or approve v5. After approval I'll update the mobile web app from this version's data file.",
+   "next_t": "Tell me what to change, or approve v6. After approval I'll update the mobile web app from this version's data file.",
    "trails": {
     "red": "",
     "blue": "Lipno & Český Krumlov",
@@ -3863,16 +3894,18 @@
    "taxi_note": "Taxi leg (no rental car).",
    "no_drive_air": "800 m walk or hotel shuttle from the terminal.",
    "cmp_item": "Item",
-   "dates2": "Start dates compared (same plan, hotels with free cancellation; flights cost the same on every date)",
+   "dates2": "Start dates compared (same plan, A/C hotels with free cancellation; flights cost the same on every date)",
    "start": "Start → end",
    "airport_n": "Airport night",
    "lipno_n": "Lipno 4 nights",
-   "prague_n": "Prague 4 nights"
+   "prague_n": "Prague 4 nights",
+   "ac": "Air conditioning",
+   "ac_short": "A/C ✓"
   },
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "מחקר גרסה 5 · מחירים נבדקו 17.10.2026 · אושר 17.10.2026",
+   "eyebrow": "מחקר גרסה 6 · מחירים נבדקו 17–21.10.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -3881,7 +3914,7 @@
    "bases_s": "שדה התעופה 1 + ליפנו 4 + דירה בפראג 4 לילות",
    "driving": "נהיגה",
    "drive_s": "רכב רק בימים 2–6",
-   "changes": "מה השתנה בגרסה 5",
+   "changes": "מה השתנה בגרסה 6",
    "sec_flights": "טיסות ערב וחלופות",
    "out_opts": "אפשרויות טיסת ערב הלוך",
    "ret_opts": "אפשרויות טיסה חזור",
@@ -3932,13 +3965,13 @@
    "checked": "נבדק",
    "mixed": "משולב",
    "photo_by": "צילום",
-   "legend": "חי = מחיר/דירוג חי מ-15–17.10.2026 (כל המחירים 17.10) · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו; 1 € ≈ 24.5 קרונות.",
+   "legend": "חי = מחיר/דירוג חי מ-15–21.10.2026 (טיסות 17.10, מלונות 21.10) · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו; 1 € ≈ 24.5 קרונות.",
    "version": "גרסה",
    "book": "הזמנה ב-Booking.com",
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל (אין ארוחת בוקר במלון בשדה ובפראג), מזכרות, ביטוח, חניה בנתב\"ג, ואופציונליים: ממלכת הרכבות / אוהרדה / קלט.",
    "next": "השלב הבא",
-   "next_t": "כתבו לי מה לשנות, או אשרו את גרסה 5. אחרי האישור אעדכן את אפליקציית הטלפון מקובץ הנתונים של הגרסה הזו.",
+   "next_t": "כתבו לי מה לשנות, או אשרו את גרסה 6. אחרי האישור אעדכן את אפליקציית הטלפון מקובץ הנתונים של הגרסה הזו.",
    "trails": {
     "red": "",
     "blue": "ליפנו וצ'סקי קרומלוב",
@@ -3949,16 +3982,18 @@
    "taxi_note": "נסיעה במונית (בלי רכב שכור).",
    "no_drive_air": "800 מ' הליכה או שאטל המלון מהטרמינל.",
    "cmp_item": "פריט",
-   "dates2": "השוואת תאריכי התחלה (אותה תוכנית, מלונות עם ביטול חינם; הטיסות עולות אותו דבר בכל התאריכים)",
+   "dates2": "השוואת תאריכי התחלה (אותה תוכנית, מלונות עם מיזוג וביטול חינם; הטיסות עולות אותו דבר בכל התאריכים)",
    "start": "התחלה ← סיום",
    "airport_n": "לילה בשדה",
    "lipno_n": "ליפנו 4 לילות",
-   "prague_n": "פראג 4 לילות"
+   "prague_n": "פראג 4 לילות",
+   "ac": "מיזוג אוויר",
+   "ac_short": "מזגן ✓"
   }
  },
  "approved": {
-  "version": "v5",
-  "approved_on": "2026-10-17",
+  "version": "v6",
+  "approved_on": "2026-10-21",
   "by": "traveller"
  },
  "map": {

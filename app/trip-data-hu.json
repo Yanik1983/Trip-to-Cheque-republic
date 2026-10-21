@@ -25,11 +25,11 @@
  },
  "variant": "eve",
  "version": {
-  "id": "v1",
-  "date": "2026-10-18",
+  "id": "v2",
+  "date": "2026-10-21",
   "label": {
-   "en": "Hungary v1",
-   "he": "הונגריה גרסה 1"
+   "en": "Hungary v2",
+   "he": "הונגריה גרסה 2"
   }
  },
  "taxi_days": [
@@ -37,6 +37,10 @@
  ],
  "car_km": 446.7,
  "changes": [
+  {
+   "en": "What changed in v2: air conditioning is now a must in every hotel. All three hotels were checked on Booking.com and have free air conditioning in the family room or apartment, so the plan, dates, flights and prices are unchanged (about €4,306). What changed: the lists of alternative hotels now contain only air-conditioned options (Goldcentral Apartments was dropped), and every hotel shows an air-conditioning line.",
+   "he": "מה השתנה בגרסה 2: מיזוג אוויר הוא עכשיו חובה בכל מלון. שלושת המלונות נבדקו ב-Booking.com ובכולם יש מיזוג אוויר חינם בחדר המשפחתי או בדירה, ולכן התוכנית, התאריכים, הטיסות והמחירים לא השתנו (כ-4,306 €). מה שהשתנה: רשימות המלונות החלופיים כוללות עכשיו רק אפשרויות עם מיזוג אוויר (Goldcentral Apartments הוסר), ולכל מלון מופיעה שורת מיזוג אוויר."
+  },
   {
    "en": "Dates Mon 16 – Wed 25 Aug 2027 (evening arrival + airport night): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,670).",
    "he": "תאריכים ב' 16 – ד' 25 באוגוסט 2027 (נחיתה בערב + לילה בשדה): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-3,670 €)."
@@ -835,8 +839,8 @@
     "he": "סוויטה עם מיטה זוגית וספה נפתחת ל-2 מבוגרים ו-2 ילדים, ביטול חינם. ארוחת בוקר כלולה (לפי Booking.com). קבלה 24 שעות, כך שנחיתה מאוחרת אינה בעיה; המלון בטרמינל 2, כמה דקות הליכה. יש פינת משחקים מקורה. כדאי לוודא בהזמנה שהספה מתאימה לשני הילדים."
    },
    "alt": {
-    "en": "Same building: TRIBE Budapest Airport €242 (Booking 9.0, 3,937 reviews; 'Tribe Max' room for 4, breakfast €22 per person extra). Budapest Airport Hotel Stáció €210.80 (Booking 9.2, 1,600 reviews; free 24/7 shuttle, indoor pool, breakfast included; about 5 min by shuttle). Cheapest: Vecsési Panzió €90.01 (Booking 9.1, 2,555 reviews), but a taxi is needed. (Alternative prices were checked for 17–26 Aug.)",
-    "he": "באותו בניין: TRIBE Budapest Airport ב-242 € (Booking 9.0, 3,937 ביקורות; חדר 'Tribe Max' ל-4, ארוחת בוקר 22 € לאדם בתוספת). Budapest Airport Hotel Stáció ב-210.80 € (Booking 9.2, 1,600 ביקורות; שאטל חינם 24/7, בריכה מקורה, ארוחת בוקר כלולה; כ-5 דקות בשאטל). הכי זול: Vecsési Panzió ב-90.01 € (Booking 9.1, 2,555 ביקורות), אבל צריך מונית. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "Only options with air conditioning. Same building: TRIBE Budapest Airport €242 (Booking 9.0, 3,937 reviews; 'Tribe Max' room for 4, breakfast €22 per person extra). Budapest Airport Hotel Stáció €210.80 (Booking 9.2, 1,600 reviews; free 24/7 shuttle, indoor pool, breakfast included; about 5 min by shuttle). Cheapest: Vecsési Panzió €90.01 (Booking 9.1, 2,555 reviews), but a taxi is needed. (Alternative prices were checked for 17–26 Aug.)",
+    "he": "רק אפשרויות עם מיזוג אוויר. באותו בניין: TRIBE Budapest Airport ב-242 € (Booking 9.0, 3,937 ביקורות; חדר 'Tribe Max' ל-4, ארוחת בוקר 22 € לאדם בתוספת). Budapest Airport Hotel Stáció ב-210.80 € (Booking 9.2, 1,600 ביקורות; שאטל חינם 24/7, בריכה מקורה, ארוחת בוקר כלולה; כ-5 דקות בשאטל). הזול ביותר: Vecsési Panzió ב-90.01 € (Booking 9.1, 2,555 ביקורות), אבל צריך מונית. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
    },
    "google": {
     "name": "ibis Styles Budapest Airport",
@@ -849,6 +853,10 @@
     "place_id": "ChIJybXMj7HBQUcRMrZCBER2ArM",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=ibis%20Styles%20Budapest%20Airport&query_place_id=ChIJybXMj7HBQUcRMrZCBER2ArM",
     "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.429780,19.262217&travelmode=driving"
+   },
+   "ac": {
+    "en": "Yes – the family room is air-conditioned, at no extra charge (Booking.com, 21 Oct 2026).",
+    "he": "יש – החדר המשפחתי ממוזג, בלי תוספת תשלום (Booking.com, 21.10.2026)."
    },
    "photos": [
     {
@@ -904,8 +912,8 @@
     "he": "דירת 2 חדרי שינה (עד 5) עם מטבח מלא (מדיח, מיקרוגל), ביטול חינם. בריכה חיצונית עונתית בגינה עם כיסוי נפתח, גינה עם מנגל, חניה פרטית חינם. צ'ק-אין מ-15:00, צ'ק-אאוט עד 10:00. הבריכה לא גדולה; החופים של האגם במרחק 5–10 דקות נסיעה."
    },
    "alt": {
-    "en": "South shore (very shallow water), with a pool: Happy Apartments, Balatonlelle, €909.64 (Booking 9.1, 124 reviews). Cheaper, no pool: Robinson szigete, Balatonfüred, €513.68 (Booking 9.2, 322 reviews, playground). Indoor pool and kids' play equipment: Balazs Villa, Balatonfüred, €1,057.42 (Booking 8.7, 173 reviews). (Alternative prices were checked for 17–26 Aug.)",
-    "he": "בחוף הדרומי (מים רדודים מאוד), עם בריכה: Happy Apartments בבלטונללה, 909.64 € (Booking 9.1, 124 ביקורות). זול יותר, בלי בריכה: Robinson szigete בבלטונפירד, 513.68 € (Booking 9.2, 322 ביקורות, מגרש משחקים). בריכה מקורה ומתקני משחק לילדים: Balazs Villa בבלטונפירד, 1,057.42 € (Booking 8.7, 173 ביקורות). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "Only options with air conditioning. South shore (very shallow water), with a pool: Happy Apartments, Balatonlelle, €909.64 (Booking 9.1, 124 reviews). Cheaper, no pool: Robinson szigete, Balatonfüred, €513.68 (Booking 9.2, 322 reviews, playground). Indoor pool and kids' play equipment: Balazs Villa, Balatonfüred, €1,057.42 (Booking 8.7, 173 reviews). (Alternative prices were checked for 17–26 Aug.)",
+    "he": "רק אפשרויות עם מיזוג אוויר. החוף הדרומי (מים רדודים מאוד), עם בריכה: Happy Apartments, בלטונלה, ב-909.64 € (Booking 9.1, 124 ביקורות). זול יותר, בלי בריכה: Robinson szigete, בלטונפיורד, ב-513.68 € (Booking 9.2, 322 ביקורות, מגרש משחקים). בריכה מקורה וציוד משחקים לילדים: Balazs Villa, בלטונפיורד, ב-1,057.42 € (Booking 8.7, 173 ביקורות). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
    },
    "google_note": {
     "en": "Only 43 Booking.com and 23 Google reviews, but all very good.",
@@ -922,6 +930,10 @@
     "place_id": "ChIJ0UEjMGy9aUcRWfMPnXuYtBg",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Landhaus%20Forr%C3%A1s&query_place_id=ChIJ0UEjMGy9aUcRWfMPnXuYtBg",
     "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.969608,17.890809&travelmode=driving"
+   },
+   "ac": {
+    "en": "Yes – the family apartment is air-conditioned, at no extra charge (Booking.com, 21 Oct 2026).",
+    "he": "יש – הדירה המשפחתית ממוזגת, בלי תוספת תשלום (Booking.com, 21.10.2026)."
    },
    "photos": [
     {
@@ -977,8 +989,8 @@
     "he": "דירת חדר שינה אחד ל-4: מיטת קווין בחדר + ספה נפתחת בסלון, מטבחון מאובזר, מיזוג, מעלית, חצר עם גינה, ביטול חינם. צ'ק-אין עצמי עם כספת מפתחות (מ-15:00); מגיעים בסביבות 12:30, אז אפשר להשאיר מזוודות בקבלה של FirstHost (רחוב דוב 34–36) או לבקש צ'ק-אין מוקדם."
    },
    "alt": {
-    "en": "Near Deák tér (3 metro lines), with an indoor play area: Budapest Center Residence €762.11 (Booking 9.1, 1,508 reviews; lively nightlife street). Cheaper: Goldcentral Apartments, District VII, €552 (Booking 9.1, 875 reviews). With 24-hour reception: Florin Apart Hotel €981 (Booking 9.1, 6,927 reviews). (Alternative prices were checked for 17–26 Aug.)",
-    "he": "ליד כיכר דאק (3 קווי מטרו), עם פינת משחקים מקורה: Budapest Center Residence ב-762.11 € (Booking 9.1, 1,508 ביקורות; רחוב חיי לילה סואן). זול יותר: Goldcentral Apartments ברובע 7, 552 € (Booking 9.1, 875 ביקורות). עם קבלה 24 שעות: Florin Apart Hotel ב-981 € (Booking 9.1, 6,927 ביקורות). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "Only options with air conditioning. Near Deák tér (3 metro lines), with an indoor play area: Budapest Center Residence €762.11 (Booking 9.1, 1,508 reviews; lively nightlife street). With 24-hour reception: Florin Apart Hotel €981 (Booking 9.1, 6,927 reviews). Dropped for having no confirmed air conditioning: Goldcentral Apartments. (Alternative prices were checked for 17–26 Aug.)",
+    "he": "רק אפשרויות עם מיזוג אוויר. ליד כיכר דאק (3 קווי מטרו), עם פינת משחקים מקורה: Budapest Center Residence ב-762.11 € (Booking 9.1, 1,508 ביקורות; רחוב עם חיי לילה). עם קבלה 24 שעות: Florin Apart Hotel ב-981 € (Booking 9.1, 6,927 ביקורות). הוסר כי אין אישור למיזוג אוויר: Goldcentral Apartments. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
    },
    "google": {
     "name": "WestSide Garden Apartments by FirstHost",
@@ -991,6 +1003,10 @@
     "place_id": "ChIJbU-KirvbQUcRLhDUE4bYLPg",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=WestSide%20Garden%20Apartments%20by%20FirstHost&query_place_id=ChIJbU-KirvbQUcRLhDUE4bYLPg",
     "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.518639,19.069401&travelmode=driving"
+   },
+   "ac": {
+    "en": "Yes – the family apartment is air-conditioned, at no extra charge (Booking.com, 21 Oct 2026).",
+    "he": "יש – הדירה המשפחתית ממוזגת, בלי תוספת תשלום (Booking.com, 21.10.2026)."
    },
    "photos": [
     {
@@ -3928,7 +3944,7 @@
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Hungary v1 research · prices checked 17–18 Oct 2026 · in the app 18 Oct 2026",
+   "eyebrow": "Hungary v2 research · air-conditioning check 21 Oct 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -3994,7 +4010,7 @@
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Hungary v1 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Hungary v2 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Lake Balaton",
@@ -4014,12 +4030,14 @@
    "fl_bags": "Flights + bags",
    "car_short": "Car",
    "plan_eve": "evening arrival, airport night",
-   "plan_day": "daytime arrival, straight to the base"
+   "plan_day": "daytime arrival, straight to the base",
+   "ac": "Air conditioning",
+   "ac_short": "A/C ✓"
   },
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "הונגריה גרסה 1 · מחירים נבדקו 17–18.10.2026 · באפליקציה מ-18.10.2026",
+   "eyebrow": "הונגריה גרסה 2 · בדיקת מיזוג אוויר 21.10.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -4085,7 +4103,7 @@
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "הונגריה גרסה 1 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "הונגריה גרסה 2 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "אגם בלטון",
@@ -4105,12 +4123,14 @@
    "fl_bags": "טיסות + כבודה",
    "car_short": "רכב",
    "plan_eve": "נחיתה בערב, לילה בשדה",
-   "plan_day": "נחיתה ביום, ישר לבסיס"
+   "plan_day": "נחיתה ביום, ישר לבסיס",
+   "ac": "מיזוג אוויר",
+   "ac_short": "מזגן ✓"
   }
  },
  "approved": {
-  "version": "hu v1",
-  "approved_on": "2026-10-18",
+  "version": "hu v2",
+  "approved_on": "2026-10-21",
   "by": "traveller"
  },
  "map": {

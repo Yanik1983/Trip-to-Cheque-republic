@@ -25,18 +25,26 @@
  },
  "variant": "day",
  "version": {
-  "id": "v1",
+  "id": "v2",
   "date": "2026-10-21",
   "label": {
-   "en": "Romania v1",
-   "he": "רומניה גרסה 1"
+   "en": "Romania v2",
+   "he": "רומניה גרסה 2"
   }
  },
  "taxi_days": [
   "D10"
  ],
- "car_km": 486.6,
+ "car_km": 467.8,
  "changes": [
+  {
+   "en": "What changed in v2: air conditioning is now a must in every hotel. Hello Mountains Apartaments in Sinaia has no air conditioning, so it is replaced by the 4-star Hotel Carpathia (Booking 8.7 from 1,522 reviews, free spa with an indoor pool, 2 saunas and a hot tub, buffet breakfast; no kitchen). Maison Bucarest has air conditioning and stays.",
+   "he": "מה השתנה בגרסה 2: מיזוג אוויר הוא עכשיו חובה בכל מלון. ל-Hello Mountains Apartaments בסינאיה אין מיזוג אוויר, ולכן הוא הוחלף במלון Carpathia 4 הכוכבים (Booking 8.7 מתוך 1,522 ביקורות, ספא חינם עם בריכה מקורה, 2 סאונות וג'קוזי, ארוחת בוקר בבופה; בלי מטבח). ל-Maison Bucarest יש מיזוג אוויר והוא נשאר."
+  },
+  {
+   "en": "Same dates (Sat 14 – Mon 23 Aug 2027) and same flights: with the new hotel the comparison of all start dates still ends with 14 Aug cheapest. Total about €4,025 instead of about €3,457 (+€568, almost all of it the hotel). Routes re-calculated from the new hotel (it is 5 min from Peleș Castle).",
+   "he": "אותם תאריכים (שבת 14 – שני 23 באוגוסט 2027) ואותן טיסות: גם עם המלון החדש, בהשוואת כל תאריכי ההתחלה 14 באוגוסט נשאר הזול ביותר. סה\"כ כ-4,025 € במקום כ-3,457 € (+568 €, כמעט כולו המלון). המסלולים חושבו מחדש מהמלון החדש (5 דקות מטירת פלש)."
+  },
   {
    "en": "Dates Sat 14 – Mon 23 Aug 2027 (daytime arrival, straight to the base): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €2,761).",
    "he": "תאריכים ש' 14 – ב' 23 באוגוסט 2027 (נחיתה ביום, ישר לבסיס): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-2,761 €)."
@@ -70,8 +78,8 @@
    "he": "טיול משפחתי ברומניה: סינאיה, טירות ברשוב ובוקרשט"
   },
   "lede": {
-   "en": "Sat 14 – Mon 23 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. A rental car from Bucharest Airport and 5 nights in a Sinaia apartment with an indoor pool in the Carpathians (fairytale Peleș Castle, Bran Castle, a bear sanctuary, Dino Parc, Brașov's old town and a cable car to the Bucegi plateau), then 4 nights in a Bucharest apartment without a car (Therme water park, natural history museum, open-air Village Museum, Herăstrău Park).",
-   "he": "ש' 14 – ב' 23 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. רכב שכור משדה התעופה של בוקרשט ו-5 לילות בדירה בסינאיה עם בריכה מקורה בהרי הקרפטים (טירת פלש האגדית, טירת בראן, מקלט דובים, דינו פארק, העיר העתיקה של ברשוב ורכבל לרמת בוצ'ג'י), ואחר כך 4 לילות בדירה בבוקרשט בלי רכב (פארק המים תרמה, מוזיאון הטבע, מוזיאון הכפר הפתוח ופארק הרשטרו)."
+   "en": "Sat 14 – Mon 23 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. A rental car from Bucharest Airport and 5 nights in the air-conditioned 4-star Hotel Carpathia in Sinaia (free spa with an indoor pool) in the Carpathians (fairytale Peleș Castle, Bran Castle, a bear sanctuary, Dino Parc, Brașov's old town and a cable car to the Bucegi plateau), then 4 nights in an air-conditioned Bucharest apartment without a car (Therme water park, natural history museum, open-air Village Museum, Herăstrău Park).",
+   "he": "ש' 14 – ב' 23 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. רכב שכור משדה התעופה של בוקרשט ו-5 לילות במלון Carpathia 4 הכוכבים עם מיזוג אוויר בסינאיה (ספא חינם עם בריכה מקורה) בהרי הקרפטים (טירת פלש האגדית, טירת בראן, מקלט דובים, דינו פארק, העיר העתיקה של ברשוב ורכבל לרמת בוצ'ג'י), ואחר כך 4 לילות בדירה ממוזגת בבוקרשט בלי רכב (פארק המים תרמה, מוזיאון הטבע, מוזיאון הכפר הפתוח ופארק הרשטרו)."
   }
  },
  "currency": "EUR",
@@ -796,68 +804,79 @@
  ],
  "hotels": [
   {
-   "id": "hotel_sinaia",
-   "gkey": "hotel_sinaia",
-   "name": "Hello Mountains Apartaments Sinaia",
+   "id": "hotel_carpathia",
+   "gkey": "hotel_carpathia",
+   "name": "Hotel Carpathia",
    "area": {
-    "en": "Sinaia, Str. Walter Mărăcineanu 20 (quiet south side of town; 106 km / 1h41 from OTP, Peleș Castle 10 min by car, Sinaia centre about 3 km)",
-    "he": "סינאיה, רחוב וולטר מרצ'ינאנו 20 (הצד הדרומי והשקט של העיירה; 106 ק\"מ / 1:41 שעות משדה התעופה, טירת פלש 10 דקות נסיעה, מרכז סינאיה כ-3 ק\"מ)"
+    "en": "Sinaia, Bd. Carol I 46 (town centre; 108 km / 1h46 from OTP, Sinaia train station a 10-minute walk, Peleș Castle about 2.9 km / 5 min by car)",
+    "he": "סינאיה, שד' קרול הראשון 46 (מרכז העיירה; 108 ק\"מ / 1:46 שעות משדה התעופה, תחנת הרכבת של סינאיה במרחק 10 דקות הליכה, טירת פלש כ-2.9 ק\"מ / 5 דקות נסיעה)"
    },
    "checkin": "2027-08-14",
    "checkout": "2027-08-19",
    "nights": 5,
-   "total_eur": 319.14,
-   "booking_score": 9.6,
-   "booking_reviews": 478,
-   "booking_url": "https://www.booking.com/hotel/ro/hello-mountains-apartaments-sinaia.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "total_eur": 890.3,
+   "booking_score": 8.7,
+   "booking_reviews": 1522,
+   "booking_url": "https://www.booking.com/hotel/ro/hotel-carpathia.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
-    "en": "Apartment with a fully equipped kitchen (Booking lists a three-bedroom apartment for up to 7; the €319 price is Booking's cheapest family option for 4 – confirm the apartment type when booking), free cancellation. Heated indoor pool, sauna and hot tub, lift, free private parking, 24-hour front desk (check-in from 16:00, so a 01:00 arrival is fine). No restaurant: self-catering. Wi-Fi is listed as paid.",
-    "he": "דירה עם מטבח מאובזר (ב-Booking מופיעה דירת 3 חדרי שינה עד 7 אנשים; מחיר 319 € הוא האפשרות המשפחתית הזולה ביותר ל-4 – כדאי לוודא את סוג הדירה בהזמנה), ביטול חינם. בריכה מקורה מחוממת, סאונה וג'קוזי, מעלית, חניה פרטית חינם, קבלה 24 שעות (צ'ק-אין מ-16:00, כך שהגעה ב-01:00 אינה בעיה). אין מסעדה: מבשלים בעצמכם. ה-Wi-Fi מופיע כתשלום."
+    "en": "4-star hotel, family room for 4 (price is Booking's cheapest family option), free cancellation. Free spa access with an indoor swimming pool, 2 saunas and a hot tub; restaurant, buffet breakfast included, 24-hour front desk (a late arrival is fine); free Wi-Fi. No kitchen. Booking says the indoor pool may have no designated shallow area, so keep the kids within arm's reach. Free on-site parking subject to availability (paid public parking across the street, 30 RON/day, as a fallback).",
+    "he": "מלון 4 כוכבים, חדר משפחתי ל-4 (המחיר הוא האפשרות המשפחתית הזולה ביותר ב-Booking), ביטול חינם. כניסה חופשית לספא עם בריכה מקורה, 2 סאונות וג'קוזי; מסעדה, ארוחת בוקר בבופה כלולה, קבלה 24 שעות (הגעה מאוחרת בסדר); Wi-Fi חינם. אין מטבח. לפי Booking ייתכן שאין בבריכה המקורה אזור רדוד מוגדר, אז כדאי להישאר קרוב לילדים. חניה חינם במקום בכפוף לזמינות (חניון ציבורי בתשלום מעבר לכביש, 30 לי\"י ליום, כגיבוי)."
+   },
+   "ac": {
+    "en": "Yes – air conditioning is listed in the family rooms (Booking.com search with the air-conditioning filter, 21 Oct 2026).",
+    "he": "יש – מיזוג אוויר מופיע בחדרים המשפחתיים (חיפוש ב-Booking.com עם מסנן מיזוג אוויר, 21.10.2026)."
    },
    "alt": {
-    "en": "Central, with a kitchenless family suite and a big indoor pool, kids' club, playground and waterslide: Hotel Sinaia €1,228.81 (Booking 9.0, 10,860 reviews, 24h desk, parking 40 RON/day). Central apartment-hotel with 24h desk: Parc Suites by Hotel Cerbul €664.81 (Booking 9.1, 493 reviews). Cheaper, key/contactless check-in without a 24h desk (confirm a late arrival first): Stone Apartment with sauna €566.04 (Booking 9.9, 109 reviews); Vila Ferdinand – Apartament Iarina €475.66 (Booking 9.9, 132 reviews). (Alternative prices were checked for 17–26 Aug.)",
-    "he": "במרכז, סוויטה משפחתית בלי מטבח, בריכה מקורה גדולה, מועדון ילדים, מגרש משחקים ומגלשת מים: Hotel Sinaia ב-1,228.81 € (Booking 9.0, 10,860 ביקורות, קבלה 24 שעות, חניה 40 לי\"י ליום). דירות-מלון במרכז עם קבלה 24 שעות: Parc Suites by Hotel Cerbul ב-664.81 € (Booking 9.1, 493 ביקורות). זול יותר, צ'ק-אין עצמי/ללא מגע בלי קבלה 24 שעות (לוודא קודם הגעה מאוחרת): Stone Apartment with sauna ב-566.04 € (Booking 9.9, 109 ביקורות); Vila Ferdinand – Apartament Iarina ב-475.66 € (Booking 9.9, 132 ביקורות). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "All with air conditioning. Central, with a kitchenless family suite and a big indoor pool, kids' club, playground and waterslide: Hotel Sinaia €1,400.81 (Booking 9.0, 10,860 reviews, 24h desk, parking 40 RON/day). Cheaper, central apartment-hotel with 24h desk: Parc Suites by Hotel Cerbul €664.81 (Booking 9.1, 493 reviews). ART Escape €665.92. Hello Mountains Apartaments (v1: Booking 9.6, €319.14 for the earlier dates, kitchen) is no longer offered: no air conditioning. (Alternative prices were checked for 17–26 Aug.)",
+    "he": "כולם עם מיזוג אוויר. במרכז, סוויטה משפחתית בלי מטבח, בריכה מקורה גדולה, מועדון ילדים, מגרש משחקים ומגלשת מים: Hotel Sinaia ב-1,400.81 € (Booking 9.0, 10,860 ביקורות, קבלה 24 שעות, חניה 40 לי\"י ליום). זול יותר, דירות-מלון במרכז עם קבלה 24 שעות: Parc Suites by Hotel Cerbul ב-664.81 € (Booking 9.1, 493 ביקורות). ART Escape ב-665.92 €. Hello Mountains Apartaments (גרסה 1: Booking 9.6, 319.14 € בתאריכים הקודמים, עם מטבח) כבר לא מוצע: אין מיזוג אוויר. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
    },
    "google_note": {
-    "en": "No Google rating found for this listing; Booking.com 9.6 from 478 reviews.",
-    "he": "לא נמצא דירוג בגוגל לנכס; ב-Booking.com 9.6 מתוך 478 ביקורות."
+    "en": "Google: 4.2 from 3,114 reviews; Booking.com 8.7 from 1,522 reviews.",
+    "he": "בגוגל: 4.2 מתוך 3,114 ביקורות; ב-Booking.com 8.7 מתוך 1,522 ביקורות."
    },
    "google": {
-    "name": "Hello Mountains Apartaments Sinaia",
-    "rating": null,
-    "reviews": null,
-    "lat": 45.329811,
-    "lng": 25.560841,
-    "address": "106100 Sinaia, Romania",
-    "website": "https://deals.vio.com/?sig=73aca13c7f952d2641c156f3e69125e1eb497c325f122828ee5aa8797168b9a12d32303331333438363233&turl=https%3A%2F%2Fwww.vio.com%2FHotel%2FSearch%3FhotelId%3D15495900%26utm_source%3Dgha-vr%26utm_campaign%3Dstatic%26openHotelDetails%3D1",
-    "place_id": "ChIJz6FanNMQs0ARwgXC-RZqS0c",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=Hello%20Mountains%20Apartaments%20Sinaia&query_place_id=ChIJz6FanNMQs0ARwgXC-RZqS0c",
-    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.329811,25.560841&travelmode=driving"
+    "name": "Hotel Carpathia",
+    "rating": 4.2,
+    "reviews": 3114,
+    "lat": 45.346367,
+    "lng": 25.546916,
+    "address": "Bulevardul Carol I 46, 106100 Sinaia, Romania",
+    "website": "http://www.hotel-carpathia.ro/",
+    "place_id": "ChIJCTsAZNwWs0ARQsm-AFvFHlc",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Carpathia&query_place_id=ChIJCTsAZNwWs0ARQsm-AFvFHlc",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.346367,25.546916&travelmode=driving"
    },
    "photos": [
     {
-     "file": "img/ro/hotel_sinaia-1.jpg",
-     "w": 500,
-     "h": 375,
-     "source_page": "https://www.google.com/maps/search/?api=1&query=Hello%20Mountains%20Apartaments%20Sinaia&query_place_id=ChIJz6FanNMQs0ARwgXC-RZqS0c",
+     "file": "img/ro/hotel_carpathia-1.jpg",
+     "w": 1000,
+     "h": 668,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Hotel%20Carpathia&query_place_id=ChIJCTsAZNwWs0ARQsm-AFvFHlc",
      "credit": "Google Maps listing photo"
     },
     {
-     "file": "img/ro/hotel_sinaia-2.jpg",
-     "w": 500,
-     "h": 375,
-     "source_page": "https://www.google.com/maps/search/?api=1&query=Hello%20Mountains%20Apartaments%20Sinaia&query_place_id=ChIJz6FanNMQs0ARwgXC-RZqS0c",
+     "file": "img/ro/hotel_carpathia-2.jpg",
+     "w": 1000,
+     "h": 666,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Hotel%20Carpathia&query_place_id=ChIJCTsAZNwWs0ARQsm-AFvFHlc",
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 63.83,
+   "price_per_night_eur": 178.06,
    "ratings": [
     {
      "source": "Booking.com",
-     "score": 9.6,
+     "score": 8.7,
      "out_of": 10,
-     "reviews": 478,
-     "url": "https://www.booking.com/hotel/ro/hello-mountains-apartaments-sinaia.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 1522,
+     "url": "https://www.booking.com/hotel/ro/hotel-carpathia.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.2,
+     "out_of": 5,
+     "reviews": 3114,
+     "url": "https://www.google.com/maps/search/?api=1&query=Hotel%20Carpathia&query_place_id=ChIJCTsAZNwWs0ARQsm-AFvFHlc"
     }
    ]
   },
@@ -881,8 +900,8 @@
     "he": "דירת 2 חדרי שינה (עד 6) עם מטבח מאובזר, ספה נפתחת, מיזוג ומעלית, ביטול חינם. צ'ק-אין עצמי חכם (בלי קבלה), מ-15:00; מגיעים מהשדה בסביבות הצהריים, אז כדאי לבקש מראש מהמארח צ'ק-אין מוקדם או שמירת מזוודות. יש חניון מקורה אבל בעיר אין לכם רכב."
    },
    "alt": {
-    "en": "Cheaper: Bucur Accommodation (Caesar's Downtown aparthotel) €440.78 (Booking 9.0, 3,771 reviews, no kitchen listed). With 24h reception: Mercure Bucharest City Center €570.65 (Booking 8.7, 1,036 reviews); Novotel Bucharest City Centre €656.19 (Booking 8.3, 4,217 reviews; indoor pool, indoor play area, breakfast included, 2 min from Universitate metro). (Alternative prices were checked for 17–26 Aug.)",
-    "he": "זול יותר: Bucur Accommodation (Caesar's Downtown aparthotel) ב-440.78 € (Booking 9.0, 3,771 ביקורות, ללא מטבח ברשימה). עם קבלה 24 שעות: Mercure Bucharest City Center ב-570.65 € (Booking 8.7, 1,036 ביקורות); Novotel Bucharest City Centre ב-656.19 € (Booking 8.3, 4,217 ביקורות; בריכה מקורה, פינת משחקים מקורה, ארוחת בוקר כלולה, 2 דקות ממטרו אוניברסיטה). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "All with air conditioning. Cheaper: Bucur Accommodation (Caesar's Downtown aparthotel) €440.78 (Booking 9.0, 3,771 reviews, no kitchen listed). With 24h reception: Mercure Bucharest City Center €547.38 (Booking 8.7, 1,036 reviews); Novotel Bucharest City Centre €656.19 (Booking 8.3, 4,217 reviews; indoor pool, indoor play area, breakfast included, 2 min from Universitate metro). (Alternative prices were checked for 17–26 Aug.)",
+    "he": "כולם עם מיזוג אוויר. זול יותר: Bucur Accommodation (Caesar's Downtown aparthotel) ב-440.78 € (Booking 9.0, 3,771 ביקורות, ללא מטבח ברשימה). עם קבלה 24 שעות: Mercure Bucharest City Center ב-547.38 € (Booking 8.7, 1,036 ביקורות); Novotel Bucharest City Centre ב-656.19 € (Booking 8.3, 4,217 ביקורות; בריכה מקורה, פינת משחקים מקורה, ארוחת בוקר כלולה, 2 דקות ממטרו אוניברסיטה). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
    },
    "google_note": {
     "en": "Google: 4.6 from 107 reviews.",
@@ -899,6 +918,10 @@
     "place_id": "ChIJ_Yl18RH_sUARA0j8o8k6Qvk",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Maison%20Bucarest%20Apartments%20by%20Olala%20Homes&query_place_id=ChIJ_Yl18RH_sUARA0j8o8k6Qvk",
     "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.434713,26.086857&travelmode=driving"
+   },
+   "ac": {
+    "en": "Yes – air conditioning is listed in the apartment (Booking.com, 21 Oct 2026).",
+    "he": "יש – מיזוג אוויר מופיע בדירה (Booking.com, 21.10.2026)."
    },
    "photos": [
     {
@@ -2080,7 +2103,7 @@
     "he": "טיסת יום, איסוף רכב, עצירה בסינאיה וצ'ק-אין"
    },
    "trail": "green",
-   "overnight": "hotel_sinaia",
+   "overnight": "hotel_carpathia",
    "plan": [
     {
      "en": "09:20 Wizz Air W4 3252 from TLV, landing at OTP 12:10.",
@@ -2095,16 +2118,16 @@
      "he": "עצירת ילדים בסינאיה (30–45 דקות): חצר מנזר סינאיה והליכה בפארק פלש/בשטח התחתון של הטירה (פנים הטירה נסגר ב-16:15 – שווה רק אם נוחתים עד כ-11:00, אחרת ביום 2)."
     },
     {
-     "en": "6 min to the apartment, check in from 16:00, swim in the indoor pool, groceries for the kitchen, early night.",
-     "he": "6 דקות לדירה, צ'ק-אין מ-16:00, שחייה בבריכה המקורה, קניות למטבח ולישון מוקדם."
+     "en": "3 min to the hotel (4-star, centre of Sinaia), check in, a swim in the indoor pool of the free spa, dinner in the hotel restaurant, early night.",
+     "he": "3 דקות למלון (4 כוכבים, במרכז סינאיה), צ'ק-אין, שחייה בבריכה המקורה של הספא החופשי, ארוחת ערב במסעדת המלון ולישון מוקדם."
     }
    ],
    "attractions": [
     "sinaia_monastery"
    ],
    "route": {
-    "km": 113.1,
-    "minutes": 112,
+    "km": 110.7,
+    "minutes": 109,
     "legs": [
      {
       "from": "Bucharest Henri Coandă Airport (OTP) – car pick-up",
@@ -2114,9 +2137,9 @@
      },
      {
       "from": "Sinaia Monastery / Peleș park",
-      "to": "Hello Mountains Apartaments, Sinaia",
-      "km": 3.7,
-      "min": 6
+      "to": "Hotel Carpathia, Sinaia",
+      "km": 1.2,
+      "min": 3
      }
     ],
     "points": [
@@ -2131,9 +2154,9 @@
       "lng": 25.54907
      },
      {
-      "name": "Hello Mountains Apartaments, Sinaia",
-      "lat": 45.329813,
-      "lng": 25.560841
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
      }
     ],
     "geometry": {
@@ -2215,13 +2238,13 @@
        45.355328
       ],
       [
-       25.560873,
-       45.329702
+       25.546889,
+       45.346495
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=44.5711,26.0858&destination=45.329813,25.560841&travelmode=driving&waypoints=45.35535%2C25.54907"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=44.5711,26.0858&destination=45.346357,25.546826&travelmode=driving&waypoints=45.35535%2C25.54907"
    }
   },
   {
@@ -2236,15 +2259,15 @@
     "he": "טירת פלש (שעה ראשונה) ובריכה אחר הצהריים"
    },
    "trail": "green",
-   "overnight": "hotel_sinaia",
+   "overnight": "hotel_carpathia",
    "plan": [
     {
-     "en": "Breakfast in the apartment, ready to leave by about 8:45.",
-     "he": "ארוחת בוקר בדירה, מוכנים ליציאה בסביבות 8:45."
+     "en": "Buffet breakfast at the hotel, ready to leave by about 8:45.",
+     "he": "ארוחת בוקר בבופה במלון, מוכנים ליציאה בסביבות 8:45."
     },
     {
-     "en": "Peleș Castle is a 10-minute drive. Sunday is the busiest day, so book the first slot (about 9:15) online. Guided tour (about 45–60 min), then the terraces and gardens; park at the lower car park and walk up the wide path.",
-     "he": "טירת פלש במרחק 10 דקות נסיעה. יום ראשון הוא היום העמוס ביותר, אז להזמין באינטרנט את השעה הראשונה (בערך 9:15). סיור מודרך (כ-45–60 דקות), ואז המרפסות והגנים; חונים בחניון התחתון ועולים בשביל הרחב."
+     "en": "Peleș Castle is a 5-minute drive. Sunday is the busiest day, so book the first slot (about 9:15) online. Guided tour (about 45–60 min), then the terraces and gardens; park at the lower car park and walk up the wide path.",
+     "he": "טירת פלש במרחק 5 דקות נסיעה. יום ראשון הוא היום העמוס ביותר, אז להזמין באינטרנט את השעה הראשונה (בערך 9:15). סיור מודרך (כ-45–60 דקות), ואז המרפסות והגנים; חונים בחניון התחתון ועולים בשביל הרחב."
     },
     {
      "en": "Lunch in Sinaia, then afternoon rest and the pool/sauna.",
@@ -2255,27 +2278,27 @@
     "peles"
    ],
    "route": {
-    "km": 10.1,
-    "minutes": 18,
+    "km": 5.6,
+    "minutes": 11,
     "legs": [
      {
-      "from": "Hello Mountains Apartaments, Sinaia",
+      "from": "Hotel Carpathia, Sinaia",
       "to": "Peleș Castle",
-      "km": 5.5,
-      "min": 10
+      "km": 2.9,
+      "min": 5
      },
      {
       "from": "Peleș Castle",
-      "to": "Hello Mountains Apartaments, Sinaia",
-      "km": 4.6,
-      "min": 8
+      "to": "Hotel Carpathia, Sinaia",
+      "km": 2.8,
+      "min": 6
      }
     ],
     "points": [
      {
-      "name": "Hello Mountains Apartaments, Sinaia",
-      "lat": 45.329813,
-      "lng": 25.560841
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
      },
      {
       "name": "Peleș Castle",
@@ -2283,64 +2306,24 @@
       "lng": 25.54264
      },
      {
-      "name": "Hello Mountains Apartaments, Sinaia",
-      "lat": 45.329813,
-      "lng": 25.560841
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
      }
     ],
     "geometry": {
      "coordinates": [
       [
-       25.560873,
-       45.329702
-      ],
-      [
-       25.564111,
-       45.329949
-      ],
-      [
-       25.562725,
-       45.331086
-      ],
-      [
-       25.559901,
-       45.332574
-      ],
-      [
-       25.555886,
-       45.333878
-      ],
-      [
-       25.552476,
-       45.336396
-      ],
-      [
-       25.552113,
-       45.337187
-      ],
-      [
-       25.552671,
-       45.338422
-      ],
-      [
-       25.55194,
-       45.339947
-      ],
-      [
-       25.550841,
-       45.340849
-      ],
-      [
-       25.547804,
-       45.344673
-      ],
-      [
-       25.54697,
-       45.345256
+       25.546889,
+       45.346495
       ],
       [
        25.547251,
        45.346411
+      ],
+      [
+       25.54906,
+       45.350103
       ],
       [
        25.549287,
@@ -2351,157 +2334,225 @@
        45.350473
       ],
       [
-       25.54839,
-       45.351215
+       25.547902,
+       45.351969
       ],
       [
-       25.549302,
-       45.354309
+       25.546451,
+       45.353162
       ],
       [
-       25.54848,
-       45.35409
+       25.54564,
+       45.353331
       ],
       [
-       25.549063,
-       45.3549
+       25.544716,
+       45.353895
       ],
       [
-       25.548574,
-       45.355114
+       25.543766,
+       45.353972
       ],
       [
-       25.548449,
-       45.355594
+       25.543004,
+       45.354217
       ],
       [
-       25.547217,
-       45.354637
+       25.54083,
+       45.35545
       ],
       [
-       25.546465,
-       45.354475
+       25.540581,
+       45.35541
       ],
       [
-       25.543837,
-       45.35504
+       25.540418,
+       45.355145
       ],
       [
-       25.542161,
-       45.355937
+       25.540181,
+       45.354252
       ],
       [
-       25.543494,
-       45.355831
+       25.539598,
+       45.353769
       ],
       [
-       25.545564,
-       45.354836
+       25.53963,
+       45.354492
       ],
       [
-       25.54728,
-       45.35559
+       25.539152,
+       45.354879
       ],
       [
-       25.547313,
-       45.355806
+       25.538849,
+       45.355616
       ],
       [
-       25.545316,
-       45.357149
+       25.538979,
+       45.356222
+      ],
+      [
+       25.53919,
+       45.356407
+      ],
+      [
+       25.540261,
+       45.356452
+      ],
+      [
+       25.54047,
+       45.356592
+      ],
+      [
+       25.539885,
+       45.356792
+      ],
+      [
+       25.540128,
+       45.35747
+      ],
+      [
+       25.539178,
+       45.358859
+      ],
+      [
+       25.539313,
+       45.359295
+      ],
+      [
+       25.539575,
+       45.359383
+      ],
+      [
+       25.539907,
+       45.359184
+      ],
+      [
+       25.540451,
+       45.359216
+      ],
+      [
+       25.54179,
+       45.358792
+      ],
+      [
+       25.542566,
+       45.358856
+      ],
+      [
+       25.543414,
+       45.358721
       ],
       [
        25.544206,
        45.358845
       ],
       [
-       25.547786,
-       45.358235
+       25.544423,
+       45.358214
       ],
       [
-       25.549688,
-       45.356576
+       25.545316,
+       45.357149
       ],
       [
-       25.551868,
-       45.357025
+       25.546376,
+       45.35628
       ],
       [
-       25.554197,
-       45.356376
+       25.547313,
+       45.355806
       ],
       [
-       25.555449,
-       45.356406
+       25.54728,
+       45.35559
       ],
       [
-       25.555703,
-       45.356158
+       25.546981,
+       45.355306
       ],
       [
-       25.555472,
-       45.355464
+       25.545932,
+       45.354871
       ],
       [
-       25.551466,
-       45.351674
+       25.545564,
+       45.354836
       ],
       [
-       25.551247,
-       45.349676
+       25.543494,
+       45.355831
       ],
       [
-       25.550676,
-       45.34834
+       25.542161,
+       45.355937
       ],
       [
-       25.549115,
-       45.347498
+       25.543783,
+       45.355058
       ],
       [
-       25.548451,
-       45.346739
+       25.544378,
+       45.354968
       ],
       [
-       25.549442,
-       45.344661
+       25.545047,
+       45.354639
       ],
       [
-       25.550719,
-       45.343103
+       25.546465,
+       45.354475
       ],
       [
-       25.552623,
-       45.338615
+       25.54715,
+       45.354599
       ],
       [
-       25.55212,
-       45.33724
+       25.548449,
+       45.355594
       ],
       [
-       25.552323,
-       45.336564
+       25.548574,
+       45.355114
       ],
       [
-       25.557019,
-       45.332919
+       25.549063,
+       45.3549
       ],
       [
-       25.558169,
-       45.330156
+       25.54848,
+       45.35409
       ],
       [
-       25.559969,
-       45.329676
+       25.548709,
+       45.35403
       ],
       [
-       25.560873,
-       45.329702
+       25.549302,
+       45.354309
+      ],
+      [
+       25.54839,
+       45.351215
+      ],
+      [
+       25.54906,
+       45.350103
+      ],
+      [
+       25.547251,
+       45.346411
+      ],
+      [
+       25.546889,
+       45.346495
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.329813,25.560841&destination=45.329813,25.560841&travelmode=driving&waypoints=45.35998%2C25.54264"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.35998%2C25.54264"
    }
   },
   {
@@ -2516,19 +2567,19 @@
     "he": "העיר העתיקה של ברשוב, רכבל וטירת בראן"
    },
    "trail": "blue",
-   "overnight": "hotel_sinaia",
+   "overnight": "hotel_carpathia",
    "plan": [
     {
-     "en": "Leave at 8:30, 1h02 to Brașov (Monday morning, northbound traffic is fine). Council Square, Rope Street, the Black Church (opens about 10:00) and ice cream. On Mondays the Tâmpa cable car opens at 12:00: ride up around 12:00 (about 1 h).",
-     "he": "יוצאים ב-8:30, שעה ו-2 דקות לברשוב (בוקר של יום שני, התנועה צפונה סבירה). כיכר המועצה, רחוב החבל, הכנסייה השחורה (נפתחת בסביבות 10:00) וגלידה. בימי שני רכבל טמפה נפתח ב-12:00: עולים בסביבות 12:00 (כשעה)."
+     "en": "Leave at 8:30, 1h00 to Brașov (Monday morning, northbound traffic is fine). Council Square, Rope Street, the Black Church (opens about 10:00) and ice cream. On Mondays the Tâmpa cable car opens at 12:00: ride up around 12:00 (about 1 h).",
+     "he": "יוצאים ב-8:30, שעה לברשוב (בוקר של יום שני, התנועה צפונה סבירה). כיכר המועצה, רחוב החבל, הכנסייה השחורה (נפתחת בסביבות 10:00) וגלידה. בימי שני רכבל טמפה נפתח ב-12:00: עולים בסביבות 12:00 (כשעה)."
     },
     {
      "en": "Quick lunch, then 35 min to Bran Castle for about 14:30 (booked online; on Mondays it opens at 12:00); visit 1.5–2 h.",
      "he": "ארוחת צהריים מהירה, ואז 35 דקות לטירת בראן בסביבות 14:30 (הוזמן באינטרנט; בימי שני היא נפתחת ב-12:00); ביקור של שעה וחצי–שעתיים."
     },
     {
-     "en": "1h06 back to Sinaia, about 18:30. A long day (2h43 of driving in total): drop the Tâmpa cable car or swap Bran for the Brașov Adventure Park or the Prejmer fortified church (20 min from Brașov) if the kids are tired.",
-     "he": "שעה ו-6 דקות חזרה לסינאיה, בסביבות 18:30. יום ארוך (בסך הכול 2:43 שעות נסיעה): אפשר לוותר על רכבל טמפה או להחליף את בראן בפארק ההרפתקאות בברשוב או בכנסייה המבוצרת בפרז'מר (20 דקות מברשוב) אם הילדים עייפים."
+     "en": "1h04 back to Sinaia, about 18:30. A long day (2h39 of driving in total): drop the Tâmpa cable car or swap Bran for the Brașov Adventure Park or the Prejmer fortified church (20 min from Brașov) if the kids are tired.",
+     "he": "שעה ו-4 דקות חזרה לסינאיה, בסביבות 18:30. יום ארוך (בסך הכול 2:39 שעות נסיעה): אפשר לוותר על רכבל טמפה או להחליף את בראן בפארק ההרפתקאות בברשוב או בכנסייה המבוצרת בפרז'מר (20 דקות מברשוב) אם הילדים עייפים."
     }
    ],
    "attractions": [
@@ -2539,14 +2590,14 @@
     "prejmer"
    ],
    "route": {
-    "km": 132.2,
-    "minutes": 163,
+    "km": 127.5,
+    "minutes": 159,
     "legs": [
      {
-      "from": "Hello Mountains Apartaments, Sinaia",
+      "from": "Hotel Carpathia, Sinaia",
       "to": "Brașov Council Square",
-      "km": 49.5,
-      "min": 62
+      "km": 46.9,
+      "min": 60
      },
      {
       "from": "Brașov Council Square",
@@ -2556,16 +2607,16 @@
      },
      {
       "from": "Bran Castle",
-      "to": "Hello Mountains Apartaments, Sinaia",
-      "km": 52.0,
-      "min": 66
+      "to": "Hotel Carpathia, Sinaia",
+      "km": 49.8,
+      "min": 64
      }
     ],
     "points": [
      {
-      "name": "Hello Mountains Apartaments, Sinaia",
-      "lat": 45.329813,
-      "lng": 25.560841
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
      },
      {
       "name": "Brașov Council Square",
@@ -2578,32 +2629,28 @@
       "lng": 25.36716
      },
      {
-      "name": "Hello Mountains Apartaments, Sinaia",
-      "lat": 45.329813,
-      "lng": 25.560841
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
      }
     ],
     "geometry": {
      "coordinates": [
       [
-       25.560873,
-       45.329702
+       25.546889,
+       45.346495
       ],
       [
-       25.548606,
-       45.346457
-      ],
-      [
-       25.555922,
-       45.356734
+       25.555727,
+       45.356088
       ],
       [
        25.542153,
        45.369417
       ],
       [
-       25.534466,
-       45.412487
+       25.534472,
+       45.412548
       ],
       [
        25.552607,
@@ -2654,8 +2701,8 @@
        45.555049
       ],
       [
-       25.658922,
-       45.610937
+       25.658896,
+       45.610735
       ],
       [
        25.632955,
@@ -2818,29 +2865,25 @@
        45.424671
       ],
       [
-       25.534463,
-       45.412414
+       25.534472,
+       45.412548
       ],
       [
        25.542153,
        45.369417
       ],
       [
-       25.555922,
-       45.356734
+       25.555727,
+       45.356088
       ],
       [
-       25.548459,
-       45.346709
-      ],
-      [
-       25.560873,
-       45.329702
+       25.546889,
+       45.346495
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.329813,25.560841&destination=45.329813,25.560841&travelmode=driving&waypoints=45.64213%2C25.58918%7C45.5149%2C25.36716"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.64213%2C25.58918%7C45.5149%2C25.36716"
    }
   },
   {
@@ -2855,19 +2898,19 @@
     "he": "דובים ודינוזאורים"
    },
    "trail": "blue",
-   "overnight": "hotel_sinaia",
+   "overnight": "hotel_carpathia",
    "plan": [
     {
-     "en": "Leave at 7:45 (Tuesday morning traffic towards the mountains is normal) – 1h06 to the Libearty Bear Sanctuary at Zărnești for the 9:45 guided tour (book ahead).",
-     "he": "יוצאים ב-7:45 (בוקר של יום שלישי, התנועה להרים רגילה) – שעה ו-6 דקות למקלט הדובים ליברטי בזרנשט לסיור המודרך של 9:45 (להזמין מראש)."
+     "en": "Leave at 7:45 (Tuesday morning traffic towards the mountains is normal) – 1h03 to the Libearty Bear Sanctuary at Zărnești for the 9:45 guided tour (book ahead).",
+     "he": "יוצאים ב-7:45 (בוקר של יום שלישי, התנועה להרים רגילה) – שעה ו-3 דקות למקלט הדובים ליברטי בזרנשט לסיור המודרך של 9:45 (להזמין מראש)."
     },
     {
      "en": "16 min to Dino Parc Râșnov: dinosaurs, playground and lunch; 2.5–3 h. Optional: the Râșnov Citadel next door (check that it is open).",
      "he": "16 דקות לדינו פארק ראשנוב: דינוזאורים, מגרש משחקים וארוחת צהריים; 2.5–3 שעות. אופציונלי: מצודת ראשנוב שלידו (לבדוק שפתוחה)."
     },
     {
-     "en": "0h54 back to Sinaia, about 17:00 (southbound traffic is normal on a Tuesday afternoon). Evening in the pool.",
-     "he": "54 דקות חזרה לסינאיה, בסביבות 17:00 (ביום שלישי אחר הצהריים התנועה דרומה רגילה). ערב בבריכה."
+     "en": "0h52 back to Sinaia, about 17:00 (southbound traffic is normal on a Tuesday afternoon). Evening in the pool.",
+     "he": "52 דקות חזרה לסינאיה, בסביבות 17:00 (ביום שלישי אחר הצהריים התנועה דרומה רגילה). ערב בבריכה."
     }
    ],
    "attractions": [
@@ -2876,14 +2919,14 @@
     "rasnov"
    ],
    "route": {
-    "km": 102.2,
-    "minutes": 135,
+    "km": 97.5,
+    "minutes": 132,
     "legs": [
      {
-      "from": "Hello Mountains Apartaments, Sinaia",
+      "from": "Hotel Carpathia, Sinaia",
       "to": "Libearty Bear Sanctuary, Zărnești",
-      "km": 50.0,
-      "min": 66
+      "km": 47.5,
+      "min": 63
      },
      {
       "from": "Libearty Bear Sanctuary, Zărnești",
@@ -2893,16 +2936,16 @@
      },
      {
       "from": "Dino Parc Râșnov",
-      "to": "Hello Mountains Apartaments, Sinaia",
-      "km": 42.3,
-      "min": 54
+      "to": "Hotel Carpathia, Sinaia",
+      "km": 40.1,
+      "min": 52
      }
     ],
     "points": [
      {
-      "name": "Hello Mountains Apartaments, Sinaia",
-      "lat": 45.329813,
-      "lng": 25.560841
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
      },
      {
       "name": "Libearty Bear Sanctuary, Zărnești",
@@ -2915,32 +2958,20 @@
       "lng": 25.47406
      },
      {
-      "name": "Hello Mountains Apartaments, Sinaia",
-      "lat": 45.329813,
-      "lng": 25.560841
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
      }
     ],
     "geometry": {
      "coordinates": [
       [
-       25.560873,
-       45.329702
+       25.546889,
+       45.346495
       ],
       [
-       25.564111,
-       45.329949
-      ],
-      [
-       25.552405,
-       45.336463
-      ],
-      [
-       25.548606,
-       45.346457
-      ],
-      [
-       25.555943,
-       45.356635
+       25.555727,
+       45.356088
       ],
       [
        25.542153,
@@ -2959,8 +2990,8 @@
        45.397743
       ],
       [
-       25.534463,
-       45.412414
+       25.534472,
+       45.412548
       ],
       [
        25.539466,
@@ -3263,8 +3294,8 @@
        45.418662
       ],
       [
-       25.534463,
-       45.412414
+       25.534472,
+       45.412548
       ],
       [
        25.535408,
@@ -3283,25 +3314,17 @@
        45.369417
       ],
       [
-       25.555922,
-       45.356734
+       25.555727,
+       45.356088
       ],
       [
-       25.548459,
-       45.346709
-      ],
-      [
-       25.552323,
-       45.336564
-      ],
-      [
-       25.560873,
-       45.329702
+       25.546889,
+       45.346495
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.329813,25.560841&destination=45.329813,25.560841&travelmode=driving&waypoints=45.59319%2C25.38531%7C45.59147%2C25.47406"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.59319%2C25.38531%7C45.59147%2C25.47406"
    }
   },
   {
@@ -3316,46 +3339,46 @@
     "he": "רכבל לרמת בוצ'ג'י ואחר צהריים בבריכה"
    },
    "trail": "blue",
-   "overnight": "hotel_sinaia",
+   "overnight": "hotel_carpathia",
    "plan": [
     {
-     "en": "Wednesday: be at the Bușteni cable car for the first ascent (about 8:30 on the 2026 winter timetable, so check the summer times; 14 min from Sinaia) – queues build up later; ride up to Babele, easy 10–15 min walk to the Sphinx and the rocks, jackets for the kids.",
-     "he": "יום רביעי: להיות ברכבל בושטני לעלייה הראשונה (בערך 8:30 לפי לוח החורף של 2026, לבדוק את שעות הקיץ; 14 דקות מסינאיה) – התורים גדלים מאוחר יותר; עולים לבבלה, הליכה קלה של 10–15 דקות לספינקס ולסלעים, ג'קטים לילדים."
+     "en": "Wednesday: be at the Bușteni cable car for the first ascent (about 8:30 on the 2026 winter timetable, so check the summer times; 11 min from Sinaia) – queues build up later; ride up to Babele, easy 10–15 min walk to the Sphinx and the rocks, jackets for the kids.",
+     "he": "יום רביעי: להיות ברכבל בושטני לעלייה הראשונה (בערך 8:30 לפי לוח החורף של 2026, לבדוק את שעות הקיץ; 11 דקות מסינאיה) – התורים גדלים מאוחר יותר; עולים לבבלה, הליכה קלה של 10–15 דקות לספינקס ולסלעים, ג'קטים לילדים."
     },
     {
      "en": "Down by about 11:30, lunch in Bușteni or Sinaia (back before the afternoon crowds).",
      "he": "יורדים בסביבות 11:30, ארוחת צהריים בבושטני או בסינאיה (חוזרים לפני ההמונים של אחר הצהריים)."
     },
     {
-     "en": "Afternoon: pool, sauna, playground; pack. Fill the tank for tomorrow.",
-     "he": "אחר הצהריים: בריכה, סאונה ומגרש משחקים; אורזים. מתדלקים לקראת מחר."
+     "en": "Afternoon: the hotel's indoor pool, saunas and hot tub (free spa access); pack. Fill the tank for tomorrow.",
+     "he": "אחר הצהריים: הבריכה המקורה, הסאונות והג'קוזי של המלון (ספא חינם); אורזים. מתדלקים לקראת מחר."
     }
    ],
    "attractions": [
     "babele"
    ],
    "route": {
-    "km": 22.8,
-    "minutes": 27,
+    "km": 18.1,
+    "minutes": 23,
     "legs": [
      {
-      "from": "Hello Mountains Apartaments, Sinaia",
+      "from": "Hotel Carpathia, Sinaia",
       "to": "Bușteni – Babele cable car",
-      "km": 11.5,
-      "min": 14
+      "km": 9.0,
+      "min": 11
      },
      {
       "from": "Bușteni – Babele cable car",
-      "to": "Hello Mountains Apartaments, Sinaia",
-      "km": 11.3,
-      "min": 14
+      "to": "Hotel Carpathia, Sinaia",
+      "km": 9.1,
+      "min": 12
      }
     ],
     "points": [
      {
-      "name": "Hello Mountains Apartaments, Sinaia",
-      "lat": 45.329813,
-      "lng": 25.560841
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
      },
      {
       "name": "Bușteni – Babele cable car",
@@ -3363,56 +3386,56 @@
       "lng": 25.52551
      },
      {
-      "name": "Hello Mountains Apartaments, Sinaia",
-      "lat": 45.329813,
-      "lng": 25.560841
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
      }
     ],
     "geometry": {
      "coordinates": [
       [
-       25.560873,
-       45.329702
+       25.546889,
+       45.346495
       ],
       [
-       25.564111,
-       45.329949
+       25.550138,
+       45.352237
       ],
       [
-       25.552405,
-       45.336463
+       25.551673,
+       45.352547
       ],
       [
-       25.552623,
-       45.338615
+       25.555646,
+       45.355735
       ],
       [
-       25.548606,
-       45.346457
+       25.55556,
+       45.356611
       ],
       [
-       25.555943,
-       45.356635
-      ],
-      [
-       25.555075,
-       45.358231
+       25.553898,
+       45.358841
       ],
       [
        25.550723,
        45.360427
       ],
       [
+       25.544053,
+       45.368254
+      ],
+      [
        25.542153,
        45.369417
       ],
       [
-       25.537411,
-       45.384282
+       25.537769,
+       45.382312
       ],
       [
-       25.537698,
-       45.38672
+       25.53767,
+       45.386658
       ],
       [
        25.540239,
@@ -3423,12 +3446,24 @@
        45.39457
       ],
       [
-       25.535408,
-       45.397743
+       25.535446,
+       45.397602
       ],
       [
-       25.535215,
-       45.409325
+       25.53454,
+       45.401309
+      ],
+      [
+       25.535135,
+       45.403029
+      ],
+      [
+       25.534654,
+       45.405179
+      ],
+      [
+       25.535259,
+       45.409016
       ],
       [
        25.534553,
@@ -3441,12 +3476,28 @@
       [
        25.530125,
        45.409313
+      ],
+      [
+       25.528794,
+       45.40964
       ],
       [
        25.525421,
        45.408702
       ],
       [
+       25.525165,
+       45.409174
+      ],
+      [
+       25.525564,
+       45.408664
+      ],
+      [
+       25.528297,
+       45.40953
+      ],
+      [
        25.530125,
        45.409313
       ],
@@ -3459,8 +3510,20 @@
        45.410631
       ],
       [
-       25.535215,
-       45.409325
+       25.535259,
+       45.409016
+      ],
+      [
+       25.534654,
+       45.405179
+      ],
+      [
+       25.535135,
+       45.403029
+      ],
+      [
+       25.534535,
+       45.401393
       ],
       [
        25.535408,
@@ -3475,65 +3538,57 @@
        45.389632
       ],
       [
-       25.537698,
-       45.38672
+       25.53767,
+       45.386658
       ],
       [
-       25.537411,
-       45.384282
+       25.537769,
+       45.382312
       ],
       [
        25.542153,
        45.369417
       ],
       [
+       25.544269,
+       45.367823
+      ],
+      [
        25.550723,
        45.360427
       ],
       [
-       25.555075,
-       45.358231
+       25.553898,
+       45.358841
       ],
       [
-       25.555943,
-       45.356635
+       25.55556,
+       45.356611
       ],
       [
-       25.551466,
-       45.351674
+       25.555646,
+       45.355735
       ],
       [
-       25.550676,
-       45.34834
+       25.553279,
+       45.354343
       ],
       [
-       25.548459,
-       45.346709
+       25.551673,
+       45.352547
       ],
       [
-       25.552623,
-       45.338615
+       25.550138,
+       45.352237
       ],
       [
-       25.552323,
-       45.336564
-      ],
-      [
-       25.557019,
-       45.332919
-      ],
-      [
-       25.558169,
-       45.330156
-      ],
-      [
-       25.560873,
-       45.329702
+       25.546889,
+       45.346495
       ]
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.329813,25.560841&destination=45.329813,25.560841&travelmode=driving&waypoints=45.40883%2C25.52551"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.40883%2C25.52551"
    }
   },
   {
@@ -3551,8 +3606,8 @@
    "overnight": "hotel_maison",
    "plan": [
     {
-     "en": "Check out and leave Sinaia by 8:30 – Thursday morning DN1 towards Bucharest is fine. 1h43 to the airport (106 km); return the car (5 rental days) before 11:00–12:00.",
-     "he": "צ'ק-אאוט ויציאה מסינאיה עד 8:30 – בבוקר של יום חמישי DN1 לכיוון בוקרשט פנוי. שעה ו-43 דקות לשדה (106 ק\"מ); מחזירים את הרכב (5 ימי השכרה) לפני 11:00–12:00."
+     "en": "Check out and leave Sinaia by 8:30 – Thursday morning DN1 towards Bucharest is fine. 1h46 to the airport (108 km); return the car (5 rental days) before 11:00–12:00.",
+     "he": "צ'ק-אאוט ויציאה מסינאיה עד 8:30 – בבוקר של יום חמישי DN1 לכיוון בוקרשט פנוי. שעה ו-46 דקות לשדה (108 ק\"מ); מחזירים את הרכב (5 ימי השכרה) לפני 11:00–12:00."
     },
     {
      "en": "Taxi to the apartment (32 min, about €20; ask for 2 child seats or use a booked airport taxi). Self check-in from 15:00 – ask the host for early check-in or bag storage; lunch nearby.",
@@ -3567,14 +3622,14 @@
     "cismigiu"
    ],
    "route": {
-    "km": 126.0,
-    "minutes": 134,
+    "km": 128.2,
+    "minutes": 137,
     "legs": [
      {
-      "from": "Hello Mountains Apartaments, Sinaia",
+      "from": "Hotel Carpathia, Sinaia",
       "to": "Bucharest Henri Coandă Airport (OTP) – car return",
-      "km": 106.2,
-      "min": 103
+      "km": 108.4,
+      "min": 106
      },
      {
       "from": "Bucharest Henri Coandă Airport (OTP) – car return",
@@ -3585,9 +3640,9 @@
     ],
     "points": [
      {
-      "name": "Hello Mountains Apartaments, Sinaia",
-      "lat": 45.329813,
-      "lng": 25.560841
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
      },
      {
       "name": "Bucharest Henri Coandă Airport (OTP) – car return",
@@ -3603,12 +3658,12 @@
     "geometry": {
      "coordinates": [
       [
-       25.560873,
-       45.329702
+       25.546889,
+       45.346495
       ],
       [
-       25.574063,
-       45.30754
+       25.57351,
+       45.307991
       ],
       [
        25.619042,
@@ -3709,7 +3764,7 @@
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.329813,25.560841&destination=44.43471,26.08686&travelmode=driving&waypoints=44.5711%2C26.0858"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=44.43471,26.08686&travelmode=driving&waypoints=44.5711%2C26.0858"
    }
   },
   {
@@ -3939,8 +3994,8 @@
   }
  ],
  "routes_total": {
-  "km": 524.1,
-  "minutes": 614
+  "km": 505.3,
+  "minutes": 596
  },
  "budget": {
   "lines": [
@@ -4009,11 +4064,11 @@
    },
    {
     "key": "fuel",
-    "eur": 65,
+    "eur": 62,
     "status": "estimate",
     "label": {
-     "en": "Fuel – ≈ 526 km",
-     "he": "דלק – כ-526 ק\"מ"
+     "en": "Fuel – ≈ 505 km",
+     "he": "דלק – כ-505 ק\"מ"
     }
    },
    {
@@ -4027,7 +4082,7 @@
    },
    {
     "key": "hotels",
-    "eur": 849.72,
+    "eur": 1420.88,
     "status": "live",
     "label": {
      "en": "Hotels – 2 stays, 9 nights, free cancellation",
@@ -4044,16 +4099,16 @@
     }
    }
   ],
-  "total_eur": 3456.72,
-  "live_part_eur": 2110.72,
+  "total_eur": 4024.88,
+  "live_part_eur": 2681.88,
   "attractions_local": 2897,
-  "fuel_km": 526
+  "fuel_km": 505
  },
  "ui": {
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Romania v1 research · prices checked 17–21 Oct 2026 · in the app 21 Oct 2026",
+   "eyebrow": "Romania v2 research · air-conditioning check 21 Oct 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -4119,7 +4174,7 @@
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Romania v1 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Romania v2 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Sinaia",
@@ -4139,12 +4194,14 @@
    "fl_bags": "Flights + bags",
    "car_short": "Car",
    "plan_eve": "evening arrival, late drive to the base",
-   "plan_day": "daytime arrival, straight to the base"
+   "plan_day": "daytime arrival, straight to the base",
+   "ac": "Air conditioning",
+   "ac_short": "A/C ✓"
   },
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "רומניה גרסה 1 · מחירים נבדקו 17–21.10.2026 · באפליקציה מ-21.10.2026",
+   "eyebrow": "רומניה גרסה 2 · בדיקת מיזוג אוויר 21.10.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -4210,7 +4267,7 @@
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "רומניה גרסה 1 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "רומניה גרסה 2 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "סינאיה",
@@ -4230,11 +4287,13 @@
    "fl_bags": "טיסות + כבודה",
    "car_short": "רכב",
    "plan_eve": "נחיתה בערב, נסיעה מאוחרת לבסיס",
-   "plan_day": "נחיתה ביום, ישר לבסיס"
+   "plan_day": "נחיתה ביום, ישר לבסיס",
+   "ac": "מיזוג אוויר",
+   "ac_short": "מזגן ✓"
   }
  },
  "approved": {
-  "version": "ro v1",
+  "version": "ro v2",
   "approved_on": "2026-10-21",
   "by": "traveller"
  },
