@@ -1,4 +1,5 @@
 {
+ "no_airport_hotel": false,
  "country": {
   "id": "pl",
   "name": {
@@ -278,8 +279,8 @@
   ],
   "baggage_eur": 320,
   "baggage_text": {
-   "en": " Total ≈ €320.",
-   "he": " סה\"כ כ-320 €."
+   "en": "Checked-bag rules differ by fare and airline; for the 2 suitcases and 2 cabin trolleys I assume about €160 per direction (estimate – check the fare conditions when booking). Total ≈ €320.",
+   "he": "כללי הכבודה משתנים לפי תעריף וחברה; ל-2 המזוודות ו-2 הטרולים אני מניח כ-160 € לכיוון (הערכה – לבדוק בתנאי התעריף בזמן ההזמנה). סה\"כ כ-320 €."
   },
   "note": {
    "en": "Live Google Flights prices found 17–18 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included.",

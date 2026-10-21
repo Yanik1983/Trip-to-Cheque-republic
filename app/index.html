@@ -841,7 +841,8 @@ footer .links a{font-weight:600}
 var DATA=null, OUTLINE=null, lang='he', tab='overview', selDay=1, mapSel='all', dest='cz';
 var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data.json',outline:'czechia.geojson',report:'../v5/index.html'},
  {id:'hu',he:'הונגריה',en:'Hungary',data:'trip-data-hu.json',outline:'hungary.geojson',report:'../hu/v1/index.html'},
- {id:'pl',he:'פולין',en:'Poland',data:'trip-data-pl.json',outline:'poland.geojson',report:'../pl/v2/index.html'}];
+ {id:'pl',he:'פולין',en:'Poland',data:'trip-data-pl.json',outline:'poland.geojson',report:'../pl/v2/index.html'},
+ {id:'ro',he:'רומניה',en:'Romania',data:'trip-data-ro.json',outline:'romania.geojson',report:'../ro/v1/index.html'}];
 var CACHE={};
 function DST(){return DESTS.filter(function(d){return d.id===dest})[0]||DESTS[0]}
 function AIRK(){return Object.keys(DATA.airports)[0]}
@@ -1063,10 +1064,10 @@ function destroyMaps(){destroyMap('main');destroyMap('day')}
 function baseMap(el){
   if(typeof L==='undefined'){el.innerHTML='<div class="note" style="margin:12px">'+esc(ST('map_fail'))+'</div>';return null}
   var m=L.map(el,{zoomSnap:0.25,scrollWheelZoom:false});
-  m.setView(DATA.map.center,DATA.map.zoom);
+  m.setView(DATA.map.center,DATA.map.zoom,{animate:false});
   if(OUTLINE){
     var og=L.geoJSON(OUTLINE,{style:{color:css('--outline'),weight:2,fillColor:css('--outline-fill'),fillOpacity:.10},interactive:false}).addTo(m);
-    try{m.fitBounds(og.getBounds(),{padding:[10,10]})}catch(e){}
+    try{m.fitBounds(og.getBounds(),{padding:[10,10],animate:false})}catch(e){}
     m._outlineBounds=og.getBounds();
   }
   var tl=DATA.map.tiles_online;
@@ -1147,7 +1148,7 @@ function drawMainRoutes(){
       note='<div class="note">'+esc(U('no_drive'))+'. '+esc(U(d.no_drive_key||'no_drive_city'))+'</div>';
     }
   }else if(m._outlineBounds)bounds=m._outlineBounds;
-  if(bounds)try{m.fitBounds(bounds,{padding:[24,24],maxZoom:14})}catch(e){}
+  if(bounds)try{m.fitBounds(bounds,{padding:[24,24],maxZoom:14,animate:false})}catch(e){}
   var n=$('#mapNote');if(n)n.innerHTML=note;
 }
 function buildDay(){
@@ -1194,8 +1195,8 @@ function renderAll(){
   afterShow();
 }
 function afterShow(){
-  if(tab==='map'){buildMain();if(maps.main)setTimeout(function(){if(maps.main){maps.main.invalidateSize();drawMainRoutes()}},60)}
-  if(tab==='days'){buildDay();if(maps.day)setTimeout(function(){if(maps.day)maps.day.invalidateSize()},60)}
+  if(tab==='map'){buildMain();if(maps.main)setTimeout(function(){if(maps.main){maps.main.invalidateSize({animate:false});drawMainRoutes()}},60)}
+  if(tab==='days'){buildDay();if(maps.day)setTimeout(function(){if(maps.day)maps.day.invalidateSize({animate:false})},60)}
 }
 function showTab(k){
   tab=k;
@@ -1208,7 +1209,7 @@ function setDay(n){
   selDay=n;
   destroyMap('day');
   $('#tab-days').innerHTML=vDays();
-  buildDay();if(maps.day)setTimeout(function(){if(maps.day)maps.day.invalidateSize()},60);
+  buildDay();if(maps.day)setTimeout(function(){if(maps.day)maps.day.invalidateSize({animate:false})},60);
   var b=$('#daypicker button[aria-pressed="true"]');if(b&&b.scrollIntoView)try{b.scrollIntoView({block:'nearest',inline:'center'})}catch(e){}
 }
 function setLang(l){

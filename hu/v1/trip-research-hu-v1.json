@@ -1,4 +1,5 @@
 {
+ "no_airport_hotel": false,
  "country": {
   "id": "hu",
   "name": {
@@ -315,8 +316,8 @@
   ],
   "baggage_eur": 360,
   "baggage_text": {
-   "en": "Wizz Air fares include only a small under-seat bag. Your 2 cabin trolleys need WIZZ Priority (≈ €10–59 each) and the 2 suitcases a 20 kg checked bag each (≈ €13–87), per direction; August prices sit at the top of the range, so ≈ €200 per direction (estimate). Total ≈ €360.",
-   "he": "במחיר של וויז אייר כלול רק תיק קטן מתחת למושב. 2 הטרולים שלכם צריכים WIZZ Priority (כ-10–59 € כל אחד) ו-2 המזוודות מזוודה רשומה של 20 ק\"ג כל אחת (כ-13–87 €), לכל כיוון; באוגוסט המחירים בקצה העליון, אז כ-200 € לכיוון (הערכה). סה\"כ כ-360 €."
+   "en": "Wizz Air fares include only a small under-seat bag. Your 2 cabin trolleys need WIZZ Priority (≈ €10–59 each) and the 2 suitcases a 20 kg checked bag each (≈ €13–87), per direction; August prices sit at the top of the range, so ≈ €200 per direction (estimate). Checked-bag rules differ by fare and airline; for the 2 suitcases and 2 cabin trolleys I assume about €160 per direction (estimate – check the fare conditions when booking). Total ≈ €360.",
+   "he": "במחיר של וויז אייר כלול רק תיק קטן מתחת למושב. 2 הטרולים שלכם צריכים WIZZ Priority (כ-10–59 € כל אחד) ו-2 המזוודות מזוודה רשומה של 20 ק\"ג כל אחת (כ-13–87 €), לכל כיוון; באוגוסט המחירים בקצה העליון, אז כ-200 € לכיוון (הערכה). כללי הכבודה משתנים לפי תעריף וחברה; ל-2 המזוודות ו-2 הטרולים אני מניח כ-160 € לכיוון (הערכה – לבדוק בתנאי התעריף בזמן ההזמנה). סה\"כ כ-360 €."
   },
   "note": {
    "en": "Live Google Flights prices found 17–18 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included.",
