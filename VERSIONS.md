@@ -26,7 +26,10 @@ Nothing is deleted: every version stays in the repository and on GitHub Pages, a
 
 **Rule from 21 Oct 2026: every hotel in every trip must have air conditioning (a must).** The v6 / v2 / v3 / v2 pages above implement it; the app still shows the previous approved versions until you approve.
 
-Every plan page has destination tabs at the top (Czechia · Hungary · Poland · Romania).
+| Slovenia | v1 (awaiting approval) | 21 Oct 2026 | `si/v1/` | Sun 15 – Tue 24 Aug 2027, 2 air-conditioned apartments: Lake Bled 5 nights, Ljubljana 4 nights, car Days 1–6; daytime arrival (SWISS) chosen over the €51 cheaper 21:50 Lufthansa landing, because car-rental desks at LJU are closed then. About €4,872. Data: `si/v1/trip-research-si-v1.json`. |
+| Georgia | v1 (awaiting approval) | 21 Oct 2026 | `ge/v1/` | Tue 17 – Thu 26 Aug 2027: Tbilisi night 1, Borjomi 4 nights, Tbilisi 4 nights (all air-conditioned), car Days 2–6; Israir out, Aegean back (04:35 departure). About €4,144. Israel's NSC level-3 travel warning (March 2026, per press) – check before booking. Data: `ge/v1/trip-research-ge-v1.json`. |
+
+Every plan page has destination tabs at the top (Czechia · Hungary · Poland · Romania · Slovenia · Georgia).
 
 Pages: https://yanik1983.github.io/Trip-to-Cheque-republic/ opens the latest Czech version.
 
