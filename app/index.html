@@ -711,6 +711,9 @@ h1,h2,h3{line-height:1.25;margin:0}
 .topbar{flex-wrap:wrap}
 .dsel{flex-basis:100%;display:flex;gap:6px;overflow-x:auto}
 .ac-line{color:var(--accent);margin:4px 0}
+.ils{color:var(--muted);font-weight:500;font-size:.85em;margin-inline-start:6px;white-space:nowrap}
+td.num .ils{display:block;margin:0}
+.ilsv{font-size:.6em;font-weight:600;color:var(--muted);margin-top:2px}
 .dsel button{flex:1 1 0;min-width:58px;min-height:44px;padding:4px 6px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--text);font:inherit;font-weight:700;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1.15}
 .dsel button small{font-size:11px;font-weight:600;color:var(--muted)}
 .dsel button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
@@ -848,6 +851,19 @@ var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data.json',outline:'c
  {id:'ge',he:'גאורגיה',en:'Georgia',data:'trip-data-ge.json',outline:'georgia.geojson',report:'../ge/v1/index.html'},
  {id:'de',he:'היער השחור',en:'Black Forest',data:'trip-data-de.json',outline:'germany.geojson',report:'../de/v1/index.html'}];
 var CACHE={};
+var FX={rate:null,date:null,live:false};
+(function(){try{var c=JSON.parse(localStorage.getItem('trip-fx-ils')||'null');if(c&&c.rate>0){FX.rate=c.rate;FX.date=c.date}}catch(e){}})();
+function loadFx(){
+  var srcs=[['https://api.frankfurter.dev/v1/latest?base=EUR&symbols=ILS',function(j){return [j.rates&&j.rates.ILS,j.date]}],
+            ['https://open.er-api.com/v6/latest/EUR',function(j){return [j.rates&&j.rates.ILS,j.time_last_update_unix?new Date(j.time_last_update_unix*1000).toISOString().slice(0,10):null]}]];
+  function tryi(i){if(i>=srcs.length)return;
+    fetch(srcs[i][0]).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(j){var v=srcs[i][1](j);if(!(v[0]>0))throw 0;
+      var changed=Math.abs((FX.rate||0)-v[0])>1e-6||!FX.live;FX.rate=v[0];FX.date=v[1];FX.live=true;
+      try{localStorage.setItem('trip-fx-ils',JSON.stringify({rate:FX.rate,date:FX.date}))}catch(e){}
+      if(changed&&DATA){var y=window.scrollY;renderAll();window.scrollTo(0,y)}
+    }).catch(function(){tryi(i+1)})}
+  tryi(0);
+}
 function DST(){return DESTS.filter(function(d){return d.id===dest})[0]||DESTS[0]}
 function AIRK(){return Object.keys(DATA.airports)[0]}
 function AIRP(){return DATA.airports[AIRK()]}
@@ -857,19 +873,19 @@ var DAYCOL=['#e6194b','#f58231','#b58900','#2e9e44','#0f8b8d','#2a7de1','#5a4fcf
 var S={
  he:{tabs:{overview:'סקירה',map:'מפה',days:'ימים',flights:'טיסות',hotels:'מלונות',car:'רכב',budget:'תקציב'},
   attractions:'אטרקציות',hotel:'מלון',arr_dep:'נחיתה והמראה',pickup:'איסוף רכב',dropoff:'החזרת רכב',
-  kids:'לילדים',book_total:'סה"כ',checkin:'צ\'ק-אין',checkout:'צ\'ק-אאוט',room:'החדר',alt:'חלופות',map_all:'הכל',
+  kids:'לילדים',fx_line:'שער חי: 1 € = ₪{x}',fx_live:'בנק אירופי (ECB), מתעדכן בפתיחה',fx_cached:'שער שמור (אין חיבור)',book_total:'סה"כ',checkin:'צ\'ק-אין',checkout:'צ\'ק-אאוט',room:'החדר',alt:'חלופות',map_all:'הכל',
   flightsel:'הטיסות שנבחרו',price:'מחיר',duration:'משך',baggage_fee:'עלות כבודה',lines:'פריטים',
   notes_driving:'הערות נהיגה',map_fail:'ספריית המפה לא נטענה.',
   err_t:'לא ניתן לטעון את נתוני הטיול',err_d:'הקובץ trip-data.json לא נטען. בדקו את החיבור, ופתחו את האפליקציה דרך שרת אינטרנט (לא ישירות כקובץ).',
-  report:'דוח מחקר גרסה 5',report4:'גרסה 4',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',plan_page:'דף התוכנית',dates_cmp:'השוואת תאריכים וטיסות',
+  report:'דוח מחקר גרסה 5',report4:'גרסה 4',report6:'תוכנית גרסה 6',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',plan_page:'דף התוכנית',dates_cmp:'השוואת תאריכים וטיסות',
   lang:'EN',overview_flights:'סיכום טיסות',total_car:'סה"כ רכב',sources:'מקורות'},
  en:{tabs:{overview:'Overview',map:'Map',days:'Days',flights:'Flights',hotels:'Hotels',car:'Car',budget:'Budget'},
   attractions:'Attractions',hotel:'Hotel',arr_dep:'Arrival & departure',pickup:'Car pick-up',dropoff:'Car return',
-  kids:'Kids',book_total:'Total',checkin:'Check-in',checkout:'Check-out',room:'Room',alt:'Alternatives',map_all:'All',
+  fx_line:'Live rate: €1 = ₪{x}',fx_live:'ECB reference rate, updated on open',fx_cached:'saved rate (offline)',kids:'Kids',book_total:'Total',checkin:'Check-in',checkout:'Check-out',room:'Room',alt:'Alternatives',map_all:'All',
   flightsel:'Chosen flights',price:'Price',duration:'Duration',baggage_fee:'Baggage fee',lines:'Items',
   notes_driving:'Driving notes',map_fail:'The map library did not load.',
   err_t:'Could not load the trip data',err_d:'The file trip-data.json did not load. Check your connection and open the app through a web server (not directly as a file).',
-  report:'Research report v5',report4:'v4',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',plan_page:'plan page',dates_cmp:'Dates and flights compared',
+  report:'Research report v5',report4:'v4',report6:'Plan v6',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',plan_page:'plan page',dates_cmp:'Dates and flights compared',
   lang:'עב',overview_flights:'Flights summary',total_car:'Car total',sources:'Sources'}
 };
 var ICON={
@@ -889,7 +905,11 @@ function T(o){if(o==null)return '';if(typeof o==='string'||typeof o==='number')r
 function U(k){var v=DATA.ui[lang][k];return typeof v==='string'?v:''}
 function ST(k){return S[lang][k]}
 function num(n){return Number(n).toLocaleString('en-US')}
-function eur(n){var i=Math.abs(n-Math.round(n))<1e-9;return '€'+Number(n).toLocaleString('en-US',{minimumFractionDigits:i?0:2,maximumFractionDigits:2})}
+function eur0(n){var i=Math.abs(n-Math.round(n))<1e-9;return '€'+Number(n).toLocaleString('en-US',{minimumFractionDigits:i?0:2,maximumFractionDigits:2})}
+function ils(n){return '₪'+Math.round(n*FX.rate).toLocaleString('en-US')}
+function eur(n){if(n==null||isNaN(n))return '';return '<span class="money" dir="ltr">'+eur0(n)+'</span>'+(FX.rate?'<span class="ils" dir="ltr">'+ils(n)+'</span>':'')}
+function eurT(n){return '\u2066'+eur0(n)+(FX.rate?' (≈ '+ils(n)+')':'')+'\u2069'}
+function fxLine(){if(!FX.rate)return '';var d=FX.date?fdate(FX.date):'';return fill(ST('fx_line'),FX.rate.toFixed(3))+(d?' · '+d:'')+' · '+(FX.live?ST('fx_live'):ST('fx_cached'))}
 function dur(m){var h=Math.floor(m/60),r=m%60;if(lang==='he'){return (h?h+' ש\' ':'')+r+' ד\''}return (h?h+'h ':'')+r+'m'}
 function fdate(iso,wd){var d=new Date(iso+'T00:00:00Z');var s=d.toLocaleDateString(lang==='he'?'he-IL':'en-GB',{day:'numeric',month:'short',year:'numeric',timeZone:'UTC'});return (wd?T(wd)+' ':'')+s}
 function fdt(iso){var p=iso.split('T');return fdate(p[0])+(p[1]?' '+p[1]:'')}
@@ -909,7 +929,7 @@ function renderTabbar(){
   }).join('');
 }
 function renderFooter(){
-  var r=dest==='cz'?'<a href="../v5/index.html">'+esc(ST('report'))+'</a> · <a href="../v4/index.html">'+esc(ST('report4'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a>'
+  var r=dest==='cz'?'<a href="../v6/index.html">'+esc(ST('report6'))+'</a> · <a href="../v5/index.html">'+esc(ST('report'))+'</a> · <a href="../v4/index.html">'+esc(ST('report4'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a>'
     :'<a href="'+DST().report+'">'+esc(T(DATA.version.label))+' – '+esc(ST('plan_page'))+'</a>';
   $('#foot').innerHTML='<div class="links">'+r+'</div><p>'+esc(ST('credits'))+'</p>';
 }
@@ -924,7 +944,7 @@ function vOverview(){
   var ch=DATA.flights.chosen;
   var h='<div class="card hero"><div class="muted">'+esc(T(DATA.version.label))+'</div><h1>'+esc(T(t.title))+'</h1><div class="dates">'+esc(fdate(t.dates.start))+' – '+esc(fdate(t.dates.end))+'</div><p>'+esc(T(t.lede))+'</p></div>';
   h+='<div class="stats">'+
-   '<div class="stat"><div class="k">'+esc(U('total'))+'</div><div class="v">'+eur(b.total_eur)+'</div><div class="s">'+esc(fill(U('live_of'),eur(b.live_part_eur)))+'</div></div>'+
+   '<div class="stat"><div class="k">'+esc(U('total'))+'</div><div class="v">'+esc(eur0(b.total_eur))+(FX.rate?'<div class="ilsv">'+esc(ils(b.total_eur))+'</div>':'')+'</div><div class="s">'+esc(fill(U('live_of'),eurT(b.live_part_eur)))+'</div></div>'+
    '<div class="stat"><div class="k">'+esc(U('flights'))+'</div><div class="v">'+(flB?eur(flB.eur):'')+'</div><div class="s">'+esc(ch.map(function(f){return f.flight}).join(' + '))+'</div></div>'+
    '<div class="stat"><div class="k">'+esc(U('bases'))+'</div><div class="v">'+esc(U('bases_v'))+'</div><div class="s">'+esc(U('bases_s'))+'</div></div>'+
    '<div class="stat"><div class="k">'+esc(U('driving'))+'</div><div class="v">'+num(DATA.car_km)+' '+esc(U('km'))+'</div><div class="s">'+esc(U('drive_s'))+'</div></div></div>';
@@ -1010,8 +1030,8 @@ function vBudget(){
   var h='<h2 class="sec-title">'+esc(U('sec_budget'))+'</h2>'+tableWrap('<table><thead><tr><th>'+esc(U('item'))+'</th><th class="num">€</th><th>'+esc(U('src'))+'</th></tr></thead><tbody>'+
    B.lines.map(function(l){return '<tr><td>'+esc(T(l.label))+'</td><td class="num">'+eur(l.eur)+'</td><td>'+statusBadge(l.status)+'</td></tr>'}).join('')+
    '<tr class="total"><td>'+esc(U('total'))+'</td><td class="num">'+eur(B.total_eur)+'</td><td></td></tr></tbody></table>');
-  h+='<div class="card"><div><b>'+esc(U('total'))+':</b> '+eur(B.total_eur)+'</div><div>'+esc(fill(U('live_of'),eur(B.live_part_eur)))+'</div></div>';
-  h+='<div class="note">'+esc(U('excluded'))+'</div><p class="muted">'+esc(U('legend'))+'</p>';
+  h+='<div class="card"><div><b>'+esc(U('total'))+':</b> '+eur(B.total_eur)+'</div><div>'+esc(fill(U('live_of'),eurT(B.live_part_eur)))+'</div></div>';
+  h+='<div class="note">'+esc(U('excluded'))+'</div><p class="muted">'+esc(U('legend'))+'</p>'+(FX.rate?'<p class="muted fx">'+esc(fxLine())+'</p>':'');
   return h;
 }
 
@@ -1276,6 +1296,7 @@ function initDest(){
   return DESTS.some(function(x){return x.id===q})?q:'cz';
 }
 loadDest(initDest());
+loadFx();
 })();
 </script>
 </body>
