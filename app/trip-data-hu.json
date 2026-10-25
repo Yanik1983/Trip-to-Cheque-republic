@@ -1,0 +1,4162 @@
+{
+ "no_airport_hotel": false,
+ "country": {
+  "id": "hu",
+  "name": {
+   "en": "Hungary",
+   "he": "הונגריה"
+  },
+  "currency": "HUF",
+  "per_eur": 363,
+  "airport": {
+   "code": "BUD",
+   "name": "Budapest Ferenc Liszt International Airport",
+   "lat": 47.433,
+   "lng": 19.2617
+  },
+  "city": {
+   "en": "Budapest",
+   "he": "בודפשט"
+  },
+  "base": {
+   "en": "Lake Balaton (Balatonfüred)",
+   "he": "אגם בלטון (בלטונפירד)"
+  }
+ },
+ "variant": "eve",
+ "version": {
+  "id": "v2",
+  "date": "2026-10-21",
+  "label": {
+   "en": "Hungary v2",
+   "he": "הונגריה גרסה 2"
+  }
+ },
+ "taxi_days": [
+  "D10"
+ ],
+ "car_km": 446.7,
+ "changes": [
+  {
+   "en": "What changed in v2: air conditioning is now a must in every hotel. All three hotels were checked on Booking.com and have free air conditioning in the family room or apartment, so the plan, dates, flights and prices are unchanged (about €4,306). What changed: the lists of alternative hotels now contain only air-conditioned options (Goldcentral Apartments was dropped), and every hotel shows an air-conditioning line.",
+   "he": "מה השתנה בגרסה 2: מיזוג אוויר הוא עכשיו חובה בכל מלון. שלושת המלונות נבדקו ב-Booking.com ובכולם יש מיזוג אוויר חינם בחדר המשפחתי או בדירה, ולכן התוכנית, התאריכים, הטיסות והמחירים לא השתנו (כ-4,306 €). מה שהשתנה: רשימות המלונות החלופיים כוללות עכשיו רק אפשרויות עם מיזוג אוויר (Goldcentral Apartments הוסר), ולכל מלון מופיעה שורת מיזוג אוויר."
+  },
+  {
+   "en": "Dates Mon 16 – Wed 25 Aug 2027 (evening arrival + airport night): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,670).",
+   "he": "תאריכים ב' 16 – ד' 25 באוגוסט 2027 (נחיתה בערב + לילה בשדה): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-3,670 €)."
+  },
+  {
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Wizz Air W6 2304 18:50→21:20; back: TAROM RO 232 + RO 155 09:15→23:20.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: וויז אייר W6 2304 18:50←21:20; חזור: טארום RO 232 + RO 155 09:15←23:20."
+  },
+  {
+   "en": "Next best: Sat 14 – Mon 23 Aug (evening arrival + airport night), flights + bags + hotels + car ≈ €3,722 (+€52); back TAROM 13:30→23:20.",
+   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה בערב + לילה בשדה), טיסות + כבודה + מלונות + רכב כ-3,722 € (+52 €); חזור טארום 13:30←23:20."
+  },
+  {
+   "en": "Next best: Sun 15 – Tue 24 Aug (evening arrival + airport night), flights + bags + hotels + car ≈ €3,860 (+€190); back TAROM 09:15→23:20.",
+   "he": "הבא בתור: א' 15 – ג' 24 באוגוסט (נחיתה בערב + לילה בשדה), טיסות + כבודה + מלונות + רכב כ-3,860 € (+190 €); חזור טארום 09:15←23:20."
+  },
+  {
+   "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
+   "he": "אותם כללים כמו בתוכנית לצ'כיה: בלי מעבר גבולות, עד 3 מלונות, כולם עם ביטול חינם, הרבה אטרקציות לילדים, מעט הליכה, ימים קצרים, בלי רכב בעיר."
+  }
+ ],
+ "trip": {
+  "dates": {
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "days": 10,
+   "nights": 9
+  },
+  "title": {
+   "en": "Hungary Family Trip: Lake Balaton & Budapest",
+   "he": "טיול משפחתי בהונגריה: אגם בלטון ובודפשט"
+  },
+  "lede": {
+   "en": "Mon 16 – Wed 25 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night next to Budapest Airport, then a rental car to Veszprém Zoo and 4 nights at Lake Balaton (apartment with a pool, beaches, a ferry, an aquapark and a boat ride inside a cave), and finally 4 nights in a Budapest apartment without a car (zoo, Margaret Island pools, the Children's Railway, a chairlift and a Danube cruise).",
+   "he": "ב' 16 – ד' 25 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד צמוד לשדה התעופה של בודפשט, אחר כך רכב שכור לגן החיות של וספרם ו-4 לילות באגם בלטון (דירה עם בריכה, חופים, מעבורת, פארק מים ושיט בסירה בתוך מערה), ולסיום 4 לילות בדירה בבודפשט בלי רכב (גן חיות, הבריכות באי מרגיט, רכבת הילדים, רכבל כיסאות ושיט בדנובה)."
+  }
+ },
+ "currency": "EUR",
+ "local_per_eur": 363,
+ "local_currency": "HUF",
+ "flights": {
+  "chosen": [
+   {
+    "dir": {
+     "en": "Outbound",
+     "he": "הלוך"
+    },
+    "date": "2027-08-16",
+    "wd": {
+     "en": "Mon",
+     "he": "ב'"
+    },
+    "flight": "W6 2304",
+    "airline": "Wizz Air",
+    "from": "TLV",
+    "to": "BUD",
+    "dep": "18:50",
+    "arr": "21:20",
+    "duration": "3h 30m",
+    "price_eur": 520
+   },
+   {
+    "dir": {
+     "en": "Return",
+     "he": "חזור"
+    },
+    "date": "2027-08-25",
+    "wd": {
+     "en": "Wed",
+     "he": "ד'"
+    },
+    "flight": "RO 232 + RO 155",
+    "airline": "TAROM",
+    "from": "BUD",
+    "to": "TLV",
+    "dep": "09:15",
+    "arr": "23:20",
+    "duration": "13h 5m",
+    "price_eur": 688
+   }
+  ],
+  "evening_outbound_options": [
+   {
+    "what": {
+     "en": "Wizz Air W6 2304 · 18:50 → 21:20 · nonstop",
+     "he": "וויז אייר W6 2304 · 18:50 → 21:20 · ישירה"
+    },
+    "when": {
+     "en": "Mon 16 Aug",
+     "he": "ב' 16 באוגוסט"
+    },
+    "price_eur": 520,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "Wizz Air W6 2306 · 20:55 → 23:25 · nonstop",
+     "he": "וויז אייר W6 2306 · 20:55 → 23:25 · ישירה"
+    },
+    "when": {
+     "en": "Mon 16 Aug",
+     "he": "ב' 16 באוגוסט"
+    },
+    "price_eur": 520,
+    "note": {
+     "en": "Same price.",
+     "he": "אותו מחיר."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Wizz Air W6 2302 · 10:10 → 12:40 · nonstop",
+     "he": "וויז אייר W6 2302 · 10:10 → 12:40 · ישירה"
+    },
+    "when": {
+     "en": "Mon 16 Aug",
+     "he": "ב' 16 באוגוסט"
+    },
+    "price_eur": 720,
+    "note": {
+     "en": "€200 more.",
+     "he": "יקרה ב-200 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "El Al LY 2367 · 19:40 → 22:05 · nonstop",
+     "he": "אל על LY 2367 · 19:40 → 22:05 · ישירה"
+    },
+    "when": {
+     "en": "Mon 16 Aug",
+     "he": "ב' 16 באוגוסט"
+    },
+    "price_eur": 761,
+    "note": {
+     "en": "€241 more.",
+     "he": "יקרה ב-241 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 927 + A3 878 · 19:55 → 18:20 (+1) · 1 stop ",
+     "he": "אגיאן A3 927 + A3 878 · 19:55 → 18:20 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Mon 16 Aug",
+     "he": "ב' 16 באוגוסט"
+    },
+    "price_eur": 774,
+    "note": {
+     "en": "€254 more; 23 hr 25 min with a connection; arrives the next day.",
+     "he": "יקרה ב-254 €; 23 שע׳ 25 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "SWISS LX 253 + LX 2250 · 18:15 → 08:55 (+1) · 1 stop ",
+     "he": "סוויס LX 253 + LX 2250 · 18:15 → 08:55 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Mon 16 Aug",
+     "he": "ב' 16 באוגוסט"
+    },
+    "price_eur": 850,
+    "note": {
+     "en": "€330 more; 15 hr 40 min with a connection; arrives the next day.",
+     "he": "יקרה ב-330 €; 15 שע׳ 40 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   }
+  ],
+  "return_options": [
+   {
+    "what": {
+     "en": "TAROM RO 232 + RO 155 · 09:15 → 23:20 · 1 stop ",
+     "he": "טארום RO 232 + RO 155 · 09:15 → 23:20 · עצירה ב"
+    },
+    "when": {
+     "en": "Wed 25 Aug",
+     "he": "ד' 25 באוגוסט"
+    },
+    "price_eur": 688,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "Wizz Air W6 2301 · 05:00 → 09:15 · nonstop",
+     "he": "וויז אייר W6 2301 · 05:00 → 09:15 · ישירה"
+    },
+    "when": {
+     "en": "Wed 25 Aug",
+     "he": "ד' 25 באוגוסט"
+    },
+    "price_eur": 951,
+    "note": {
+     "en": "€263 more.",
+     "he": "יקרה ב-263 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "El Al LY 2368 · 23:15 → 03:20 (+1) · nonstop",
+     "he": "אל על LY 2368 · 23:15 → 03:20 (+1) · ישירה"
+    },
+    "when": {
+     "en": "Wed 25 Aug",
+     "he": "ד' 25 באוגוסט"
+    },
+    "price_eur": 1127,
+    "note": {
+     "en": "€439 more; arrives the next day.",
+     "he": "יקרה ב-439 €; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "El Al LY 2366 · 09:10 → 13:15 · nonstop",
+     "he": "אל על LY 2366 · 09:10 → 13:15 · ישירה"
+    },
+    "when": {
+     "en": "Wed 25 Aug",
+     "he": "ד' 25 באוגוסט"
+    },
+    "price_eur": 1258,
+    "note": {
+     "en": "€570 more.",
+     "he": "יקרה ב-570 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Brussels Airlines SN 2826 + SN 3293 · 18:00 → 02:40 (+1) · 1 stop ",
+     "he": "בריסל איירליינס SN 2826 + SN 3293 · 18:00 → 02:40 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Wed 25 Aug",
+     "he": "ד' 25 באוגוסט"
+    },
+    "price_eur": 965,
+    "note": {
+     "en": "€277 more; 7 hr 40 min with a connection; arrives the next day.",
+     "he": "יקרה ב-277 €; 7 שע׳ 40 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "SWISS LX 2251 + LX 256 · 09:45 → 03:35 (+1) · 1 stop ",
+     "he": "סוויס LX 2251 + LX 256 · 09:45 → 03:35 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Wed 25 Aug",
+     "he": "ד' 25 באוגוסט"
+    },
+    "price_eur": 1004,
+    "note": {
+     "en": "€316 more; 16 hr 50 min with a connection; arrives the next day.",
+     "he": "יקרה ב-316 €; 16 שע׳ 50 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   }
+  ],
+  "baggage_eur": 360,
+  "baggage_text": {
+   "en": "Wizz Air fares include only a small under-seat bag. Your 2 cabin trolleys need WIZZ Priority (≈ €10–59 each) and the 2 suitcases a 20 kg checked bag each (≈ €13–87), per direction; August prices sit at the top of the range, so ≈ €200 per direction (estimate). Checked-bag rules differ by fare and airline; for the 2 suitcases and 2 cabin trolleys I assume about €160 per direction (estimate – check the fare conditions when booking). Total ≈ €360.",
+   "he": "במחיר של וויז אייר כלול רק תיק קטן מתחת למושב. 2 הטרולים שלכם צריכים WIZZ Priority (כ-10–59 € כל אחד) ו-2 המזוודות מזוודה רשומה של 20 ק\"ג כל אחת (כ-13–87 €), לכל כיוון; באוגוסט המחירים בקצה העליון, אז כ-200 € לכיוון (הערכה). כללי הכבודה משתנים לפי תעריף וחברה; ל-2 המזוודות ו-2 הטרולים אני מניח כ-160 € לכיוון (הערכה – לבדוק בתנאי התעריף בזמן ההזמנה). סה\"כ כ-360 €."
+  },
+  "note": {
+   "en": "Live Google Flights prices found 17–18 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included.",
+   "he": "מחירים חיים מ-Google Flights מ-17–18.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה."
+  }
+ },
+ "date_options": [
+  {
+   "total_eur": 3670.2,
+   "plan": "eve",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 520,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2304",
+    "dep": "18:50",
+    "arr": "21:20"
+   },
+   "back": {
+    "eur": 688,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 232 + RO 155",
+    "dep": "09:15",
+    "arr": "23:20"
+   },
+   "hotels_eur": 1810.2,
+   "car_eur": 292,
+   "chosen": true
+  },
+  {
+   "total_eur": 3722.41,
+   "plan": "eve",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 600,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2304",
+    "dep": "18:50",
+    "arr": "21:20"
+   },
+   "back": {
+    "eur": 611,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 232 + RO 155",
+    "dep": "13:30",
+    "arr": "23:20"
+   },
+   "hotels_eur": 1859.41,
+   "car_eur": 292,
+   "chosen": false
+  },
+  {
+   "total_eur": 3859.89,
+   "plan": "eve",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 660,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2306",
+    "dep": "20:55",
+    "arr": "23:25"
+   },
+   "back": {
+    "eur": 688,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 232 + RO 155",
+    "dep": "09:15",
+    "arr": "23:20"
+   },
+   "hotels_eur": 1859.89,
+   "car_eur": 292,
+   "chosen": false
+  },
+  {
+   "total_eur": 3920.6,
+   "plan": "day",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 720,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2302",
+    "dep": "10:10",
+    "arr": "12:40"
+   },
+   "back": {
+    "eur": 688,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 232 + RO 155",
+    "dep": "09:15",
+    "arr": "23:20"
+   },
+   "hotels_eur": 1787.6,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 3974.41,
+   "plan": "eve",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 440,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2306",
+    "dep": "20:55",
+    "arr": "23:25"
+   },
+   "back": {
+    "eur": 1012,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 632 + OS 81",
+    "dep": "11:15",
+    "arr": "17:45"
+   },
+   "hotels_eur": 1870.41,
+   "car_eur": 292,
+   "chosen": false
+  },
+  {
+   "total_eur": 4008.81,
+   "plan": "day",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 850,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257 + LX 2254",
+    "dep": "04:50",
+    "arr": "14:00"
+   },
+   "back": {
+    "eur": 611,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 232 + RO 155",
+    "dep": "13:30",
+    "arr": "23:20"
+   },
+   "hotels_eur": 1862.81,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4018.5,
+   "plan": "eve",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 520,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2306",
+    "dep": "20:55",
+    "arr": "23:25"
+   },
+   "back": {
+    "eur": 1056,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2301",
+    "dep": "05:00",
+    "arr": "09:15"
+   },
+   "hotels_eur": 1750.5,
+   "car_eur": 292,
+   "chosen": false
+  },
+  {
+   "total_eur": 4148.9,
+   "plan": "day",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 600,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2302",
+    "dep": "10:10",
+    "arr": "12:40"
+   },
+   "back": {
+    "eur": 1056,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2301",
+    "dep": "05:00",
+    "arr": "09:15"
+   },
+   "hotels_eur": 1727.9,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4160.02,
+   "plan": "eve",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 520,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2304",
+    "dep": "18:50",
+    "arr": "21:20"
+   },
+   "back": {
+    "eur": 1222,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 640 + OS 81",
+    "dep": "06:45",
+    "arr": "17:45"
+   },
+   "hotels_eur": 1766.02,
+   "car_eur": 292,
+   "chosen": false
+  },
+  {
+   "total_eur": 4259.71,
+   "plan": "eve",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 560,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2304",
+    "dep": "18:50",
+    "arr": "21:20"
+   },
+   "back": {
+    "eur": 1222,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 632 + OS 81",
+    "dep": "11:15",
+    "arr": "17:45"
+   },
+   "hotels_eur": 1825.71,
+   "car_eur": 292,
+   "chosen": false
+  },
+  {
+   "total_eur": 4310.29,
+   "plan": "day",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 1090,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 84 + OS 631",
+    "dep": "06:00",
+    "arr": "10:35"
+   },
+   "back": {
+    "eur": 688,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 232 + RO 155",
+    "dep": "09:15",
+    "arr": "23:20"
+   },
+   "hotels_eur": 1847.29,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4409.81,
+   "plan": "day",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 850,
+    "bags_eur": 160,
+    "airline": "El Al",
+    "flight": "LY 2365",
+    "dep": "05:35",
+    "arr": "08:00"
+   },
+   "back": {
+    "eur": 1012,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 632 + OS 81",
+    "dep": "11:15",
+    "arr": "17:45"
+   },
+   "hotels_eur": 1862.81,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4490.42,
+   "plan": "day",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 800,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2302",
+    "dep": "10:10",
+    "arr": "12:40"
+   },
+   "back": {
+    "eur": 1222,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 640 + OS 81",
+    "dep": "06:45",
+    "arr": "17:45"
+   },
+   "hotels_eur": 1743.42,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4650.11,
+   "plan": "day",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 900,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2302",
+    "dep": "10:10",
+    "arr": "12:40"
+   },
+   "back": {
+    "eur": 1222,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 632 + OS 81",
+    "dep": "11:15",
+    "arr": "17:45"
+   },
+   "hotels_eur": 1803.11,
+   "car_eur": 365,
+   "chosen": false
+  }
+ ],
+ "airports": {
+  "BUD": {
+   "name": "Budapest Ferenc Liszt International Airport",
+   "lat": 47.433,
+   "lng": 19.2617,
+   "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.433000,19.261700&travelmode=driving"
+  }
+ },
+ "sources": [
+  [
+   "Vintrica – Hungarian e-vignette prices 2026",
+   "https://vintrica.com/hu/blog/matrica-magyarorszag-2026-arak/"
+  ],
+  [
+   "VisitWorld – toll roads and traffic rules in Hungary 2026",
+   "https://visitworld.today/blog/4368/toll-roads-and-traffic-rules-in-hungary-in-2026-what-tourists-need-to-know"
+  ],
+  [
+   "MotoGP Hungary – traffic rules (child seats)",
+   "https://www.motogphungary.com/en/traffic-rules-in-hungary-1"
+  ],
+  [
+   "Daily News Hungary – driving rules",
+   "https://dailynewshungary.com/driving-in-hungary-rules-and-customs/"
+  ],
+  [
+   "Holtankoljak – fuel price changes (Oct 2026)",
+   "https://holtankoljak.hu/uzemanyag_arvaltozasok"
+  ],
+  [
+   "Cheapflights – car rental at Budapest Airport (monthly averages)",
+   "https://www.cheapflights.co.nz/car-rentals/Ferenc-Liszt-Intl/"
+  ],
+  [
+   "BKK – ticket and pass prices",
+   "https://bkk.hu/jegyek-es-berletek/arak/"
+  ],
+  [
+   "BKK – free travel under 14 (Hungarian student ID)",
+   "https://bkk.hu/en/news/2021/09/the-decision-of-the-general-assembly-of-the-municipality-of-budapest-free-travel-to-passengers-under-the-age-of-14-from-2-september.6741/"
+  ],
+  [
+   "Wise – EUR/HUF history (MNB 363.29 on 16 Oct 2026)",
+   "https://wise.com/us/currency-converter/eur-to-huf-rate/history"
+  ],
+  [
+   "sendmybag.com – Wizz Air baggage 2026",
+   "https://www.sendmybag.com/airlines/wizz-air-baggage-allowance/"
+  ],
+  [
+   "aifly – El Al baggage",
+   "https://aifly.one/guides/el-al-baggage-allowance/"
+  ]
+ ],
+ "car": {
+  "lines": [
+   [
+    {
+     "en": "Estate car, automatic, 4 days (≈ €60/day), Tue 17 – Sat 21 Aug",
+     "he": "רכב סטיישן אוטומטי, 4 ימים (כ-60 € ליום), ג' 17 – ש' 21 באוגוסט"
+    },
+    240,
+    true
+   ],
+   [
+    {
+     "en": "2 child boosters, 4 days (€0 if you bring your own)",
+     "he": "2 בוסטרים לילדים, 4 ימים (0 € אם מביאים משלכם)"
+    },
+    52,
+    true
+   ],
+   [
+    {
+     "en": "Motorway e-vignette (usually included with Hungarian rental cars; otherwise 10-day D1 e-matrica 6,900 HUF ≈ €19)",
+     "he": "מדבקת כביש מהיר אלקטרונית (בדרך כלל כלולה ברכב שכור הונגרי; אחרת e-matrica ל-10 ימים 6,900 פורינט, כ-19 €)"
+    },
+    0,
+    true
+   ],
+   [
+    {
+     "en": "Cross-border fee (no border crossings)",
+     "he": "עמלת מעבר גבול (אין מעבר גבול)"
+    },
+    0,
+    false
+   ],
+   [
+    {
+     "en": "One-way fee (pick-up and return at the airport)",
+     "he": "עמלת החזרה במקום אחר (איסוף והחזרה בשדה התעופה)"
+    },
+    0,
+    false
+   ]
+  ],
+  "text": {
+   "en": "Pick-up Budapest Airport (Terminal 2) Tue 17 Aug 11:00, return Sat 21 Aug by 11:00 (4 days; check the grace period). Category: intermediate/standard estate, e.g. Škoda Octavia Combi automatic – 2 large suitcases + 2 trolleys in the boot, 2 high-back boosters on the rear seat. The price is an estimate (August averages for BUD are about $59/day for all classes; an automatic estate costs more). Confirm the e-vignette (e-matrica) is included.",
+   "he": "איסוף בשדה התעופה של בודפשט (טרמינל 2) ב-ג' 17 באוגוסט ב-11:00, החזרה ב-ש' 21 באוגוסט עד 11:00 (4 ימים; לבדוק את זמן החסד). קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית – 2 מזוודות גדולות ו-2 טרולים בתא המטען, 2 בוסטרים עם גב במושב האחורי. המחיר הוא הערכה (הממוצע באוגוסט בשדה של בודפשט כ-59 $ ליום לכל הקטגוריות; סטיישן אוטומטי יקר יותר). לוודא שמדבקת הכביש המהיר (e-matrica) כלולה."
+  },
+  "pickup": {
+   "place": "Budapest Ferenc Liszt International Airport",
+   "lat": 47.433,
+   "lng": 19.2617,
+   "when": "2027-08-17T11:00",
+   "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.433000,19.261700&travelmode=driving"
+  },
+  "dropoff": {
+   "place": "Budapest Ferenc Liszt International Airport",
+   "lat": 47.433,
+   "lng": 19.2617,
+   "when": "2027-08-21T11:00",
+   "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.433000,19.261700&travelmode=driving"
+  }
+ },
+ "driving_notes": [
+  {
+   "en": "Motorways (M0, M7) need an e-vignette (e-matrica) linked to the number plate – usually included with rental cars. 2026 price for 10 days: 6,900 HUF.",
+   "he": "בכבישים המהירים (M0, M7) צריך מדבקה אלקטרונית (e-matrica) שמקושרת ללוחית הרישוי – בדרך כלל כלולה ברכב שכור. מחיר 2026 ל-10 ימים: 6,900 פורינט."
+  },
+  {
+   "en": "Children under 150 cm need a child seat; high-back boosters suit ages 5 and 7. Children may not sit in the front without a suitable seat.",
+   "he": "ילדים מתחת ל-150 ס\"מ חייבים מושב בטיחות; בוסטר עם גב מתאים לגילאי 5 ו-7. אסור לילדים לשבת מקדימה בלי מושב מתאים."
+  },
+  {
+   "en": "Dipped headlights (or daytime running lights) on outside towns, also by day. Zero alcohol (0.0‰). Speed limits 50 / 90 / 110 (expressway) / 130 km/h (motorway).",
+   "he": "אורות נמוכים (או אורות יום) דולקים מחוץ לערים, גם ביום. אפס אלכוהול (0.0‰). מהירות 50 / 90 / 110 (דרך מהירה) / 130 קמ\"ש (כביש מהיר)."
+  },
+  {
+   "en": "Parking at Balaton beaches, Tihany and Tapolca is paid in summer (machines or a parking app). In Budapest you have no car. Petrol ≈ 642 HUF/l (≈ €1.77, Oct 2026).",
+   "he": "החניה בחופי הבלטון, בטיהאני ובטאפולצה בתשלום בקיץ (מכונות או אפליקציית חניה). בבודפשט אין רכב. דלק כ-642 פורינט לליטר (כ-1.77 €, אוקטובר 2026)."
+  },
+  {
+   "en": "Taxis in Budapest: order a licensed taxi (e.g. Főtaxi, also at the airport taxi stand) and ask for 2 child seats when booking.",
+   "he": "מוניות בבודפשט: להזמין מונית מורשית (למשל Főtaxi, גם בעמדת המוניות בשדה) ולבקש 2 מושבי ילדים בהזמנה."
+  }
+ ],
+ "hotels": [
+  {
+   "id": "hotel_ibisair",
+   "gkey": "hotel_ibisair",
+   "name": "ibis Styles Budapest Airport",
+   "area": {
+    "en": "Budapest Airport, Terminal 2 (about 3 min walk to arrivals)",
+    "he": "שדה התעופה של בודפשט, טרמינל 2 (כ-3 דקות הליכה מהנחיתות)"
+   },
+   "checkin": "2027-08-16",
+   "checkout": "2027-08-17",
+   "nights": 1,
+   "total_eur": 234.8,
+   "booking_score": 8.5,
+   "booking_reviews": 9908,
+   "booking_url": "https://www.booking.com/hotel/hu/ibis-styles-budapest-airport.html?checkin=2027-08-16&checkout=2027-08-17&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Suite with a double bed and a sofa bed for 2 adults + 2 children, free cancellation. Breakfast included (per Booking.com Q&A). 24-hour reception, so the late landing is fine; the hotel is at Terminal 2, a few minutes on foot. Indoor play area. Confirm the sofa bed for 2 kids when booking.",
+    "he": "סוויטה עם מיטה זוגית וספה נפתחת ל-2 מבוגרים ו-2 ילדים, ביטול חינם. ארוחת בוקר כלולה (לפי Booking.com). קבלה 24 שעות, כך שנחיתה מאוחרת אינה בעיה; המלון בטרמינל 2, כמה דקות הליכה. יש פינת משחקים מקורה. כדאי לוודא בהזמנה שהספה מתאימה לשני הילדים."
+   },
+   "alt": {
+    "en": "Only options with air conditioning. Same building: TRIBE Budapest Airport €242 (Booking 9.0, 3,937 reviews; 'Tribe Max' room for 4, breakfast €22 per person extra). Budapest Airport Hotel Stáció €210.80 (Booking 9.2, 1,600 reviews; free 24/7 shuttle, indoor pool, breakfast included; about 5 min by shuttle). Cheapest: Vecsési Panzió €90.01 (Booking 9.1, 2,555 reviews), but a taxi is needed. (Alternative prices were checked for 17–26 Aug.)",
+    "he": "רק אפשרויות עם מיזוג אוויר. באותו בניין: TRIBE Budapest Airport ב-242 € (Booking 9.0, 3,937 ביקורות; חדר 'Tribe Max' ל-4, ארוחת בוקר 22 € לאדם בתוספת). Budapest Airport Hotel Stáció ב-210.80 € (Booking 9.2, 1,600 ביקורות; שאטל חינם 24/7, בריכה מקורה, ארוחת בוקר כלולה; כ-5 דקות בשאטל). הזול ביותר: Vecsési Panzió ב-90.01 € (Booking 9.1, 2,555 ביקורות), אבל צריך מונית. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+   },
+   "google": {
+    "name": "ibis Styles Budapest Airport",
+    "rating": 4.4,
+    "reviews": 3314,
+    "lat": 47.42978,
+    "lng": 19.262217,
+    "address": "Terminal2, Budapest Ferenc Liszt International Airport, Budapest, Hrsz 072 3, 1185 Hungary",
+    "website": "https://all.accor.com/lien_externe.svlt?goto=fiche_hotel&code_hotel=B0I7&merchantid=seo-maps-HU-B0I7&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps",
+    "place_id": "ChIJybXMj7HBQUcRMrZCBER2ArM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=ibis%20Styles%20Budapest%20Airport&query_place_id=ChIJybXMj7HBQUcRMrZCBER2ArM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.429780,19.262217&travelmode=driving"
+   },
+   "ac": {
+    "en": "Yes – the family room is air-conditioned, at no extra charge (Booking.com, 21 Oct 2026).",
+    "he": "יש – החדר המשפחתי ממוזג, בלי תוספת תשלום (Booking.com, 21.10.2026)."
+   },
+   "photos": [
+    {
+     "file": "img/hu/hotel_ibisair-1.jpg",
+     "w": 1000,
+     "h": 750,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=ibis%20Styles%20Budapest%20Airport&query_place_id=ChIJybXMj7HBQUcRMrZCBER2ArM",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hu/hotel_ibisair-2.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=ibis%20Styles%20Budapest%20Airport&query_place_id=ChIJybXMj7HBQUcRMrZCBER2ArM",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 234.8,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 8.5,
+     "out_of": 10,
+     "reviews": 9908,
+     "url": "https://www.booking.com/hotel/hu/ibis-styles-budapest-airport.html?checkin=2027-08-16&checkout=2027-08-17&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.4,
+     "out_of": 5,
+     "reviews": 3314,
+     "url": "https://www.google.com/maps/search/?api=1&query=ibis%20Styles%20Budapest%20Airport&query_place_id=ChIJybXMj7HBQUcRMrZCBER2ArM"
+    }
+   ]
+  },
+  {
+   "id": "hotel_forras",
+   "gkey": "hotel_forras",
+   "name": "Landhaus Forrás",
+   "area": {
+    "en": "Balatonfüred, north shore of Lake Balaton (2.4 km to Esterházy Beach, 15 min to Tihany, 22 min to Veszprém Zoo)",
+    "he": "בלטונפירד, החוף הצפוני של אגם בלטון (2.4 ק\"מ לחוף אסטרהאזי, 15 דקות לטיהאני, 22 דקות לגן החיות של וספרם)"
+   },
+   "checkin": "2027-08-17",
+   "checkout": "2027-08-21",
+   "nights": 4,
+   "total_eur": 918.8,
+   "booking_score": 9.0,
+   "booking_reviews": 43,
+   "booking_url": "https://www.booking.com/hotel/hu/landhaus-forra-s.html?checkin=2027-08-17&checkout=2027-08-21&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Two-bedroom apartment (sleeps up to 5) with a full kitchen (dishwasher, microwave), free cancellation. Seasonal outdoor pool in the garden under a retractable cover, garden with BBQ, free private parking. Check-in from 15:00, check-out by 10:00. The pool is not very big; the lake beaches are a 5–10 min drive.",
+    "he": "דירת 2 חדרי שינה (עד 5) עם מטבח מלא (מדיח, מיקרוגל), ביטול חינם. בריכה חיצונית עונתית בגינה עם כיסוי נפתח, גינה עם מנגל, חניה פרטית חינם. צ'ק-אין מ-15:00, צ'ק-אאוט עד 10:00. הבריכה לא גדולה; החופים של האגם במרחק 5–10 דקות נסיעה."
+   },
+   "alt": {
+    "en": "Only options with air conditioning. South shore (very shallow water), with a pool: Happy Apartments, Balatonlelle, €909.64 (Booking 9.1, 124 reviews). Cheaper, no pool: Robinson szigete, Balatonfüred, €513.68 (Booking 9.2, 322 reviews, playground). Indoor pool and kids' play equipment: Balazs Villa, Balatonfüred, €1,057.42 (Booking 8.7, 173 reviews). (Alternative prices were checked for 17–26 Aug.)",
+    "he": "רק אפשרויות עם מיזוג אוויר. החוף הדרומי (מים רדודים מאוד), עם בריכה: Happy Apartments, בלטונלה, ב-909.64 € (Booking 9.1, 124 ביקורות). זול יותר, בלי בריכה: Robinson szigete, בלטונפיורד, ב-513.68 € (Booking 9.2, 322 ביקורות, מגרש משחקים). בריכה מקורה וציוד משחקים לילדים: Balazs Villa, בלטונפיורד, ב-1,057.42 € (Booking 8.7, 173 ביקורות). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+   },
+   "google_note": {
+    "en": "Only 43 Booking.com and 23 Google reviews, but all very good.",
+    "he": "רק 43 ביקורות ב-Booking.com ו-23 בגוגל, אבל כולן טובות מאוד."
+   },
+   "google": {
+    "name": "Landhaus Forrás",
+    "rating": 4.8,
+    "reviews": 23,
+    "lat": 46.969608,
+    "lng": 17.890809,
+    "address": "Balatonfüred, Gyöngyvirág u. 2, 8230 Hungary",
+    "website": null,
+    "place_id": "ChIJ0UEjMGy9aUcRWfMPnXuYtBg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Landhaus%20Forr%C3%A1s&query_place_id=ChIJ0UEjMGy9aUcRWfMPnXuYtBg",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.969608,17.890809&travelmode=driving"
+   },
+   "ac": {
+    "en": "Yes – the family apartment is air-conditioned, at no extra charge (Booking.com, 21 Oct 2026).",
+    "he": "יש – הדירה המשפחתית ממוזגת, בלי תוספת תשלום (Booking.com, 21.10.2026)."
+   },
+   "photos": [
+    {
+     "file": "img/hu/hotel_forras-1.jpg",
+     "w": 1000,
+     "h": 562,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Landhaus%20Forr%C3%A1s&query_place_id=ChIJ0UEjMGy9aUcRWfMPnXuYtBg",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hu/hotel_forras-2.jpg",
+     "w": 614,
+     "h": 317,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Landhaus%20Forr%C3%A1s&query_place_id=ChIJ0UEjMGy9aUcRWfMPnXuYtBg",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 229.7,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.0,
+     "out_of": 10,
+     "reviews": 43,
+     "url": "https://www.booking.com/hotel/hu/landhaus-forra-s.html?checkin=2027-08-17&checkout=2027-08-21&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.8,
+     "out_of": 5,
+     "reviews": 23,
+     "url": "https://www.google.com/maps/search/?api=1&query=Landhaus%20Forr%C3%A1s&query_place_id=ChIJ0UEjMGy9aUcRWfMPnXuYtBg"
+    }
+   ]
+  },
+  {
+   "id": "hotel_westside",
+   "gkey": "hotel_westside",
+   "name": "WestSide Garden Apartments by FirstHost",
+   "area": {
+    "en": "Budapest District XIII, Szabolcs utca (quiet side street; Lehel tér metro M3 about 900 m, City Park and the zoo about 1.8 km, Margaret Island about 1.5 km)",
+    "he": "בודפשט רובע 13, רחוב סבולץ' (רחוב צדדי שקט; מטרו M3 בתחנת להל טר כ-900 מ', הפארק העירוני וגן החיות כ-1.8 ק\"מ, האי מרגיט כ-1.5 ק\"מ)"
+   },
+   "checkin": "2027-08-21",
+   "checkout": "2027-08-25",
+   "nights": 4,
+   "total_eur": 656.6,
+   "booking_score": 9.2,
+   "booking_reviews": 1134,
+   "booking_url": "https://www.booking.com/hotel/hu/westside-garden-by-urbanrent-budapest.html?checkin=2027-08-21&checkout=2027-08-25&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "One-bedroom apartment for 4: queen bed in the bedroom + sofa bed in the living room, fully equipped kitchenette, air conditioning, lift, garden courtyard, free cancellation. Self check-in with a key safe (from 15:00); you arrive around 12:30, so leave the bags at the FirstHost reception (Dob utca 34–36) or ask for an early check-in.",
+    "he": "דירת חדר שינה אחד ל-4: מיטת קווין בחדר + ספה נפתחת בסלון, מטבחון מאובזר, מיזוג, מעלית, חצר עם גינה, ביטול חינם. צ'ק-אין עצמי עם כספת מפתחות (מ-15:00); מגיעים בסביבות 12:30, אז אפשר להשאיר מזוודות בקבלה של FirstHost (רחוב דוב 34–36) או לבקש צ'ק-אין מוקדם."
+   },
+   "alt": {
+    "en": "Only options with air conditioning. Near Deák tér (3 metro lines), with an indoor play area: Budapest Center Residence €762.11 (Booking 9.1, 1,508 reviews; lively nightlife street). With 24-hour reception: Florin Apart Hotel €981 (Booking 9.1, 6,927 reviews). Dropped for having no confirmed air conditioning: Goldcentral Apartments. (Alternative prices were checked for 17–26 Aug.)",
+    "he": "רק אפשרויות עם מיזוג אוויר. ליד כיכר דאק (3 קווי מטרו), עם פינת משחקים מקורה: Budapest Center Residence ב-762.11 € (Booking 9.1, 1,508 ביקורות; רחוב עם חיי לילה). עם קבלה 24 שעות: Florin Apart Hotel ב-981 € (Booking 9.1, 6,927 ביקורות). הוסר כי אין אישור למיזוג אוויר: Goldcentral Apartments. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+   },
+   "google": {
+    "name": "WestSide Garden Apartments by FirstHost",
+    "rating": 4.8,
+    "reviews": 84,
+    "lat": 47.518639,
+    "lng": 19.069401,
+    "address": "Budapest, Szabolcs u. 22, 1134 Hungary",
+    "website": "https://firsthost.hu/budapest/westside-garden-apartments/hu",
+    "place_id": "ChIJbU-KirvbQUcRLhDUE4bYLPg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=WestSide%20Garden%20Apartments%20by%20FirstHost&query_place_id=ChIJbU-KirvbQUcRLhDUE4bYLPg",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.518639,19.069401&travelmode=driving"
+   },
+   "ac": {
+    "en": "Yes – the family apartment is air-conditioned, at no extra charge (Booking.com, 21 Oct 2026).",
+    "he": "יש – הדירה המשפחתית ממוזגת, בלי תוספת תשלום (Booking.com, 21.10.2026)."
+   },
+   "photos": [
+    {
+     "file": "img/hu/hotel_westside-1.jpg",
+     "w": 1000,
+     "h": 750,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=WestSide%20Garden%20Apartments%20by%20FirstHost&query_place_id=ChIJbU-KirvbQUcRLhDUE4bYLPg",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hu/hotel_westside-2.jpg",
+     "w": 1000,
+     "h": 750,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=WestSide%20Garden%20Apartments%20by%20FirstHost&query_place_id=ChIJbU-KirvbQUcRLhDUE4bYLPg",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 164.15,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.2,
+     "out_of": 10,
+     "reviews": 1134,
+     "url": "https://www.booking.com/hotel/hu/westside-garden-by-urbanrent-budapest.html?checkin=2027-08-21&checkout=2027-08-25&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.8,
+     "out_of": 5,
+     "reviews": 84,
+     "url": "https://www.google.com/maps/search/?api=1&query=WestSide%20Garden%20Apartments%20by%20FirstHost&query_place_id=ChIJbU-KirvbQUcRLhDUE4bYLPg"
+    }
+   ]
+  }
+ ],
+ "attractions": {
+  "veszprem_zoo": {
+   "id": "veszprem_zoo",
+   "name": {
+    "en": "Veszprém Zoo (Kittenberger Kálmán Zoo)",
+    "he": "גן החיות של וספרם (קיטנברגר)"
+   },
+   "hours": {
+    "en": "Open every day of the year; summer about 9:00–18:00 (cash desk closes 30 min earlier – check the 2027 times)",
+    "he": "פתוח כל ימות השנה; בקיץ בערך 9:00–18:00 (הקופה נסגרת חצי שעה קודם – לבדוק את שעות 2027)"
+   },
+   "price_text": {
+    "en": "≈ 19,700 HUF (≈ €54): combined ticket 2 adults + 1 child 15,500 HUF + extra child 4,200 HUF. Estimate from a third-party price list; the official price page did not load.",
+    "he": "כ-19,700 פורינט (כ-54 €): כרטיס משולב ל-2 מבוגרים + ילד 15,500 פורינט + ילד נוסף 4,200 פורינט. הערכה לפי מחירון של צד שלישי; דף המחירים הרשמי לא נטען."
+   },
+   "price_czk": 19700,
+   "price_eur": 54.27,
+   "estimate": true,
+   "time": {
+    "en": "2–3 h",
+    "he": "2–3 שעות"
+   },
+   "kids": {
+    "en": "Hilly forest zoo with big cats, giraffes, meerkats, penguins, a petting area and a seasonal dino park. The perfect stop on the way to Balaton – 22 minutes before the apartment.",
+    "he": "גן חיות ביער על גבעה, עם חתולים גדולים, ג'ירפות, סוריקטות, פינגווינים, פינת ליטוף ופארק דינוזאורים עונתי. עצירה מושלמת בדרך לבלטון – 22 דקות לפני הדירה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Veszprém Zoo",
+    "rating": 4.7,
+    "reviews": 21037,
+    "lat": 47.090074,
+    "lng": 17.892516,
+    "address": "Veszprém, Kittenberger Kálmán u. 17, 8200 Hungary",
+    "website": "https://www.veszpzoo.hu/",
+    "place_id": "ChIJzxKogESaaUcRYEanolBHLJ4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Veszpr%C3%A9m%20Zoo&query_place_id=ChIJzxKogESaaUcRYEanolBHLJ4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.090074,17.892516&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 21037,
+    "url": "https://www.google.com/maps/search/?api=1&query=Veszpr%C3%A9m%20Zoo&query_place_id=ChIJzxKogESaaUcRYEanolBHLJ4"
+   },
+   "photo": {
+    "file": "img/hu/veszprem_zoo-1.jpg",
+    "w": 1000,
+    "h": 1334,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Veszpr%C3%A9m_zoo_2016_-_szurik%C3%A1ta_%C5%91rszem.jpg",
+    "credit": "Solymári · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "veszpremzoo.hu – opening hours",
+     "https://veszpremzoo.hu/hu/nyitvatartas"
+    ],
+    [
+     "veszpremzoo.hu – prices",
+     "https://veszpremzoo.hu/hu/jegyarak"
+    ],
+    [
+     "Szallas.hu – Veszprém Zoo prices",
+     "https://szallas.hu/programok/veszpremi-allatkert-veszprem-p55"
+    ]
+   ]
+  },
+  "tihany_ferry": {
+   "id": "tihany_ferry",
+   "name": {
+    "en": "Tihany–Szántód ferry (on foot)",
+    "he": "המעבורת טיהאני–סאנטוד (ברגל)"
+   },
+   "hours": {
+    "en": "All day in summer, frequent departures; the crossing takes 8 minutes",
+    "he": "כל היום בקיץ, יציאות תכופות; ההפלגה נמשכת 8 דקות"
+   },
+   "price_text": {
+    "en": "4,000 HUF (≈ €11) return: adults 1,000 HUF each way, children under 14 free (BAHART fares from 1 June 2026). Leave the car in the Tihanyrév car park (paid).",
+    "he": "4,000 פורינט (כ-11 €) הלוך-חזור: מבוגר 1,000 פורינט לכל כיוון, ילדים עד 14 חינם (תעריפי BAHART מ-1 ביוני 2026). משאירים את הרכב בחניון בטיהאני-רב (בתשלום)."
+   },
+   "price_czk": 4000,
+   "price_eur": 11.02,
+   "estimate": false,
+   "time": {
+    "en": "8 min each way",
+    "he": "8 דקות לכל כיוון"
+   },
+   "kids": {
+    "en": "A real car ferry across the lake – the kids walk on board, watch the cars drive in and see Tihany from the water.",
+    "he": "מעבורת מכוניות אמיתית לרוחב האגם – הילדים עולים ברגל, רואים את המכוניות נכנסות ואת טיהאני מהמים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Tihanyrév",
+    "rating": 4.7,
+    "reviews": 10294,
+    "lat": 46.888771,
+    "lng": 17.891693,
+    "address": "Tihany, Rév u. 1, 8237 Hungary",
+    "website": "https://bahart.hu/hu",
+    "place_id": "ChIJ0aoE7Ou7aUcRc6gtejsGf3k",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Tihanyr%C3%A9v&query_place_id=ChIJ0aoE7Ou7aUcRc6gtejsGf3k",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.888771,17.891693&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 10294,
+    "url": "https://www.google.com/maps/search/?api=1&query=Tihanyr%C3%A9v&query_place_id=ChIJ0aoE7Ou7aUcRc6gtejsGf3k"
+   },
+   "photo": {
+    "file": "img/hu/tihany_ferry-1.jpg",
+    "w": 1000,
+    "h": 749,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Tihanyrév&query_place_id=ChIJ0aoE7Ou7aUcRc6gtejsGf3k",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "BAHART ferry fares from 1 June 2026 (PDF)",
+     "https://bahart.hu/sites/default/files/2026-06/Komp_menetdijak_20260601.pdf"
+    ],
+    [
+     "BAHART ferry Szántódrév–Tihanyrév",
+     "https://bahart.hu/hu/route-details?id=404927&route_type=4&departure_station=70&arrival_station=71&departure_date=2026-07-26"
+    ]
+   ]
+  },
+  "szantod_beach": {
+   "id": "szantod_beach",
+   "name": {
+    "en": "Szántód free beach (south shore)",
+    "he": "החוף החופשי בסאנטוד (החוף הדרומי)"
+   },
+   "hours": {
+    "en": "Free beach, lifeguard season mid-June – 31 August (daytime)",
+    "he": "חוף חופשי, עונת מצילים מאמצע יוני עד 31 באוגוסט (בשעות היום)"
+   },
+   "price_text": {
+    "en": "Free",
+    "he": "חינם"
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "2–3 h",
+    "he": "2–3 שעות"
+   },
+   "kids": {
+    "en": "The south shore of Balaton is very shallow, so 5- and 7-year-olds can stand and splash far from the shore. A short walk from the Szántód ferry pier; playground and snack bars.",
+    "he": "החוף הדרומי של הבלטון רדוד מאוד, כך שילדים בני 5 ו-7 עומדים ומשתכשכים רחוק מהחוף. הליכה קצרה מרציף המעבורת בסאנטוד; מגרש משחקים ודוכני אוכל."
+   },
+   "optional": false,
+   "google": {
+    "name": "Szántódi szabadstrand",
+    "rating": 4.7,
+    "reviews": 731,
+    "lat": 46.86726,
+    "lng": 17.901959,
+    "address": "Szántód, 8622 Hungary",
+    "website": null,
+    "place_id": "ChIJEXU20Tq5aUcRXp9BIy9pPc4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sz%C3%A1nt%C3%B3di%20szabadstrand&query_place_id=ChIJEXU20Tq5aUcRXp9BIy9pPc4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.867260,17.901959&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 731,
+    "url": "https://www.google.com/maps/search/?api=1&query=Sz%C3%A1nt%C3%B3di%20szabadstrand&query_place_id=ChIJEXU20Tq5aUcRXp9BIy9pPc4"
+   },
+   "photo": {
+    "file": "img/hu/szantod_beach-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Szántódi%20szabadstrand&query_place_id=ChIJEXU20Tq5aUcRXp9BIy9pPc4",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Eduline – free Balaton beaches 2026",
+     "https://eduline.hu/campus-life/20260629_ingyenes-strandok-szabadstrand-balaton-nyar"
+    ],
+    [
+     "Somogy county bathing sites 2025 (PDF)",
+     "https://kormanyhivatalok.hu/system/files/dokumentum/somogy/2025-07/termeszetes-furdohelyek-somogy-varmegyeben-2025.pdf"
+    ]
+   ]
+  },
+  "tihany_abbey": {
+   "id": "tihany_abbey",
+   "name": {
+    "en": "Tihany Abbey and village",
+    "he": "המנזר והכפר טיהאני"
+   },
+   "hours": {
+    "en": "Mon–Sat 10:00–17:00 (official site header); Sunday after services – check summer hours",
+    "he": "ב'–ש' 10:00–17:00 (לפי האתר הרשמי); בראשון אחרי התפילות – לבדוק את שעות הקיץ"
+   },
+   "price_text": {
+    "en": "Family ticket 2 adults + 2 children 9,700 HUF (≈ €27), official prices from 1 March 2026. The village streets and the view are free.",
+    "he": "כרטיס משפחתי ל-2 מבוגרים + 2 ילדים 9,700 פורינט (כ-27 €), מחיר רשמי מ-1 במרץ 2026. הסמטאות בכפר והתצפית – חינם."
+   },
+   "price_czk": 9700,
+   "price_eur": 26.72,
+   "estimate": false,
+   "time": {
+    "en": "1–1.5 h",
+    "he": "1–1.5 שעות"
+   },
+   "kids": {
+    "en": "Hilltop church with a huge view over the lake; the museum cellar has play corners for children. Ice cream and lavender shops in the village (the lavender fields are harvested by August). Drive up to the abbey car park – no climbing.",
+    "he": "כנסייה על גבעה עם תצפית ענקית על האגם; במרתף המוזיאון יש פינות משחק לילדים. גלידה וחנויות לבנדר בכפר (שדות הלבנדר נקטפים עד אוגוסט). נוסעים עד חניון המנזר – בלי טיפוס."
+   },
+   "optional": false,
+   "google": {
+    "name": "Tihanyi Bencés Apátság",
+    "rating": 4.7,
+    "reviews": 18666,
+    "lat": 46.913957,
+    "lng": 17.889508,
+    "address": "Tihany, I. András tér 1, 8237 Hungary",
+    "website": "http://www.tihanyiapatsag.hu/Tihanyi_Bences_Apatsag.html",
+    "place_id": "ChIJK7-PanC8aUcRIU93ltwY8xM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Tihanyi%20Benc%C3%A9s%20Ap%C3%A1ts%C3%A1g&query_place_id=ChIJK7-PanC8aUcRIU93ltwY8xM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.913957,17.889508&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 18666,
+    "url": "https://www.google.com/maps/search/?api=1&query=Tihanyi%20Benc%C3%A9s%20Ap%C3%A1ts%C3%A1g&query_place_id=ChIJK7-PanC8aUcRIU93ltwY8xM"
+   },
+   "photo": {
+    "file": "img/hu/tihany_abbey-1.jpg",
+    "w": 1000,
+    "h": 500,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Tihanyi%20Bencés%20Apátság&query_place_id=ChIJK7-PanC8aUcRIU93ltwY8xM",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "tihanyiapatsag.hu – tickets",
+     "https://tihanyiapatsag.hu/jegyek/"
+    ],
+    [
+     "Tihany Abbey – for visitors",
+     "https://eng.tihanyiapatsag.hu/"
+    ]
+   ]
+  },
+  "annagora": {
+   "id": "annagora",
+   "name": {
+    "en": "Annagora Aquapark, Balatonfüred",
+    "he": "פארק המים אנהגורה, בלטונפירד"
+   },
+   "hours": {
+    "en": "20 June – 30 August 2026: daily 10:00–19:00, slides 10:15–18:30",
+    "he": "20 ביוני – 30 באוגוסט 2026: מדי יום 10:00–19:00, מגלשות 10:15–18:30"
+   },
+   "price_text": {
+    "en": "All-day 'all-in' family ticket (2 adults + 2 children) 34,000 HUF (≈ €94); adult 10,800 / child 3–9.99 years 6,800 HUF in the official 2026 ticket shop. Pools-only family ticket 18,000 HUF.",
+    "he": "כרטיס משפחתי 'all-in' ליום שלם (2 מבוגרים + 2 ילדים) 34,000 פורינט (כ-94 €); בחנות הכרטיסים הרשמית ל-2026 מבוגר 10,800 / ילד 3–9.99 6,800 פורינט. כרטיס משפחתי לבריכות בלבד 18,000 פורינט."
+   },
+   "price_czk": 34000,
+   "price_eur": 93.66,
+   "estimate": false,
+   "time": {
+    "en": "4–5 h",
+    "he": "4–5 שעות"
+   },
+   "kids": {
+    "en": "11 pools, a wave pool, a children's pool with small slides and big tube slides – 7 minutes from the apartment.",
+    "he": "11 בריכות, בריכת גלים, בריכת ילדים עם מגלשות קטנות ומגלשות צינור גדולות – 7 דקות מהדירה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Annagora Aquapark",
+    "rating": 4.3,
+    "reviews": 4545,
+    "lat": 46.948133,
+    "lng": 17.872247,
+    "address": "Balatonfüred, Fürdő u. 35 / A, 8230 Hungary",
+    "website": "http://www.annagora.com/",
+    "place_id": "ChIJH800Cx69aUcRB8Lp_wdqj58",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Annagora%20Aquapark&query_place_id=ChIJH800Cx69aUcRB8Lp_wdqj58",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.948133,17.872247&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.3,
+    "out_of": 5,
+    "reviews": 4545,
+    "url": "https://www.google.com/maps/search/?api=1&query=Annagora%20Aquapark&query_place_id=ChIJH800Cx69aUcRB8Lp_wdqj58"
+   },
+   "photo": {
+    "file": "img/hu/annagora-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Annagora%20Aquapark&query_place_id=ChIJH800Cx69aUcRB8Lp_wdqj58",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Annagora ticket shop 2026",
+     "https://ticket.annagora.com/vasarlas"
+    ],
+    [
+     "Termalfurdo.hu – Annagora prices 2026",
+     "https://www.termalfurdo.hu/furdo/annagora-aquapark-137/arak"
+    ],
+    [
+     "Hungary Unlocked – Annagora (2026)",
+     "https://hungaryunlocked.com/annagora-aquapark-balatonfured/"
+    ]
+   ]
+  },
+  "bahart_boat": {
+   "id": "bahart_boat",
+   "name": {
+    "en": "1-hour sightseeing boat from Balatonfüred pier",
+    "he": "שיט של שעה מהמזח של בלטונפירד"
+   },
+   "hours": {
+    "en": "Several departures a day in summer, last about 17:30–18:00 (check the BAHART timetable)",
+    "he": "כמה הפלגות ביום בקיץ, האחרונה בערך 17:30–18:00 (לבדוק בלוח הזמנים של BAHART)"
+   },
+   "price_text": {
+    "en": "Family ticket (2 adults + 1 or more children) 7,200 HUF (≈ €20); adult 3,400 / child 4–14 1,700 HUF (BAHART tariff from 28 March 2026).",
+    "he": "כרטיס משפחתי (2 מבוגרים + ילד אחד או יותר) 7,200 פורינט (כ-20 €); מבוגר 3,400 / ילד 4–14 1,700 פורינט (תעריף BAHART מ-28 במרץ 2026)."
+   },
+   "price_czk": 7200,
+   "price_eur": 19.83,
+   "estimate": false,
+   "time": {
+    "en": "1 h",
+    "he": "שעה"
+   },
+   "kids": {
+    "en": "A relaxed lake cruise with views of Tihany; then the Tagore promenade with ice cream and playgrounds next to the pier.",
+    "he": "שיט רגוע באגם עם נוף לטיהאני; אחר כך טיילת טאגורה עם גלידה ומגרשי משחקים ליד המזח."
+   },
+   "optional": false,
+   "google": {
+    "name": "Balatonfüred Kikötő",
+    "rating": 4.9,
+    "reviews": 18,
+    "lat": 46.952213,
+    "lng": 17.894687,
+    "address": "Balatonfüred, 8230 Hungary",
+    "website": null,
+    "place_id": "ChIJhXbFqge9aUcRH32EkyzUcgY",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Balatonf%C3%BCred%20Kik%C3%B6t%C5%91&query_place_id=ChIJhXbFqge9aUcRH32EkyzUcgY",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.952213,17.894687&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.9,
+    "out_of": 5,
+    "reviews": 18,
+    "url": "https://www.google.com/maps/search/?api=1&query=Balatonf%C3%BCred%20Kik%C3%B6t%C5%91&query_place_id=ChIJhXbFqge9aUcRH32EkyzUcgY"
+   },
+   "photo": {
+    "file": "img/hu/bahart_boat-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Balatonfüred%20Kikötő&query_place_id=ChIJhXbFqge9aUcRH32EkyzUcgY",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "BAHART passenger tariff (PDF)",
+     "https://jegy.bahart.hu/docs/Szemelyhajozasi_dijszabas.pdf"
+    ],
+    [
+     "BAHART cruise boats",
+     "https://bahart.hu/en/cruise-boat"
+    ]
+   ]
+  },
+  "tapolca_cave": {
+   "id": "tapolca_cave",
+   "name": {
+    "en": "Tapolca Lake Cave – rowing boat inside a cave",
+    "he": "מערת האגם בטאפולצה – שיט בסירת משוטים בתוך מערה"
+   },
+   "hours": {
+    "en": "1 July – 31 August: 9:30–19:00 (cash desk closes 18:00)",
+    "he": "1 ביולי – 31 באוגוסט: 9:30–19:00 (הקופה נסגרת ב-18:00)"
+   },
+   "price_text": {
+    "en": "Family package (2 adults + up to 2 children 3–14) 15,000 HUF (≈ €41), boat ride included (Balaton Uplands National Park, 2026). Book a time slot online – August weekends sell out.",
+    "he": "חבילה משפחתית (2 מבוגרים + עד 2 ילדים בני 3–14) 15,000 פורינט (כ-41 €), כולל השיט (הפארק הלאומי, 2026). כדאי להזמין שעה מראש באינטרנט – סופי שבוע באוגוסט נמכרים."
+   },
+   "price_czk": 15000,
+   "price_eur": 41.32,
+   "estimate": false,
+   "time": {
+    "en": "1.5 h",
+    "he": "שעה וחצי"
+   },
+   "kids": {
+    "en": "Walk down into the cave, then a parent rows the family through clear blue underground water. Low ceilings in places (mind the heads); children under 14 only with an adult. Cool inside (≈ 20 °C).",
+    "he": "יורדים למערה, ואז אחד ההורים חותר עם המשפחה במים כחולים וצלולים מתחת לאדמה. בחלק מהמקומות התקרה נמוכה (להיזהר עם הראש); ילדים עד 14 רק עם מבוגר. קריר בפנים (כ-20 מעלות)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Tapolcai-tavasbarlang Látogatóközpont",
+    "rating": 4.6,
+    "reviews": 20598,
+    "lat": 46.883238,
+    "lng": 17.443424,
+    "address": "Tapolca, Kisfaludy Sándor u. 3, 8300 Hungary",
+    "website": "https://www.bfnp.hu/hu/tapolcai-tavasbarlang-latogatokozpont",
+    "place_id": "ChIJNXq5vOUFaUcR3daws7fDJVs",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Tapolcai-tavasbarlang%20L%C3%A1togat%C3%B3k%C3%B6zpont&query_place_id=ChIJNXq5vOUFaUcR3daws7fDJVs",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.883238,17.443424&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 20598,
+    "url": "https://www.google.com/maps/search/?api=1&query=Tapolcai-tavasbarlang%20L%C3%A1togat%C3%B3k%C3%B6zpont&query_place_id=ChIJNXq5vOUFaUcR3daws7fDJVs"
+   },
+   "photo": {
+    "file": "img/hu/tapolca_cave-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Tapolcai-tavasbarlang%20Látogatóközpont&query_place_id=ChIJNXq5vOUFaUcR3daws7fDJVs",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "bfnp.hu – Tapolca Lake Cave Visitor Centre",
+     "https://www.bfnp.hu/hu/latogatohelyek-3/tapolcai-tavasbarlang-tapolca"
+    ],
+    [
+     "bfnp.hu – discounts",
+     "https://www.bfnp.hu/hu/oldal/kedvezmenyek-tapolcai-tavasbarlang"
+    ]
+   ]
+  },
+  "esterhazy_strand": {
+   "id": "esterhazy_strand",
+   "name": {
+    "en": "Esterházy Beach, Balatonfüred",
+    "he": "חוף אסטרהאזי, בלטונפירד"
+   },
+   "hours": {
+    "en": "Main season about 8:30–19:00 until 23 Aug, then 9:00–18:00 (check)",
+    "he": "בעונה המלאה בערך 8:30–19:00 עד 23 באוגוסט, אחר כך 9:00–18:00 (לבדוק)"
+   },
+   "price_text": {
+    "en": "8,800 HUF (≈ €24): adult 2,700 + child (4–14) 1,700 HUF, single entry (official prices from 23 May 2026). From 16:00 cheaper (1,500 / 900). The 'Élményfürdő' pools cost extra (2 h: 1,900 / 1,300).",
+    "he": "8,800 פורינט (כ-24 €): מבוגר 2,700 + ילד (4–14) 1,700 פורינט, כניסה אחת (מחירים רשמיים מ-23 במאי 2026). מ-16:00 זול יותר (1,500 / 900). בריכות ה'אלמניפירדו' בתשלום נוסף (שעתיים: 1,900 / 1,300)."
+   },
+   "price_czk": 8800,
+   "price_eur": 24.24,
+   "estimate": false,
+   "time": {
+    "en": "2–3 h",
+    "he": "2–3 שעות"
+   },
+   "kids": {
+    "en": "The town's big lawn beach with a gentle entry into the lake, a 40–60 cm children's pool, playgrounds and snack bars.",
+    "he": "החוף הגדול של העיר עם מדשאות, כניסה הדרגתית לאגם, בריכת ילדים בעומק 40–60 ס\"מ, מגרשי משחקים ודוכני אוכל."
+   },
+   "optional": false,
+   "google": {
+    "name": "Esterhazy Beach and Waterpark",
+    "rating": 4.5,
+    "reviews": 5144,
+    "lat": 46.956053,
+    "lng": 17.902256,
+    "address": "Balatonfüred, Aranyhíd stny., 8230 Hungary",
+    "website": "http://www.balatonfuredistrandok.hu/",
+    "place_id": "ChIJiaPNC6e9aUcRMtvk757pVK4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Esterhazy%20Beach%20and%20Waterpark&query_place_id=ChIJiaPNC6e9aUcRMtvk757pVK4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.956053,17.902256&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 5144,
+    "url": "https://www.google.com/maps/search/?api=1&query=Esterhazy%20Beach%20and%20Waterpark&query_place_id=ChIJiaPNC6e9aUcRMtvk757pVK4"
+   },
+   "photo": {
+    "file": "img/hu/esterhazy_strand-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Esterhazy%20Beach%20and%20Waterpark&query_place_id=ChIJiaPNC6e9aUcRMtvk757pVK4",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Esterházy Beach – official prices",
+     "https://balatonfuredistrandok.hu/esterhazy-strand/"
+    ],
+    [
+     "Programturizmus – Esterházy Beach hours",
+     "https://www.programturizmus.hu/partner-esterhazy-strand.html"
+    ]
+   ]
+  },
+  "margaret_island": {
+   "id": "margaret_island",
+   "name": {
+    "en": "Margaret Island: musical fountain, mini zoo, bike carriages",
+    "he": "האי מרגיט: מזרקה מוזיקלית, גן חיות קטן, כרכרות אופניים"
+   },
+   "hours": {
+    "en": "Island open 24/7; musical fountain shows 10:00–22:00 (light show 21:00); mini zoo 10:00–18:00",
+    "he": "האי פתוח תמיד; מופעי המזרקה המוזיקלית 10:00–22:00 (מופע אורות ב-21:00); גן החיות הקטן 10:00–18:00"
+   },
+   "price_text": {
+    "en": "Fountain and mini zoo free. Bike-carriage (bringóhintó) rental is extra – price not found, ask at the Bringóvár stand.",
+    "he": "המזרקה וגן החיות הקטן – חינם. השכרת כרכרת אופניים (בריגנוהינטו) בתשלום נוסף – לא מצאתי מחיר, לשאול בדוכן Bringóvár."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "2–3 h",
+    "he": "2–3 שעות"
+   },
+   "kids": {
+    "en": "A car-free park island: pedal a 4-seat bike carriage, see the deer, birds and goats in the free mini zoo, and watch the fountain dance to music.",
+    "he": "אי-פארק בלי מכוניות: מדוושים בכרכרת אופניים ל-4, רואים צבאים, ציפורים ועזים בגן החיות הקטן והחינמי, וצופים במזרקה שרוקדת למוזיקה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Margaret Island",
+    "rating": 4.7,
+    "reviews": 7405,
+    "lat": 47.526641,
+    "lng": 19.046394,
+    "address": "Budapest, 1007 Hungary",
+    "website": null,
+    "place_id": "ChIJ16rPd_zbQUcR_VCmOq57n2g",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Margaret%20Island&query_place_id=ChIJ16rPd_zbQUcR_VCmOq57n2g",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.526641,19.046394&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 7405,
+    "url": "https://www.google.com/maps/search/?api=1&query=Margaret%20Island&query_place_id=ChIJ16rPd_zbQUcR_VCmOq57n2g"
+   },
+   "photo": {
+    "file": "img/hu/margaret_island-1.jpg",
+    "w": 1000,
+    "h": 675,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Margaret%20Island&query_place_id=ChIJ16rPd_zbQUcR_VCmOq57n2g",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Budapest Zoo – Margitsziget Mini Zoo",
+     "https://zoobudapest.com/en/for-visitors/margitsziget-mini-zoo/"
+    ],
+    [
+     "BudapPest – musical fountain 2026",
+     "https://budappest.com/budapest-events/the-musical-fountain-of-margaret-island-is-back-for-2026/"
+    ],
+    [
+     "BKK – bike carriage (Budapest Card partner)",
+     "https://bkk.hu/en/tickets-and-passes/budapest-card/places-of-acceptance/sightseeing-city-tours/bike-carriage-bringohinto"
+    ]
+   ]
+  },
+  "budapest_zoo": {
+   "id": "budapest_zoo",
+   "name": {
+    "en": "Budapest Zoo & Botanical Garden",
+    "he": "גן החיות והגן הבוטני של בודפשט"
+   },
+   "hours": {
+    "en": "May–August: weekdays 9:00–18:00, weekends 9:00–19:00 (cash desks close 1 h earlier)",
+    "he": "מאי–אוגוסט: בימי חול 9:00–18:00, בסופי שבוע 9:00–19:00 (הקופות נסגרות שעה קודם)"
+   },
+   "price_text": {
+    "en": "Family ticket 2 adults + 2 children 17,500 HUF (≈ €48).",
+    "he": "כרטיס משפחתי ל-2 מבוגרים + 2 ילדים 17,500 פורינט (כ-48 €)."
+   },
+   "price_czk": 17500,
+   "price_eur": 48.21,
+   "estimate": false,
+   "time": {
+    "en": "4–5 h",
+    "he": "4–5 שעות"
+   },
+   "kids": {
+    "en": "Historic zoo with the Elephant House, giraffes, hippos, big cats and a petting farm. Shady, with many playgrounds.",
+    "he": "גן חיות היסטורי עם בית הפילים, ג'ירפות, היפופוטמים ופינת ליטוף. מוצל, עם הרבה מגרשי משחקים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Budapest Zoo & Botanical Garden",
+    "rating": 4.5,
+    "reviews": 49904,
+    "lat": 47.518014,
+    "lng": 19.07755,
+    "address": "Budapest, Állatkerti krt. 6-12, 1146 Hungary",
+    "website": "https://zoobudapest.com/",
+    "place_id": "ChIJx4sClojbQUcR8uxrnFLGB68",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Budapest%20Zoo%20%26%20Botanical%20Garden&query_place_id=ChIJx4sClojbQUcR8uxrnFLGB68",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.518014,19.077550&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 49904,
+    "url": "https://www.google.com/maps/search/?api=1&query=Budapest%20Zoo%20%26%20Botanical%20Garden&query_place_id=ChIJx4sClojbQUcR8uxrnFLGB68"
+   },
+   "photo": {
+    "file": "img/hu/budapest_zoo-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Budapest%20Zoo%20&%20Botanical%20Garden&query_place_id=ChIJx4sClojbQUcR8uxrnFLGB68",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "zoobudapest.com – opening hours",
+     "https://zoobudapest.com/en/for-visitors/opening-hours/"
+    ],
+    [
+     "zoobudapest.com – prices",
+     "https://zoobudapest.com/en/tickets-and-passes/prices/"
+    ],
+    [
+     "port.hu – Budapest Zoo prices",
+     "https://port.hu/helyszin/tudomanyos/fovarosi-allat-es-novenykert/place-271"
+    ]
+   ]
+  },
+  "palatinus": {
+   "id": "palatinus",
+   "name": {
+    "en": "Palatinus Strand (outdoor pools on Margaret Island)",
+    "he": "פלטינוס – בריכות פתוחות באי מרגיט"
+   },
+   "hours": {
+    "en": "Daily 9:00–19:00 (cash desk closes 1 h earlier); slides and the main pool until 31 August",
+    "he": "מדי יום 9:00–19:00 (הקופה נסגרת שעה קודם); המגלשות והבריכה הגדולה עד 31 באוגוסט"
+   },
+   "price_text": {
+    "en": "Family ticket for 4: 16,500 HUF weekdays / 18,000 HUF weekends (≈ €45 / €50), price list valid from 13 June 2026.",
+    "he": "כרטיס משפחתי ל-4: 16,500 פורינט בימי חול / 18,000 בסופי שבוע (כ-45 € / 50 €), מחירון מ-13 ביוני 2026."
+   },
+   "price_czk": 16500,
+   "price_eur": 45.45,
+   "estimate": false,
+   "time": {
+    "en": "4–5 h",
+    "he": "4–5 שעות"
+   },
+   "kids": {
+    "en": "Budapest's big summer lido: wave pool, water slides, an outdoor children's pool and a playground, all under the island's trees.",
+    "he": "הבריכה הקיצית הגדולה של בודפשט: בריכת גלים, מגלשות מים, בריכת ילדים חיצונית ומגרש משחקים, הכול בין עצי האי."
+   },
+   "optional": false,
+   "google": {
+    "name": "Palatinus Strand Baths",
+    "rating": 4.4,
+    "reviews": 10631,
+    "lat": 47.527952,
+    "lng": 19.046968,
+    "address": "Budapest, Soó Rezső stny. 1, 1007 Hungary",
+    "website": "http://www.palatinusstrand.hu/",
+    "place_id": "ChIJCRQl9fzbQUcRsTQ3oISh5To",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Palatinus%20Strand%20Baths&query_place_id=ChIJCRQl9fzbQUcRsTQ3oISh5To",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.527952,19.046968&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 10631,
+    "url": "https://www.google.com/maps/search/?api=1&query=Palatinus%20Strand%20Baths&query_place_id=ChIJCRQl9fzbQUcRsTQ3oISh5To"
+   },
+   "photo": {
+    "file": "img/hu/palatinus-1.jpg",
+    "w": 1000,
+    "h": 1333,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Palatinus%20Strand%20Baths&query_place_id=ChIJCRQl9fzbQUcRsTQ3oISh5To",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Termalfurdo.hu – Palatinus prices 2026",
+     "https://www.termalfurdo.hu/furdo/palatinus-gyogy-strand-es-hullamfurdo-27/arak"
+    ],
+    [
+     "Termalfurdo.hu – Palatinus opening hours 2026",
+     "https://www.termalfurdo.hu/furdo/palatinus-gyogy-strand-es-hullamfurdo-27/nyitva-tartas"
+    ]
+   ]
+  },
+  "danube_cruise": {
+   "id": "danube_cruise",
+   "name": {
+    "en": "Danube sightseeing cruise (Legenda 'Duna Bella', daytime)",
+    "he": "שיט תיירותי בדנובה (לגנדה 'Duna Bella', בשעות היום)"
+   },
+   "hours": {
+    "en": "Several daytime departures; 1 h 10 min (check legenda.hu for 2027 times)",
+    "he": "כמה הפלגות ביום; שעה ו-10 דקות (לבדוק ב-legenda.hu את זמני 2027)"
+   },
+   "price_text": {
+    "en": "≈ €40 (≈ 14,500 HUF): adults about €20 each, children up to 9 free (third-party 2026 listing). Estimate.",
+    "he": "כ-40 € (כ-14,500 פורינט): מבוגר כ-20 €, ילדים עד גיל 9 חינם (לפי אתר צד שלישי, 2026). הערכה."
+   },
+   "price_czk": 14500,
+   "price_eur": 39.94,
+   "estimate": true,
+   "time": {
+    "en": "1 h 10 min",
+    "he": "שעה ו-10 דקות"
+   },
+   "kids": {
+    "en": "Parliament, the castle and the bridges from the water, with audio commentary. Pier at Jane Haining rakpart, by tram 2.",
+    "he": "הפרלמנט, הטירה והגשרים מהמים, עם הדרכה קולית. המזח ברציף ג'יין היינינג, בחשמלית 2."
+   },
+   "optional": false,
+   "google": {
+    "name": "Legenda City Cruises",
+    "rating": 4.5,
+    "reviews": 11382,
+    "lat": 47.494176,
+    "lng": 19.04891,
+    "address": "Budapest, kikötő, es, Jane Haining rkp. 7, 1052 Hungary",
+    "website": "http://legenda.hu/",
+    "place_id": "ChIJ2dSGoUDcQUcRQPIqeDUNig8",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Legenda%20City%20Cruises&query_place_id=ChIJ2dSGoUDcQUcRQPIqeDUNig8",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.494176,19.048910&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 11382,
+    "url": "https://www.google.com/maps/search/?api=1&query=Legenda%20City%20Cruises&query_place_id=ChIJ2dSGoUDcQUcRQPIqeDUNig8"
+   },
+   "photo": {
+    "file": "img/hu/danube_cruise-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Legenda%20City%20Cruises&query_place_id=ChIJ2dSGoUDcQUcRQPIqeDUNig8",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "legenda.hu",
+     "http://legenda.hu/"
+    ],
+    [
+     "The Better Vacation – Danube cruises (2026)",
+     "https://thebettervacation.com/danube-river-cruise-budapest"
+    ],
+    [
+     "JustBudapest – Legenda boat trips",
+     "https://justbudapest.com/legenda-boat-trips/"
+    ]
+   ]
+  },
+  "children_railway": {
+   "id": "children_railway",
+   "name": {
+    "en": "Children's Railway (Gyermekvasút)",
+    "he": "רכבת הילדים (Gyermekvasút)"
+   },
+   "hours": {
+    "en": "Daily in summer, a train about every 40–60 min, roughly 9:00–17:00 (summer timetable on gyermekvasut.hu)",
+    "he": "כל יום בקיץ, רכבת בערך כל 40–60 דקות, בערך 9:00–17:00 (לוח הקיץ באתר gyermekvasut.hu)"
+   },
+   "price_text": {
+    "en": "2,500 HUF (≈ €7) one way Hűvösvölgy → János-hegy: adults 1,000 HUF each, child 6–18 500 HUF, under 6 free (2026 fares).",
+    "he": "2,500 פורינט (כ-7 €) בכיוון אחד מהווישווילג' להר יאנוש: מבוגר 1,000 פורינט, ילד 6–18 500 פורינט, מתחת לגיל 6 חינם (מחירי 2026)."
+   },
+   "price_czk": 2500,
+   "price_eur": 6.89,
+   "estimate": false,
+   "time": {
+    "en": "≈ 40 min ride",
+    "he": "כ-40 דקות נסיעה"
+   },
+   "kids": {
+    "en": "A narrow-gauge forest railway run by children aged 10–14 (conductors, signals and ticket sales) – adults only drive the engine.",
+    "he": "רכבת צרה ביער שמופעלת בידי ילדים בני 10–14 (כרטיסנים, אותות ומכירת כרטיסים) – רק את הקטר נוהג מבוגר."
+   },
+   "optional": false,
+   "google": {
+    "name": "Hűvösvölgy, Children's Railway",
+    "rating": 4.8,
+    "reviews": 5749,
+    "lat": 47.541121,
+    "lng": 18.963613,
+    "address": "Budapest, Gyermekvasúthoz vezető út 5, 1021 Hungary",
+    "website": "https://gyermekvasut.hu/",
+    "place_id": "ChIJ5drtlsnYQUcRM6kOvV3OnrQ",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=H%C5%B1v%C3%B6sv%C3%B6lgy%2C%20Children%27s%20Railway&query_place_id=ChIJ5drtlsnYQUcRM6kOvV3OnrQ",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.541121,18.963613&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 5749,
+    "url": "https://www.google.com/maps/search/?api=1&query=H%C5%B1v%C3%B6sv%C3%B6lgy%2C%20Children%27s%20Railway&query_place_id=ChIJ5drtlsnYQUcRM6kOvV3OnrQ"
+   },
+   "photo": {
+    "file": "img/hu/children_railway-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Hűvösvölgy,%20Children's%20Railway&query_place_id=ChIJ5drtlsnYQUcRM6kOvV3OnrQ",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "gyermekvasut.hu",
+     "https://gyermekvasut.hu/en/home/"
+    ],
+    [
+     "Borsonline – Children's Railway prices (Oct 2026)",
+     "https://borsonline.origo.hu/belfoldi-utazas/2026/10/oszi-kirandulas-fillerekbol-irany-a-gyermekvasut"
+    ]
+   ]
+  },
+  "libego": {
+   "id": "libego",
+   "name": {
+    "en": "Zugliget Chairlift (Libegő)",
+    "he": "רכבל הכיסאות זוגליגט (ליבגו)"
+   },
+   "hours": {
+    "en": "June–August daily 10:00–19:00; closed on some Tuesdays for maintenance (in 2026: 4 and 18 Aug)",
+    "he": "יוני–אוגוסט כל יום 10:00–19:00; סגור בחלק מימי שלישי לתחזוקה (ב-2026: 4 ו-18 באוגוסט)"
+   },
+   "price_text": {
+    "en": "8,000 HUF (≈ €22) one way down: adults 3,000 HUF each, children 3–14 1,000 HUF each (BKV, 2026).",
+    "he": "8,000 פורינט (כ-22 €) בכיוון אחד למטה: מבוגר 3,000 פורינט, ילד 3–14 1,000 פורינט (BKV, 2026)."
+   },
+   "price_czk": 8000,
+   "price_eur": 22.04,
+   "estimate": false,
+   "time": {
+    "en": "15 min ride",
+    "he": "15 דקות נסיעה"
+   },
+   "kids": {
+    "en": "Open two-seat chairs gliding down over the forest with a view of the city – one adult with each child.",
+    "he": "כיסאות פתוחים לשניים שגולשים מעל היער עם נוף לעיר – מבוגר אחד עם כל ילד."
+   },
+   "optional": false,
+   "google": {
+    "name": "Zugliget Chairlift",
+    "rating": 4.7,
+    "reviews": 8223,
+    "lat": 47.516626,
+    "lng": 18.974513,
+    "address": "Budapest, Zugligeti út 97, 1121 Hungary",
+    "website": "https://www.bkv.hu/hu/content/nyitvatartas_viteldijak_megkozelithetoseg",
+    "place_id": "ChIJjeALoCDfQUcRDb4ehDB4bSc",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Zugliget%20Chairlift&query_place_id=ChIJjeALoCDfQUcRDb4ehDB4bSc",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.516626,18.974513&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 8223,
+    "url": "https://www.google.com/maps/search/?api=1&query=Zugliget%20Chairlift&query_place_id=ChIJjeALoCDfQUcRDb4ehDB4bSc"
+   },
+   "photo": {
+    "file": "img/hu/libego-1.jpg",
+    "w": 1000,
+    "h": 654,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Budapest_Chairlift_1.jpg",
+    "credit": "kallerna · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "BKV – Libegő hours and fares",
+     "https://www.bkv.hu/hu/content/nyitvatartas_viteldijak_megkozelithetoseg"
+    ],
+    [
+     "BKV – Zugligeti Libegő",
+     "https://www.bkv.hu/hu/zugligeti_libego/zugligeti_libego"
+    ]
+   ]
+  },
+  "castle_hill": {
+   "id": "castle_hill",
+   "name": {
+    "en": "Castle Hill: Fisherman's Bastion + funicular down",
+    "he": "גבעת הטירה: מבצר הדייגים + הפוניקולר למטה"
+   },
+   "hours": {
+    "en": "Funicular daily 8:00–22:00 (closed every second Monday); bastion terraces open all day",
+    "he": "הפוניקולר כל יום 8:00–22:00 (סגור כל יום שני שני); מרפסות המבצר פתוחות כל היום"
+   },
+   "price_text": {
+    "en": "≈ 13,000 HUF (≈ €36) for the funicular one way down (adult ≈ 4,500, child 3–14 ≈ 2,000 HUF; sources disagree – estimate). Up by bus 16 (included in the 72-hour ticket). Lower bastion free; upper towers ≈ 1,700 HUF per adult.",
+    "he": "כ-13,000 פורינט (כ-36 €) לפוניקולר בכיוון אחד למטה (מבוגר כ-4,500, ילד 3–14 כ-2,000 פורינט; המקורות סותרים – הערכה). למעלה באוטובוס 16 (כלול בכרטיס 72 השעות). הקומה התחתונה של המבצר חינם; המגדלים העליונים כ-1,700 פורינט למבוגר."
+   },
+   "price_czk": 13000,
+   "price_eur": 35.81,
+   "estimate": true,
+   "time": {
+    "en": "1.5 h",
+    "he": "שעה וחצי"
+   },
+   "kids": {
+    "en": "Fairy-tale white towers with a view over the Danube, then the 150-year-old funicular down to the Chain Bridge. Optional if energy is left.",
+    "he": "מגדלים לבנים כמו מאגדה עם נוף לדנובה, ואז הפוניקולר בן 150 השנה למטה עד גשר השלשלאות. אופציונלי אם נשאר כוח."
+   },
+   "optional": true,
+   "google": {
+    "name": "Fisherman's Bastion",
+    "rating": 4.8,
+    "reviews": 119261,
+    "lat": 47.502183,
+    "lng": 19.034781,
+    "address": "Budapest, 1014 Hungary",
+    "website": "https://budavar.hu/halaszbastya/",
+    "place_id": "ChIJnam0fyLcQUcRRl4jRKg8Ji8",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Fisherman%27s%20Bastion&query_place_id=ChIJnam0fyLcQUcRRl4jRKg8Ji8",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.502183,19.034781&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 119261,
+    "url": "https://www.google.com/maps/search/?api=1&query=Fisherman%27s%20Bastion&query_place_id=ChIJnam0fyLcQUcRRl4jRKg8Ji8"
+   },
+   "photo": {
+    "file": "img/hu/castle_hill-1.jpg",
+    "w": 1000,
+    "h": 662,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vista_In_Fisherman_S_Bastion_(191440847).jpeg",
+    "credit": "Michiel Stumpel · CC BY 3.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "BKK – Budavári Sikló",
+     "https://bkk.hu/utazasi-informaciok/kozossegi-kozlekedes/siklo/"
+    ],
+    [
+     "JustBudapest – funicular guide (2026)",
+     "https://justbudapest.com/budapest-castle-hill-funicular/"
+    ],
+    [
+     "Hungary Unlocked – Fisherman's Bastion",
+     "https://hungaryunlocked.com/he/fishermans-bastion-budapest-guide/"
+    ]
+   ]
+  },
+  "aquaworld": {
+   "id": "aquaworld",
+   "name": {
+    "en": "Aquaworld Budapest (big indoor water park) – rainy-day option",
+    "he": "אקוואוורלד בודפשט (פארק מים מקורה גדול) – חלופה ליום גשום"
+   },
+   "hours": {
+    "en": "Daily 7:00–21:00 per a 2026 guide (check the official site)",
+    "he": "כל יום 7:00–21:00 לפי מדריך מ-2026 (לבדוק באתר הרשמי)"
+   },
+   "price_text": {
+    "en": "Full-day family ticket 2+2 ≈ 34,200 HUF (≈ €94) per a July 2026 guide – estimate. Taxi from the apartment ≈ 20 min.",
+    "he": "כרטיס משפחתי ליום שלם 2+2 כ-34,200 פורינט (כ-94 €) לפי מדריך מיולי 2026 – הערכה. מונית מהדירה כ-20 דקות."
+   },
+   "price_czk": 34200,
+   "price_eur": 94.21,
+   "estimate": true,
+   "time": {
+    "en": "4–5 h",
+    "he": "4–5 שעות"
+   },
+   "kids": {
+    "en": "Under a huge dome: wave pool, adventure pools and kids' slides – good if it rains.",
+    "he": "מתחת לכיפה ענקית: בריכת גלים, בריכות הרפתקאות ומגלשות לילדים – מתאים אם יורד גשם."
+   },
+   "optional": true,
+   "google": {
+    "name": "Aquaworld Resort Budapest",
+    "rating": 4.5,
+    "reviews": 21416,
+    "lat": 47.601086,
+    "lng": 19.112265,
+    "address": "Budapest, Íves út 16, 1044 Hungary",
+    "website": "http://aquaworldresort.hu/",
+    "place_id": "ChIJB781grvQQUcR53_W76IWilQ",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Aquaworld%20Resort%20Budapest&query_place_id=ChIJB781grvQQUcR53_W76IWilQ",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.601086,19.112265&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 21416,
+    "url": "https://www.google.com/maps/search/?api=1&query=Aquaworld%20Resort%20Budapest&query_place_id=ChIJB781grvQQUcR53_W76IWilQ"
+   },
+   "photo": {
+    "file": "img/hu/aquaworld-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Aquaworld%20Resort%20Budapest&query_place_id=ChIJB781grvQQUcR53_W76IWilQ",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Hungary Unlocked – Aquaworld (2026)",
+     "https://hungaryunlocked.com/aquaworld-budapest-water-park-guide/"
+    ],
+    [
+     "aquaworldresort.hu",
+     "http://aquaworldresort.hu/"
+    ]
+   ]
+  },
+  "tropicarium": {
+   "id": "tropicarium",
+   "name": {
+    "en": "Tropicarium (shark aquarium) – rainy-day option",
+    "he": "טרופיקריום (אקווריום כרישים) – חלופה ליום גשום"
+   },
+   "hours": {
+    "en": "Daily 10:00–20:00 (last entry 19:00)",
+    "he": "כל יום 10:00–20:00 (כניסה אחרונה 19:00)"
+   },
+   "price_text": {
+    "en": "Family ticket 2+2: 15,300 HUF weekdays before 17:00, 17,800 HUF weekends (≈ €42 / €49), official 2026 prices.",
+    "he": "כרטיס משפחתי 2+2: 15,300 פורינט בימי חול לפני 17:00, 17,800 בסופי שבוע (כ-42 € / 49 €), מחירים רשמיים 2026."
+   },
+   "price_czk": 15300,
+   "price_eur": 42.15,
+   "estimate": false,
+   "time": {
+    "en": "1.5–2 h",
+    "he": "שעה וחצי–שעתיים"
+   },
+   "kids": {
+    "en": "Walk-through shark tunnel, rays, a rainforest hall with crocodiles and monkeys. In the Campona mall, ≈ 30 min by taxi.",
+    "he": "מנהרת כרישים, טריגונים, אולם יער גשם עם תנינים וקופים. בקניון קמפונה, כ-30 דקות במונית."
+   },
+   "optional": true,
+   "google": {
+    "name": "Tropicarium-Oceanarium Kft.",
+    "rating": 4.5,
+    "reviews": 33744,
+    "lat": 47.406799,
+    "lng": 19.016958,
+    "address": "Budapest, Nagytétényi út 37-43, 1222 Hungary",
+    "website": "https://tropicarium.hu/",
+    "place_id": "ChIJqfcfE6rnQUcRZkIsOgjGOPg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Tropicarium-Oceanarium%20Kft.&query_place_id=ChIJqfcfE6rnQUcRZkIsOgjGOPg",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.406799,19.016958&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 33744,
+    "url": "https://www.google.com/maps/search/?api=1&query=Tropicarium-Oceanarium%20Kft.&query_place_id=ChIJqfcfE6rnQUcRZkIsOgjGOPg"
+   },
+   "photo": {
+    "file": "img/hu/tropicarium-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Tropicarium-Oceanarium%20Kft.&query_place_id=ChIJqfcfE6rnQUcRZkIsOgjGOPg",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "tropicarium.hu – prices",
+     "https://tropicarium.hu/csoportbejelentes/"
+    ],
+    [
+     "Szallas.hu – Tropicarium hours",
+     "https://szallas.hu/programok/tropicarium-budapest-p2676"
+    ]
+   ]
+  }
+ },
+ "days": [
+  {
+   "day": 1,
+   "date": "2027-08-16",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Evening flight, night at the airport",
+    "he": "טיסת ערב, לילה בשדה התעופה"
+   },
+   "trail": "green",
+   "overnight": "hotel_ibisair",
+   "plan": [
+    {
+     "en": "18:50 Wizz Air W6 2304 from TLV, landing at BUD 21:20.",
+     "he": "18:50 וויז אייר W6 2304 מנתב\"ג, נחיתה בבודפשט ב-21:20."
+    },
+    {
+     "en": "Walk about 3 minutes from Terminal 2 arrivals to the ibis Styles Budapest Airport. Kids to bed.",
+     "he": "הליכה של כ-3 דקות מאולם הנחיתות בטרמינל 2 ל-ibis Styles Budapest Airport. הילדים למיטה."
+    }
+   ],
+   "attractions": [],
+   "route": null,
+   "no_drive_key": "no_drive_air"
+  },
+  {
+   "day": 2,
+   "date": "2027-08-17",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Car pick-up, Veszprém Zoo, on to Balatonfüred",
+    "he": "איסוף רכב, גן החיות של וספרם, והלאה לבלטונפירד"
+   },
+   "trail": "green",
+   "overnight": "hotel_forras",
+   "plan": [
+    {
+     "en": "Breakfast at the hotel (included), indoor play corner, then walk to Terminal 2 and pick up the car at 11:00.",
+     "he": "ארוחת בוקר במלון (כלולה), פינת המשחקים, ואז הליכה לטרמינל 2 ואיסוף הרכב ב-11:00."
+    },
+    {
+     "en": "Drive 1h44 on the M0/M7 motorway to Veszprém Zoo: about 2–3 hours with lunch inside.",
+     "he": "נסיעה של שעה ו-44 דקות בכביש המהיר M0/M7 לגן החיות של וספרם: כ-2–3 שעות, עם ארוחת צהריים בפנים."
+    },
+    {
+     "en": "22 min to Balatonfüred, check in from 15:00, swim in the apartment pool, shopping for the kitchen.",
+     "he": "22 דקות לבלטונפירד, צ'ק-אין מ-15:00, שחייה בבריכה של הדירה וקניות למטבח."
+    }
+   ],
+   "attractions": [
+    "veszprem_zoo"
+   ],
+   "route": {
+    "km": 165.6,
+    "minutes": 126,
+    "legs": [
+     {
+      "from": "Budapest Airport (BUD) – car pick-up",
+      "to": "Veszprém Zoo",
+      "km": 146.9,
+      "min": 104
+     },
+     {
+      "from": "Veszprém Zoo",
+      "to": "Landhaus Forrás, Balatonfüred",
+      "km": 18.8,
+      "min": 22
+     }
+    ],
+    "points": [
+     {
+      "name": "Budapest Airport (BUD) – car pick-up",
+      "lat": 47.433,
+      "lng": 19.2617
+     },
+     {
+      "name": "Veszprém Zoo",
+      "lat": 47.09007,
+      "lng": 17.89252
+     },
+     {
+      "name": "Landhaus Forrás, Balatonfüred",
+      "lat": 46.96961,
+      "lng": 17.89081
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       19.261713,
+       47.432987
+      ],
+      [
+       19.264249,
+       47.421444
+      ],
+      [
+       19.311251,
+       47.40075
+      ],
+      [
+       19.198993,
+       47.353742
+      ],
+      [
+       19.164227,
+       47.367173
+      ],
+      [
+       19.136251,
+       47.364816
+      ],
+      [
+       19.063344,
+       47.379134
+      ],
+      [
+       19.022227,
+       47.379699
+      ],
+      [
+       19.008459,
+       47.400119
+      ],
+      [
+       18.977815,
+       47.400007
+      ],
+      [
+       18.948621,
+       47.419927
+      ],
+      [
+       18.909594,
+       47.421291
+      ],
+      [
+       18.893939,
+       47.433393
+      ],
+      [
+       18.869914,
+       47.401122
+      ],
+      [
+       18.838879,
+       47.384891
+      ],
+      [
+       18.701134,
+       47.273389
+      ],
+      [
+       18.657983,
+       47.248602
+      ],
+      [
+       18.578759,
+       47.229795
+      ],
+      [
+       18.438583,
+       47.150367
+      ],
+      [
+       18.385298,
+       47.150813
+      ],
+      [
+       18.377718,
+       47.183394
+      ],
+      [
+       18.313004,
+       47.21581
+      ],
+      [
+       18.25044,
+       47.197005
+      ],
+      [
+       18.154608,
+       47.196008
+      ],
+      [
+       18.11405,
+       47.18185
+      ],
+      [
+       18.069587,
+       47.148178
+      ],
+      [
+       18.00873,
+       47.13069
+      ],
+      [
+       17.972744,
+       47.105157
+      ],
+      [
+       17.936914,
+       47.100365
+      ],
+      [
+       17.923156,
+       47.080378
+      ],
+      [
+       17.899592,
+       47.07522
+      ],
+      [
+       17.892524,
+       47.090068
+      ],
+      [
+       17.893085,
+       47.079239
+      ],
+      [
+       17.916336,
+       47.077005
+      ],
+      [
+       17.92626,
+       47.058095
+      ],
+      [
+       17.906717,
+       47.023905
+      ],
+      [
+       17.916049,
+       46.998886
+      ],
+      [
+       17.909698,
+       46.991606
+      ],
+      [
+       17.920262,
+       46.980171
+      ],
+      [
+       17.890951,
+       46.969683
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=47.433,19.2617&destination=46.96961,17.89081&travelmode=driving&waypoints=47.09007%2C17.89252"
+   }
+  },
+  {
+   "day": 3,
+   "date": "2027-08-18",
+   "weekday": {
+    "en": "Wed",
+    "he": "ד'"
+   },
+   "title": {
+    "en": "Ferry to the shallow south-shore beach, then Tihany",
+    "he": "מעבורת לחוף הרדוד בדרום, ואז טיהאני"
+   },
+   "trail": "blue",
+   "overnight": "hotel_forras",
+   "plan": [
+    {
+     "en": "19 min to Tihanyrév. Park and take the ferry on foot to Szántód (8 min) – adults pay, kids free.",
+     "he": "19 דקות לטיהאני-רב. חונים ועולים ברגל על המעבורת לסאנטוד (8 דקות) – המבוגרים משלמים, הילדים חינם."
+    },
+    {
+     "en": "Morning at the free Szántód beach next to the pier: very shallow, warm water. Lunch at the beach, ferry back.",
+     "he": "בוקר בחוף החופשי בסאנטוד ליד המזח: מים רדודים מאוד וחמימים. ארוחת צהריים בחוף, ומעבורת חזרה."
+    },
+    {
+     "en": "4 min up to Tihany Abbey: the view, the church and the children's corners in the museum, then ice cream in the village. 13 min home.",
+     "he": "4 דקות עלייה למנזר טיהאני: התצפית, הכנסייה ופינות הילדים במוזיאון, ואז גלידה בכפר. 13 דקות הביתה."
+    }
+   ],
+   "attractions": [
+    "tihany_ferry",
+    "szantod_beach",
+    "tihany_abbey"
+   ],
+   "route": {
+    "km": 24.9,
+    "minutes": 36,
+    "legs": [
+     {
+      "from": "Landhaus Forrás, Balatonfüred",
+      "to": "Tihanyrév ferry pier",
+      "km": 12.7,
+      "min": 19
+     },
+     {
+      "from": "Tihanyrév ferry pier",
+      "to": "Tihany Abbey",
+      "km": 2.5,
+      "min": 4
+     },
+     {
+      "from": "Tihany Abbey",
+      "to": "Landhaus Forrás, Balatonfüred",
+      "km": 9.7,
+      "min": 13
+     }
+    ],
+    "points": [
+     {
+      "name": "Landhaus Forrás, Balatonfüred",
+      "lat": 46.96961,
+      "lng": 17.89081
+     },
+     {
+      "name": "Tihanyrév ferry pier",
+      "lat": 46.8915,
+      "lng": 17.8885
+     },
+     {
+      "name": "Tihany Abbey",
+      "lat": 46.91396,
+      "lng": 17.88951
+     },
+     {
+      "name": "Landhaus Forrás, Balatonfüred",
+      "lat": 46.96961,
+      "lng": 17.89081
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       17.890951,
+       46.969683
+      ],
+      [
+       17.89027,
+       46.967951
+      ],
+      [
+       17.883592,
+       46.963804
+      ],
+      [
+       17.872149,
+       46.961102
+      ],
+      [
+       17.869748,
+       46.958316
+      ],
+      [
+       17.875676,
+       46.947051
+      ],
+      [
+       17.860968,
+       46.93686
+      ],
+      [
+       17.859249,
+       46.932074
+      ],
+      [
+       17.859619,
+       46.928559
+      ],
+      [
+       17.864702,
+       46.925343
+      ],
+      [
+       17.869592,
+       46.924089
+      ],
+      [
+       17.877138,
+       46.924575
+      ],
+      [
+       17.883774,
+       46.923612
+      ],
+      [
+       17.891699,
+       46.917343
+      ],
+      [
+       17.89225,
+       46.90842
+      ],
+      [
+       17.898674,
+       46.902136
+      ],
+      [
+       17.89404,
+       46.891573
+      ],
+      [
+       17.891356,
+       46.890111
+      ],
+      [
+       17.889814,
+       46.891948
+      ],
+      [
+       17.888997,
+       46.897621
+      ],
+      [
+       17.891007,
+       46.899696
+      ],
+      [
+       17.890964,
+       46.907272
+      ],
+      [
+       17.889371,
+       46.913181
+      ],
+      [
+       17.885168,
+       46.915498
+      ],
+      [
+       17.879757,
+       46.916264
+      ],
+      [
+       17.871455,
+       46.919179
+      ],
+      [
+       17.860297,
+       46.920188
+      ],
+      [
+       17.856695,
+       46.921924
+      ],
+      [
+       17.859639,
+       46.926583
+      ],
+      [
+       17.860205,
+       46.936046
+      ],
+      [
+       17.869144,
+       46.943242
+      ],
+      [
+       17.876027,
+       46.946934
+      ],
+      [
+       17.869748,
+       46.958316
+      ],
+      [
+       17.873747,
+       46.961246
+      ],
+      [
+       17.883592,
+       46.963804
+      ],
+      [
+       17.89027,
+       46.967951
+      ],
+      [
+       17.890951,
+       46.969683
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.96961,17.89081&destination=46.96961,17.89081&travelmode=driving&waypoints=46.8915%2C17.8885%7C46.91396%2C17.88951"
+   }
+  },
+  {
+   "day": 4,
+   "date": "2027-08-19",
+   "weekday": {
+    "en": "Thu",
+    "he": "ה'"
+   },
+   "title": {
+    "en": "Aquapark day + lake boat",
+    "he": "יום פארק מים + שיט באגם"
+   },
+   "trail": "blue",
+   "overnight": "hotel_forras",
+   "plan": [
+    {
+     "en": "7 min to Annagora Aquapark: 10:00 to about 15:00 (wave pool, children's pool, slides).",
+     "he": "7 דקות לפארק המים אנהגורה: מ-10:00 עד בערך 15:00 (בריכת גלים, בריכת ילדים, מגלשות)."
+    },
+    {
+     "en": "Rest, then the 1-hour sightseeing boat from Balatonfüred pier and an evening on the Tagore promenade.",
+     "he": "מנוחה, ואז שיט של שעה מהמזח של בלטונפירד וערב בטיילת טאגורה."
+    }
+   ],
+   "attractions": [
+    "annagora",
+    "bahart_boat"
+   ],
+   "route": {
+    "km": 9.0,
+    "minutes": 19,
+    "legs": [
+     {
+      "from": "Landhaus Forrás, Balatonfüred",
+      "to": "Annagora Aquapark",
+      "km": 3.6,
+      "min": 7
+     },
+     {
+      "from": "Annagora Aquapark",
+      "to": "Balatonfüred pier",
+      "km": 2.2,
+      "min": 5
+     },
+     {
+      "from": "Balatonfüred pier",
+      "to": "Landhaus Forrás, Balatonfüred",
+      "km": 3.2,
+      "min": 7
+     }
+    ],
+    "points": [
+     {
+      "name": "Landhaus Forrás, Balatonfüred",
+      "lat": 46.96961,
+      "lng": 17.89081
+     },
+     {
+      "name": "Annagora Aquapark",
+      "lat": 46.94813,
+      "lng": 17.87225
+     },
+     {
+      "name": "Balatonfüred pier",
+      "lat": 46.95221,
+      "lng": 17.89469
+     },
+     {
+      "name": "Landhaus Forrás, Balatonfüred",
+      "lat": 46.96961,
+      "lng": 17.89081
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       17.890951,
+       46.969683
+      ],
+      [
+       17.891348,
+       46.969335
+      ],
+      [
+       17.89027,
+       46.967951
+      ],
+      [
+       17.888001,
+       46.966416
+      ],
+      [
+       17.884194,
+       46.964401
+      ],
+      [
+       17.883592,
+       46.963804
+      ],
+      [
+       17.881545,
+       46.962857
+      ],
+      [
+       17.879336,
+       46.962226
+      ],
+      [
+       17.875334,
+       46.96144
+      ],
+      [
+       17.872149,
+       46.961102
+      ],
+      [
+       17.872339,
+       46.960639
+      ],
+      [
+       17.871401,
+       46.959865
+      ],
+      [
+       17.870961,
+       46.959073
+      ],
+      [
+       17.869748,
+       46.958316
+      ],
+      [
+       17.871378,
+       46.956114
+      ],
+      [
+       17.871722,
+       46.954304
+      ],
+      [
+       17.872904,
+       46.952146
+      ],
+      [
+       17.874517,
+       46.950589
+      ],
+      [
+       17.875086,
+       46.949023
+      ],
+      [
+       17.87247,
+       46.948216
+      ],
+      [
+       17.871917,
+       46.948875
+      ],
+      [
+       17.872129,
+       46.949015
+      ],
+      [
+       17.872784,
+       46.948167
+      ],
+      [
+       17.875086,
+       46.949023
+      ],
+      [
+       17.875859,
+       46.946817
+      ],
+      [
+       17.887239,
+       46.951025
+      ],
+      [
+       17.888595,
+       46.952011
+      ],
+      [
+       17.88929,
+       46.951981
+      ],
+      [
+       17.891467,
+       46.953121
+      ],
+      [
+       17.892183,
+       46.952478
+      ],
+      [
+       17.891467,
+       46.953121
+      ],
+      [
+       17.892961,
+       46.953797
+      ],
+      [
+       17.893056,
+       46.954104
+      ],
+      [
+       17.89227,
+       46.955024
+      ],
+      [
+       17.889193,
+       46.956324
+      ],
+      [
+       17.889144,
+       46.95665
+      ],
+      [
+       17.891371,
+       46.95928
+      ],
+      [
+       17.895146,
+       46.961059
+      ],
+      [
+       17.897929,
+       46.962022
+      ],
+      [
+       17.897008,
+       46.962515
+      ],
+      [
+       17.897165,
+       46.962883
+      ],
+      [
+       17.897855,
+       46.962983
+      ],
+      [
+       17.897993,
+       46.963351
+      ],
+      [
+       17.895771,
+       46.96544
+      ],
+      [
+       17.895193,
+       46.966365
+      ],
+      [
+       17.895983,
+       46.970806
+      ],
+      [
+       17.894177,
+       46.970743
+      ],
+      [
+       17.892637,
+       46.970158
+      ],
+      [
+       17.891348,
+       46.969335
+      ],
+      [
+       17.890951,
+       46.969683
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.96961,17.89081&destination=46.96961,17.89081&travelmode=driving&waypoints=46.94813%2C17.87225%7C46.95221%2C17.89469"
+   }
+  },
+  {
+   "day": 5,
+   "date": "2027-08-20",
+   "weekday": {
+    "en": "Fri",
+    "he": "ו'"
+   },
+   "title": {
+    "en": "Boat ride inside a cave, then the beach",
+    "he": "שיט בסירה בתוך מערה, ואז החוף"
+   },
+   "trail": "blue",
+   "overnight": "hotel_forras",
+   "plan": [
+    {
+     "en": "44 min to Tapolca (book a morning slot online). Lake Cave with the rowing boat (≈ 1.5 h), then the little mill pond in the town centre.",
+     "he": "44 דקות לטאפולצה (להזמין שעה בבוקר באינטרנט). מערת האגם עם סירת המשוטים (כשעה וחצי), ואז בריכת הטחנה הקטנה במרכז העיירה."
+    },
+    {
+     "en": "50 min back. Afternoon at Esterházy Beach (children's pool, lake) or simply the apartment pool, and packing.",
+     "he": "50 דקות חזרה. אחר הצהריים בחוף אסטרהאזי (בריכת ילדים, האגם) או פשוט בבריכה של הדירה, ואריזות."
+    }
+   ],
+   "attractions": [
+    "tapolca_cave",
+    "esterhazy_strand"
+   ],
+   "route": {
+    "km": 89.1,
+    "minutes": 100,
+    "legs": [
+     {
+      "from": "Landhaus Forrás, Balatonfüred",
+      "to": "Tapolca Lake Cave",
+      "km": 41.9,
+      "min": 44
+     },
+     {
+      "from": "Tapolca Lake Cave",
+      "to": "Esterházy Beach, Balatonfüred",
+      "km": 44.7,
+      "min": 50
+     },
+     {
+      "from": "Esterházy Beach, Balatonfüred",
+      "to": "Landhaus Forrás, Balatonfüred",
+      "km": 2.6,
+      "min": 6
+     }
+    ],
+    "points": [
+     {
+      "name": "Landhaus Forrás, Balatonfüred",
+      "lat": 46.96961,
+      "lng": 17.89081
+     },
+     {
+      "name": "Tapolca Lake Cave",
+      "lat": 46.88324,
+      "lng": 17.44342
+     },
+     {
+      "name": "Esterházy Beach, Balatonfüred",
+      "lat": 46.95605,
+      "lng": 17.90226
+     },
+     {
+      "name": "Landhaus Forrás, Balatonfüred",
+      "lat": 46.96961,
+      "lng": 17.89081
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       17.890951,
+       46.969683
+      ],
+      [
+       17.883106,
+       46.963557
+      ],
+      [
+       17.872149,
+       46.961102
+      ],
+      [
+       17.867144,
+       46.956783
+      ],
+      [
+       17.851982,
+       46.950116
+      ],
+      [
+       17.844103,
+       46.939936
+      ],
+      [
+       17.836281,
+       46.935817
+      ],
+      [
+       17.832641,
+       46.927762
+      ],
+      [
+       17.820417,
+       46.919225
+      ],
+      [
+       17.80921,
+       46.907718
+      ],
+      [
+       17.79697,
+       46.903958
+      ],
+      [
+       17.79323,
+       46.900641
+      ],
+      [
+       17.750052,
+       46.882519
+      ],
+      [
+       17.722821,
+       46.880747
+      ],
+      [
+       17.71708,
+       46.882326
+      ],
+      [
+       17.706848,
+       46.880152
+      ],
+      [
+       17.67537,
+       46.880741
+      ],
+      [
+       17.671769,
+       46.878944
+      ],
+      [
+       17.663578,
+       46.884386
+      ],
+      [
+       17.650703,
+       46.883194
+      ],
+      [
+       17.64402,
+       46.884662
+      ],
+      [
+       17.620233,
+       46.88127
+      ],
+      [
+       17.586409,
+       46.88108
+      ],
+      [
+       17.568674,
+       46.875036
+      ],
+      [
+       17.565592,
+       46.87027
+      ],
+      [
+       17.551861,
+       46.8634
+      ],
+      [
+       17.543881,
+       46.855543
+      ],
+      [
+       17.534414,
+       46.854304
+      ],
+      [
+       17.513057,
+       46.855977
+      ],
+      [
+       17.49816,
+       46.861735
+      ],
+      [
+       17.487727,
+       46.864221
+      ],
+      [
+       17.48402,
+       46.863412
+      ],
+      [
+       17.476502,
+       46.871606
+      ],
+      [
+       17.471644,
+       46.871698
+      ],
+      [
+       17.468454,
+       46.874423
+      ],
+      [
+       17.443218,
+       46.883233
+      ],
+      [
+       17.468454,
+       46.874423
+      ],
+      [
+       17.471644,
+       46.871698
+      ],
+      [
+       17.476502,
+       46.871606
+      ],
+      [
+       17.48402,
+       46.863412
+      ],
+      [
+       17.487727,
+       46.864221
+      ],
+      [
+       17.49816,
+       46.861735
+      ],
+      [
+       17.513057,
+       46.855977
+      ],
+      [
+       17.534414,
+       46.854304
+      ],
+      [
+       17.543881,
+       46.855543
+      ],
+      [
+       17.551861,
+       46.8634
+      ],
+      [
+       17.565592,
+       46.87027
+      ],
+      [
+       17.568674,
+       46.875036
+      ],
+      [
+       17.586409,
+       46.88108
+      ],
+      [
+       17.620233,
+       46.88127
+      ],
+      [
+       17.64402,
+       46.884662
+      ],
+      [
+       17.650703,
+       46.883194
+      ],
+      [
+       17.663578,
+       46.884386
+      ],
+      [
+       17.671769,
+       46.878944
+      ],
+      [
+       17.67537,
+       46.880741
+      ],
+      [
+       17.706848,
+       46.880152
+      ],
+      [
+       17.71708,
+       46.882326
+      ],
+      [
+       17.722821,
+       46.880747
+      ],
+      [
+       17.749818,
+       46.88248
+      ],
+      [
+       17.79323,
+       46.900641
+      ],
+      [
+       17.79697,
+       46.903958
+      ],
+      [
+       17.80921,
+       46.907718
+      ],
+      [
+       17.820664,
+       46.919433
+      ],
+      [
+       17.833173,
+       46.92759
+      ],
+      [
+       17.851078,
+       46.92098
+      ],
+      [
+       17.856256,
+       46.921681
+      ],
+      [
+       17.859639,
+       46.926583
+      ],
+      [
+       17.859809,
+       46.935438
+      ],
+      [
+       17.867651,
+       46.942142
+      ],
+      [
+       17.88796,
+       46.951424
+      ],
+      [
+       17.889844,
+       46.957539
+      ],
+      [
+       17.895769,
+       46.961314
+      ],
+      [
+       17.897929,
+       46.962022
+      ],
+      [
+       17.902706,
+       46.95667
+      ],
+      [
+       17.90631,
+       46.957603
+      ],
+      [
+       17.907622,
+       46.955894
+      ],
+      [
+       17.902904,
+       46.956427
+      ],
+      [
+       17.900515,
+       46.961818
+      ],
+      [
+       17.897027,
+       46.96242
+      ],
+      [
+       17.895983,
+       46.970806
+      ],
+      [
+       17.890951,
+       46.969683
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.96961,17.89081&destination=46.96961,17.89081&travelmode=driving&waypoints=46.88324%2C17.44342%7C46.95605%2C17.90226"
+   }
+  },
+  {
+   "day": 6,
+   "date": "2027-08-21",
+   "weekday": {
+    "en": "Sat",
+    "he": "ש'"
+   },
+   "title": {
+    "en": "Back to Budapest, return the car, Margaret Island",
+    "he": "חזרה לבודפשט, החזרת הרכב, האי מרגיט"
+   },
+   "trail": "green",
+   "overnight": "hotel_westside",
+   "plan": [
+    {
+     "en": "Check out by 08:45 and drive 1h56 to BUD (one rest stop). Return the car by 11:00 (4 rental days exactly).",
+     "he": "צ'ק-אאוט עד 08:45 ונסיעה של שעה ו-56 דקות לשדה התעופה (עצירת מנוחה אחת). החזרת הרכב עד 11:00 (בדיוק 4 ימי השכרה)."
+    },
+    {
+     "en": "Taxi with 2 child seats to the apartment (31 min, ≈ €35). Leave the bags, lunch.",
+     "he": "מונית עם 2 מושבי ילדים לדירה (31 דקות, כ-35 €). משאירים מזוודות וארוחת צהריים."
+    },
+    {
+     "en": "Afternoon: walk 20 min to Margaret Island – bike carriage, free mini zoo, musical fountain (evening light show at 21:00 if the kids are still awake).",
+     "he": "אחר הצהריים: 20 דקות הליכה לאי מרגיט – כרכרת אופניים, גן חיות קטן וחינמי, המזרקה המוזיקלית (מופע אורות ב-21:00 אם הילדים עוד ערים)."
+    }
+   ],
+   "attractions": [
+    "margaret_island"
+   ],
+   "route": {
+    "km": 181.3,
+    "minutes": 147,
+    "legs": [
+     {
+      "from": "Landhaus Forrás, Balatonfüred",
+      "to": "Budapest Airport (BUD) – car return",
+      "km": 158.1,
+      "min": 116
+     },
+     {
+      "from": "Budapest Airport (BUD) – car return",
+      "to": "WestSide Garden Apartments, Budapest",
+      "km": 23.2,
+      "min": 31
+     }
+    ],
+    "points": [
+     {
+      "name": "Landhaus Forrás, Balatonfüred",
+      "lat": 46.96961,
+      "lng": 17.89081
+     },
+     {
+      "name": "Budapest Airport (BUD) – car return",
+      "lat": 47.433,
+      "lng": 19.2617
+     },
+     {
+      "name": "WestSide Garden Apartments, Budapest",
+      "lat": 47.51864,
+      "lng": 19.0694
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       17.890951,
+       46.969683
+      ],
+      [
+       17.920262,
+       46.980171
+      ],
+      [
+       17.909698,
+       46.991606
+      ],
+      [
+       17.916049,
+       46.998886
+      ],
+      [
+       17.906717,
+       47.023905
+      ],
+      [
+       17.926212,
+       47.057643
+      ],
+      [
+       17.916336,
+       47.077005
+      ],
+      [
+       17.935255,
+       47.09914
+      ],
+      [
+       17.972521,
+       47.104947
+      ],
+      [
+       18.008813,
+       47.130615
+      ],
+      [
+       18.069681,
+       47.148103
+      ],
+      [
+       18.090134,
+       47.16819
+      ],
+      [
+       18.153638,
+       47.195597
+      ],
+      [
+       18.250453,
+       47.196878
+      ],
+      [
+       18.31068,
+       47.213758
+      ],
+      [
+       18.377587,
+       47.183336
+      ],
+      [
+       18.385143,
+       47.150724
+      ],
+      [
+       18.437425,
+       47.147362
+      ],
+      [
+       18.465543,
+       47.171067
+      ],
+      [
+       18.578863,
+       47.229646
+      ],
+      [
+       18.658062,
+       47.248453
+      ],
+      [
+       18.701284,
+       47.273269
+      ],
+      [
+       18.838729,
+       47.384541
+      ],
+      [
+       18.869794,
+       47.400763
+      ],
+      [
+       18.892975,
+       47.428779
+      ],
+      [
+       18.910409,
+       47.420987
+      ],
+      [
+       18.948165,
+       47.419921
+      ],
+      [
+       18.978257,
+       47.399713
+      ],
+      [
+       19.007968,
+       47.400074
+      ],
+      [
+       19.02215,
+       47.379528
+      ],
+      [
+       19.06312,
+       47.379013
+      ],
+      [
+       19.136201,
+       47.364646
+      ],
+      [
+       19.164,
+       47.367074
+      ],
+      [
+       19.199188,
+       47.353546
+      ],
+      [
+       19.297455,
+       47.389795
+      ],
+      [
+       19.317245,
+       47.404639
+      ],
+      [
+       19.266278,
+       47.422988
+      ],
+      [
+       19.261713,
+       47.432987
+      ],
+      [
+       19.264357,
+       47.422978
+      ],
+      [
+       19.250489,
+       47.418278
+      ],
+      [
+       19.198887,
+       47.452092
+      ],
+      [
+       19.126125,
+       47.466285
+      ],
+      [
+       19.104141,
+       47.482234
+      ],
+      [
+       19.104702,
+       47.506758
+      ],
+      [
+       19.085809,
+       47.518504
+      ],
+      [
+       19.06949,
+       47.518562
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.96961,17.89081&destination=47.51864,19.0694&travelmode=driving&waypoints=47.433%2C19.2617"
+   }
+  },
+  {
+   "day": 7,
+   "date": "2027-08-22",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Budapest Zoo",
+    "he": "גן החיות של בודפשט"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_westside",
+   "plan": [
+    {
+     "en": "Start the 72-hour tickets. Trolleybus/metro to City Park (≈ 20 min), zoo about 9:30–14:30 with lunch inside.",
+     "he": "מפעילים את כרטיסי 72 השעות. טרוליבוס/מטרו לפארק העירוני (כ-20 דקות), גן החיות בערך 9:30–14:30 עם ארוחת צהריים בפנים."
+    },
+    {
+     "en": "Rest at the apartment; evening playground in City Park or by the Danube.",
+     "he": "מנוחה בדירה; בערב מגרש משחקים בפארק העירוני או ליד הדנובה."
+    }
+   ],
+   "attractions": [
+    "budapest_zoo"
+   ],
+   "route": null,
+   "no_drive_key": "no_drive_city"
+  },
+  {
+   "day": 8,
+   "date": "2027-08-23",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Palatinus pools + Danube cruise",
+    "he": "בריכות פלטינוס + שיט בדנובה"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_westside",
+   "plan": [
+    {
+     "en": "Bus to Margaret Island: Palatinus Strand 10:00–15:00 (wave pool, slides, kids' pool).",
+     "he": "אוטובוס לאי מרגיט: פלטינוס 10:00–15:00 (בריכת גלים, מגלשות, בריכת ילדים)."
+    },
+    {
+     "en": "Short rest, then tram 2 to the pier and the 70-minute daytime Danube cruise.",
+     "he": "מנוחה קצרה, ואז חשמלית 2 למזח ושיט של 70 דקות בדנובה בשעות היום."
+    },
+    {
+     "en": "Rainy day? Aquaworld (indoor water park) or the Tropicarium shark aquarium instead.",
+     "he": "יורד גשם? אקוואוורלד (פארק מים מקורה) או אקווריום הכרישים טרופיקריום במקום."
+    }
+   ],
+   "attractions": [
+    "palatinus",
+    "danube_cruise",
+    "aquaworld",
+    "tropicarium"
+   ],
+   "route": null,
+   "no_drive_key": "no_drive_city"
+  },
+  {
+   "day": 9,
+   "date": "2027-08-24",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Children's Railway + chairlift in the Buda Hills",
+    "he": "רכבת הילדים + רכבל כיסאות בגבעות בודה"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_westside",
+   "plan": [
+    {
+     "en": "Metro M3 + tram to Hűvösvölgy (≈ 45 min), the Children's Railway up to János-hegy station (≈ 40 min).",
+     "he": "מטרו M3 וחשמלית להווישווילג' (כ-45 דקות), ורכבת הילדים עד תחנת הר יאנוש (כ-40 דקות)."
+    },
+    {
+     "en": "Short flat forest path (≈ 700 m) to the chairlift and ride the Libegő down to Zugliget; bus 291 back to the city.",
+     "he": "שביל יער מישורי וקצר (כ-700 מ') לרכבל, ונסיעה בליבגו למטה לזוגליגט; אוטובוס 291 חזרה לעיר."
+    },
+    {
+     "en": "Optional late afternoon: bus 16 up to Castle Hill and the funicular down. Pack in the evening.",
+     "he": "אופציונלי לקראת ערב: אוטובוס 16 לגבעת הטירה והפוניקולר למטה. בערב אריזות."
+    }
+   ],
+   "attractions": [
+    "children_railway",
+    "libego",
+    "castle_hill"
+   ],
+   "route": null,
+   "no_drive_key": "no_drive_city"
+  },
+  {
+   "day": 10,
+   "date": "2027-08-25",
+   "weekday": {
+    "en": "Wed",
+    "he": "ד'"
+   },
+   "title": {
+    "en": "Fly home",
+    "he": "טיסה הביתה"
+   },
+   "trail": "green",
+   "overnight": null,
+   "plan": [
+    {
+     "en": "TAROM RO 232 + RO 155 departs 09:15 and lands in TLV at 23:20.",
+     "he": "טארום RO 232 + RO 155 ממריאה ב-09:15 ונוחתת בנתב\"ג ב-23:20."
+    },
+    {
+     "en": "Relaxed breakfast, taxi to the airport (32 min, ≈ €35) about 2.5 hours before departure.",
+     "he": "ארוחת בוקר רגועה, מונית לשדה התעופה (32 דקות, כ-35 €) כשעתיים וחצי לפני ההמראה."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 24.3,
+    "minutes": 32,
+    "legs": [
+     {
+      "from": "WestSide Garden Apartments, Budapest",
+      "to": "Budapest Airport (BUD)",
+      "km": 24.3,
+      "min": 32
+     }
+    ],
+    "points": [
+     {
+      "name": "WestSide Garden Apartments, Budapest",
+      "lat": 47.51864,
+      "lng": 19.0694
+     },
+     {
+      "name": "Budapest Airport (BUD)",
+      "lat": 47.433,
+      "lng": 19.2617
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       19.06949,
+       47.518562
+      ],
+      [
+       19.07124,
+       47.519502
+      ],
+      [
+       19.069466,
+       47.520987
+      ],
+      [
+       19.07784,
+       47.52547
+      ],
+      [
+       19.098271,
+       47.511859
+      ],
+      [
+       19.107411,
+       47.502756
+      ],
+      [
+       19.108962,
+       47.496436
+      ],
+      [
+       19.108645,
+       47.488749
+      ],
+      [
+       19.098916,
+       47.475321
+      ],
+      [
+       19.125356,
+       47.465763
+      ],
+      [
+       19.132401,
+       47.466173
+      ],
+      [
+       19.159076,
+       47.461139
+      ],
+      [
+       19.167207,
+       47.462073
+      ],
+      [
+       19.17658,
+       47.457856
+      ],
+      [
+       19.198887,
+       47.452092
+      ],
+      [
+       19.224426,
+       47.437136
+      ],
+      [
+       19.243013,
+       47.420813
+      ],
+      [
+       19.250293,
+       47.418244
+      ],
+      [
+       19.254691,
+       47.418132
+      ],
+      [
+       19.261552,
+       47.421652
+      ],
+      [
+       19.265528,
+       47.421583
+      ],
+      [
+       19.265176,
+       47.424067
+      ],
+      [
+       19.262334,
+       47.426527
+      ],
+      [
+       19.263661,
+       47.432358
+      ],
+      [
+       19.261713,
+       47.432987
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=47.51864,19.0694&destination=47.433,19.2617&travelmode=driving"
+   }
+  }
+ ],
+ "routes_total": {
+  "km": 494.2,
+  "minutes": 460
+ },
+ "budget": {
+  "lines": [
+   {
+    "key": "flights",
+    "eur": 1208,
+    "status": "live",
+    "label": {
+     "en": "Flights – Wizz Air W6 2304 + TAROM RO 232 + RO 155, 4 passengers",
+     "he": "טיסות – וויז אייר W6 2304 + טארום RO 232 + RO 155, 4 נוסעים"
+    }
+   },
+   {
+    "key": "bags",
+    "eur": 360,
+    "status": "estimate",
+    "label": {
+     "en": "Baggage – 2 cabin trolleys + 2 suitcases each way",
+     "he": "כבודה – 2 טרולים + 2 מזוודות לכל כיוון"
+    }
+   },
+   {
+    "key": "car",
+    "eur": 240,
+    "status": "estimate",
+    "label": {
+     "en": "Estate car, automatic, 4 days",
+     "he": "רכב סטיישן אוטומטי, 4 ימים"
+    }
+   },
+   {
+    "key": "seats",
+    "eur": 52,
+    "status": "estimate",
+    "label": {
+     "en": "2 child boosters",
+     "he": "2 בוסטרים לילדים"
+    }
+   },
+   {
+    "key": "border",
+    "eur": 0,
+    "status": "live",
+    "label": {
+     "en": "Cross-border fee",
+     "he": "עמלת מעבר גבול"
+    }
+   },
+   {
+    "key": "transfers",
+    "eur": 70,
+    "status": "estimate",
+    "label": {
+     "en": "Budapest taxis & airport transfers (with child seats)",
+     "he": "מוניות בבודפשט והסעות לשדה (עם מושבי ילדים)"
+    }
+   },
+   {
+    "key": "vignette",
+    "eur": 0,
+    "status": "estimate",
+    "label": {
+     "en": "Motorway e-vignette",
+     "he": "מדבקת כביש מהיר אלקטרונית"
+    }
+   },
+   {
+    "key": "fuel",
+    "eur": 55,
+    "status": "estimate",
+    "label": {
+     "en": "Fuel – ≈ 482 km",
+     "he": "דלק – כ-482 ק\"מ"
+    }
+   },
+   {
+    "key": "parking",
+    "eur": 30,
+    "status": "estimate",
+    "label": {
+     "en": "Parking",
+     "he": "חניה"
+    }
+   },
+   {
+    "key": "hotels",
+    "eur": 1810.2,
+    "status": "live",
+    "label": {
+     "en": "Hotels – 3 stays, 9 nights, free cancellation",
+     "he": "מלונות – 3 מקומות, 9 לילות, ביטול חינם"
+    }
+   },
+   {
+    "key": "att",
+    "eur": 481,
+    "status": "mixed",
+    "label": {
+     "en": "Attractions & Budapest public transport (174,650 HUF)",
+     "he": "אטרקציות ותחבורה ציבורית בבודפשט (174,650 פורינט)"
+    }
+   }
+  ],
+  "total_eur": 4306.2,
+  "live_part_eur": 3018.2,
+  "attractions_local": 174650,
+  "fuel_km": 482
+ },
+ "ui": {
+  "en": {
+   "dir": "ltr",
+   "lang": "en",
+   "eyebrow": "Hungary v2 research · air-conditioning check 21 Oct 2026 · awaiting your approval",
+   "total": "Estimated total",
+   "live_of": "of which {x} live prices",
+   "flights": "Flights",
+   "bases": "Bases",
+   "bases_v": "3 places",
+   "bases_s": "Airport 1 + Lake Balaton 4 + Budapest apartment 4 nights",
+   "driving": "Driving",
+   "drive_s": "car Days 2–6 only",
+   "changes": "How this plan was chosen",
+   "sec_flights": "Flights and alternatives",
+   "out_opts": "Outbound options",
+   "ret_opts": "Return options",
+   "option": "Option",
+   "when": "When",
+   "price4": "Price for 4",
+   "notes": "Notes",
+   "bags": "Baggage",
+   "fl_total": "Flights incl. baggage",
+   "dates": "v5 vs v4: what moving two days later changes",
+   "window": "10-day window",
+   "prague": "Prague 4 nights",
+   "lipno": "Lipno 5 nights",
+   "both": "Total",
+   "sec_days": "Day by day",
+   "sec_hotels": "Hotels",
+   "photo": "Photo",
+   "name": "Name",
+   "location": "Location",
+   "rating": "Rating",
+   "nights": "Nights",
+   "per_night": "Per night",
+   "sec_car": "Car (Hungary only)",
+   "sec_routes": "Driving routes",
+   "day": "Day",
+   "from": "From",
+   "to": "To",
+   "km": "km",
+   "time": "Time",
+   "no_drive": "No driving",
+   "no_drive_city": "No car in Budapest; public transport and taxi.",
+   "no_drive_free": "Free day at Lipno (optional Kleť: 92 km, 1h50).",
+   "sec_budget": "Budget",
+   "item": "Item",
+   "src": "Source",
+   "whole": "Whole trip",
+   "hours": "Hours",
+   "fprice": "Family price",
+   "tneed": "Time",
+   "nav": "Navigate",
+   "gmaps": "Google Maps",
+   "open_route": "Open route in Google Maps",
+   "overnight": "Overnight",
+   "home": "Home: TLV 23:20",
+   "optional": "OPTIONAL",
+   "live": "LIVE",
+   "est": "EST",
+   "checked": "CHECKED",
+   "mixed": "MIXED",
+   "photo_by": "Photo",
+   "legend": "LIVE = live price/rating found 17–18 Oct 2026 · EST = estimate · CHECKED = official or 2026 ticket price. EUR; 1 € ≈ 363 HUF.",
+   "version": "Version",
+   "book": "Book on Booking.com",
+   "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
+   "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
+   "next": "Next step",
+   "next_t": "Hungary v2 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "trails": {
+    "red": "",
+    "blue": "Lake Balaton",
+    "green": "Travel day",
+    "yellow": "Budapest"
+   },
+   "trail_note": "(colour = area of the trip)",
+   "taxi_note": "Taxi leg (no rental car).",
+   "no_drive_air": "Short walk or hotel shuttle from the terminal.",
+   "cmp_item": "Item",
+   "dates2": "Dates and flights compared – 6 cheapest of all combinations (flights + estimated bags, hotels with free cancellation, car)",
+   "start": "Dates",
+   "airport_n": "Airport night",
+   "lipno_n": "Lipno 4 nights",
+   "prague_n": "Prague 4 nights",
+   "no_drive_base": "No driving today.",
+   "fl_bags": "Flights + bags",
+   "car_short": "Car",
+   "plan_eve": "evening arrival, airport night",
+   "plan_day": "daytime arrival, straight to the base",
+   "ac": "Air conditioning",
+   "ac_short": "A/C ✓"
+  },
+  "he": {
+   "dir": "rtl",
+   "lang": "he",
+   "eyebrow": "הונגריה גרסה 2 · בדיקת מיזוג אוויר 21.10.2026 · ממתין לאישורך",
+   "total": "סה\"כ משוער",
+   "live_of": "מתוכם {x} מחירים חיים",
+   "flights": "טיסות",
+   "bases": "בסיסים",
+   "bases_v": "3 מקומות",
+   "bases_s": "שדה התעופה 1 + אגם בלטון 4 + דירה בבודפשט 4 לילות",
+   "driving": "נהיגה",
+   "drive_s": "רכב רק בימים 2–6",
+   "changes": "איך נבחרה התוכנית",
+   "sec_flights": "טיסות וחלופות",
+   "out_opts": "אפשרויות טיסה הלוך",
+   "ret_opts": "אפשרויות טיסה חזור",
+   "option": "אפשרות",
+   "when": "מתי",
+   "price4": "מחיר ל-4",
+   "notes": "הערות",
+   "bags": "כבודה",
+   "fl_total": "טיסות כולל כבודה",
+   "dates": "גרסה 5 מול גרסה 4: מה משתנה כשזזים יומיים קדימה",
+   "window": "חלון של 10 ימים",
+   "prague": "פראג 4 לילות",
+   "lipno": "ליפנו 5 לילות",
+   "both": "סה\"כ",
+   "sec_days": "יום אחר יום",
+   "sec_hotels": "מלונות",
+   "photo": "תמונה",
+   "name": "שם",
+   "location": "מיקום",
+   "rating": "דירוג",
+   "nights": "לילות",
+   "per_night": "ללילה",
+   "sec_car": "רכב (הונגריה בלבד)",
+   "sec_routes": "מסלולי נסיעה",
+   "day": "יום",
+   "from": "מ",
+   "to": "אל",
+   "km": "ק\"מ",
+   "time": "זמן",
+   "no_drive": "בלי נהיגה",
+   "no_drive_city": "בלי רכב בבודפשט; תחבורה ציבורית ומוניות.",
+   "no_drive_free": "יום חופשי בליפנו (קלט אופציונלי: 92 ק\"מ, שעה ו-50 דקות).",
+   "sec_budget": "תקציב",
+   "item": "פריט",
+   "src": "מקור",
+   "whole": "כל הטיול",
+   "hours": "שעות",
+   "fprice": "מחיר למשפחה",
+   "tneed": "זמן",
+   "nav": "ניווט",
+   "gmaps": "Google Maps",
+   "open_route": "פתח מסלול ב-Google Maps",
+   "overnight": "לינה",
+   "home": "בבית: נתב\"ג 23:20",
+   "optional": "אופציונלי",
+   "live": "חי",
+   "est": "הערכה",
+   "checked": "נבדק",
+   "mixed": "משולב",
+   "photo_by": "צילום",
+   "legend": "חי = מחיר/דירוג חי מ-17–18.10.2026 · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו; 1 € ≈ 363 פורינט.",
+   "version": "גרסה",
+   "book": "הזמנה ב-Booking.com",
+   "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
+   "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
+   "next": "השלב הבא",
+   "next_t": "הונגריה גרסה 2 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "trails": {
+    "red": "",
+    "blue": "אגם בלטון",
+    "green": "יום נסיעה",
+    "yellow": "בודפשט"
+   },
+   "trail_note": "(הצבע = אזור בטיול)",
+   "taxi_note": "נסיעה במונית (בלי רכב שכור).",
+   "no_drive_air": "הליכה קצרה או שאטל המלון מהטרמינל.",
+   "cmp_item": "פריט",
+   "dates2": "השוואת תאריכים וטיסות – 6 הזולים מכל הצירופים (טיסות + הערכת כבודה, מלונות עם ביטול חינם, רכב)",
+   "start": "תאריכים",
+   "airport_n": "לילה בשדה",
+   "lipno_n": "ליפנו 4 לילות",
+   "prague_n": "פראג 4 לילות",
+   "no_drive_base": "בלי נהיגה היום.",
+   "fl_bags": "טיסות + כבודה",
+   "car_short": "רכב",
+   "plan_eve": "נחיתה בערב, לילה בשדה",
+   "plan_day": "נחיתה ביום, ישר לבסיס",
+   "ac": "מיזוג אוויר",
+   "ac_short": "מזגן ✓"
+  }
+ },
+ "approved": {
+  "version": "hu v2",
+  "approved_on": "2026-10-21",
+  "by": "traveller"
+ },
+ "map": {
+  "country_outline_file": "hungary.geojson",
+  "outline_source": "Natural Earth (public domain) via world-atlas 2.0.2",
+  "center": [
+   47.2,
+   19.4
+  ],
+  "zoom": 7,
+  "tiles_online": {
+   "url": "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+   "attribution": "© OpenStreetMap contributors"
+  }
+ },
+ "route_modes": {
+  "D2": "car",
+  "D3": "car",
+  "D4": "car",
+  "D5": "car",
+  "D6": "car to BUD, then taxi",
+  "D10": "taxi"
+ },
+ "points_of_interest_types": {
+  "airport": "BUD – arrival, departure, car pick-up and return",
+  "hotel": "overnight stays",
+  "attraction": "activities"
+ }
+}
