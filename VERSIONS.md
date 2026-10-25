@@ -29,7 +29,9 @@ Nothing is deleted: every version stays in the repository and on GitHub Pages, a
 | Slovenia | v1 (approved, in the app) | 21 Oct 2026 | `si/v1/` | Sun 15 – Tue 24 Aug 2027, 2 air-conditioned apartments: Lake Bled 5 nights, Ljubljana 4 nights, car Days 1–6; daytime arrival (SWISS) chosen over the €51 cheaper 21:50 Lufthansa landing, because car-rental desks at LJU are closed then. About €4,872. Data: `si/v1/trip-research-si-v1.json`. |
 | Georgia | v1 (approved, in the app) | 21 Oct 2026 | `ge/v1/` | Tue 17 – Thu 26 Aug 2027: Tbilisi night 1, Borjomi 4 nights, Tbilisi 4 nights (all air-conditioned), car Days 2–6; Israir out, Aegean back (04:35 departure). About €4,144. Israel's NSC level-3 travel warning (March 2026, per press) – check before booking. Data: `ge/v1/trip-research-ge-v1.json`. |
 
-Every plan page has destination tabs at the top (Czechia · Hungary · Poland · Romania · Slovenia · Georgia).
+| Black Forest (Germany) | v1 (awaiting approval) | 25 Oct 2026 | `de/v1/` | Sat 14 – Mon 23 Aug 2027: fly to Zurich (cheapest of ZRH/FRA/BSL/STR/SXB; only the airport drive crosses a border), 2 air-conditioned apartments – Schluchsee 5 nights (private indoor pool), Rust next to Europa-Park 4 nights; car all 10 days. About €5,613. Data: `de/v1/trip-research-de-v1.json`. |
+
+Every plan page has destination tabs at the top (Czechia · Hungary · Poland · Romania · Slovenia · Georgia · Black Forest).
 
 Pages: https://yanik1983.github.io/Trip-to-Cheque-republic/ opens the latest Czech version.
 
