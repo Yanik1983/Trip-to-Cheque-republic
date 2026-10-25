@@ -714,8 +714,10 @@ h1,h2,h3{line-height:1.25;margin:0}
 .ils{color:var(--muted);font-weight:500;font-size:.85em;margin-inline-start:6px;white-space:nowrap}
 td.num .ils{display:block;margin:0}
 .ilsv{font-size:.6em;font-weight:600;color:var(--muted);margin-top:2px}
-.dsel button{flex:1 1 0;min-width:58px;min-height:44px;padding:4px 6px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--text);font:inherit;font-weight:700;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1.15}
+.dsel button{flex:1 0 auto;min-width:76px;min-height:44px;padding:4px 6px;border-radius:12px;border:1px solid var(--border);background:var(--surface);color:var(--text);font:inherit;font-weight:700;cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;line-height:1.15}
 .dsel button small{font-size:11px;font-weight:600;color:var(--muted)}
+.dsel button small.dprice{display:block;font-size:10.5px;font-weight:700;color:var(--text);white-space:nowrap;margin-top:1px}
+.dsel button[aria-pressed="true"] small.dprice{color:var(--accent-ink)}
 .dsel button[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
 .dsel button[aria-pressed="true"] small{color:var(--accent-ink);opacity:.85}
 .topbar .ttl{flex:1;min-width:0;font-weight:800;font-size:18px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
@@ -843,13 +845,13 @@ footer .links a{font-weight:600}
 (function(){
 'use strict';
 var DATA=null, OUTLINE=null, lang='he', tab='overview', selDay=1, mapSel='all', dest='cz';
-var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data.json',outline:'czechia.geojson',report:'../v6/index.html'},
- {id:'hu',he:'הונגריה',en:'Hungary',data:'trip-data-hu.json',outline:'hungary.geojson',report:'../hu/v2/index.html'},
- {id:'pl',he:'פולין',en:'Poland',data:'trip-data-pl.json',outline:'poland.geojson',report:'../pl/v3/index.html'},
- {id:'ro',he:'רומניה',en:'Romania',data:'trip-data-ro.json',outline:'romania.geojson',report:'../ro/v2/index.html'},
- {id:'si',he:'סלובניה',en:'Slovenia',data:'trip-data-si.json',outline:'slovenia.geojson',report:'../si/v1/index.html'},
- {id:'ge',he:'גאורגיה',en:'Georgia',data:'trip-data-ge.json',outline:'georgia.geojson',report:'../ge/v1/index.html'},
- {id:'de',he:'היער השחור',en:'Black Forest',data:'trip-data-de.json',outline:'germany.geojson',report:'../de/v1/index.html'}];
+var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data.json',total:4146.52,outline:'czechia.geojson',report:'../v6/index.html'},
+ {id:'hu',he:'הונגריה',en:'Hungary',data:'trip-data-hu.json',total:4306.2,outline:'hungary.geojson',report:'../hu/v2/index.html'},
+ {id:'pl',he:'פולין',en:'Poland',data:'trip-data-pl.json',total:5048.43,outline:'poland.geojson',report:'../pl/v3/index.html'},
+ {id:'ro',he:'רומניה',en:'Romania',data:'trip-data-ro.json',total:4024.88,outline:'romania.geojson',report:'../ro/v2/index.html'},
+ {id:'si',he:'סלובניה',en:'Slovenia',data:'trip-data-si.json',total:4872.3,outline:'slovenia.geojson',report:'../si/v1/index.html'},
+ {id:'ge',he:'גאורגיה',en:'Georgia',data:'trip-data-ge.json',total:4144.08,outline:'georgia.geojson',report:'../ge/v1/index.html'},
+ {id:'de',he:'היער השחור',en:'Black Forest',data:'trip-data-de.json',total:5613.35,outline:'germany.geojson',report:'../de/v1/index.html'}];
 var CACHE={};
 var FX={rate:null,date:null,live:false};
 (function(){try{var c=JSON.parse(localStorage.getItem('trip-fx-ils')||'null');if(c&&c.rate>0){FX.rate=c.rate;FX.date=c.date}}catch(e){}})();
@@ -934,7 +936,8 @@ function renderFooter(){
   $('#foot').innerHTML='<div class="links">'+r+'</div><p>'+esc(ST('credits'))+'</p>';
 }
 function renderDsel(){
-  $('#dsel').innerHTML=DESTS.map(function(d){return '<button type="button" data-dest="'+d.id+'" aria-pressed="'+(d.id===dest)+'">'+esc(lang==='he'?d.he:d.en)+'<small>'+esc(lang==='he'?d.en:d.he)+'</small></button>'}).join('');
+  $('#dsel').innerHTML=DESTS.map(function(d){return '<button type="button" data-dest="'+d.id+'" aria-pressed="'+(d.id===dest)+'">'+esc(lang==='he'?d.he:d.en)+'<small>'+esc(lang==='he'?d.en:d.he)+'</small>'+(d.total?'<small class="dprice" dir="ltr">'+esc(eur0(Math.round(d.total)))+(FX.rate?' · '+esc(ils(d.total)):'')+'</small>':'')+'</button>'}).join('');
+  var on=document.querySelector('#dsel [aria-pressed="true"]');if(on){var c=$('#dsel');c.scrollLeft=on.offsetLeft-(c.clientWidth-on.offsetWidth)/2}
 }
 
 function sectionShell(id){return '<section class="tab" id="tab-'+id+'" role="tabpanel"'+(id===tab?'':' hidden')+'></section>'}
