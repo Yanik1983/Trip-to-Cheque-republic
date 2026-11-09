@@ -1,0 +1,5521 @@
+{
+ "no_airport_hotel": true,
+ "country": {
+  "id": "de",
+  "name": {
+   "en": "Germany – Black Forest",
+   "he": "גרמניה – היער השחור"
+  },
+  "currency": "EUR",
+  "per_eur": 1,
+  "airport": {
+   "code": "ZRH",
+   "name": "Zurich Airport",
+   "lat": 47.4502,
+   "lng": 8.5622
+  },
+  "city": {
+   "en": "Rust (Europa-Park)",
+   "he": "רוסט (אירופה-פארק)"
+  },
+  "base": {
+   "en": "Lake Schluchsee (southern Black Forest)",
+   "he": "אגם שלוכזה (דרום היער השחור)"
+  }
+ },
+ "variant": "eve",
+ "version": {
+  "id": "v1",
+  "date": "2026-10-25",
+  "label": {
+   "en": "Germany – Black Forest v1",
+   "he": "גרמניה – היער השחור גרסה 1"
+  }
+ },
+ "taxi_days": [],
+ "car_km": 690.2,
+ "changes": [
+  {
+   "en": "Airport: the family allowed a nearby airport across the border if flights are cheaper (the whole stay stays in Germany). Cheapest total (flights + bags + 2 hotels + car) per airport: Zurich €4,581 (incl. the €43 Swiss vignette) · Frankfurt €4,568 but 3h28 from Schluchsee, so not used · Basel-Mulhouse €5,847 · Stuttgart €5,920 · Strasbourg: no usable flights. Zurich it is: SWISS nonstop out, 1h11 to the first base.",
+   "he": "שדה התעופה: המשפחה אישרה לנחות בשדה קרוב מעבר לגבול אם הטיסות זולות יותר (כל השהייה נשארת בגרמניה). הסכום הזול ביותר (טיסות + כבודה + 2 מלונות + רכב) לפי שדה: ציריך 4,581 € (כולל ויניטה שווייצרית 43 €) · פרנקפורט 4,568 € אבל 3:28 שעות משלוכזה, ולכן לא נבחר · בזל-מולוז 5,847 € · שטוטגרט 5,920 € · שטרסבורג: אין טיסות מתאימות. נבחרה ציריך: SWISS ישירה בהלוך, שעה ו-11 דקות לבסיס הראשון."
+  },
+  {
+   "en": "Dates Sat 14 – Mon 23 Aug 2027 (evening arrival, late drive to the base): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €4,581).",
+   "he": "תאריכים ש' 14 – ב' 23 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-4,581 €)."
+  },
+  {
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: SWISS LX 253 18:15→21:35; back: Aegean A3 851 + A3 926 11:15→19:00.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: סוויס LX 253 18:15←21:35; חזור: אגיאן A3 851 + A3 926 11:15←19:00."
+  },
+  {
+   "en": "Next best: Sat 14 – Mon 23 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €4,581 (+€0); back Aegean 11:15→19:00.",
+   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-4,581 € (+0 €); חזור אגיאן 11:15←19:00."
+  },
+  {
+   "en": "Next best: Wed 18 – Fri 27 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €4,583 (+€2); back Iberia 07:30→17:35.",
+   "he": "הבא בתור: ד' 18 – ו' 27 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-4,583 € (+2 €); חזור Iberia 07:30←17:35."
+  },
+  {
+   "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
+   "he": "אותם כללים כמו בתוכנית לצ'כיה: בלי מעבר גבולות, עד 3 מלונות, כולם עם ביטול חינם, הרבה אטרקציות לילדים, מעט הליכה, ימים קצרים, בלי רכב בעיר."
+  }
+ ],
+ "trip": {
+  "dates": {
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "days": 10,
+   "nights": 9
+  },
+  "title": {
+   "en": "Black Forest Family Trip: Schluchsee, Titisee, Feldberg, Triberg & Europa-Park",
+   "he": "טיול משפחתי ביער השחור: שלוכזה, טיטיזה, פלדברג, טריברג ואירופה-פארק"
+  },
+  "lede": {
+   "en": "Sat 14 – Mon 23 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. Fly to Zurich, pick up a car and cross straight into Germany (the only border crossing is the airport drive): 5 nights in an air-conditioned apartment with a private indoor pool 1.2 km from Lake Schluchsee (lake lido, Titisee boats, Feldberg cable car, Steinwasen-Park, Todtnau waterfall and the Hasenhorn coaster), then 4 nights in an air-conditioned apartment in Rust, a 10-minute walk from Europa-Park (Europa-Park on a Friday, Freiburg's Bächle and the Mundenhof animal park, Rulantica water world), with Triberg's waterfalls and the Black Forest farm museum on the way.",
+   "he": "שבת 14 – שני 23 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. טסים לציריך, אוספים רכב ועוברים ישר לגרמניה (מעבר הגבול היחיד הוא הנסיעה מהשדה ואליו): 5 לילות בדירה ממוזגת עם בריכה פנימית פרטית, 1.2 ק״מ מאגם שלוכזה (חוף רחצה באגם, סירות בטיטיזה, רכבל פלדברג, פארק שטיינוואזן, מפל טודטנאו ומגלשת ההרים בהזנהורן), ואחר כך 4 לילות בדירה ממוזגת ברוסט, 10 דקות הליכה מאירופה-פארק (אירופה-פארק ביום שישי, תעלות הבֶּכְלֶה בפרייבורג וחוות החיות מונדנהוף, עולם המים רולנטיקה), עם מפלי טריברג ומוזיאון החוות של היער השחור בדרך."
+  }
+ },
+ "currency": "EUR",
+ "local_per_eur": 1,
+ "local_currency": "EUR",
+ "flights": {
+  "chosen": [
+   {
+    "dir": {
+     "en": "Outbound",
+     "he": "הלוך"
+    },
+    "date": "2027-08-14",
+    "wd": {
+     "en": "Sat",
+     "he": "ש'"
+    },
+    "flight": "LX 253",
+    "airline": "SWISS",
+    "from": "TLV",
+    "to": "ZRH",
+    "dep": "18:15",
+    "arr": "21:35",
+    "duration": "4h 20m",
+    "price_eur": 683
+   },
+   {
+    "dir": {
+     "en": "Return",
+     "he": "חזור"
+    },
+    "date": "2027-08-23",
+    "wd": {
+     "en": "Mon",
+     "he": "ב'"
+    },
+    "flight": "A3 851 + A3 926",
+    "airline": "Aegean",
+    "from": "ZRH",
+    "to": "TLV",
+    "dep": "11:15",
+    "arr": "19:00",
+    "duration": "6h 45m",
+    "price_eur": 838
+   }
+  ],
+  "evening_outbound_options": [
+   {
+    "what": {
+     "en": "SWISS LX 253 · 18:15 → 21:35 · nonstop",
+     "he": "סוויס LX 253 · 18:15 → 21:35 · ישירה"
+    },
+    "when": {
+     "en": "Sat 14 Aug",
+     "he": "ש' 14 באוגוסט"
+    },
+    "price_eur": 683,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "SWISS LX 257 · 04:50 → 08:10 · nonstop",
+     "he": "סוויס LX 257 · 04:50 → 08:10 · ישירה"
+    },
+    "when": {
+     "en": "Sat 14 Aug",
+     "he": "ש' 14 באוגוסט"
+    },
+    "price_eur": 683,
+    "note": {
+     "en": "Same price.",
+     "he": "אותו מחיר."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Iberia IB 1874 + IB 633 · 05:30 → 22:20 · 1 stop ",
+     "he": "Iberia IB 1874 + IB 633 · 05:30 → 22:20 · עצירה ב"
+    },
+    "when": {
+     "en": "Sat 14 Aug",
+     "he": "ש' 14 באוגוסט"
+    },
+    "price_eur": 838,
+    "note": {
+     "en": "€155 more; 17 hr 50 min with a connection.",
+     "he": "יקרה ב-155 €; 17 שע׳ 50 דק׳ עם קונקשן."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 929 + A3 850 · 05:00 → 10:20 · 1 stop ",
+     "he": "אגיאן A3 929 + A3 850 · 05:00 → 10:20 · עצירה ב"
+    },
+    "when": {
+     "en": "Sat 14 Aug",
+     "he": "ש' 14 באוגוסט"
+    },
+    "price_eur": 862,
+    "note": {
+     "en": "€179 more; 6 hr 20 min with a connection.",
+     "he": "יקרה ב-179 €; 6 שע׳ 20 דק׳ עם קונקשן."
+    },
+    "best": false
+   }
+  ],
+  "return_options": [
+   {
+    "what": {
+     "en": "Aegean A3 851 + A3 926 · 11:15 → 19:00 · 1 stop ",
+     "he": "אגיאן A3 851 + A3 926 · 11:15 → 19:00 · עצירה ב"
+    },
+    "when": {
+     "en": "Mon 23 Aug",
+     "he": "ב' 23 באוגוסט"
+    },
+    "price_eur": 838,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "SWISS LX 252 · 11:50 → 17:00 · nonstop",
+     "he": "סוויס LX 252 · 11:50 → 17:00 · ישירה"
+    },
+    "when": {
+     "en": "Mon 23 Aug",
+     "he": "ב' 23 באוגוסט"
+    },
+    "price_eur": 993,
+    "note": {
+     "en": "€155 more.",
+     "he": "יקרה ב-155 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "SWISS LX 256 · 22:40 → 03:35 (+1) · nonstop",
+     "he": "סוויס LX 256 · 22:40 → 03:35 (+1) · ישירה"
+    },
+    "when": {
+     "en": "Mon 23 Aug",
+     "he": "ב' 23 באוגוסט"
+    },
+    "price_eur": 993,
+    "note": {
+     "en": "€155 more; arrives the next day.",
+     "he": "יקרה ב-155 €; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 853 + A3 928 · 19:00 → 02:45 (+1) · 1 stop ",
+     "he": "אגיאן A3 853 + A3 928 · 19:00 → 02:45 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Mon 23 Aug",
+     "he": "ב' 23 באוגוסט"
+    },
+    "price_eur": 838,
+    "note": {
+     "en": "Same price; 6 hr 45 min with a connection; arrives the next day.",
+     "he": "אותו מחיר; 6 שע׳ 45 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Iberia IB 634 + IB 1873 · 07:30 → 23:20 · 1 stop ",
+     "he": "Iberia IB 634 + IB 1873 · 07:30 → 23:20 · עצירה ב"
+    },
+    "when": {
+     "en": "Mon 23 Aug",
+     "he": "ב' 23 באוגוסט"
+    },
+    "price_eur": 871,
+    "note": {
+     "en": "€33 more; 14 hr 50 min with a connection.",
+     "he": "יקרה ב-33 €; 14 שע׳ 50 דק׳ עם קונקשן."
+    },
+    "best": false
+   }
+  ],
+  "baggage_eur": 320,
+  "baggage_text": {
+   "en": "Checked-bag rules differ by fare and airline; for the 2 suitcases and 2 cabin trolleys I assume about €160 per direction (estimate – check the fare conditions when booking). Total ≈ €320.",
+   "he": "כללי הכבודה משתנים לפי תעריף וחברה; ל-2 המזוודות ו-2 הטרולים אני מניח כ-160 € לכיוון (הערכה – לבדוק בתנאי התעריף בזמן ההזמנה). סה\"כ כ-320 €."
+  },
+  "note": {
+   "en": "Live Google Flights prices found 17–18 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included.",
+   "he": "מחירים חיים מ-Google Flights מ-17–18.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה."
+  }
+ },
+ "date_options": [
+  {
+   "total_eur": 4581.35,
+   "plan": "day",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 683,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257",
+    "dep": "04:50",
+    "arr": "08:10"
+   },
+   "back": {
+    "eur": 838,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 851 + A3 926",
+    "dep": "11:15",
+    "arr": "19:00"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4581.35,
+   "plan": "eve",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 683,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 253",
+    "dep": "18:15",
+    "arr": "21:35"
+   },
+   "back": {
+    "eur": 838,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 851 + A3 926",
+    "dep": "11:15",
+    "arr": "19:00"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": true
+  },
+  {
+   "total_eur": 4583.35,
+   "plan": "day",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 683,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257",
+    "dep": "04:50",
+    "arr": "08:10"
+   },
+   "back": {
+    "eur": 840,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1871",
+    "dep": "07:30",
+    "arr": "17:35"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4583.35,
+   "plan": "eve",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 683,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 253",
+    "dep": "18:15",
+    "arr": "21:35"
+   },
+   "back": {
+    "eur": 840,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1871",
+    "dep": "07:30",
+    "arr": "17:35"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4614.35,
+   "plan": "day",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 683,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257",
+    "dep": "04:50",
+    "arr": "08:10"
+   },
+   "back": {
+    "eur": 871,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1873",
+    "dep": "07:30",
+    "arr": "23:20"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4614.35,
+   "plan": "eve",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 683,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 253",
+    "dep": "18:15",
+    "arr": "21:35"
+   },
+   "back": {
+    "eur": 871,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1873",
+    "dep": "07:30",
+    "arr": "23:20"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4624.35,
+   "plan": "day",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 767,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257",
+    "dep": "04:50",
+    "arr": "08:10"
+   },
+   "back": {
+    "eur": 797,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1871",
+    "dep": "07:30",
+    "arr": "17:35"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4657.35,
+   "plan": "day",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 683,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257",
+    "dep": "04:50",
+    "arr": "08:10"
+   },
+   "back": {
+    "eur": 914,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1873",
+    "dep": "07:30",
+    "arr": "23:20"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4657.35,
+   "plan": "day",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 683,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257",
+    "dep": "04:50",
+    "arr": "08:10"
+   },
+   "back": {
+    "eur": 914,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1873",
+    "dep": "07:30",
+    "arr": "23:20"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4657.35,
+   "plan": "eve",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 683,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 253",
+    "dep": "18:15",
+    "arr": "21:35"
+   },
+   "back": {
+    "eur": 914,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1873",
+    "dep": "07:30",
+    "arr": "23:20"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4661.35,
+   "plan": "eve",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 804,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 457 + A3 448",
+    "dep": "05:30",
+    "arr": "19:45"
+   },
+   "back": {
+    "eur": 797,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1873",
+    "dep": "07:30",
+    "arr": "23:20"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4695.35,
+   "plan": "day",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 838,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 1874 + IB 629",
+    "dep": "05:30",
+    "arr": "14:00"
+   },
+   "back": {
+    "eur": 797,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1873",
+    "dep": "07:30",
+    "arr": "23:20"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4741.35,
+   "plan": "eve",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 767,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 253",
+    "dep": "18:15",
+    "arr": "21:35"
+   },
+   "back": {
+    "eur": 914,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1873",
+    "dep": "07:30",
+    "arr": "23:20"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  },
+  {
+   "total_eur": 4861.35,
+   "plan": "eve",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 1004,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 253",
+    "dep": "18:15",
+    "arr": "21:35"
+   },
+   "back": {
+    "eur": 797,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 634 + IB 1871",
+    "dep": "07:30",
+    "arr": "17:35"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 640,
+   "chosen": false
+  }
+ ],
+ "airports": {
+  "ZRH": {
+   "name": "Zurich Airport",
+   "lat": 47.4502,
+   "lng": 8.5622,
+   "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.450200,8.562200&travelmode=driving"
+  }
+ },
+ "sources": [
+  [
+   "Europa-Park – tickets and prices 2026",
+   "https://www.europapark.de/preise"
+  ],
+  [
+   "Europa-Park – opening hours",
+   "https://europapark.de/en/opening-hours"
+  ],
+  [
+   "Rulantica – prices and opening hours",
+   "https://www.europapark.de/de/rulantica/preise-oeffnungszeiten"
+  ],
+  [
+   "Rulantica – safety rules by attraction",
+   "https://www.europapark.de/en/rulantica/info/safety-rulantica"
+  ],
+  [
+   "Badeparadies Schwarzwald – Galaxy (age rules)",
+   "https://www.badeparadies-schwarzwald.de/de/galaxy/"
+  ],
+  [
+   "Kalenderpedia – school summer holidays 2027 (Baden-Württemberg 29 Jul – 11 Sep)",
+   "https://www.kalenderpedia.de/ferien/sommerferien-2027.html"
+  ],
+  [
+   "Enterprise – Basel-Mulhouse airport (cross-border terms)",
+   "https://www.enterprise.com/en/car-rental-locations/ch/basel-mulhouse-freiburg-airport-ksa1.html"
+  ],
+  [
+   "Alamo – Basel-Mulhouse-Freiburg airport (cross-border terms)",
+   "https://www.alamo.de/en/car-hire-locations/ch/basel-mulhouse-freiburg-airport-ksab.html"
+  ],
+  [
+   "Enterprise – Strasbourg airport (€55 cross-border fee)",
+   "https://www.enterprise.com/en/car-rental-locations/fr/strasbourg-airport-f5z1.html"
+  ],
+  [
+   "Enterprise – Zurich airport (cross-border terms)",
+   "https://www.enterprise.es/en/car-hire-locations/ch/zurich-airport-ksa4.html"
+  ],
+  [
+   "BAZG – Swiss motorway vignette (CHF 40)",
+   "https://www.bazg.admin.ch/en/swiss-motorway-vignette-two-types"
+  ],
+  [
+   "Skyscanner – car hire at Basel-Mulhouse airport",
+   "https://www.skyscanner.ie/car-hire-from/bsl/car-hire-from-basel-mulhouse-freiburg-airport.html"
+  ],
+  [
+   "EU – road rules in Germany",
+   "https://europa.eu/youreurope/citizens/travel/driving-abroad/road-rules-and-safety/germany/index_en.htm"
+  ],
+  [
+   "RP Freiburg – Freiburg low-emission zone to be abolished",
+   "https://rp.baden-wuerttemberg.de/rpf/service/presse/pressemitteilungen/artikel/umweltzone-in-freiburg-soll-aufgehoben-werden/api/pdf"
+  ],
+  [
+   "RP – French Crit'Air sticker accepted in Freiburg",
+   "https://rp.baden-wuerttemberg.de/rpk/presse/pressemitteilungen-aktuelle-meldungen/artikel/behoerden-erkennen-franzoesische-umweltplakette-fuer-umweltzonen-in-freiburg-karlsruhe-und-pfinztal-an-1/api/pdf"
+  ],
+  [
+   "ms-aktuell – ADAC fuel prices October 2026",
+   "https://ms-aktuell.de/finanzen/spritpreise-tankrabatt-09-10-2026/"
+  ],
+  [
+   "KONUS guest card (Schwarzwald Tourismus)",
+   "https://www.schwarzwald-tourismus.info/planen-buchen/konus-gaestekarte/konus-en"
+  ],
+  [
+   "SchwarzwaldCard / Hochschwarzwald Card info",
+   "https://www.schwarzwald-tourismus.info/planen-buchen/schwarzwaldcard"
+  ],
+  [
+   "zuerich.com – car rental at Zurich Airport (desk hours)",
+   "https://www.zuerich.com/en/visit/getting-around-in-zurich/car-rental-at-zurich-airport"
+  ],
+  [
+   "Enterprise – Zurich Airport (hours, cross-border)",
+   "https://www.enterprise.com/en/car-rental-locations/ch/zurich-airport-ksa4.html"
+  ],
+  [
+   "National – Zurich Airport (cross-border)",
+   "https://nationalcar.co.uk/en/car-hire-locations/ch/zurich-airport-ksn6.html"
+  ],
+  [
+   "Sixt – Switzerland rental info (country zones)",
+   "https://integration.partnerplusbenefit.com/application/resources/premium/voucher/Sixt-RentalInfo_en_CH.pdf"
+  ],
+  [
+   "MySwissAlps – Swiss traffic rules",
+   "https://www.myswissalps.com/travel/car/traffic-rules/"
+  ],
+  [
+   "Sixt – driving tips Switzerland",
+   "https://www.sixt.co.uk/driving-tips/switzerland/"
+  ],
+  [
+   "sendmybag.com – Wizz Air baggage 2026",
+   "https://www.sendmybag.com/airlines/wizz-air-baggage-allowance/"
+  ],
+  [
+   "aifly – El Al baggage",
+   "https://aifly.one/guides/el-al-baggage-allowance/"
+  ]
+ ],
+ "car": {
+  "lines": [
+   [
+    {
+     "en": "Compact estate/SUV, automatic, 9 days (≈ €65/day incl. Swiss airport surcharge), Sat 14 – Mon 23 Aug, Zurich Airport",
+     "he": "רכב סטיישן/קרוסאובר קומפקטי אוטומטי, 9 ימים (כ-65 € ליום כולל תוספת שדה בשווייץ), ש' 14 – ב' 23 באוגוסט, שדה התעופה של ציריך"
+    },
+    585,
+    true
+   ],
+   [
+    {
+     "en": "2 child seats / boosters, 9 days (€0 if you bring your own)",
+     "he": "2 מושבי ילדים/בוסטרים, 9 ימים (0 € אם מביאים משלכם)"
+    },
+    100,
+    true
+   ],
+   [
+    {
+     "en": "Swiss motorway vignette CHF 40 (≈ €43; 2026 vignette valid to 31 Jan 2027, 2027 price not yet published) – usually already on a Swiss rental car, then €0",
+     "he": "וינייטה לכבישים המהירים בשווייץ 40 פרנק (כ-43 €; וינייטת 2026 בתוקף עד 31.1.2027, מחיר 2027 טרם פורסם) – בדרך כלל כבר על רכב שכור שווייצרי, ואז 0 €"
+    },
+    43,
+    true
+   ],
+   [
+    {
+     "en": "Cross-border / use in Germany: Enterprise and National at ZRH – no extra charge; Sixt – Germany is in its 'Zone 1', a fee may apply and some premium brands are restricted (Europcar: not found) – confirm in the contract",
+     "he": "מעבר גבול / שימוש בגרמניה: Enterprise ו-National בציריך – ללא תוספת; Sixt – גרמניה ב'אזור 1' שלה, ייתכן תשלום ויש מגבלות על חלק ממותגי היוקרה (Europcar: לא נמצא) – לאשר בחוזה"
+    },
+    0,
+    true
+   ],
+   [
+    {
+     "en": "German motorway tolls for cars (none)",
+     "he": "אגרות כביש מהיר בגרמניה לרכב פרטי (אין)"
+    },
+    0,
+    false
+   ],
+   [
+    {
+     "en": "One-way fee (pick-up and return at Zurich Airport)",
+     "he": "עמלת החזרה במקום אחר (איסוף והחזרה בשדה ציריך)"
+    },
+    0,
+    false
+   ]
+  ],
+  "text": {
+   "en": "Pick-up at the Zurich Airport car rental centre after the 21:35 landing on Sat 14 Aug (about 22:15–22:30); return there on Mon 23 Aug by about 09:30 = 9 rental days. Desk hours found: Sixt and Enterprise 06:00–23:30 daily, Avis and Hertz listed 06:00/06:30–23:30 (third-party) – book a supplier that confirms the pick-up against your flight number. The car is needed for the whole stay (Schluchsee base, move day, Freiburg, and the 2-hour airport drive). Swiss rental cars normally carry the vignette; check at pick-up. Use in Germany: Enterprise/National say no cross-border charge; Sixt allows Germany ('Zone 1') with a possible fee; Europcar's terms were not found. Category: compact estate or small SUV (e.g. Škoda Octavia Combi automatic) for 2 large suitcases + 2 trolleys and 2 boosters. The price is an estimate: Zurich airport rentals carry an airport surcharge (≈ 20%) and August is peak season; no quote for August 2027 was available. Fuel: Germany is the cheaper place to fill up (Super E10 about €2.03–2.13/l in October 2026, ADAC); fill up on Sunday 22 Aug, before the early start.",
+   "he": "איסוף במרכז השכרת הרכב בשדה ציריך אחרי הנחיתה ב-21:35 ביום ש' 14 באוגוסט (בסביבות 22:15–22:30); החזרה שם ביום ב' 23 באוגוסט עד כ-09:30 = 9 ימי השכרה. שעות דלפק שנמצאו: Sixt ו-Enterprise 06:00–23:30 מדי יום, Avis ו-Hertz רשומים 06:00/06:30–23:30 (צד שלישי) – להזמין אצל ספק שמאשר את האיסוף לפי מספר הטיסה. הרכב נחוץ לכל השהות (הבסיס בשלוכזה, יום המעבר, פרייבורג והנסיעה של שעתיים לשדה). ברכב שכור בשווייץ בדרך כלל כבר יש וינייטה; לבדוק באיסוף. שימוש בגרמניה: Enterprise/National – ללא עמלת מעבר גבול; Sixt מתירה גרמניה ('אזור 1') עם עמלה אפשרית; תנאי Europcar לא נמצאו. קטגוריה: סטיישן קומפקטי או קרוסאובר קטן (למשל שקודה אוקטביה קומבי אוטומטית) ל-2 מזוודות גדולות, 2 טרולי ו-2 בוסטרים. המחיר הוא הערכה: בהשכרה בשדה ציריך יש תוספת שדה (כ-20%) ואוגוסט עונת שיא; הצעת מחיר לאוגוסט 2027 לא הייתה זמינה. דלק: בגרמניה זול יותר לתדלק (Super E10 כ-2.03–2.13 € לליטר באוקטובר 2026, ADAC); לתדלק ביום ראשון 22 באוגוסט, לפני היציאה המוקדמת."
+  }
+ },
+ "driving_notes": [
+  {
+   "en": "Border: the only crossings are the airport drives. In: Zurich Airport → Swiss A51 (Kloten–Bülach) and main road 4 → Rafz, into Germany at Rafz–Lottstetten (Solgen) and through the Jestetten–Wutach area to Schluchsee (70 km / 1h11). Out: Rust → German A5 and A98 → Rheinfelden motorway border (A861/A3) → Swiss A3/A1/A11 to the airport (182 km / 2h00). Waldshut–Koblenz is the other nearby crossing if traffic is bad. Germany has run temporary checks at its land borders since 2023–24: carry passports and expect short delays.",
+   "he": "גבול: המעברים היחידים הם הנסיעות מהשדה ואליו. בהלוך: שדה ציריך ← A51 השווייצרי (קלוטן–בילאך) וכביש 4 ← רפץ, כניסה לגרמניה ברפץ–לוטשטטן (זולגן) ודרך אזור יסטטן–ווּטאך לשלוכזה (70 ק״מ / 1:11). בחזור: רוסט ← A5 ו-A98 הגרמניים ← מעבר הגבול בכביש המהיר בריינפלדן (A861/A3) ← A3/A1/A11 השווייצריים לשדה (182 ק״מ / 2:00). ולדסהוט–קובלנץ הוא מעבר קרוב נוסף אם יש עומס. גרמניה מקיימת בדיקות זמניות בגבולות היבשה מאז 2023–24: לקחת דרכונים ולצפות לעיכוב קצר."
+  },
+  {
+   "en": "Switzerland (short airport legs): motorway vignette required on the A51, A3, A1 and A11 (CHF 40, fine CHF 200 without it); speed limits 50 km/h in towns, 80 outside, 100 on expressways, 120 on motorways – cameras are everywhere and fines are steep (radar detectors are illegal). Dipped headlights or daytime running lights at all times; alcohol limit 0.5‰ (0.1‰ for new drivers – in practice, do not drink); children under 12 and under 150 cm in an approved child seat or booster; phones hands-free only; warning triangle in the car.",
+   "he": "שווייץ (קטעי הנסיעה הקצרים מהשדה ואליו): חובה וינייטה ב-A51, A3, A1 ו-A11 (40 פרנק, קנס 200 פרנק בלעדיה); מהירות 50 קמ״ש בערים, 80 מחוץ לעיר, 100 בכבישים מהירים רגילים, 120 בכבישים מהירים – מצלמות בכל מקום והקנסות גבוהים (גלאי מכמונות אסורים). אורות נמוכים או אורות יום כל הזמן; מגבלת אלכוהול 0.5 פרומיל (0.1 לנהגים חדשים – בפועל, לא שותים); ילדים מתחת לגיל 12 ומתחת ל-150 ס״מ במושב בטיחות או בוסטר מאושר; טלפון רק בדיבורית; משולש אזהרה ברכב."
+  },
+  {
+   "en": "Child seats: in Germany children under 12 and shorter than 150 cm must use an approved child seat or booster (ECE/EU standard); a rear-facing seat may not go in front of an active airbag. Request 2 boosters when booking.",
+   "he": "מושבי ילדים: בגרמניה ילדים מתחת לגיל 12 ומתחת ל-150 ס״מ חייבים מושב בטיחות או בוסטר מאושר (תקן אירופי); מושב הפוך לכיוון הנסיעה אסור מול כרית אוויר פעילה. להזמין 2 בוסטרים עם הרכב."
+  },
+  {
+   "en": "Speed: 50 km/h in towns, 100 outside, no general limit on the Autobahn but 130 is recommended and many sections are signed lower; Black Forest roads are winding – plan by OSRM times plus 15%. Alcohol limit 0.5‰ (0.0 for drivers under 21 or with under 2 years' licence). Phones hands-free only. Warning triangle, first-aid kit and vests are in the car. No motorway tolls for cars in Germany.",
+   "he": "מהירות: 50 קמ״ש בערים, 100 מחוץ לעיר, באוטובאן אין מגבלה כללית אבל מומלץ 130 וקטעים רבים מוגבלים בשלטים; כבישי היער השחור מתפתלים – לתכנן לפי זמני OSRM ועוד 15%. מגבלת אלכוהול 0.5 פרומיל (0.0 לנהגים מתחת לגיל 21 או עם רישיון פחות משנתיים). טלפון רק בדיבורית. משולש אזהרה, ערכת עזרה ראשונה ואפודים נמצאים ברכב. אין אגרות לרכב פרטי בכבישים המהירים בגרמניה."
+  },
+  {
+   "en": "Freiburg low-emission zone: in 2024 the regional authority started the process to abolish it; German green stickers and French Crit'Air (green, 1–3) are accepted, but a Swiss rental car normally has neither – ask at pick-up whether the car has a German green sticker; until the zone is formally lifted, park at the edge (e.g. a Park+Ride) if it has none. Parking: paid lots at Titisee, Feldberg, Triberg, Freiburg (city garages) and Mundenhof (≈ €5); Europa-Park and Rulantica need no car from the Rust apartment.",
+   "he": "אזור פליטה נמוכה בפרייבורג: ב-2024 החלה הרשות האזורית בתהליך לביטולו; מדבקות ירוקות גרמניות ומדבקות Crit'Air צרפתיות (ירוקה, 1–3) מוכרות, אבל לרכב שכור שווייצרי בדרך כלל אין אף אחת מהן – לשאול באיסוף אם יש לרכב מדבקה ירוקה גרמנית; כל עוד האזור לא בוטל רשמית ואין מדבקה, לחנות בשוליים (למשל חניון Park+Ride). חניה: חניונים בתשלום בטיטיזה, פלדברג, טריברג, פרייבורג (חניונים עירוניים) ומונדנהוף (כ-5 €); לאירופה-פארק ולרולנטיקה לא צריך רכב מהדירה ברוסט."
+  },
+  {
+   "en": "Longest drives: Day 6 (Thu 19, move day) 2h26 in total, split into 1h04 + 6 min + 18 min + 58 min with stops; Day 10 (Mon 23) 2h00 straight to Zurich Airport in the early morning. On other days the driving is 1h06–1h22 in total, mostly on winding mountain roads; the Saturday-night arrival drive is 1h11.",
+   "he": "הנסיעות הארוכות: יום 6 (ה' 19, יום המעבר) 2:26 שעות בסך הכול, מחולקות ל-1:04 + 6 דק' + 18 דק' + 58 דק' עם עצירות; יום 10 (ב' 23) שעתיים ישר לשדה ציריך מוקדם בבוקר. בשאר הימים 1:06–1:22 שעות נסיעה בסך הכול, בעיקר בכבישי הרים מתפתלים; הנסיעה במוצאי שבת מהשדה היא 1:11."
+  }
+ ],
+ "hotels": [
+  {
+   "id": "hotel_schluchsee",
+   "gkey": "hotel_schluchsee",
+   "name": "Schönhier - Design Apartment mit Pool, Sauna",
+   "area": {
+    "en": "Schluchsee village, Am Riesenbühl 3 (about 1.2 km to the lake, the Aqua Fun lido and the boat pier; Titisee 22 km, Feldberg 17 km; 70 km / 1h11 from Zurich Airport)",
+    "he": "הכפר שלוכזה, Am Riesenbühl 3 (כ-1.2 ק״מ לאגם, לחוף אקווה-פאן ולמזח הסירה; טיטיזה 22 ק״מ, פלדברג 17 ק״מ; 70 ק״מ / 1:11 משדה התעופה של ציריך)"
+   },
+   "checkin": "2027-08-14",
+   "checkout": "2027-08-19",
+   "nights": 5,
+   "total_eur": 1297.75,
+   "booking_score": 8.6,
+   "booking_reviews": 5,
+   "booking_url": "https://www.booking.com/hotel/de/schonhier-design-apartment-mit-pool-sauna.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "One-bedroom design apartment for up to 4 (bedroom + sofa bed) with a fully equipped kitchen, a private heated indoor pool and sauna (not shared, per Booking Q&A), lift, free private parking; free cancellation. Check-in from 16:00, check-out by 10:00. LATE ARRIVAL: you land at 21:35 and arrive at about 23:30–00:00 on Saturday. Booking's listing and Q&A (25 Oct 2026) give no latest check-in time and no key-box/self check-in information – the only advice is to contact the property in advance. Get written late-arrival instructions (key box or code) with your flight number before you fly, and ask whether a late fee applies. Only 5 Booking reviews so far – the weak point of this choice.",
+    "he": "דירת מעצבים עם חדר שינה אחד עד 4 אנשים (חדר שינה + ספה נפתחת) עם מטבח מאובזר, בריכה פנימית מחוממת פרטית וסאונה (לא משותפות, לפי שאלות ותשובות ב-Booking), מעלית וחניה פרטית חינם; ביטול חינם. צ'ק-אין מ-16:00, צ'ק-אאוט עד 10:00. הגעה מאוחרת: נוחתים ב-21:35 ומגיעים בסביבות 23:30–00:00 במוצאי שבת. בדף הנכס ובשאלות ותשובות של Booking (25.10.2026) אין שעת צ'ק-אין אחרונה ואין מידע על כספת מפתחות או צ'ק-אין עצמי – ההמלצה היחידה היא לפנות לנכס מראש. לקבל בכתב הוראות הגעה מאוחרת (כספת מפתחות או קוד) עם מספר הטיסה לפני הטיסה, ולשאול אם יש תוספת תשלום. רק 5 ביקורות ב-Booking עד עכשיו – זו נקודת החולשה של הבחירה."
+   },
+   "ac": {
+    "en": "Air conditioning confirmed (Booking facility filter and Booking property Q&A, 25 Oct 2026): the one-bedroom apartment for 4 has air conditioning at no extra charge.",
+    "he": "מיזוג אוויר מאושר (סינון המתקנים של Booking ושאלות ותשובות על הנכס, 25.10.2026): דירת חדר השינה ל-4 ממוזגת והמיזוג בלי תוספת תשלום."
+   },
+   "alt": {
+    "en": "Ferienhaus Haus Herzog, Titisee-Neustadt (price for 17–22 Aug €1,950; Booking 8.0, 8 reviews; three-bedroom apartment for up to 6 with kitchen, A/C free of charge per Booking Q&A, about 7 km from Lake Titisee). Das Waldhotel – Spa & Wellness Resort, Notschrei pass (Todtnau) (price for 17–22 Aug €1,999.35; Booking 9.1, 38 reviews; family room with balcony for up to 6, A/C free per Booking Q&A, indoor and outdoor pool, playground; no kitchen). Checked and rejected: Schwarzwald-Hotel Kraeutle, Feldberg (price for 17–22 Aug €1,603; Booking 9.3, 640 reviews) – A/C appears in the facility list but Booking Q&A could not confirm it in the apartments. (Alternative prices were checked for 17–26 Aug.)",
+    "he": "Ferienhaus Haus Herzog, טיטיזה-נוישטאדט (מחיר ל-17–22 באוגוסט 1,950 €; Booking 8.0, 8 ביקורות; דירת 3 חדרי שינה עד 6 אנשים עם מטבח, מיזוג חינם לפי שאלות ותשובות ב-Booking, כ-7 ק״מ מאגם טיטיזה). Das Waldhotel – Spa & Wellness Resort, מעבר נוטשריי (טודטנאו) (מחיר ל-17–22 באוגוסט 1,999.35 €; Booking 9.1, 38 ביקורות; חדר משפחה עם מרפסת עד 6, מיזוג חינם לפי שאלות ותשובות, בריכה פנימית וחיצונית, מגרש משחקים; בלי מטבח). נבדק ונפסל: Schwarzwald-Hotel Kraeutle, פלדברג (מחיר ל-17–22 באוגוסט 1,603 €; Booking 9.3, 640 ביקורות) – מיזוג מופיע ברשימת המתקנים, אבל שאלות ותשובות של Booking לא אישרו מיזוג בדירות. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+   },
+   "google_note": {
+    "en": "Google: 4.3 from only 5 reviews; Booking.com 8.6 from 5 reviews.",
+    "he": "בגוגל: 4.3 מתוך 5 ביקורות בלבד; ב-Booking.com 8.6 מתוך 5 ביקורות."
+   },
+   "google": {
+    "name": "Schönhier - Design Apartment mit Pool, Sauna",
+    "rating": 4.3,
+    "reviews": 5,
+    "lat": 47.823318,
+    "lng": 8.181737,
+    "address": "79859 Schluchsee, Germany",
+    "website": "https://www.booking.com/hotel/de/schonhier-design-apartment-mit-pool-sauna.en-gb.html?aid=2068758&utm_source=seogooglelocal&utm_medium=description&utm_term=hotel-13512968&utm_campaign=en-gb&label=seogooglelocal-link-imagesaow-hotel-13512968_grp-0_gendate-20261020",
+    "place_id": "ChIJpZfvTXn2kEcRJEIwnsqL88c",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sch%C3%B6nhier%20-%20Design%20Apartment%20mit%20Pool%2C%20Sauna&query_place_id=ChIJpZfvTXn2kEcRJEIwnsqL88c",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.823318,8.181737&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_schluchsee-1.jpg",
+     "w": 748,
+     "h": 410,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Sch%C3%B6nhier%20-%20Design%20Apartment%20mit%20Pool%2C%20Sauna&query_place_id=ChIJpZfvTXn2kEcRJEIwnsqL88c",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_schluchsee-2.jpg",
+     "w": 748,
+     "h": 410,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Sch%C3%B6nhier%20-%20Design%20Apartment%20mit%20Pool%2C%20Sauna&query_place_id=ChIJpZfvTXn2kEcRJEIwnsqL88c",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 259.55,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 8.6,
+     "out_of": 10,
+     "reviews": 5,
+     "url": "https://www.booking.com/hotel/de/schonhier-design-apartment-mit-pool-sauna.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.3,
+     "out_of": 5,
+     "reviews": 5,
+     "url": "https://www.google.com/maps/search/?api=1&query=Sch%C3%B6nhier%20-%20Design%20Apartment%20mit%20Pool%2C%20Sauna&query_place_id=ChIJpZfvTXn2kEcRJEIwnsqL88c"
+    }
+   ]
+  },
+  {
+   "id": "hotel_rust",
+   "gkey": "hotel_rust",
+   "name": "Ferienwohnungen Busch`s Gästehaus",
+   "area": {
+    "en": "Rust, Kirchstraße 6 (8–10 min walk to Europa-Park's main entrance, Rulantica 2 km; Freiburg 40 min; 182 km / 2h00 to Zurich Airport)",
+    "he": "רוסט, Kirchstraße 6 (8–10 דקות הליכה לכניסה הראשית של אירופה-פארק, רולנטיקה 2 ק״מ; פרייבורג 40 דק'; 182 ק״מ / 2:00 שעות לשדה התעופה של ציריך)"
+   },
+   "checkin": "2027-08-19",
+   "checkout": "2027-08-23",
+   "nights": 4,
+   "total_eur": 759.6,
+   "booking_score": 8.9,
+   "booking_reviews": 158,
+   "booking_url": "https://www.booking.com/hotel/de/ferienwohnung-busch-rust1.html?checkin=2027-08-19&checkout=2027-08-23&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "One-bedroom apartment for up to 4 (bedroom + sofa bed) with a kitchenette (stove and fridge), outdoor furniture and free parking; free cancellation. Check-in from 16:00 on Thu 19 Aug (self check-in available). Check-out is by 10:00, but you leave at about 07:30 on Mon 23 Aug: Booking's Q&A says private check-out exists but does not describe a key drop – tell the host in advance and agree where to leave the key. No pool – Rulantica and Europa-Park are next door.",
+    "he": "דירת חדר שינה אחד עד 4 אנשים (חדר שינה + ספה נפתחת) עם מטבחון (כיריים ומקרר), ריהוט חוץ וחניה חינם; ביטול חינם. צ'ק-אין מ-16:00 ביום ה' 19 באוגוסט (יש צ'ק-אין עצמי). הצ'ק-אאוט עד 10:00, אבל יוצאים בסביבות 07:30 ביום ב' 23 באוגוסט: לפי שאלות ותשובות ב-Booking יש צ'ק-אאוט פרטי, אבל לא מתואר איפה משאירים את המפתח – לעדכן את המארח מראש ולסכם היכן להשאיר אותו. אין בריכה – רולנטיקה ואירופה-פארק ממש ליד."
+   },
+   "ac": {
+    "en": "Air conditioning confirmed (Booking facility filter and Booking property Q&A, 25 Oct 2026): the one-bedroom apartment is air-conditioned and the A/C is free of charge; the Google listing photo of the bedroom shows a wall-mounted unit.",
+    "he": "מיזוג אוויר מאושר (סינון המתקנים של Booking ושאלות ותשובות על הנכס, 25.10.2026): דירת חדר השינה ממוזגת והמיזוג חינם; בתמונת חדר השינה בגוגל נראה מזגן תלוי על הקיר."
+   },
+   "alt": {
+    "en": "Prices below were found for 22–26 Aug and not re-checked for 19–23 Aug. Casaina, Weisweil €596 (Booking 9.5, 236 reviews; one-bedroom for 4, kitchenette, A/C free per Booking Q&A, about 9 km from Europa-Park). Ferienwohnung Paula, Lahr €652 (Booking 9.6, 52 reviews; one-bedroom for 4, full kitchen, A/C free, about 18 km from Europa-Park). AVALON (between Europa-Park and Rulantica), Rust €1,111.60 (Booking 9.1, 1,119 reviews; family room/studio with kitchenette, A/C free, seasonal outdoor pool, about 18 min walk to Europa-Park). (Alternative prices were checked for 17–26 Aug.)",
+    "he": "המחירים להלן נמצאו ל-22–26 באוגוסט ולא נבדקו מחדש ל-19–23 באוגוסט. Casaina, וייסוויל ב-596 € (Booking 9.5, 236 ביקורות; חדר שינה ל-4, מטבחון, מיזוג חינם לפי שאלות ותשובות, כ-9 ק״מ מאירופה-פארק). Ferienwohnung Paula, לאהר ב-652 € (Booking 9.6, 52 ביקורות; חדר שינה ל-4, מטבח מלא, מיזוג חינם, כ-18 ק״מ מאירופה-פארק). AVALON (בין אירופה-פארק לרולנטיקה), רוסט ב-1,111.60 € (Booking 9.1, 1,119 ביקורות; חדר משפחה/סטודיו עם מטבחון, מיזוג חינם, בריכה חיצונית עונתית, כ-18 דקות הליכה לאירופה-פארק). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+   },
+   "google_note": {
+    "en": "Google: 4.9 from 32 reviews (listed as 'Ferienwohnung Busch'); Booking.com 8.9 from 158 reviews.",
+    "he": "בגוגל: 4.9 מתוך 32 ביקורות (רשום כ-'Ferienwohnung Busch'); ב-Booking.com 8.9 מתוך 158 ביקורות."
+   },
+   "google": {
+    "name": "Ferienwohnung Busch",
+    "rating": 4.9,
+    "reviews": 32,
+    "lat": 48.267374,
+    "lng": 7.730777,
+    "address": "Kirchstraße 6, 77977 Rust, Germany",
+    "website": "http://fewo-busch-rust.de/",
+    "place_id": "ChIJ75HLl0I7kUcRZofTjD_6Ug4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ferienwohnung%20Busch&query_place_id=ChIJ75HLl0I7kUcRZofTjD_6Ug4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.267374,7.730777&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_rust-1.jpg",
+     "w": 738,
+     "h": 415,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Ferienwohnung%20Busch&query_place_id=ChIJ75HLl0I7kUcRZofTjD_6Ug4",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_rust-2.jpg",
+     "w": 1000,
+     "h": 562,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Ferienwohnung%20Busch&query_place_id=ChIJ75HLl0I7kUcRZofTjD_6Ug4",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 189.9,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 8.9,
+     "out_of": 10,
+     "reviews": 158,
+     "url": "https://www.booking.com/hotel/de/ferienwohnung-busch-rust1.html?checkin=2027-08-19&checkout=2027-08-23&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.9,
+     "out_of": 5,
+     "reviews": 32,
+     "url": "https://www.google.com/maps/search/?api=1&query=Ferienwohnung%20Busch&query_place_id=ChIJ75HLl0I7kUcRZofTjD_6Ug4"
+    }
+   ]
+  }
+ ],
+ "attractions": {
+  "schluchsee_lido": {
+   "id": "schluchsee_lido",
+   "name": {
+    "en": "Aqua Fun lido on Lake Schluchsee",
+    "he": "חוף הרחצה אקווה-פאן באגם שלוכזה"
+   },
+   "hours": {
+    "en": "May–September daily 9:00–19:00 (bathing-guide listings; reduced entry after 17:00). Check schluchsee.de before going.",
+    "he": "מאי–ספטמבר מדי יום 9:00–19:00 (לפי אתרי מדריכי רחצה; כניסה מוזלת אחרי 17:00). לבדוק ב-schluchsee.de לפני ההגעה."
+   },
+   "price_text": {
+    "en": "≈ €15 estimate: listings give about €4–4.50 per adult and €2.70–3 per child (undated) → 2 × 4.50 + 2 × 3. Free with the Hochschwarzwald Card if your host issues it.",
+    "he": "כ-15 € הערכה: ברשימות מופיע כ-4–4.50 € למבוגר ו-2.70–3 € לילד (ללא תאריך) → 2 × 4.50 + 2 × 3. חינם עם כרטיס Hochschwarzwald אם המארח מנפיק אותו."
+   },
+   "price_czk": 15,
+   "price_eur": 15.0,
+   "estimate": true,
+   "time": {
+    "en": "3 h",
+    "he": "3 שעות"
+   },
+   "kids": {
+    "en": "A heated outdoor pool right on the lake shore with a 105 m giant slide, a kids' pool, an adventure playground and a sandy lake beach – 1.2 km from the apartment. Google 4.2 (1,119). Planned on Sunday 15 Aug: expect a full lawn after 11:00 on a sunny weekend – go at the 9:00 opening, or swim in the apartment's pool at midday.",
+    "he": "בריכה חיצונית מחוממת על שפת האגם עם מגלשת ענק של 105 מ', בריכת פעוטות, מגרש הרפתקאות וחוף אגם – 1.2 ק״מ מהדירה. בגוגל 4.2 (1,119). מתוכנן ליום ראשון 15 באוגוסט: בסוף שבוע שמשי הדשא מתמלא אחרי 11:00 – להגיע בפתיחה ב-9:00, או לשחות בבריכה של הדירה בצהריים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Aqua Fun",
+    "rating": 4.2,
+    "reviews": 1119,
+    "lat": 47.81406,
+    "lng": 8.17903,
+    "address": "Freiburger Str. 16, 79859 Schluchsee, Germany",
+    "website": "http://www.gemeinde-schluchsee.de/",
+    "place_id": "ChIJQd8jpnb2kEcRL8Ho2XnzOGc",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Aqua%20Fun&query_place_id=ChIJQd8jpnb2kEcRL8Ho2XnzOGc",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.814060,8.179030&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.2,
+    "out_of": 5,
+    "reviews": 1119,
+    "url": "https://www.google.com/maps/search/?api=1&query=Aqua%20Fun&query_place_id=ChIJQd8jpnb2kEcRL8Ho2XnzOGc"
+   },
+   "photo": {
+    "file": "img/schluchsee_lido-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Aqua%20Fun&query_place_id=ChIJQd8jpnb2kEcRL8Ho2XnzOGc",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Hochschwarzwald – aqua fun Schluchsee",
+     "https://mein.hochschwarzwald.de/en/products/aqua-fun-schluchsee"
+    ],
+    [
+     "ab-ins-schwimmbad – Freibad Aqua Fun",
+     "https://www.ab-ins-schwimmbad.de/Schluchsee/Freibad-Aqua-Fun.html"
+    ],
+    [
+     "Wikivoyage – Schluchsee",
+     "https://de.wikivoyage.org/wiki/Schluchsee"
+    ]
+   ]
+  },
+  "schluchsee_boat": {
+   "id": "schluchsee_boat",
+   "name": {
+    "en": "MS Schluchsee lake cruise (optional)",
+    "he": "שייט באגם שלוכזה ב-MS Schluchsee (אופציונלי)"
+   },
+   "hours": {
+    "en": "May–October, several round trips a day from the lido pier (stops at Aha, Unterkrummenhof and the dam); about 60–70 min. Timetable on the operator's site.",
+    "he": "מאי–אוקטובר, כמה הפלגות ביום ממזח החוף (עצירות באהא, אונטרקרומנהוף והסכר); כ-60–70 דקות. לוח זמנים באתר המפעיל."
+   },
+   "price_text": {
+    "en": "≈ €30 estimate (about €10 per adult and €5 per child) – no published price was found.",
+    "he": "כ-30 € הערכה (כ-10 € למבוגר ו-5 € לילד) – לא נמצא מחיר מפורסם."
+   },
+   "price_czk": 30,
+   "price_eur": 30.0,
+   "estimate": true,
+   "time": {
+    "en": "1.5 h",
+    "he": "שעה וחצי"
+   },
+   "kids": {
+    "en": "A relaxed hour on the biggest lake of the Black Forest, boarding at the lido; get off at the dam or Aha and walk a short stretch of the flat shore path if the kids want. Google 4.6 (93).",
+    "he": "שעה רגועה על האגם הגדול ביער השחור, עולים במזח שליד החוף; אפשר לרדת בסכר או באהא וללכת קטע קצר בשביל החוף השטוח אם הילדים רוצים. בגוגל 4.6 (93)."
+   },
+   "optional": true,
+   "google": {
+    "name": "MS Schluchsee Anlegestelle",
+    "rating": 4.6,
+    "reviews": 93,
+    "lat": 47.814889,
+    "lng": 8.17847,
+    "address": "Unnamed Road, 79859 Schluchsee, Germany",
+    "website": "http://www.seerundfahrten.de/",
+    "place_id": "ChIJ7WZRg2n3kEcRUgxxwp5_a6M",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=MS%20Schluchsee%20Anlegestelle&query_place_id=ChIJ7WZRg2n3kEcRUgxxwp5_a6M",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.814889,8.178470&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 93,
+    "url": "https://www.google.com/maps/search/?api=1&query=MS%20Schluchsee%20Anlegestelle&query_place_id=ChIJ7WZRg2n3kEcRUgxxwp5_a6M"
+   },
+   "photo": {
+    "file": "img/schluchsee_boat-1.jpg",
+    "w": 1000,
+    "h": 660,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Blick_auf_den_Schluchsee_-_panoramio.jpg",
+    "credit": "Michael Overmeyer · CC BY-SA 3.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Schwarzwald Tourismus – Seerundfahrten Schluchsee",
+     "https://www.schwarzwald-tourismus.info/attraktionen/seerundfahrten-auf-dem-schluchsee-5703fae3db"
+    ],
+    [
+     "Wikivoyage – Schluchsee",
+     "https://de.wikivoyage.org/wiki/Schluchsee"
+    ]
+   ]
+  },
+  "titisee": {
+   "id": "titisee",
+   "name": {
+    "en": "Lake Titisee: 25-minute boat round trip and lakeside promenade",
+    "he": "אגם טיטיזה: הפלגה של 25 דקות וטיילת האגם"
+   },
+   "hours": {
+    "en": "Boats run daily about April–October, roughly 10:00–17:30/18:00, departures about every 30 min (Google, Hochschwarzwald listings); cancelled in storms or fog.",
+    "he": "הסירות פועלות מדי יום בערך אפריל–אוקטובר, בערך 10:00–17:30/18:00, יציאה כל כחצי שעה (גוגל, רשימות Hochschwarzwald); מבוטל בסערה או ערפל."
+   },
+   "price_text": {
+    "en": "≈ €22 estimate (about €7 per adult and €4 per child) – the operators publish no fares online. Rowing and pedal boats can be hired too.",
+    "he": "כ-22 € הערכה (כ-7 € למבוגר ו-4 € לילד) – המפעילים לא מפרסמים מחירים ברשת. אפשר גם לשכור סירות משוטים ודוושות."
+   },
+   "price_czk": 22,
+   "price_eur": 22.0,
+   "estimate": true,
+   "time": {
+    "en": "2 h with the promenade and an ice cream",
+    "he": "שעתיים כולל הטיילת וגלידה"
+   },
+   "kids": {
+    "en": "A pirate-style galley ('Titus') or a lake boat for 25 minutes, then the busy promenade with cuckoo-clock shops, ice cream and the small lake beach. Google (Drubba boats) 4.1 (184).",
+    "he": "סירה בסגנון ספינת פיראטים ('טיטוס') או סירת אגם ל-25 דקות, ואז הטיילת התוססת עם חנויות שעוני קוקייה, גלידה וחוף קטן באגם. בגוגל (סירות דרובה) 4.1 (184)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Drubba Bootsvermietung & Rundfahrten Titisee",
+    "rating": 4.1,
+    "reviews": 184,
+    "lat": 47.898674,
+    "lng": 8.153972,
+    "address": "Seestraße 37, 79822 Titisee-Neustadt, Germany",
+    "website": "https://www.boote-titisee.de/",
+    "place_id": "ChIJ39TWXePwkEcRSF4LP2dIq9A",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Drubba%20Bootsvermietung%20%26%20Rundfahrten%20Titisee&query_place_id=ChIJ39TWXePwkEcRSF4LP2dIq9A",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.898674,8.153972&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.1,
+    "out_of": 5,
+    "reviews": 184,
+    "url": "https://www.google.com/maps/search/?api=1&query=Drubba%20Bootsvermietung%20%26%20Rundfahrten%20Titisee&query_place_id=ChIJ39TWXePwkEcRSF4LP2dIq9A"
+   },
+   "photo": {
+    "file": "img/titisee-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Drubba%20Bootsvermietung%20&%20Rundfahrten%20Titisee&query_place_id=ChIJ39TWXePwkEcRSF4LP2dIq9A",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Hochschwarzwald – Drubba lake cruise",
+     "https://web-hochschwarzwald.lakeside.peaksolution.com/en/products/bootsrundfahrten-drubba-seerundfahrt-titisee"
+    ],
+    [
+     "Hochschwarzwald – Schweizer lake cruise",
+     "https://mein.hochschwarzwald.de/en/products/bootsrundfahrten-schweizer-seerundfahrt-titisee"
+    ]
+   ]
+  },
+  "feldbergbahn": {
+   "id": "feldbergbahn",
+   "name": {
+    "en": "Feldbergbahn cable car and Feldberg tower (1,493 m)",
+    "he": "רכבל פלדברג ומגדל פלדברג (1,493 מ')"
+   },
+   "hours": {
+    "en": "Summer season from 1 May 2026; daily about 9:00–17:00 in July–September (2024 listing; 2026 hours not published). Weather-dependent.",
+    "he": "עונת הקיץ מ-1.5.2026; מדי יום כ-9:00–17:00 ביולי–ספטמבר (רישום 2024; שעות 2026 לא פורסמו). תלוי מזג אוויר."
+   },
+   "price_text": {
+    "en": "≈ €58 estimate: return incl. tower €19 per adult and €10 per child 4–18 (tourispo, updated Mar 2026; the official list could not be opened) → 2 × 19 + 2 × 10. With the Hochschwarzwald Card it may be free or discounted.",
+    "he": "כ-58 € הערכה: הלוך-חזור כולל המגדל 19 € למבוגר ו-10 € לילד 4–18 (tourispo, עודכן במרץ 2026; המחירון הרשמי לא נפתח) → 2 × 19 + 2 × 10. עם כרטיס Hochschwarzwald ייתכן חינם או הנחה."
+   },
+   "price_czk": 58,
+   "price_eur": 58.0,
+   "estimate": true,
+   "time": {
+    "en": "2.5 h",
+    "he": "2.5 שעות"
+   },
+   "kids": {
+    "en": "A 6-seat gondola up to the Seebuck summit, then a flat 5-minute walk to the Feldberg tower with views to the Alps on clear days, and the cows on the meadows. Take jackets – it is 8–10 °C cooler. Google 4.2 (393).",
+    "he": "גונדולה ל-6 אנשים לפסגת זֶבּוּק, ואז הליכה שטוחה של 5 דקות למגדל פלדברג עם נוף עד האלפים ביום בהיר, ופרות באחו. לקחת ג'קטים – קר יותר ב-8–10 מעלות. בגוגל 4.2 (393)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Feldbergbahn",
+    "rating": 4.2,
+    "reviews": 393,
+    "lat": 47.862365,
+    "lng": 8.036322,
+    "address": "Dr.-Pilet-Spur 17, 79868 Feldberg (Schwarzwald), Germany",
+    "website": "http://www.feldbergbahn.de/",
+    "place_id": "ChIJjZeYtW35kEcRaklOyGNCH8c",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Feldbergbahn&query_place_id=ChIJjZeYtW35kEcRaklOyGNCH8c",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.862365,8.036322&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.2,
+    "out_of": 5,
+    "reviews": 393,
+    "url": "https://www.google.com/maps/search/?api=1&query=Feldbergbahn&query_place_id=ChIJjZeYtW35kEcRaklOyGNCH8c"
+   },
+   "photo": {
+    "file": "img/feldbergbahn-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Feldbergbahn&query_place_id=ChIJjZeYtW35kEcRaklOyGNCH8c",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Feldberg – opening hours",
+     "https://www.feldberg-erlebnis.de/en/info-service/opening-hours"
+    ],
+    [
+     "Feldbergbahnen press release, summer 2026",
+     "https://www.feldberg-erlebnis.de/_Resources/Persistent/4b4f2f138b9a25a94a5b385dcaddf9e95888b4d9/2026%2004%2027_PM_Feldbergbahnen%20starten%20in%20die%20Wandersaison.pdf"
+    ],
+    [
+     "tourispo – Feldbergturm prices",
+     "https://tourispo.de/sehenswuerdigkeit/feldbergturm_preise-und-oeffnungszeiten.html"
+    ]
+   ]
+  },
+  "hasenhorn": {
+   "id": "hasenhorn",
+   "name": {
+    "en": "Hasenhorn Coaster, Todtnau (2.9 km mountain coaster)",
+    "he": "הזנהורן קוסטר, טודטנאו (מגלשת הרים של 2.9 ק״מ)"
+   },
+   "hours": {
+    "en": "Daily 10:00–16:30 (Google, tourispo); weather-dependent – no rides in thunderstorms or strong wind. Phone +49 7671 508.",
+    "he": "מדי יום 10:00–16:30 (גוגל, tourispo); תלוי מזג אוויר – אין נסיעות בסופות ורוח חזקה. טלפון ‎+49 7671 508."
+   },
+   "price_text": {
+    "en": "≈ €56 estimate: coaster + chairlift €15 per adult and €13 per child (tourispo, July 2026, third-party) → 2 × 15 + 2 × 13, one ride each.",
+    "he": "כ-56 € הערכה: מגלשה + רכבל כיסאות 15 € למבוגר ו-13 € לילד (tourispo, יולי 2026, צד שלישי) → 2 × 15 + 2 × 13, נסיעה אחת לכל אחד."
+   },
+   "price_czk": 56,
+   "price_eur": 56.0,
+   "estimate": true,
+   "time": {
+    "en": "1.5 h",
+    "he": "שעה וחצי"
+   },
+   "kids": {
+    "en": "A chairlift up and Germany's longest summer coaster down (2.9 km, rails with brakes). Children ride from age 3 and 95 cm with an adult; alone only from age 8 and 1.40 m – so each child sits in front of a parent. Google 4.6 (8,649). Planned on Wednesday 18 Aug: shorter queues than at the weekend; still best before 11:00.",
+    "he": "רכבל כיסאות למעלה ומגלשת הקיץ הארוכה בגרמניה למטה (2.9 ק״מ, על מסילה עם בלמים). ילדים מגיל 3 ו-95 ס״מ עם מבוגר; לבד רק מגיל 8 ו-1.40 מ' – לכן כל ילד יושב לפני אחד ההורים. בגוגל 4.6 (8,649). מתוכנן ליום רביעי 18 באוגוסט: תורים קצרים יותר מבסוף השבוע; עדיין עדיף לפני 11:00."
+   },
+   "optional": false,
+   "google": {
+    "name": "Hasenhorn Rodelbahn Todtnau",
+    "rating": 4.6,
+    "reviews": 8649,
+    "lat": 47.828843,
+    "lng": 7.949031,
+    "address": "Lindenstraße 9, 79674 Todtnau, Germany",
+    "website": "http://hasenhorn-rodelbahn.de/",
+    "place_id": "ChIJQSczygz_kEcRUgoyvvugTMY",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Hasenhorn%20Rodelbahn%20Todtnau&query_place_id=ChIJQSczygz_kEcRUgoyvvugTMY",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.828843,7.949031&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 8649,
+    "url": "https://www.google.com/maps/search/?api=1&query=Hasenhorn%20Rodelbahn%20Todtnau&query_place_id=ChIJQSczygz_kEcRUgoyvvugTMY"
+   },
+   "photo": {
+    "file": "img/hasenhorn-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Hasenhorn%20Rodelbahn%20Todtnau&query_place_id=ChIJQSczygz_kEcRUgoyvvugTMY",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "tourispo – Hasenhorn Coaster prices and hours",
+     "https://tourispo.de/attraktion/rodelbahn-hasenhorn-coaster-todtnau_preise-und-oeffnungszeiten.html"
+    ],
+    [
+     "Famigros – Coaster am Hasenhorn",
+     "https://famigros.migros.ch/de/ausfluege-und-freizeit/ausflugsziele/coaster-rodelbahn-am-hasenhorn"
+    ]
+   ]
+  },
+  "todtnau_falls": {
+   "id": "todtnau_falls",
+   "name": {
+    "en": "Todtnau waterfall (short path to the main fall)",
+    "he": "מפל טודטנאו (שביל קצר למפל הראשי)"
+   },
+   "hours": {
+    "en": "Open all day (Google: 24 hours); the kiosk and fee booth are staffed in daytime.",
+    "he": "פתוח כל היום (גוגל: 24 שעות); הקיוסק ועמדת התשלום פועלים בשעות היום."
+   },
+   "price_text": {
+    "en": "≈ €6.50 estimate: €2.50 per adult, €1.50 per child 6–14, under 6 free (two guide sites) → 2 × 2.50 + 1.50.",
+    "he": "כ-6.50 € הערכה: 2.50 € למבוגר, 1.50 € לילד 6–14, מתחת לגיל 6 חינם (שני אתרי מדריכים) → 2 × 2.50 + 1.50."
+   },
+   "price_czk": 6.5,
+   "price_eur": 6.5,
+   "estimate": true,
+   "time": {
+    "en": "1 h",
+    "he": "שעה"
+   },
+   "kids": {
+    "en": "Germany's highest natural waterfall (97 m). From the car park by the L126 at Aftersteg it is about a 15-minute, buggy-friendly path to the main fall – stop there; the upper levels have steep steps. Google 4.7 (10,435).",
+    "he": "המפל הטבעי הגבוה בגרמניה (97 מ'). מהחניון על כביש L126 באפטרסטג יש שביל של כ-15 דקות, מתאים לעגלה, עד המפל הראשי – לעצור שם; למפלסים העליונים יש מדרגות תלולות. בגוגל 4.7 (10,435)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Todtnau Waterfall",
+    "rating": 4.7,
+    "reviews": 10435,
+    "lat": 47.844016,
+    "lng": 7.939075,
+    "address": "Kurhausstraße, 79674 Todtnau, Germany",
+    "website": "https://www.todtnauer-wasserfaelle.de/",
+    "place_id": "ChIJXWUyP7L_kEcRjW6a38RB3pE",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Todtnau%20Waterfall&query_place_id=ChIJXWUyP7L_kEcRjW6a38RB3pE",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.844016,7.939075&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 10435,
+    "url": "https://www.google.com/maps/search/?api=1&query=Todtnau%20Waterfall&query_place_id=ChIJXWUyP7L_kEcRjW6a38RB3pE"
+   },
+   "photo": {
+    "file": "img/todtnau_falls-1.jpg",
+    "w": 1000,
+    "h": 1778,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Todtnau_Wasserfall_Hauptstufe.jpg",
+    "credit": "Freiburg1120 (author assumed by Commons) · CC BY 3.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Schwarzwald Tourismus – Todtnau waterfall walk",
+     "https://www.schwarzwald-tourismus.info/touren/abkuehlung-am-todtnauer-wasserfall-0b59154e19"
+    ],
+    [
+     "Schwarzwaldportal – Todtnauer Wasserfall",
+     "https://www.schwarzwaldportal.com/ausflugsziel-todtnauer-wasserfall.html"
+    ]
+   ]
+  },
+  "steinwasen": {
+   "id": "steinwasen",
+   "name": {
+    "en": "Steinwasen-Park (mountain animal park, suspension bridge, rides)",
+    "he": "פארק שטיינוואזן (פארק חיות הרים, גשר תלוי ומתקנים)"
+   },
+   "hours": {
+    "en": "Daily mid-March – 1 November; summer 10:00–18:00 (tourispo; off-season 10:00–17:00, as Google shows now).",
+    "he": "מדי יום מאמצע מרץ עד 1 בנובמבר; בקיץ 10:00–18:00 (tourispo; מחוץ לעונה 10:00–17:00, כפי שגוגל מציג כעת)."
+   },
+   "price_text": {
+    "en": "≈ €108: adult €29 × 2, child 4–11 €25 × 2 (freizeitpark-welt 2026 list, updated 28 Mar 2026; official list not opened). Includes the animal park, the suspension bridge and all rides.",
+    "he": "כ-108 €: מבוגר 29 € × 2, ילד 4–11 25 € × 2 (מחירון 2026 של freizeitpark-welt, עודכן 28.3.2026; המחירון הרשמי לא נפתח). כולל את פארק החיות, הגשר התלוי וכל המתקנים."
+   },
+   "price_czk": 108,
+   "price_eur": 108.0,
+   "estimate": true,
+   "time": {
+    "en": "4–5 h",
+    "he": "4–5 שעות"
+   },
+   "kids": {
+    "en": "A hillside park with deer, ibex, marmots and lynx, a 218 m suspension bridge, a summer toboggan, water rides and gentle family rides – ideal for 5–7 year-olds. Paths are steep in places; there is a chairlift. Google 4.5 (7,891). Planned on Tuesday 17 Aug – a weekday, calmer than the weekend.",
+    "he": "פארק על מדרון עם צבאים, יעלים, מרמיטות ולינקסים, גשר תלוי של 218 מ', מגלשת קיץ, מתקני מים ומתקנים משפחתיים רגועים – מתאים מאוד לגילאי 5–7. השבילים תלולים במקומות; יש רכבל כיסאות. בגוגל 4.5 (7,891). מתוכנן ליום שלישי 17 באוגוסט – יום חול, רגוע יותר מסוף השבוע."
+   },
+   "optional": false,
+   "google": {
+    "name": "Steinwasen-Park",
+    "rating": 4.5,
+    "reviews": 7891,
+    "lat": 47.899763,
+    "lng": 7.922365,
+    "address": "Steinwasen 1, 79254 Oberried, Germany",
+    "website": "http://www.steinwasen-park.de/",
+    "place_id": "ChIJebMEO_H9kEcRzYhzvWyxqyk",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Steinwasen-Park&query_place_id=ChIJebMEO_H9kEcRzYhzvWyxqyk",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.899763,7.922365&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 7891,
+    "url": "https://www.google.com/maps/search/?api=1&query=Steinwasen-Park&query_place_id=ChIJebMEO_H9kEcRzYhzvWyxqyk"
+   },
+   "photo": {
+    "file": "img/steinwasen-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Steinwasen-Park&query_place_id=ChIJebMEO_H9kEcRzYhzvWyxqyk",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Steinwasen-Park (official)",
+     "https://www.steinwasen-park.de/en/"
+    ],
+    [
+     "Freizeitpark-Welt – Steinwasen prices 2026",
+     "https://www.freizeitpark-welt.de/freizeitparks/steinwasen/preise/"
+    ],
+    [
+     "tourispo – Steinwasen hours",
+     "https://tourispo.de/freizeitpark/steinwasen-park_preise-und-oeffnungszeiten.html"
+    ]
+   ]
+  },
+  "schauinsland": {
+   "id": "schauinsland",
+   "name": {
+    "en": "Schauinslandbahn gondola (optional, add to the Steinwasen day)",
+    "he": "רכבל שאואינסלנד (אופציונלי, בתוספת ליום שטיינוואזן)"
+   },
+   "hours": {
+    "en": "Daily 9:00–17:00, in the school summer holidays until 18:00 (bahndampf.de, undated). The top station is 6 km / 19 min from Steinwasen-Park.",
+    "he": "מדי יום 9:00–17:00, בחופשת הקיץ עד 18:00 (bahndampf.de, ללא תאריך). התחנה העליונה במרחק 6 ק״מ / 19 דק' משטיינוואזן."
+   },
+   "price_text": {
+    "en": "≈ €48 estimate: €15 return per adult (undated) and about €9 per child (child fare not found) → 2 × 15 + 2 × 9.",
+    "he": "כ-48 € הערכה: 15 € הלוך-חזור למבוגר (ללא תאריך) וכ-9 € לילד (מחיר ילד לא נמצא) → 2 × 15 + 2 × 9."
+   },
+   "price_czk": 48,
+   "price_eur": 48.0,
+   "estimate": true,
+   "time": {
+    "en": "1.5 h",
+    "he": "שעה וחצי"
+   },
+   "kids": {
+    "en": "Germany's longest circulating gondola (3.6 km, 20 min) from Freiburg-Horben up to the Schauinsland, with a lookout tower and wide meadows on top. Driving adds about 35 min to Day 4, so only if the kids still have energy after Steinwasen. Google (Schauinsland summit) 4.7 (1,253).",
+    "he": "רכבל הגונדולות המעגלי הארוך בגרמניה (3.6 ק״מ, 20 דקות) מפרייבורג-הורבן לפסגת שאואינסלנד, עם מגדל תצפית ואחו רחב למעלה. הנסיעה מוסיפה כ-35 דקות ליום 4, לכן רק אם לילדים נשאר כוח אחרי שטיינוואזן. בגוגל (פסגת שאואינסלנד) 4.7 (1,253)."
+   },
+   "optional": true,
+   "google": {
+    "name": "Schauinsland",
+    "rating": 4.7,
+    "reviews": 1253,
+    "lat": 47.911944,
+    "lng": 7.898333,
+    "address": "Ost, 79254 Freiburg im Breisgau, Germany",
+    "website": null,
+    "place_id": "ChIJ9W3d6mgCkUcRiDLHi4kiQ-w",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Schauinsland&query_place_id=ChIJ9W3d6mgCkUcRiDLHi4kiQ-w",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.911944,7.898333&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 1253,
+    "url": "https://www.google.com/maps/search/?api=1&query=Schauinsland&query_place_id=ChIJ9W3d6mgCkUcRiDLHi4kiQ-w"
+   },
+   "photo": {
+    "file": "img/schauinsland-1.jpg",
+    "w": 1000,
+    "h": 1000,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Schauinsland&query_place_id=ChIJ9W3d6mgCkUcRiDLHi4kiQ-w",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "bahndampf.de – Schauinslandbahn",
+     "https://www.bahndampf.de/bergbahn/schauinslandbahn"
+    ],
+    [
+     "Wikipedia – Schauinslandbahn",
+     "https://en.wikipedia.org/wiki/Schauinslandbahn"
+    ]
+   ]
+  },
+  "badeparadies": {
+   "id": "badeparadies",
+   "name": {
+    "en": "Badeparadies Schwarzwald, Titisee (rainy-day option)",
+    "he": "באדפרדיז שוורצוואלד, טיטיזה (אופציה ליום גשום)"
+   },
+   "hours": {
+    "en": "Daily 9:00–22:00 (Google). Age rules: the Galaxy slide world has no age limit (under 4 free); the Palmenoase palm-tree lagoon is 16+ on weekdays and open to families only on Saturdays and Sundays ('Familientag'); the Palais Vital sauna is 16+ only. As the rain option on Wed 18 Aug the kids can use the Galaxy only.",
+    "he": "מדי יום 9:00–22:00 (גוגל). כללי גיל: עולם המגלשות Galaxy בלי הגבלת גיל (מתחת לגיל 4 חינם); לגונת הדקלים Palmenoase מגיל 16 בימי חול ופתוחה למשפחות רק בשבת ובראשון ('יום משפחה'); הסאונה Palais Vital מגיל 16 בלבד. כאופציה ליום גשום ביום ד' 18 באוגוסט הילדים יכולים להיכנס רק ל-Galaxy."
+   },
+   "price_text": {
+    "en": "≈ €128 estimate: dynamic prices; Galaxy half-day about €32 per person from age 4 (listing 03/2026; Galaxy + Palmenoase day ticket from €41) → 4 × 32.",
+    "he": "כ-128 € הערכה: מחירים דינמיים; חצי יום ב-Galaxy כ-32 € לאדם מגיל 4 (רישום 03/2026; כרטיס יומי Galaxy + Palmenoase מ-41 €) → 4 × 32."
+   },
+   "price_czk": 128,
+   "price_eur": 128.0,
+   "estimate": true,
+   "time": {
+    "en": "4 h",
+    "he": "4 שעות"
+   },
+   "kids": {
+    "en": "An indoor water world under a glass roof with 23 slides (some have height minimums – check at each slide), wave pool and kids' area; 18 min from the apartment. Rain option for Wed 18 Aug (Galaxy only on a weekday); if it rains on Sun 15 instead, swap the days – on weekends families may also use the palm lagoon. Google 4.2 (22,905).",
+    "he": "עולם מים מקורה תחת גג זכוכית עם 23 מגלשות (בחלקן גובה מינימלי – לבדוק בכל מגלשה), בריכת גלים ואזור ילדים; 18 דקות מהדירה. אופציה ליום גשום ביום ד' 18 באוגוסט (ביום חול רק Galaxy); אם יורד גשם דווקא ביום א' 15, מחליפים ימים – בסופי שבוע משפחות יכולות להיכנס גם ללגונת הדקלים. בגוגל 4.2 (22,905)."
+   },
+   "optional": true,
+   "google": {
+    "name": "Badeparadies Schwarzwald",
+    "rating": 4.2,
+    "reviews": 22905,
+    "lat": 47.906964,
+    "lng": 8.159151,
+    "address": "Am Badeparadies 1, 79822 Titisee-Neustadt-Titisee, Germany",
+    "website": "http://www.badeparadies-schwarzwald.de/",
+    "place_id": "ChIJYTPiVf7wkEcRcGs9STI77hc",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Badeparadies%20Schwarzwald&query_place_id=ChIJYTPiVf7wkEcRcGs9STI77hc",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.906964,8.159151&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.2,
+    "out_of": 5,
+    "reviews": 22905,
+    "url": "https://www.google.com/maps/search/?api=1&query=Badeparadies%20Schwarzwald&query_place_id=ChIJYTPiVf7wkEcRcGs9STI77hc"
+   },
+   "photo": {
+    "file": "img/badeparadies-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Badeparadies%20Schwarzwald&query_place_id=ChIJYTPiVf7wkEcRcGs9STI77hc",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Badeparadies Schwarzwald – Galaxy",
+     "https://www.badeparadies-schwarzwald.de/de/galaxy/"
+    ],
+    [
+     "Badeparadies – press text 2026",
+     "https://www.badeparadies-schwarzwald.de/de/pdfs/presse/BPS_Pressetext_2026.pdf"
+    ],
+    [
+     "schwarzwaldreise.com – Badeparadies prices",
+     "https://schwarzwaldreise.com/badeparadies-titisee-preise/"
+    ]
+   ]
+  },
+  "triberg_falls": {
+   "id": "triberg_falls",
+   "name": {
+    "en": "Triberg waterfalls (lower part)",
+    "he": "מפלי טריברג (החלק התחתון)"
+   },
+   "hours": {
+    "en": "Daily; paid entry about 9:00–19:00 (tourispo), lit in the evening; Google shows 9:00–22:00.",
+    "he": "מדי יום; כניסה בתשלום בערך 9:00–19:00 (tourispo), מואר בערב; גוגל מציג 9:00–22:00."
+   },
+   "price_text": {
+    "en": "≈ €26.50 estimate: adult €8–9, children under 6 free, 6–17 about €8.50 (sources disagree; one lists a €20 family ticket) → 2 × 9 + 8.50.",
+    "he": "כ-26.50 € הערכה: מבוגר 8–9 €, מתחת לגיל 6 חינם, 6–17 כ-8.50 € (המקורות סותרים; אחד מציין כרטיס משפחתי ב-20 €) → 2 × 9 + 8.50."
+   },
+   "price_czk": 26.5,
+   "price_eur": 26.5,
+   "estimate": true,
+   "time": {
+    "en": "1–1.5 h",
+    "he": "שעה–שעה וחצי"
+   },
+   "kids": {
+    "en": "Seven cascades (163 m) in the forest: from the main entrance in town walk only the lower part to the first big fall and the bridges (10–15 min, some steps) and feed the tame red squirrels with nuts sold at the kiosk. Google 4.3 (26,802).",
+    "he": "שבעה מפלים (163 מ') ביער: מהכניסה הראשית בעיר הולכים רק בחלק התחתון עד המפל הגדול הראשון והגשרים (10–15 דקות, מעט מדרגות) ומאכילים את הסנאים האדומים המבויתים באגוזים מהקיוסק. בגוגל 4.3 (26,802)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Triberg Waterfalls",
+    "rating": 4.3,
+    "reviews": 26802,
+    "lat": 48.128383,
+    "lng": 8.230175,
+    "address": "Wallfahrtstraße 1, 78098 Triberg im Schwarzwald, Germany",
+    "website": "https://www.triberg.de/index.php?id=551",
+    "place_id": "ChIJSVxD8fXCkEcR8I7_A3sZzA4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Triberg%20Waterfalls&query_place_id=ChIJSVxD8fXCkEcR8I7_A3sZzA4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.128383,8.230175&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.3,
+    "out_of": 5,
+    "reviews": 26802,
+    "url": "https://www.google.com/maps/search/?api=1&query=Triberg%20Waterfalls&query_place_id=ChIJSVxD8fXCkEcR8I7_A3sZzA4"
+   },
+   "photo": {
+    "file": "img/triberg_falls-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Triberg%20Waterfalls&query_place_id=ChIJSVxD8fXCkEcR8I7_A3sZzA4",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Schwarzwaldportal – Triberger Wasserfälle",
+     "https://www.schwarzwaldportal.com/ausflugsziel-triberger-wasserfaelle.html"
+    ],
+    [
+     "tourispo – Triberg waterfalls prices and hours",
+     "https://tourispo.de/sehenswuerdigkeit/triberg-wasserfaelle_preise-und-oeffnungszeiten.html"
+    ],
+    [
+     "DERTOUR – Triberger Wasserfälle",
+     "https://www.dertour.de/reisemagazin/triberger-wasserfaelle"
+    ]
+   ]
+  },
+  "cuckoo": {
+   "id": "cuckoo",
+   "name": {
+    "en": "Eble Uhren-Park: the giant cuckoo clock, Triberg",
+    "he": "אבלה אורן-פארק: שעון הקוקייה הענק, טריברג"
+   },
+   "hours": {
+    "en": "Google: daily 10:00–18:00 (an older article: Mon–Sat 9:00–17:30, Sun 11:00–17:00). Open on Thursday 19 Aug either way.",
+    "he": "גוגל: מדי יום 10:00–18:00 (כתבה ישנה: ב'–ש' 9:00–17:30, א' 11:00–17:00). בכל מקרה פתוח ביום חמישי 19 באוגוסט."
+   },
+   "price_text": {
+    "en": "≈ €6 estimate: about €3 per adult to walk inside the clock, children up to 10 free with a parent (undated source). The shop and the outside view are free.",
+    "he": "כ-6 € הערכה: כ-3 € למבוגר לכניסה לתוך השעון, ילדים עד גיל 10 חינם עם הורה (מקור ללא תאריך). החנות והצפייה מבחוץ חינם."
+   },
+   "price_czk": 6,
+   "price_eur": 6.0,
+   "estimate": true,
+   "time": {
+    "en": "45 min",
+    "he": "45 דקות"
+   },
+   "kids": {
+    "en": "A house-sized cuckoo clock (Guinness record: 4.5 m cuckoo, 8 m pendulum) – the cuckoo calls every half hour, so time the visit for :00 or :30; then a huge cuckoo-clock shop. 3 km from the falls. Google 4.5 (1,643).",
+    "he": "שעון קוקייה בגודל בית (שיא גינס: קוקייה של 4.5 מ', מטוטלת של 8 מ') – הקוקייה קוראת כל חצי שעה, אז כדאי להגיע בשעה עגולה או בחצי; אחר כך חנות ענקית של שעוני קוקייה. 3 ק״מ מהמפלים. בגוגל 4.5 (1,643)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Eble Uhren-Park",
+    "rating": 4.5,
+    "reviews": 1643,
+    "lat": 48.14755,
+    "lng": 8.241093,
+    "address": "Schonachbach 27, 78098 Triberg im Schwarzwald, Germany",
+    "website": "https://www.uhren-park.de/",
+    "place_id": "ChIJpZZCMqzDkEcRv-kc1blQzuA",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Eble%20Uhren-Park&query_place_id=ChIJpZZCMqzDkEcRv-kc1blQzuA",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.147550,8.241093&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 1643,
+    "url": "https://www.google.com/maps/search/?api=1&query=Eble%20Uhren-Park&query_place_id=ChIJpZZCMqzDkEcRv-kc1blQzuA"
+   },
+   "photo": {
+    "file": "img/cuckoo-1.jpg",
+    "w": 1000,
+    "h": 463,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Eble%20Uhren-Park&query_place_id=ChIJpZZCMqzDkEcRv-kc1blQzuA",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "alpen-guide – begehbare Kuckucksuhr",
+     "https://www.alpen-guide.de/reisefuehrer/poi/begehbare-kuckucksuhr-triberg"
+    ],
+    [
+     "Travelbook – largest cuckoo clock",
+     "https://www.travelbook.de/attraktionen/die-groesste-kuckucksuhr-der-welt-steht-im-schwarzwald"
+    ]
+   ]
+  },
+  "vogtsbauernhof": {
+   "id": "vogtsbauernhof",
+   "name": {
+    "en": "Vogtsbauernhof Black Forest open-air museum, Gutach",
+    "he": "מוזיאון הכפר הפתוח פוגטסבאוארנהוף, גוטאך"
+   },
+   "hours": {
+    "en": "Season 22 Mar – 1 Nov 2026, daily 9:00–18:00 (Deutsche Bahn listing, Google); ADAC lists August 9:00–19:00, last entry 18:00. Children's workshops on Sundays and during the Baden-Württemberg school holidays (29 Jul – 11 Sep 2027) – so also on Thursday 19 Aug.",
+    "he": "עונה 22.3–1.11.2026, מדי יום 9:00–18:00 (רישום דויטשה באן, גוגל); לפי ADAC באוגוסט 9:00–19:00, כניסה אחרונה 18:00. סדנאות ילדים בימי ראשון ובחופשות בבאדן-וירטמברג (29.7–11.9.2027) – לכן גם ביום חמישי 19 באוגוסט."
+   },
+   "price_text": {
+    "en": "≈ €30 estimate: the 2022 price list had a family ticket (2 adults + 2 children) at €28 and children up to 5 free; 2026 prices not found.",
+    "he": "כ-30 € הערכה: במחירון 2022 כרטיס משפחתי (2 מבוגרים + 2 ילדים) עלה 28 € וילדים עד גיל 5 חינם; מחירי 2026 לא נמצאו."
+   },
+   "price_czk": 30,
+   "price_eur": 30.0,
+   "estimate": true,
+   "time": {
+    "en": "2 h",
+    "he": "שעתיים"
+   },
+   "kids": {
+    "en": "Huge thatched Black Forest farmhouses, a working mill and sawmill, farm animals and craftsmen at work; flat gravel paths, easy for kids. The summer toboggan is a 5-minute walk away. Google 4.6 (10,047).",
+    "he": "חוות ענק עם גגות קש של היער השחור, טחנה ומנסרה פעילות, חיות משק ובעלי מלאכה בעבודה; שבילי חצץ שטוחים, קל לילדים. מגלשת הקיץ 5 דקות הליכה משם. בגוגל 4.6 (10,047)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Black Forest Open Air Museum",
+    "rating": 4.6,
+    "reviews": 10047,
+    "lat": 48.27025,
+    "lng": 8.200917,
+    "address": "Vor Singersbach, 77793 Gutach (Schwarzwaldbahn), Germany",
+    "website": "https://www.vogtsbauernhof.de/",
+    "place_id": "ChIJcXBO1rTakEcRgSnHt97cyO4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Black%20Forest%20Open%20Air%20Museum&query_place_id=ChIJcXBO1rTakEcRgSnHt97cyO4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.270250,8.200917&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 10047,
+    "url": "https://www.google.com/maps/search/?api=1&query=Black%20Forest%20Open%20Air%20Museum&query_place_id=ChIJcXBO1rTakEcRgSnHt97cyO4"
+   },
+   "photo": {
+    "file": "img/vogtsbauernhof-1.jpg",
+    "w": 1000,
+    "h": 695,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Vogtsbauernhof_Gutach.jpg",
+    "credit": "H. Zell · CC BY-SA 3.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Vogtsbauernhof (official)",
+     "https://www.vogtsbauernhof.de/en/museum/museums-area/vogtsbauernhof"
+    ],
+    [
+     "Deutsche Bahn – Freilichtmuseum Vogtsbauernhof",
+     "https://microsites.bahn.de/regional-de/regionen/baden-wuerttemberg/ausflugstipps/kultur/freilichtmuseum_vogtsbauernhof"
+    ],
+    [
+     "ADAC Maps – Vogtsbauernhof",
+     "https://maps.adac.de/poi/freilichtmuseum-vogtsbauernhof-gutach"
+    ],
+    [
+     "Wikivoyage – Vogtsbauernhöfe (2022 prices)",
+     "https://de.wikivoyage.org/wiki/Vogtsbauernh%C3%B6fe"
+    ]
+   ]
+  },
+  "gutach_bob": {
+   "id": "gutach_bob",
+   "name": {
+    "en": "Gutach summer toboggan (Schwarzwaldbob)",
+    "he": "מגלשת הקיץ בגוטאך (שוורצוואלדבוב)"
+   },
+   "hours": {
+    "en": "Daily 10:00–18:00 (Google); dry weather only.",
+    "he": "מדי יום 10:00–18:00 (גוגל); רק במזג אוויר יבש."
+   },
+   "price_text": {
+    "en": "≈ €20 estimate for 4 rides (no price found online; typical €4–6 per ride, small children ride on an adult's sled).",
+    "he": "כ-20 € הערכה ל-4 נסיעות (לא נמצא מחיר ברשת; בדרך כלל 4–6 € לנסיעה, ילדים קטנים נוסעים על המזחלת של מבוגר)."
+   },
+   "price_czk": 20,
+   "price_eur": 20.0,
+   "estimate": true,
+   "time": {
+    "en": "45 min",
+    "he": "45 דקות"
+   },
+   "kids": {
+    "en": "A 1,150 m rail toboggan with tunnels and jumps next to the open-air museum, with a lift back up and a beer garden. Google 4.5 (5,321).",
+    "he": "מגלשה על מסילה באורך 1,150 מ' עם מנהרות וקפיצות ליד מוזיאון הכפר, עם מעלית למעלה וגן בירה. בגוגל 4.5 (5,321)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Sommerrodelbahn Gutach",
+    "rating": 4.5,
+    "reviews": 5321,
+    "lat": 48.265801,
+    "lng": 8.20184,
+    "address": "Vor Singersbach 1A, 77793 Gutach (Schwarzwaldbahn), Germany",
+    "website": "https://www.sommerrodelbahn-gutach.de/",
+    "place_id": "ChIJhRp4dqfakEcRni1LxL47nUg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sommerrodelbahn%20Gutach&query_place_id=ChIJhRp4dqfakEcRni1LxL47nUg",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.265801,8.201840&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 5321,
+    "url": "https://www.google.com/maps/search/?api=1&query=Sommerrodelbahn%20Gutach&query_place_id=ChIJhRp4dqfakEcRni1LxL47nUg"
+   },
+   "photo": {
+    "file": "img/gutach_bob-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Sommerrodelbahn%20Gutach&query_place_id=ChIJhRp4dqfakEcRni1LxL47nUg",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "komoot – Sommerrodelbahn Gutach",
+     "https://www.komoot.com/highlight/2512279"
+    ],
+    [
+     "giggle.tips – Toboggan run Gutach",
+     "https://giggle.tips/en/experience/9973ee91-4b33-40b4-8d86-9e57d333b8d2/toboggan-run-gutach-black-forest"
+    ]
+   ]
+  },
+  "europapark": {
+   "id": "europapark",
+   "name": {
+    "en": "Europa-Park, Rust",
+    "he": "אירופה-פארק, רוסט"
+   },
+   "hours": {
+    "en": "Summer season 28 Mar – 25 Sep 2026: daily 9:00 until at least 18:00 (official; later on busy days). Baden-Württemberg's school holidays run 29 Jul – 11 Sep 2027, so all of August is busy; the plan puts Europa-Park on Friday 20 Aug, a weekday – the weekend (Sat 21 / Sun 22) is usually the most crowded (general experience, not verified). Buy dated online tickets early.",
+    "he": "עונת קיץ 28.3–25.9.2026: מדי יום מ-9:00 ועד 18:00 לפחות (אתר רשמי; מאוחר יותר בימים עמוסים). חופשת הקיץ בבאדן-וירטמברג 29.7–11.9.2027, כך שכל אוגוסט עמוס; בתוכנית אירופה-פארק ביום שישי 20 באוגוסט, יום חול – סוף השבוע (ש' 21 / א' 22) בדרך כלל העמוס ביותר (ניסיון כללי, לא מאומת). לקנות מוקדם כרטיסים מקוונים לתאריך."
+   },
+   "price_text": {
+    "en": "≈ €282: date-based online day tickets 2026 – adult (12+) €67–76, child 4–11 €56.50–65 (official) → top of the range for August: 2 × 76 + 2 × 65. €10 more per ticket at the gate; 2027 prices not yet published.",
+    "he": "כ-282 €: כרטיסים יומיים מקוונים לפי תאריך 2026 – מבוגר (12+) 67–76 €, ילד 4–11 56.50–65 € (רשמי) → הקצה העליון לאוגוסט: 2 × 76 + 2 × 65. בקופה 10 € יותר לכרטיס; מחירי 2027 טרם פורסמו."
+   },
+   "price_czk": 282,
+   "price_eur": 282.0,
+   "estimate": true,
+   "time": {
+    "en": "Full day (9:00–18:00)",
+    "he": "יום מלא (9:00–18:00)"
+   },
+   "kids": {
+    "en": "Germany's biggest theme park with themed European 'countries', plenty of gentle rides for 5–7 year-olds (90–100 cm minimums for the first rides; family coasters like Alpenexpress from 100 cm; bigger coasters 120 cm+ and only with an adult under 1.30 m/8 years). Measure the kids beforehand and use the app's 'accompanied by an adult' filter. Google 4.7 (203,212).",
+    "he": "פארק השעשועים הגדול בגרמניה עם 'מדינות' אירופיות מעוצבות והרבה מתקנים עדינים לגילאי 5–7 (גובה מינימלי 90–100 ס״מ למתקנים הראשונים; רכבות הרים משפחתיות כמו אלפנאקספרס מ-100 ס״מ; רכבות גדולות מ-120 ס״מ ומתחת ל-1.30 מ'/גיל 8 רק עם מבוגר). למדוד את הילדים מראש ולהשתמש בסינון 'בליווי מבוגר' באפליקציה. בגוגל 4.7 (203,212)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Europa-Park",
+    "rating": 4.7,
+    "reviews": 203212,
+    "lat": 48.266019,
+    "lng": 7.722008,
+    "address": "Europa-Park-Straße 2, 77977 Rust, Germany",
+    "website": "https://www.europapark.de/",
+    "place_id": "ChIJ2V7jMoc5kUcRoK3y_wQ0txQ",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Europa-Park&query_place_id=ChIJ2V7jMoc5kUcRoK3y_wQ0txQ",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.266019,7.722008&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 203212,
+    "url": "https://www.google.com/maps/search/?api=1&query=Europa-Park&query_place_id=ChIJ2V7jMoc5kUcRoK3y_wQ0txQ"
+   },
+   "photo": {
+    "file": "img/europapark-1.jpg",
+    "w": 719,
+    "h": 783,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Europa-Park&query_place_id=ChIJ2V7jMoc5kUcRoK3y_wQ0txQ",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Europa-Park – tickets and prices",
+     "https://www.europapark.de/preise"
+    ],
+    [
+     "Europa-Park – opening hours",
+     "https://europapark.de/en/opening-hours"
+    ],
+    [
+     "Europa-Park – safety and accompaniment rules",
+     "https://www.europapark.de/de/freizeitpark/infos/planen-sie-ihren-besuch/wir-sorgen-fuer-ihre-sicherheit"
+    ],
+    [
+     "Freizeitpark-Welt – Europa-Park prices 2026",
+     "https://www.freizeitpark-welt.de/freizeitparks/europa_park/preise"
+    ]
+   ]
+  },
+  "rulantica": {
+   "id": "rulantica",
+   "name": {
+    "en": "Rulantica indoor water world, Rust",
+    "he": "עולם המים המקורה רולנטיקה, רוסט"
+   },
+   "hours": {
+    "en": "Daily 9:30–22:00 (day ticket); evening ticket 17:00–22:00. Limited capacity – book online. It falls on Sunday 22 Aug (the only free day left: Fri = Europa-Park, Mon = flight), so book as soon as tickets open and be at the 9:30 opening. Weekday alternative: an evening ticket on Thu 19 Aug after the move (17:00–22:00), if the kids still have energy.",
+    "he": "מדי יום 9:30–22:00 (כרטיס יומי); כרטיס ערב 17:00–22:00. קיבולת מוגבלת – להזמין ברשת. יוצא ביום ראשון 22 באוגוסט (היום הפנוי היחיד: שישי = אירופה-פארק, שני = טיסה), לכן להזמין ברגע שהכרטיסים נפתחים ולהגיע לפתיחה ב-9:30. חלופה ביום חול: כרטיס ערב ביום חמישי 19 באוגוסט אחרי המעבר (17:00–22:00), אם לילדים עוד יש כוח."
+   },
+   "price_text": {
+    "en": "≈ €210: online day tickets for 28 Mar 2026 – 19 Mar 2027 are date-based – adult €41–54, child 4–11 €38–51 (official) → top of the range for August: 2 × 54 + 2 × 51. Gate +€6 only if space is left.",
+    "he": "כ-210 €: כרטיסים יומיים מקוונים לתקופה 28.3.2026–19.3.2027 לפי תאריך – מבוגר 41–54 €, ילד 4–11 38–51 € (רשמי) → הקצה העליון לאוגוסט: 2 × 54 + 2 × 51. בקופה +6 € ורק אם נשאר מקום."
+   },
+   "price_czk": 210,
+   "price_eur": 210.0,
+   "estimate": true,
+   "time": {
+    "en": "5–6 h",
+    "he": "5–6 שעות"
+   },
+   "kids": {
+    "en": "A Scandinavian-themed indoor water park with a wave pool, the Trølldal kids' area with its own small slides, the lazy river and the Skog play ship. Rules by height: many slides from 3–4 years and 95–100 cm; Snorri's Saga and the Vildstrøm rapids under 8 years / 125 cm only with an adult (rapids with a life jacket); Hugin and Munin under 125 cm only with an adult. Google 4.4 (27,545).",
+    "he": "פארק מים מקורה בעיצוב סקנדינבי עם בריכת גלים, אזור הילדים טרולדאל עם מגלשות קטנות משלו, נהר עצל וספינת המשחקים סקוג. כללים לפי גובה: הרבה מגלשות מגיל 3–4 ו-95–100 ס״מ; Snorri's Saga ומפלי Vildstrøm מתחת לגיל 8 / 125 ס״מ רק עם מבוגר (במפלים עם אפוד הצלה); Hugin ו-Munin מתחת ל-125 ס״מ רק עם מבוגר. בגוגל 4.4 (27,545)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Rulantica",
+    "rating": 4.4,
+    "reviews": 27545,
+    "lat": 48.261033,
+    "lng": 7.74018,
+    "address": "Roland-Mack-Ring 1, 77977 Rust, Germany",
+    "website": "https://www.europapark.de/de/rulantica",
+    "place_id": "ChIJT09N0MA7kUcRuzEPI42cYxE",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Rulantica&query_place_id=ChIJT09N0MA7kUcRuzEPI42cYxE",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.261033,7.740180&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 27545,
+    "url": "https://www.google.com/maps/search/?api=1&query=Rulantica&query_place_id=ChIJT09N0MA7kUcRuzEPI42cYxE"
+   },
+   "photo": {
+    "file": "img/rulantica-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Rulantica&query_place_id=ChIJT09N0MA7kUcRuzEPI42cYxE",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Rulantica – prices and opening hours",
+     "https://www.europapark.de/de/rulantica/preise-oeffnungszeiten"
+    ],
+    [
+     "Rulantica – safety rules by attraction",
+     "https://www.europapark.de/en/rulantica/info/safety-rulantica"
+    ],
+    [
+     "Freizeitpark-Welt – Rulantica prices 2026",
+     "https://www.freizeitpark-welt.de/wasserpark/rulantica/preise/"
+    ]
+   ]
+  },
+  "freiburg_old": {
+   "id": "freiburg_old",
+   "name": {
+    "en": "Freiburg old town: the Bächle, the cathedral and the Münstermarkt",
+    "he": "העיר העתיקה של פרייבורג: תעלות הבֶּכְלֶה, הקתדרלה ושוק המינסטר"
+   },
+   "hours": {
+    "en": "Streets always open; the Münstermarkt around the cathedral runs Mon–Fri 7:30–13:30 and Sat 7:30–14:00, closed on Sundays. Planned on Saturday 21 Aug: the market is open (its busiest day; an organ matinée in the cathedral at 11:30 on many Saturdays) – arrive by 10:00.",
+    "he": "הרחובות פתוחים תמיד; שוק המינסטר סביב הקתדרלה פועל ב'–ו' 7:30–13:30 ובשבת 7:30–14:00, סגור בימי ראשון. מתוכנן לשבת 21 באוגוסט: השוק פתוח (היום העמוס ביותר; בשבתות רבות מתקיים בקתדרלה קונצרט עוגב ב-11:30) – להגיע עד 10:00."
+   },
+   "price_text": {
+    "en": "Free; budget about €15 for a little wooden boat to float in the Bächle, sausages and ice cream (estimate, not counted). Parking in a city garage is in the parking budget.",
+    "he": "חינם; לתקצב כ-15 € לסירת עץ קטנה לשחרר בתעלות, נקניקיות וגלידה (הערכה, לא נספר). חניון עירוני כלול בתקציב החניה."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "2–2.5 h",
+    "he": "שעתיים–שעתיים וחצי"
+   },
+   "kids": {
+    "en": "Shallow water channels run along the cobbled streets – kids float little boats in them and paddle their feet (legend says if you step in, you will marry a Freiburger). Flat and pedestrian; the Gothic cathedral and the market sausages (Lange Rote) on Münsterplatz. Google (cathedral) 4.7 (21,430).",
+    "he": "תעלות מים רדודות זורמות לאורך רחובות האבן – הילדים משיטים בהן סירות קטנות ומכניסים רגליים (לפי האגדה מי שדורך בהן יתחתן עם בן או בת פרייבורג). שטוח ולהולכי רגל; הקתדרלה הגותית ונקניקיות השוק (לנגה רוטה) בכיכר המינסטר. בגוגל (הקתדרלה) 4.7 (21,430)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Freiburg Cathedral",
+    "rating": 4.7,
+    "reviews": 21430,
+    "lat": 47.995582,
+    "lng": 7.852789,
+    "address": "Münsterplatz 1, 79098 Freiburg im Breisgau, Germany",
+    "website": "https://www.freiburgermuenster.info/",
+    "place_id": "ChIJ80Y_mpkckUcRR7Rqqut2Sx4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Freiburg%20Cathedral&query_place_id=ChIJ80Y_mpkckUcRR7Rqqut2Sx4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.995582,7.852789&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 21430,
+    "url": "https://www.google.com/maps/search/?api=1&query=Freiburg%20Cathedral&query_place_id=ChIJ80Y_mpkckUcRR7Rqqut2Sx4"
+   },
+   "photo": {
+    "file": "img/freiburg_old-1.jpg",
+    "w": 1000,
+    "h": 595,
+    "source_page": "https://commons.wikimedia.org/wiki/File:B%C3%A4chle_(Freiburg).jpg",
+    "credit": "Joergens.mi · CC BY-SA 3.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "visit.freiburg – Münstermarkt",
+     "https://visit.freiburg.de/en/attractions/muenstermarkt-freiburg"
+    ],
+    [
+     "Europe for Visitors – Freiburg market",
+     "https://www.europeforvisitors.com/germany/freiburg/freiburg-shopping.htm"
+    ]
+   ]
+  },
+  "mundenhof": {
+   "id": "mundenhof",
+   "name": {
+    "en": "Mundenhof animal and nature park, Freiburg (free)",
+    "he": "פארק החיות והטבע מונדנהוף, פרייבורג (חינם)"
+   },
+   "hours": {
+    "en": "Open every day, all year, at any time (City of Freiburg; Google: 24 hours). On Saturday 21 Aug the car park fills in the afternoon – go straight after lunch.",
+    "he": "פתוח כל יום, כל השנה, בכל שעה (עיריית פרייבורג; גוגל: 24 שעות). בשבת 21 באוגוסט החניון מתמלא אחר הצהריים – להגיע מיד אחרי ארוחת הצהריים."
+   },
+   "price_text": {
+    "en": "Free entry (city-run since 1968); paid parking about €5 (alpen-guide, undated) – in the parking budget.",
+    "he": "כניסה חינם (בניהול העירייה מאז 1968); חניה בתשלום כ-5 € (alpen-guide, ללא תאריך) – בתקציב החניה."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "2–3 h",
+    "he": "2–3 שעות"
+   },
+   "kids": {
+    "en": "38 hectares of farm and exotic animals – bison, camels, yaks, ostriches, donkeys – a monkey and meerkat house, an aquarium for rain, playgrounds and a big beer-garden kiosk; flat paths. Google 4.7 (12,113).",
+    "he": "38 הקטאר של חיות משק וחיות אקזוטיות – ביזונים, גמלים, יאקים, יענים, חמורים – בית קופים ומירקטים, אקווריום ליום גשום, מגרשי משחקים וקיוסק גדול; שבילים שטוחים. בגוגל 4.7 (12,113)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Mundenhof Tier-Natur-Erlebnispark",
+    "rating": 4.7,
+    "reviews": 12113,
+    "lat": 48.016447,
+    "lng": 7.778052,
+    "address": "Mundenhof 15, 79111 Freiburg im Breisgau-West, Germany",
+    "website": "http://www.mundenhof.de/",
+    "place_id": "ChIJ5Sa_TvQakUcR6hRXY4biviM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Mundenhof%20Tier-Natur-Erlebnispark&query_place_id=ChIJ5Sa_TvQakUcR6hRXY4biviM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.016447,7.778052&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 12113,
+    "url": "https://www.google.com/maps/search/?api=1&query=Mundenhof%20Tier-Natur-Erlebnispark&query_place_id=ChIJ5Sa_TvQakUcR6hRXY4biviM"
+   },
+   "photo": {
+    "file": "img/mundenhof-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Mundenhof%20Tier-Natur-Erlebnispark&query_place_id=ChIJ5Sa_TvQakUcR6hRXY4biviM",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "City of Freiburg – Mundenhof",
+     "https://freiburg.de/pb/,Len/265917.html"
+    ],
+    [
+     "alpen-guide – Mundenhof",
+     "https://www.alpen-guide.de/reisefuehrer/poi/mundenhof-freiburg"
+    ]
+   ]
+  }
+ },
+ "days": [
+  {
+   "day": 1,
+   "date": "2027-08-14",
+   "weekday": {
+    "en": "Sat",
+    "he": "ש'"
+   },
+   "title": {
+    "en": "Evening flight to Zurich, car pick-up, night drive to Schluchsee",
+    "he": "טיסת ערב לציריך, איסוף רכב ונסיעת לילה לשלוכזה"
+   },
+   "trail": "green",
+   "overnight": "hotel_schluchsee",
+   "plan": [
+    {
+     "en": "18:15 SWISS LX 253 from TLV, landing at ZRH 21:35.",
+     "he": "18:15 סוויס LX 253 מנתב\"ג, נחיתה ברוסט (אירופה-פארק) ב-21:35."
+    },
+    {
+     "en": "Pick up the car at the ZRH car rental centre with 2 boosters (desks open until about 23:30 – book with the flight number; allow 45–60 min after landing). Check the Swiss vignette is on the car and that the contract allows Germany. Saturday-night tip: German shops are closed on Sunday, so buy breakfast and snacks at the airport shops before leaving (opening hours not verified).",
+     "he": "איסוף הרכב במרכז השכרת הרכב בשדה ציריך עם 2 בוסטרים (הדלפקים פתוחים עד כ-23:30 – להזמין עם מספר הטיסה; להקצות 45–60 דקות אחרי הנחיתה). לוודא שהוינייטה השווייצרית על הרכב ושהחוזה מתיר נסיעה לגרמניה. טיפ למוצאי שבת: החנויות בגרמניה סגורות ביום ראשון, אז לקנות ארוחת בוקר וחטיפים בחנויות השדה לפני היציאה (שעות הפתיחה לא אומתו)."
+    },
+    {
+     "en": "Drive 70 km / 1h11 (allow about 1h15 at night): Swiss A51 and road 4 to Rafz, into Germany at Rafz–Lottstetten, then through the Wutach area to Schluchsee. Arrive about 23:30–00:00 – use the late-arrival instructions agreed in writing with Schönhier (Booking gives no latest check-in time or key-box details). The kids sleep in the car.",
+     "he": "נסיעה של 70 ק״מ / 1:11 (בלילה כ-1:15): A51 וכביש 4 בשווייץ עד רפץ, כניסה לגרמניה ברפץ–לוטשטטן, ואז דרך אזור הווּטאך לשלוכזה. מגיעים בסביבות 23:30–00:00 – משתמשים בהוראות ההגעה המאוחרת שסוכמו בכתב עם Schönhier (ב-Booking אין שעת צ'ק-אין אחרונה ואין פרטים על כספת מפתחות). הילדים ישנים ברכב."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 69.8,
+    "minutes": 71,
+    "legs": [
+     {
+      "from": "Zurich Airport (ZRH) – car",
+      "to": "Schönhier apartment, Schluchsee",
+      "km": 69.8,
+      "min": 71
+     }
+    ],
+    "points": [
+     {
+      "name": "Zurich Airport (ZRH) – car",
+      "lat": 47.4502,
+      "lng": 8.5622
+     },
+     {
+      "name": "Schönhier apartment, Schluchsee",
+      "lat": 47.823318,
+      "lng": 8.181737
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       8.561892,
+       47.450222
+      ],
+      [
+       8.568653,
+       47.448546
+      ],
+      [
+       8.578848,
+       47.456406
+      ],
+      [
+       8.553334,
+       47.476402
+      ],
+      [
+       8.525804,
+       47.514244
+      ],
+      [
+       8.534249,
+       47.53172
+      ],
+      [
+       8.529557,
+       47.552977
+      ],
+      [
+       8.522141,
+       47.559636
+      ],
+      [
+       8.522026,
+       47.576171
+      ],
+      [
+       8.486568,
+       47.598075
+      ],
+      [
+       8.494803,
+       47.605417
+      ],
+      [
+       8.487185,
+       47.603721
+      ],
+      [
+       8.474067,
+       47.614944
+      ],
+      [
+       8.440226,
+       47.626568
+      ],
+      [
+       8.441063,
+       47.633835
+      ],
+      [
+       8.419949,
+       47.66221
+      ],
+      [
+       8.397296,
+       47.663984
+      ],
+      [
+       8.378362,
+       47.670205
+      ],
+      [
+       8.382887,
+       47.683862
+      ],
+      [
+       8.39879,
+       47.696057
+      ],
+      [
+       8.387774,
+       47.700127
+      ],
+      [
+       8.3814,
+       47.708527
+      ],
+      [
+       8.381941,
+       47.721501
+      ],
+      [
+       8.39159,
+       47.736065
+      ],
+      [
+       8.387883,
+       47.757703
+      ],
+      [
+       8.361454,
+       47.773367
+      ],
+      [
+       8.34572,
+       47.803401
+      ],
+      [
+       8.344871,
+       47.818959
+      ],
+      [
+       8.299015,
+       47.820782
+      ],
+      [
+       8.277743,
+       47.829433
+      ],
+      [
+       8.255866,
+       47.828768
+      ],
+      [
+       8.231297,
+       47.833254
+      ],
+      [
+       8.181737,
+       47.823381
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=47.4502,8.5622&destination=47.823318,8.181737&travelmode=driving"
+   }
+  },
+  {
+   "day": 2,
+   "date": "2027-08-15",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Slow Sunday at Lake Schluchsee: lido and (optional) boat",
+    "he": "יום ראשון רגוע באגם שלוכזה: חוף רחצה וסירה (אופציונלי)"
+   },
+   "trail": "green",
+   "overnight": "hotel_schluchsee",
+   "plan": [
+    {
+     "en": "Sleep in after the late arrival; breakfast from the airport shopping (German supermarkets are closed on Sundays; local bakeries often open on Sunday mornings – not verified for Schluchsee). Swim in the apartment's private indoor pool.",
+     "he": "ישנים עד מאוחר אחרי ההגעה בלילה; ארוחת בוקר ממה שנקנה בשדה (הסופרמרקטים בגרמניה סגורים בימי ראשון; מאפיות מקומיות פתוחות לעתים קרובות בבוקר יום ראשון – לא אומת לשלוכזה). שחייה בבריכה הפנימית הפרטית של הדירה."
+    },
+    {
+     "en": "Aqua Fun lido on the lake (2.7 km / 7 min, or walk 1.2 km): the 105 m slide, kids' pool, playground and lake beach. Sunday is busy – go early or late afternoon.",
+     "he": "חוף אקווה-פאן על האגם (2.7 ק״מ / 7 דק', או הליכה של 1.2 ק״מ): המגלשה של 105 מ', בריכת ילדים, מגרש משחקים וחוף אגם. ביום ראשון עמוס – להגיע מוקדם או אחר הצהריים המאוחרים."
+    },
+    {
+     "en": "Optional: the MS Schluchsee round trip from the lido pier (≈ 1 hour). Total driving 11 min.",
+     "he": "אופציונלי: הפלגה ב-MS Schluchsee ממזח החוף (כשעה). בסך הכול 11 דקות נסיעה."
+    }
+   ],
+   "attractions": [
+    "schluchsee_lido",
+    "schluchsee_boat"
+   ],
+   "route": {
+    "km": 4.4,
+    "minutes": 11,
+    "legs": [
+     {
+      "from": "Schönhier apartment, Schluchsee",
+      "to": "Aqua Fun lido and MS Schluchsee pier, Schluchsee",
+      "km": 2.7,
+      "min": 7
+     },
+     {
+      "from": "Aqua Fun lido and MS Schluchsee pier, Schluchsee",
+      "to": "Schönhier apartment, Schluchsee",
+      "km": 1.7,
+      "min": 4
+     }
+    ],
+    "points": [
+     {
+      "name": "Schönhier apartment, Schluchsee",
+      "lat": 47.823318,
+      "lng": 8.181737
+     },
+     {
+      "name": "Aqua Fun lido and MS Schluchsee pier, Schluchsee",
+      "lat": 47.81406,
+      "lng": 8.17903
+     },
+     {
+      "name": "Schönhier apartment, Schluchsee",
+      "lat": 47.823318,
+      "lng": 8.181737
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       8.181737,
+       47.823381
+      ],
+      [
+       8.181096,
+       47.823371
+      ],
+      [
+       8.181048,
+       47.82308
+      ],
+      [
+       8.179453,
+       47.823132
+      ],
+      [
+       8.178771,
+       47.822965
+      ],
+      [
+       8.177766,
+       47.822501
+      ],
+      [
+       8.176989,
+       47.823009
+      ],
+      [
+       8.17546,
+       47.823681
+      ],
+      [
+       8.174691,
+       47.82452
+      ],
+      [
+       8.1741,
+       47.824638
+      ],
+      [
+       8.174201,
+       47.82351
+      ],
+      [
+       8.174084,
+       47.822947
+      ],
+      [
+       8.17348,
+       47.822222
+      ],
+      [
+       8.172645,
+       47.821796
+      ],
+      [
+       8.173935,
+       47.819849
+      ],
+      [
+       8.174543,
+       47.818346
+      ],
+      [
+       8.178442,
+       47.816555
+      ],
+      [
+       8.179479,
+       47.815511
+      ],
+      [
+       8.179572,
+       47.81535
+      ],
+      [
+       8.179382,
+       47.815183
+      ],
+      [
+       8.179553,
+       47.814642
+      ],
+      [
+       8.179057,
+       47.814383
+      ],
+      [
+       8.179678,
+       47.811704
+      ],
+      [
+       8.179152,
+       47.814134
+      ],
+      [
+       8.179057,
+       47.814383
+      ],
+      [
+       8.179553,
+       47.814642
+      ],
+      [
+       8.179377,
+       47.815252
+      ],
+      [
+       8.179572,
+       47.81535
+      ],
+      [
+       8.178442,
+       47.816555
+      ],
+      [
+       8.178755,
+       47.816689
+      ],
+      [
+       8.179334,
+       47.816717
+      ],
+      [
+       8.179452,
+       47.816908
+      ],
+      [
+       8.179228,
+       47.817035
+      ],
+      [
+       8.178047,
+       47.817123
+      ],
+      [
+       8.177102,
+       47.817611
+      ],
+      [
+       8.176974,
+       47.817879
+      ],
+      [
+       8.177199,
+       47.818456
+      ],
+      [
+       8.177121,
+       47.818703
+      ],
+      [
+       8.17542,
+       47.819822
+      ],
+      [
+       8.175209,
+       47.820378
+      ],
+      [
+       8.17567,
+       47.82086
+      ],
+      [
+       8.177663,
+       47.82167
+      ],
+      [
+       8.17795,
+       47.82202
+      ],
+      [
+       8.177766,
+       47.822501
+      ],
+      [
+       8.178439,
+       47.822814
+      ],
+      [
+       8.17955,
+       47.823149
+      ],
+      [
+       8.181048,
+       47.82308
+      ],
+      [
+       8.181096,
+       47.823371
+      ],
+      [
+       8.181737,
+       47.823381
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=47.823318,8.181737&destination=47.823318,8.181737&travelmode=driving&waypoints=47.81406%2C8.17903"
+   }
+  },
+  {
+   "day": 3,
+   "date": "2027-08-16",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Feldberg cable car, Lake Titisee and groceries",
+    "he": "רכבל פלדברג, אגם טיטיזה וקניות"
+   },
+   "trail": "blue",
+   "overnight": "hotel_schluchsee",
+   "plan": [
+    {
+     "en": "Drive 17 km / 17 min to the Feldbergbahn (daily); gondola up, a flat 5-minute walk to the Feldberg tower and the view (take jackets).",
+     "he": "נסיעה של 17 ק״מ / 17 דק' לרכבל פלדברג (פועל מדי יום); גונדולה למעלה, הליכה שטוחה של 5 דקות למגדל פלדברג ולנוף (לקחת ג'קטים)."
+    },
+    {
+     "en": "Lunch, then 17.5 km / 23 min to Titisee: the 25-minute boat round trip, the promenade and an ice cream; supermarket shopping in Titisee-Neustadt on the way back.",
+     "he": "ארוחת צהריים, ואז 17.5 ק״מ / 23 דק' לטיטיזה: הפלגה של 25 דקות, הטיילת וגלידה; קניות בסופרמרקט בטיטיזה-נוישטאדט בדרך חזרה."
+    },
+    {
+     "en": "Back to Schluchsee (26 min) for the pool. Total driving 1h06.",
+     "he": "חזרה לשלוכזה (26 דק') לבריכה. בסך הכול 1:06 שעות נסיעה."
+    }
+   ],
+   "attractions": [
+    "feldbergbahn",
+    "titisee"
+   ],
+   "route": {
+    "km": 56.1,
+    "minutes": 66,
+    "legs": [
+     {
+      "from": "Schönhier apartment, Schluchsee",
+      "to": "Feldbergbahn valley station, Feldberg",
+      "km": 16.5,
+      "min": 17
+     },
+     {
+      "from": "Feldbergbahn valley station, Feldberg",
+      "to": "Titisee lakeside (Drubba boat pier)",
+      "km": 17.5,
+      "min": 23
+     },
+     {
+      "from": "Titisee lakeside (Drubba boat pier)",
+      "to": "Schönhier apartment, Schluchsee",
+      "km": 22.1,
+      "min": 26
+     }
+    ],
+    "points": [
+     {
+      "name": "Schönhier apartment, Schluchsee",
+      "lat": 47.823318,
+      "lng": 8.181737
+     },
+     {
+      "name": "Feldbergbahn valley station, Feldberg",
+      "lat": 47.8623655,
+      "lng": 8.036322
+     },
+     {
+      "name": "Titisee lakeside (Drubba boat pier)",
+      "lat": 47.8986741,
+      "lng": 8.1539724
+     },
+     {
+      "name": "Schönhier apartment, Schluchsee",
+      "lat": 47.823318,
+      "lng": 8.181737
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       8.181737,
+       47.823381
+      ],
+      [
+       8.177766,
+       47.822501
+      ],
+      [
+       8.1741,
+       47.824638
+      ],
+      [
+       8.172645,
+       47.821796
+      ],
+      [
+       8.170089,
+       47.82284
+      ],
+      [
+       8.157219,
+       47.823276
+      ],
+      [
+       8.142026,
+       47.830284
+      ],
+      [
+       8.13334,
+       47.833047
+      ],
+      [
+       8.128599,
+       47.837351
+      ],
+      [
+       8.129071,
+       47.839847
+      ],
+      [
+       8.123756,
+       47.847342
+      ],
+      [
+       8.123862,
+       47.850433
+      ],
+      [
+       8.121369,
+       47.853609
+      ],
+      [
+       8.116507,
+       47.856039
+      ],
+      [
+       8.109215,
+       47.854165
+      ],
+      [
+       8.110287,
+       47.858418
+      ],
+      [
+       8.101516,
+       47.860702
+      ],
+      [
+       8.100375,
+       47.863167
+      ],
+      [
+       8.096439,
+       47.865597
+      ],
+      [
+       8.095642,
+       47.869674
+      ],
+      [
+       8.088329,
+       47.870174
+      ],
+      [
+       8.080656,
+       47.865606
+      ],
+      [
+       8.069053,
+       47.862037
+      ],
+      [
+       8.066093,
+       47.859626
+      ],
+      [
+       8.062534,
+       47.859738
+      ],
+      [
+       8.061346,
+       47.862959
+      ],
+      [
+       8.057741,
+       47.863569
+      ],
+      [
+       8.052249,
+       47.8582
+      ],
+      [
+       8.041977,
+       47.856441
+      ],
+      [
+       8.037811,
+       47.858222
+      ],
+      [
+       8.035854,
+       47.860374
+      ],
+      [
+       8.036342,
+       47.861964
+      ],
+      [
+       8.036964,
+       47.858819
+      ],
+      [
+       8.0411,
+       47.856408
+      ],
+      [
+       8.051948,
+       47.858068
+      ],
+      [
+       8.057939,
+       47.863606
+      ],
+      [
+       8.061346,
+       47.862959
+      ],
+      [
+       8.062534,
+       47.859738
+      ],
+      [
+       8.06629,
+       47.859662
+      ],
+      [
+       8.069053,
+       47.862037
+      ],
+      [
+       8.080656,
+       47.865606
+      ],
+      [
+       8.088172,
+       47.870115
+      ],
+      [
+       8.097403,
+       47.869745
+      ],
+      [
+       8.101205,
+       47.872759
+      ],
+      [
+       8.109996,
+       47.874522
+      ],
+      [
+       8.123146,
+       47.881098
+      ],
+      [
+       8.128023,
+       47.878957
+      ],
+      [
+       8.13324,
+       47.88308
+      ],
+      [
+       8.140901,
+       47.884847
+      ],
+      [
+       8.145892,
+       47.887564
+      ],
+      [
+       8.168462,
+       47.904245
+      ],
+      [
+       8.169897,
+       47.906447
+      ],
+      [
+       8.16874,
+       47.908449
+      ],
+      [
+       8.164037,
+       47.908255
+      ],
+      [
+       8.160768,
+       47.909262
+      ],
+      [
+       8.160936,
+       47.910038
+      ],
+      [
+       8.164445,
+       47.911674
+      ],
+      [
+       8.168687,
+       47.908917
+      ],
+      [
+       8.170332,
+       47.909697
+      ],
+      [
+       8.170087,
+       47.906861
+      ],
+      [
+       8.166356,
+       47.904102
+      ],
+      [
+       8.16617,
+       47.902719
+      ],
+      [
+       8.163663,
+       47.901178
+      ],
+      [
+       8.154597,
+       47.898862
+      ],
+      [
+       8.163663,
+       47.901178
+      ],
+      [
+       8.16617,
+       47.902719
+      ],
+      [
+       8.166356,
+       47.904102
+      ],
+      [
+       8.170087,
+       47.906861
+      ],
+      [
+       8.170332,
+       47.909697
+      ],
+      [
+       8.168687,
+       47.908917
+      ],
+      [
+       8.164445,
+       47.911674
+      ],
+      [
+       8.159437,
+       47.908178
+      ],
+      [
+       8.161736,
+       47.908845
+      ],
+      [
+       8.168628,
+       47.90807
+      ],
+      [
+       8.169524,
+       47.905405
+      ],
+      [
+       8.145372,
+       47.887245
+      ],
+      [
+       8.140494,
+       47.884705
+      ],
+      [
+       8.13324,
+       47.88308
+      ],
+      [
+       8.128023,
+       47.878957
+      ],
+      [
+       8.123351,
+       47.881153
+      ],
+      [
+       8.110141,
+       47.874577
+      ],
+      [
+       8.101768,
+       47.873003
+      ],
+      [
+       8.0979,
+       47.869962
+      ],
+      [
+       8.095521,
+       47.869594
+      ],
+      [
+       8.096275,
+       47.866006
+      ],
+      [
+       8.100375,
+       47.863167
+      ],
+      [
+       8.101918,
+       47.860458
+      ],
+      [
+       8.110287,
+       47.858418
+      ],
+      [
+       8.109355,
+       47.854086
+      ],
+      [
+       8.11627,
+       47.856045
+      ],
+      [
+       8.120937,
+       47.854011
+      ],
+      [
+       8.123862,
+       47.850433
+      ],
+      [
+       8.123756,
+       47.847342
+      ],
+      [
+       8.129071,
+       47.839847
+      ],
+      [
+       8.128599,
+       47.837351
+      ],
+      [
+       8.133557,
+       47.832936
+      ],
+      [
+       8.142026,
+       47.830284
+      ],
+      [
+       8.157219,
+       47.823276
+      ],
+      [
+       8.170089,
+       47.82284
+      ],
+      [
+       8.172709,
+       47.82173
+      ],
+      [
+       8.1741,
+       47.824638
+      ],
+      [
+       8.177766,
+       47.822501
+      ],
+      [
+       8.181737,
+       47.823381
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=47.823318,8.181737&destination=47.823318,8.181737&travelmode=driving&waypoints=47.8623655%2C8.036322%7C47.8986741%2C8.1539724"
+   }
+  },
+  {
+   "day": 4,
+   "date": "2027-08-17",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Steinwasen-Park: animals, suspension bridge and rides",
+    "he": "פארק שטיינוואזן: חיות, גשר תלוי ומתקנים"
+   },
+   "trail": "blue",
+   "overnight": "hotel_schluchsee",
+   "plan": [
+    {
+     "en": "Drive 39 km / 41 min over the Feldberg to Steinwasen-Park near Oberried (open daily); arrive at the 10:00 opening – a Tuesday is calmer than a weekend.",
+     "he": "נסיעה של 39 ק״מ / 41 דק' דרך הפלדברג לפארק שטיינוואזן ליד אוברריד (פתוח מדי יום); להגיע לפתיחה ב-10:00 – יום שלישי רגוע יותר מסוף שבוע."
+    },
+    {
+     "en": "4–5 hours: the mountain animals, the 218 m suspension bridge, the toboggan and the family rides; lunch in the park.",
+     "he": "4–5 שעות: חיות ההרים, הגשר התלוי של 218 מ', מגלשת הקיץ והמתקנים המשפחתיים; ארוחת צהריים בפארק."
+    },
+    {
+     "en": "Optional if energy is left: the Schauinsland gondola top station (6 km / 19 min). Back to Schluchsee (42 min). Driving 1h22 (about 1h56 with Schauinsland).",
+     "he": "אופציונלי אם נשאר כוח: התחנה העליונה של רכבל שאואינסלנד (6 ק״מ / 19 דק'). חזרה לשלוכזה (42 דק'). 1:22 שעות נסיעה (כ-1:56 עם שאואינסלנד)."
+    }
+   ],
+   "attractions": [
+    "steinwasen",
+    "schauinsland"
+   ],
+   "route": {
+    "km": 78.1,
+    "minutes": 82,
+    "legs": [
+     {
+      "from": "Schönhier apartment, Schluchsee",
+      "to": "Steinwasen-Park, Oberried",
+      "km": 39.0,
+      "min": 41
+     },
+     {
+      "from": "Steinwasen-Park, Oberried",
+      "to": "Schönhier apartment, Schluchsee",
+      "km": 39.0,
+      "min": 42
+     }
+    ],
+    "points": [
+     {
+      "name": "Schönhier apartment, Schluchsee",
+      "lat": 47.823318,
+      "lng": 8.181737
+     },
+     {
+      "name": "Steinwasen-Park, Oberried",
+      "lat": 47.899763,
+      "lng": 7.922365
+     },
+     {
+      "name": "Schönhier apartment, Schluchsee",
+      "lat": 47.823318,
+      "lng": 8.181737
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       8.181737,
+       47.823381
+      ],
+      [
+       8.177766,
+       47.822501
+      ],
+      [
+       8.1741,
+       47.824638
+      ],
+      [
+       8.172645,
+       47.821796
+      ],
+      [
+       8.170089,
+       47.82284
+      ],
+      [
+       8.157219,
+       47.823276
+      ],
+      [
+       8.142026,
+       47.830284
+      ],
+      [
+       8.13334,
+       47.833047
+      ],
+      [
+       8.128599,
+       47.837351
+      ],
+      [
+       8.129071,
+       47.839847
+      ],
+      [
+       8.123756,
+       47.847342
+      ],
+      [
+       8.123862,
+       47.850433
+      ],
+      [
+       8.120937,
+       47.854011
+      ],
+      [
+       8.11627,
+       47.856045
+      ],
+      [
+       8.109355,
+       47.854086
+      ],
+      [
+       8.110287,
+       47.858418
+      ],
+      [
+       8.101656,
+       47.860604
+      ],
+      [
+       8.100375,
+       47.863167
+      ],
+      [
+       8.096439,
+       47.865597
+      ],
+      [
+       8.095642,
+       47.869674
+      ],
+      [
+       8.091117,
+       47.870489
+      ],
+      [
+       8.086943,
+       47.869577
+      ],
+      [
+       8.07764,
+       47.86441
+      ],
+      [
+       8.069312,
+       47.862158
+      ],
+      [
+       8.06649,
+       47.859711
+      ],
+      [
+       8.062534,
+       47.859738
+      ],
+      [
+       8.061346,
+       47.862959
+      ],
+      [
+       8.057939,
+       47.863606
+      ],
+      [
+       8.052249,
+       47.8582
+      ],
+      [
+       8.041277,
+       47.856021
+      ],
+      [
+       8.037943,
+       47.856549
+      ],
+      [
+       8.034391,
+       47.855811
+      ],
+      [
+       8.018668,
+       47.85794
+      ],
+      [
+       8.013027,
+       47.859642
+      ],
+      [
+       8.011832,
+       47.86171
+      ],
+      [
+       8.007087,
+       47.861563
+      ],
+      [
+       8.006711,
+       47.8599
+      ],
+      [
+       8.004679,
+       47.859067
+      ],
+      [
+       7.997547,
+       47.858968
+      ],
+      [
+       8.006772,
+       47.857212
+      ],
+      [
+       7.997465,
+       47.853652
+      ],
+      [
+       7.986393,
+       47.845814
+      ],
+      [
+       7.975454,
+       47.843608
+      ],
+      [
+       7.970972,
+       47.833741
+      ],
+      [
+       7.963859,
+       47.830869
+      ],
+      [
+       7.957313,
+       47.832797
+      ],
+      [
+       7.942443,
+       47.827209
+      ],
+      [
+       7.938952,
+       47.831384
+      ],
+      [
+       7.93674,
+       47.837214
+      ],
+      [
+       7.937563,
+       47.839672
+      ],
+      [
+       7.92842,
+       47.842879
+      ],
+      [
+       7.933925,
+       47.842243
+      ],
+      [
+       7.925854,
+       47.845373
+      ],
+      [
+       7.923292,
+       47.851013
+      ],
+      [
+       7.918063,
+       47.854218
+      ],
+      [
+       7.917189,
+       47.856721
+      ],
+      [
+       7.919565,
+       47.861426
+      ],
+      [
+       7.916926,
+       47.863976
+      ],
+      [
+       7.916494,
+       47.869469
+      ],
+      [
+       7.912643,
+       47.87261
+      ],
+      [
+       7.911316,
+       47.875276
+      ],
+      [
+       7.906184,
+       47.87824
+      ],
+      [
+       7.906956,
+       47.883742
+      ],
+      [
+       7.912515,
+       47.88421
+      ],
+      [
+       7.916463,
+       47.886572
+      ],
+      [
+       7.916868,
+       47.885043
+      ],
+      [
+       7.919008,
+       47.884642
+      ],
+      [
+       7.919609,
+       47.892748
+      ],
+      [
+       7.921349,
+       47.890914
+      ],
+      [
+       7.922181,
+       47.898012
+      ],
+      [
+       7.923329,
+       47.897218
+      ],
+      [
+       7.922126,
+       47.899639
+      ],
+      [
+       7.923329,
+       47.897218
+      ],
+      [
+       7.922181,
+       47.898012
+      ],
+      [
+       7.921349,
+       47.890914
+      ],
+      [
+       7.919609,
+       47.892748
+      ],
+      [
+       7.919008,
+       47.884642
+      ],
+      [
+       7.916868,
+       47.885043
+      ],
+      [
+       7.916463,
+       47.886572
+      ],
+      [
+       7.912515,
+       47.88421
+      ],
+      [
+       7.906956,
+       47.883742
+      ],
+      [
+       7.906184,
+       47.87824
+      ],
+      [
+       7.911316,
+       47.875276
+      ],
+      [
+       7.912643,
+       47.87261
+      ],
+      [
+       7.916494,
+       47.869469
+      ],
+      [
+       7.916926,
+       47.863976
+      ],
+      [
+       7.919565,
+       47.861426
+      ],
+      [
+       7.917189,
+       47.856721
+      ],
+      [
+       7.918063,
+       47.854218
+      ],
+      [
+       7.923292,
+       47.851013
+      ],
+      [
+       7.925854,
+       47.845373
+      ],
+      [
+       7.933925,
+       47.842243
+      ],
+      [
+       7.92842,
+       47.842879
+      ],
+      [
+       7.937563,
+       47.839672
+      ],
+      [
+       7.93674,
+       47.837214
+      ],
+      [
+       7.938952,
+       47.831384
+      ],
+      [
+       7.942389,
+       47.827061
+      ],
+      [
+       7.957313,
+       47.832797
+      ],
+      [
+       7.963859,
+       47.830869
+      ],
+      [
+       7.970972,
+       47.833741
+      ],
+      [
+       7.975454,
+       47.843608
+      ],
+      [
+       7.986393,
+       47.845814
+      ],
+      [
+       7.997465,
+       47.853652
+      ],
+      [
+       8.006772,
+       47.857212
+      ],
+      [
+       7.997547,
+       47.858968
+      ],
+      [
+       8.004679,
+       47.859067
+      ],
+      [
+       8.006711,
+       47.8599
+      ],
+      [
+       8.007087,
+       47.861563
+      ],
+      [
+       8.011832,
+       47.86171
+      ],
+      [
+       8.013027,
+       47.859642
+      ],
+      [
+       8.018423,
+       47.857987
+      ],
+      [
+       8.034391,
+       47.855811
+      ],
+      [
+       8.037943,
+       47.856549
+      ],
+      [
+       8.041277,
+       47.856021
+      ],
+      [
+       8.052249,
+       47.8582
+      ],
+      [
+       8.057939,
+       47.863606
+      ],
+      [
+       8.061346,
+       47.862959
+      ],
+      [
+       8.062534,
+       47.859738
+      ],
+      [
+       8.06649,
+       47.859711
+      ],
+      [
+       8.069312,
+       47.862158
+      ],
+      [
+       8.07764,
+       47.86441
+      ],
+      [
+       8.086943,
+       47.869577
+      ],
+      [
+       8.091117,
+       47.870489
+      ],
+      [
+       8.09526,
+       47.869762
+      ],
+      [
+       8.096439,
+       47.865597
+      ],
+      [
+       8.100375,
+       47.863167
+      ],
+      [
+       8.101656,
+       47.860604
+      ],
+      [
+       8.110287,
+       47.858418
+      ],
+      [
+       8.109355,
+       47.854086
+      ],
+      [
+       8.11627,
+       47.856045
+      ],
+      [
+       8.120937,
+       47.854011
+      ],
+      [
+       8.123862,
+       47.850433
+      ],
+      [
+       8.123756,
+       47.847342
+      ],
+      [
+       8.129071,
+       47.839847
+      ],
+      [
+       8.128599,
+       47.837351
+      ],
+      [
+       8.13334,
+       47.833047
+      ],
+      [
+       8.142026,
+       47.830284
+      ],
+      [
+       8.157219,
+       47.823276
+      ],
+      [
+       8.170089,
+       47.82284
+      ],
+      [
+       8.172709,
+       47.82173
+      ],
+      [
+       8.1741,
+       47.824638
+      ],
+      [
+       8.177766,
+       47.822501
+      ],
+      [
+       8.181737,
+       47.823381
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=47.823318,8.181737&destination=47.823318,8.181737&travelmode=driving&waypoints=47.899763%2C7.922365"
+   }
+  },
+  {
+   "day": 5,
+   "date": "2027-08-18",
+   "weekday": {
+    "en": "Wed",
+    "he": "ד'"
+   },
+   "title": {
+    "en": "Todtnau: waterfall and the Hasenhorn mountain coaster",
+    "he": "טודטנאו: המפל ומגלשת ההרים בהזנהורן"
+   },
+   "trail": "blue",
+   "overnight": "hotel_schluchsee",
+   "plan": [
+    {
+     "en": "Drive 32.5 km / 34 min to the Todtnau waterfall car park; the 15-minute easy path to the main fall and back (stop at the main fall).",
+     "he": "נסיעה של 32.5 ק״מ / 34 דק' לחניון מפל טודטנאו; השביל הקל של 15 דקות למפל הראשי וחזרה (לעצור במפל הראשי)."
+    },
+    {
+     "en": "6.6 km / 11 min to the Hasenhorn Coaster (daily 10:00–16:30): chairlift up and 2.9 km down – each child rides with a parent; a Wednesday has shorter queues than a weekend.",
+     "he": "6.6 ק״מ / 11 דק' להזנהורן קוסטר (מדי יום 10:00–16:30): רכבל כיסאות למעלה ו-2.9 ק״מ למטה – כל ילד נוסע עם הורה; ביום רביעי התורים קצרים יותר מבסוף שבוע."
+    },
+    {
+     "en": "Back to Schluchsee (27 min). Rain plan: Badeparadies Schwarzwald in Titisee (18 min) – on a weekday only the Galaxy slide world is open to children. Driving 1h12. Pack tonight.",
+     "he": "חזרה לשלוכזה (27 דק'). תוכנית לגשם: באדפרדיז שוורצוואלד בטיטיזה (18 דק') – ביום חול הילדים יכולים להיכנס רק לעולם המגלשות Galaxy. 1:12 שעות נסיעה. אורזים הערב."
+    }
+   ],
+   "attractions": [
+    "todtnau_falls",
+    "hasenhorn",
+    "badeparadies"
+   ],
+   "route": {
+    "km": 65.6,
+    "minutes": 72,
+    "legs": [
+     {
+      "from": "Schönhier apartment, Schluchsee",
+      "to": "Todtnau waterfall car park",
+      "km": 32.5,
+      "min": 34
+     },
+     {
+      "from": "Todtnau waterfall car park",
+      "to": "Hasenhorn Coaster, Todtnau",
+      "km": 6.6,
+      "min": 11
+     },
+     {
+      "from": "Hasenhorn Coaster, Todtnau",
+      "to": "Schönhier apartment, Schluchsee",
+      "km": 26.5,
+      "min": 27
+     }
+    ],
+    "points": [
+     {
+      "name": "Schönhier apartment, Schluchsee",
+      "lat": 47.823318,
+      "lng": 8.181737
+     },
+     {
+      "name": "Todtnau waterfall car park",
+      "lat": 47.8440161,
+      "lng": 7.9390748
+     },
+     {
+      "name": "Hasenhorn Coaster, Todtnau",
+      "lat": 47.8288434,
+      "lng": 7.9490315
+     },
+     {
+      "name": "Schönhier apartment, Schluchsee",
+      "lat": 47.823318,
+      "lng": 8.181737
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       8.181737,
+       47.823381
+      ],
+      [
+       8.177766,
+       47.822501
+      ],
+      [
+       8.1741,
+       47.824638
+      ],
+      [
+       8.172645,
+       47.821796
+      ],
+      [
+       8.170089,
+       47.82284
+      ],
+      [
+       8.157219,
+       47.823276
+      ],
+      [
+       8.142026,
+       47.830284
+      ],
+      [
+       8.13334,
+       47.833047
+      ],
+      [
+       8.128599,
+       47.837351
+      ],
+      [
+       8.129071,
+       47.839847
+      ],
+      [
+       8.123756,
+       47.847342
+      ],
+      [
+       8.123862,
+       47.850433
+      ],
+      [
+       8.120937,
+       47.854011
+      ],
+      [
+       8.11627,
+       47.856045
+      ],
+      [
+       8.109355,
+       47.854086
+      ],
+      [
+       8.110287,
+       47.858418
+      ],
+      [
+       8.101656,
+       47.860604
+      ],
+      [
+       8.100375,
+       47.863167
+      ],
+      [
+       8.096439,
+       47.865597
+      ],
+      [
+       8.095642,
+       47.869674
+      ],
+      [
+       8.091356,
+       47.870475
+      ],
+      [
+       8.086943,
+       47.869577
+      ],
+      [
+       8.07764,
+       47.86441
+      ],
+      [
+       8.069312,
+       47.862158
+      ],
+      [
+       8.06649,
+       47.859711
+      ],
+      [
+       8.062534,
+       47.859738
+      ],
+      [
+       8.061346,
+       47.862959
+      ],
+      [
+       8.057939,
+       47.863606
+      ],
+      [
+       8.052249,
+       47.8582
+      ],
+      [
+       8.041277,
+       47.856021
+      ],
+      [
+       8.037943,
+       47.856549
+      ],
+      [
+       8.034391,
+       47.855811
+      ],
+      [
+       8.018668,
+       47.85794
+      ],
+      [
+       8.013027,
+       47.859642
+      ],
+      [
+       8.011832,
+       47.86171
+      ],
+      [
+       8.007087,
+       47.861563
+      ],
+      [
+       8.006711,
+       47.8599
+      ],
+      [
+       8.004679,
+       47.859067
+      ],
+      [
+       7.997547,
+       47.858968
+      ],
+      [
+       8.006772,
+       47.857212
+      ],
+      [
+       7.997465,
+       47.853652
+      ],
+      [
+       7.986393,
+       47.845814
+      ],
+      [
+       7.975454,
+       47.843608
+      ],
+      [
+       7.970972,
+       47.833741
+      ],
+      [
+       7.963859,
+       47.830869
+      ],
+      [
+       7.957313,
+       47.832797
+      ],
+      [
+       7.942755,
+       47.827151
+      ],
+      [
+       7.938952,
+       47.831384
+      ],
+      [
+       7.93674,
+       47.837214
+      ],
+      [
+       7.937598,
+       47.839629
+      ],
+      [
+       7.92842,
+       47.842879
+      ],
+      [
+       7.933925,
+       47.842243
+      ],
+      [
+       7.925854,
+       47.845373
+      ],
+      [
+       7.923027,
+       47.851283
+      ],
+      [
+       7.927004,
+       47.846424
+      ],
+      [
+       7.935868,
+       47.844078
+      ],
+      [
+       7.93717,
+       47.844799
+      ],
+      [
+       7.937488,
+       47.845514
+      ],
+      [
+       7.935868,
+       47.844078
+      ],
+      [
+       7.927004,
+       47.846424
+      ],
+      [
+       7.923027,
+       47.851283
+      ],
+      [
+       7.925854,
+       47.845373
+      ],
+      [
+       7.933925,
+       47.842243
+      ],
+      [
+       7.92842,
+       47.842879
+      ],
+      [
+       7.937563,
+       47.839672
+      ],
+      [
+       7.936761,
+       47.837152
+      ],
+      [
+       7.938952,
+       47.831384
+      ],
+      [
+       7.942193,
+       47.82723
+      ],
+      [
+       7.947421,
+       47.829523
+      ],
+      [
+       7.948454,
+       47.82904
+      ],
+      [
+       7.947421,
+       47.829523
+      ],
+      [
+       7.957313,
+       47.832797
+      ],
+      [
+       7.963859,
+       47.830869
+      ],
+      [
+       7.970972,
+       47.833741
+      ],
+      [
+       7.975454,
+       47.843608
+      ],
+      [
+       7.986393,
+       47.845814
+      ],
+      [
+       7.997465,
+       47.853652
+      ],
+      [
+       8.006772,
+       47.857212
+      ],
+      [
+       7.997547,
+       47.858968
+      ],
+      [
+       8.004679,
+       47.859067
+      ],
+      [
+       8.006711,
+       47.8599
+      ],
+      [
+       8.007087,
+       47.861563
+      ],
+      [
+       8.011832,
+       47.86171
+      ],
+      [
+       8.013027,
+       47.859642
+      ],
+      [
+       8.018423,
+       47.857987
+      ],
+      [
+       8.034391,
+       47.855811
+      ],
+      [
+       8.037943,
+       47.856549
+      ],
+      [
+       8.041277,
+       47.856021
+      ],
+      [
+       8.052249,
+       47.8582
+      ],
+      [
+       8.057939,
+       47.863606
+      ],
+      [
+       8.061346,
+       47.862959
+      ],
+      [
+       8.062534,
+       47.859738
+      ],
+      [
+       8.06649,
+       47.859711
+      ],
+      [
+       8.069312,
+       47.862158
+      ],
+      [
+       8.07764,
+       47.86441
+      ],
+      [
+       8.086943,
+       47.869577
+      ],
+      [
+       8.091117,
+       47.870489
+      ],
+      [
+       8.09526,
+       47.869762
+      ],
+      [
+       8.096439,
+       47.865597
+      ],
+      [
+       8.100375,
+       47.863167
+      ],
+      [
+       8.101656,
+       47.860604
+      ],
+      [
+       8.110287,
+       47.858418
+      ],
+      [
+       8.109355,
+       47.854086
+      ],
+      [
+       8.11627,
+       47.856045
+      ],
+      [
+       8.120937,
+       47.854011
+      ],
+      [
+       8.123862,
+       47.850433
+      ],
+      [
+       8.123756,
+       47.847342
+      ],
+      [
+       8.129071,
+       47.839847
+      ],
+      [
+       8.128599,
+       47.837351
+      ],
+      [
+       8.13334,
+       47.833047
+      ],
+      [
+       8.142026,
+       47.830284
+      ],
+      [
+       8.157219,
+       47.823276
+      ],
+      [
+       8.170089,
+       47.82284
+      ],
+      [
+       8.172709,
+       47.82173
+      ],
+      [
+       8.1741,
+       47.824638
+      ],
+      [
+       8.177766,
+       47.822501
+      ],
+      [
+       8.181737,
+       47.823381
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=47.823318,8.181737&destination=47.823318,8.181737&travelmode=driving&waypoints=47.8440161%2C7.9390748%7C47.8288434%2C7.9490315"
+   }
+  },
+  {
+   "day": 6,
+   "date": "2027-08-19",
+   "weekday": {
+    "en": "Thu",
+    "he": "ה'"
+   },
+   "title": {
+    "en": "Move day: Triberg waterfalls, the giant cuckoo clock, the farm museum, on to Rust",
+    "he": "יום מעבר: מפלי טריברג, שעון הקוקייה הענק, מוזיאון החוות, והלאה לרוסט"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_rust",
+   "plan": [
+    {
+     "en": "Check out by 10:00 and drive 60 km / 1h04 to Triberg: the lower part of the waterfalls and the squirrels (1 h).",
+     "he": "צ'ק-אאוט עד 10:00 ונסיעה של 60 ק״מ / 1:04 לטריברג: החלק התחתון של המפלים והסנאים (שעה)."
+    },
+    {
+     "en": "3 km / 6 min to the Eble Uhren-Park giant cuckoo clock (arrive on the hour or half hour), then 15 km / 18 min to Gutach: the Vogtsbauernhof open-air museum (children's workshops run in the school holidays) and the summer toboggan next door.",
+     "he": "3 ק״מ / 6 דק' לשעון הקוקייה הענק באבלה אורן-פארק (להגיע בשעה עגולה או בחצי), ואז 15 ק״מ / 18 דק' לגוטאך: מוזיאון פוגטסבאוארנהוף (סדנאות ילדים בחופשת הקיץ) ומגלשת הקיץ הסמוכה."
+    },
+    {
+     "en": "71 km / 58 min to Rust; check-in from 16:00 (self check-in); supermarket in Rust or Ringsheim. Total driving 2h26 – the longest day. Optional: Rulantica evening ticket (17:00–22:00) if the kids still have energy.",
+     "he": "71 ק״מ / 58 דק' לרוסט; צ'ק-אין מ-16:00 (צ'ק-אין עצמי); סופרמרקט ברוסט או ברינגסהיים. בסך הכול 2:26 שעות נסיעה – היום הארוך ביותר. אופציונלי: כרטיס ערב לרולנטיקה (17:00–22:00) אם לילדים עוד יש כוח."
+    }
+   ],
+   "attractions": [
+    "triberg_falls",
+    "cuckoo",
+    "vogtsbauernhof",
+    "gutach_bob"
+   ],
+   "route": {
+    "km": 148.7,
+    "minutes": 146,
+    "legs": [
+     {
+      "from": "Schönhier apartment, Schluchsee",
+      "to": "Triberg waterfalls (lower entrance)",
+      "km": 59.8,
+      "min": 64
+     },
+     {
+      "from": "Triberg waterfalls (lower entrance)",
+      "to": "Eble Uhren-Park (giant cuckoo clock), Triberg",
+      "km": 2.9,
+      "min": 6
+     },
+     {
+      "from": "Eble Uhren-Park (giant cuckoo clock), Triberg",
+      "to": "Vogtsbauernhof open-air museum, Gutach",
+      "km": 15.1,
+      "min": 18
+     },
+     {
+      "from": "Vogtsbauernhof open-air museum, Gutach",
+      "to": "Busch's Gästehaus, Rust",
+      "km": 70.8,
+      "min": 58
+     }
+    ],
+    "points": [
+     {
+      "name": "Schönhier apartment, Schluchsee",
+      "lat": 47.823318,
+      "lng": 8.181737
+     },
+     {
+      "name": "Triberg waterfalls (lower entrance)",
+      "lat": 48.1283833,
+      "lng": 8.2301745
+     },
+     {
+      "name": "Eble Uhren-Park (giant cuckoo clock), Triberg",
+      "lat": 48.1475498,
+      "lng": 8.2410928
+     },
+     {
+      "name": "Vogtsbauernhof open-air museum, Gutach",
+      "lat": 48.2702497,
+      "lng": 8.2009171
+     },
+     {
+      "name": "Busch's Gästehaus, Rust",
+      "lat": 48.267369,
+      "lng": 7.730772
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       8.181737,
+       47.823381
+      ],
+      [
+       8.157219,
+       47.823276
+      ],
+      [
+       8.13334,
+       47.833047
+      ],
+      [
+       8.121369,
+       47.853609
+      ],
+      [
+       8.109215,
+       47.854165
+      ],
+      [
+       8.095642,
+       47.869674
+      ],
+      [
+       8.145372,
+       47.887245
+      ],
+      [
+       8.169524,
+       47.905405
+      ],
+      [
+       8.160773,
+       47.909915
+      ],
+      [
+       8.189263,
+       47.92421
+      ],
+      [
+       8.141899,
+       47.980847
+      ],
+      [
+       8.154864,
+       47.991562
+      ],
+      [
+       8.184803,
+       47.994262
+      ],
+      [
+       8.202689,
+       48.005063
+      ],
+      [
+       8.195407,
+       48.025749
+      ],
+      [
+       8.179839,
+       48.020986
+      ],
+      [
+       8.174627,
+       48.038733
+      ],
+      [
+       8.205726,
+       48.050697
+      ],
+      [
+       8.203164,
+       48.079135
+      ],
+      [
+       8.211115,
+       48.079692
+      ],
+      [
+       8.197765,
+       48.088436
+      ],
+      [
+       8.210682,
+       48.098273
+      ],
+      [
+       8.201157,
+       48.102704
+      ],
+      [
+       8.222199,
+       48.133139
+      ],
+      [
+       8.229861,
+       48.128501
+      ],
+      [
+       8.241066,
+       48.147762
+      ],
+      [
+       8.234355,
+       48.20464
+      ],
+      [
+       8.200781,
+       48.270209
+      ],
+      [
+       8.183298,
+       48.289434
+      ],
+      [
+       8.09617,
+       48.277853
+      ],
+      [
+       8.074596,
+       48.283463
+      ],
+      [
+       8.02022,
+       48.336957
+      ],
+      [
+       8.024386,
+       48.388518
+      ],
+      [
+       7.954025,
+       48.444246
+      ],
+      [
+       7.933526,
+       48.448868
+      ],
+      [
+       7.931066,
+       48.46748
+      ],
+      [
+       7.90264,
+       48.473063
+      ],
+      [
+       7.903318,
+       48.453759
+      ],
+      [
+       7.886068,
+       48.425378
+      ],
+      [
+       7.794344,
+       48.357711
+      ],
+      [
+       7.787706,
+       48.292797
+      ],
+      [
+       7.762476,
+       48.254443
+      ],
+      [
+       7.730845,
+       48.267347
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=47.823318,8.181737&destination=48.267369,7.730772&travelmode=driving&waypoints=48.1283833%2C8.2301745%7C48.1475498%2C8.2410928%7C48.2702497%2C8.2009171"
+   }
+  },
+  {
+   "day": 7,
+   "date": "2027-08-20",
+   "weekday": {
+    "en": "Fri",
+    "he": "ו'"
+   },
+   "title": {
+    "en": "Europa-Park on a weekday (full day)",
+    "he": "אירופה-פארק ביום חול (יום מלא)"
+   },
+   "trail": "green",
+   "overnight": "hotel_rust",
+   "plan": [
+    {
+     "en": "Buy dated online tickets in advance (cheaper than the gate). Walk 8–10 min to the main entrance for the 9:00 opening – no parking needed. Friday is the last weekday before the weekend crowds.",
+     "he": "לקנות מראש כרטיסים מקוונים לתאריך (זול יותר מהקופה). הליכה של 8–10 דקות לכניסה הראשית לפתיחה ב-9:00 – לא צריך חניה. יום שישי הוא יום החול האחרון לפני עומס סוף השבוע."
+    },
+    {
+     "en": "Start with the most popular kids' rides while queues are short; a rest in the air-conditioned apartment at midday is easy because it is so close; back for the evening.",
+     "he": "מתחילים במתקני הילדים הפופולריים כשהתורים קצרים; מנוחה בצהריים בדירה הממוזגת קלה כי היא כל כך קרובה; חוזרים לערב."
+    }
+   ],
+   "attractions": [
+    "europapark"
+   ],
+   "route": {
+    "km": 1.7,
+    "minutes": 5,
+    "legs": [
+     {
+      "from": "Busch's Gästehaus, Rust",
+      "to": "Europa-Park main entrance, Rust",
+      "km": 0.8,
+      "min": 2
+     },
+     {
+      "from": "Europa-Park main entrance, Rust",
+      "to": "Busch's Gästehaus, Rust",
+      "km": 0.9,
+      "min": 3
+     }
+    ],
+    "points": [
+     {
+      "name": "Busch's Gästehaus, Rust",
+      "lat": 48.267369,
+      "lng": 7.730772
+     },
+     {
+      "name": "Europa-Park main entrance, Rust",
+      "lat": 48.2660194,
+      "lng": 7.7220076
+     },
+     {
+      "name": "Busch's Gästehaus, Rust",
+      "lat": 48.267369,
+      "lng": 7.730772
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       7.730845,
+       48.267347
+      ],
+      [
+       7.730771,
+       48.267239
+      ],
+      [
+       7.730536,
+       48.267038
+      ],
+      [
+       7.729969,
+       48.266658
+      ],
+      [
+       7.729836,
+       48.266475
+      ],
+      [
+       7.72946,
+       48.266549
+      ],
+      [
+       7.728146,
+       48.266902
+      ],
+      [
+       7.728085,
+       48.266617
+      ],
+      [
+       7.726099,
+       48.26569
+      ],
+      [
+       7.725973,
+       48.265669
+      ],
+      [
+       7.725639,
+       48.264823
+      ],
+      [
+       7.72532,
+       48.264511
+      ],
+      [
+       7.724007,
+       48.264881
+      ],
+      [
+       7.723495,
+       48.265264
+      ],
+      [
+       7.723233,
+       48.265297
+      ],
+      [
+       7.723209,
+       48.265007
+      ],
+      [
+       7.723288,
+       48.264779
+      ],
+      [
+       7.723209,
+       48.265007
+      ],
+      [
+       7.723233,
+       48.265297
+      ],
+      [
+       7.723495,
+       48.265264
+      ],
+      [
+       7.724007,
+       48.264881
+      ],
+      [
+       7.72532,
+       48.264511
+      ],
+      [
+       7.725639,
+       48.264823
+      ],
+      [
+       7.725973,
+       48.265669
+      ],
+      [
+       7.726099,
+       48.26569
+      ],
+      [
+       7.728085,
+       48.266617
+      ],
+      [
+       7.728146,
+       48.266902
+      ],
+      [
+       7.72946,
+       48.266549
+      ],
+      [
+       7.729836,
+       48.266475
+      ],
+      [
+       7.729969,
+       48.266658
+      ],
+      [
+       7.730536,
+       48.267038
+      ],
+      [
+       7.730771,
+       48.267239
+      ],
+      [
+       7.730845,
+       48.267347
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.267369,7.730772&destination=48.267369,7.730772&travelmode=driving&waypoints=48.2660194%2C7.7220076"
+   }
+  },
+  {
+   "day": 8,
+   "date": "2027-08-21",
+   "weekday": {
+    "en": "Sat",
+    "he": "ש'"
+   },
+   "title": {
+    "en": "Freiburg: the Bächle, the Saturday cathedral market and the Mundenhof animals",
+    "he": "פרייבורג: תעלות הבֶּכְלֶה, שוק הקתדרלה של שבת וחיות מונדנהוף"
+   },
+   "trail": "blue",
+   "overnight": "hotel_rust",
+   "plan": [
+    {
+     "en": "Drive 40 min to Freiburg by 10:00 (park in a central garage – Saturday is busy); the Bächle with a little wooden boat, the Münstermarkt (Sat 7:30–14:00) and a 'Lange Rote' sausage; organ music in the cathedral at 11:30 on many Saturdays.",
+     "he": "נסיעה של 40 דקות לפרייבורג עד 10:00 (חניון מרכזי – בשבת עמוס); תעלות הבֶּכְלֶה עם סירת עץ קטנה, שוק המינסטר (שבת 7:30–14:00) ונקניקיית 'לנגה רוטה'; בשבתות רבות מוזיקת עוגב בקתדרלה ב-11:30."
+    },
+    {
+     "en": "Early afternoon at the free Mundenhof animal park (15 min west of the centre). Back to Rust (about 35 min). Total driving 1h17. Shops are open until about 20:00 – stock up for Sunday.",
+     "he": "מוקדם אחר הצהריים בפארק החיות מונדנהוף (חינם, 15 דקות מערבית למרכז). חזרה לרוסט (כ-35 דק'). בסך הכול 1:17 שעות נסיעה. החנויות פתוחות עד כ-20:00 – לקנות ליום ראשון."
+    }
+   ],
+   "attractions": [
+    "freiburg_old",
+    "mundenhof"
+   ],
+   "route": {
+    "km": 80.4,
+    "minutes": 77,
+    "legs": [
+     {
+      "from": "Busch's Gästehaus, Rust",
+      "to": "Freiburg old town (Münsterplatz)",
+      "km": 35.7,
+      "min": 30
+     },
+     {
+      "from": "Freiburg old town (Münsterplatz)",
+      "to": "Mundenhof animal park, Freiburg",
+      "km": 9.8,
+      "min": 17
+     },
+     {
+      "from": "Mundenhof animal park, Freiburg",
+      "to": "Busch's Gästehaus, Rust",
+      "km": 34.8,
+      "min": 30
+     }
+    ],
+    "points": [
+     {
+      "name": "Busch's Gästehaus, Rust",
+      "lat": 48.267369,
+      "lng": 7.730772
+     },
+     {
+      "name": "Freiburg old town (Münsterplatz)",
+      "lat": 47.9955824,
+      "lng": 7.8527895
+     },
+     {
+      "name": "Mundenhof animal park, Freiburg",
+      "lat": 48.0164472,
+      "lng": 7.7780524
+     },
+     {
+      "name": "Busch's Gästehaus, Rust",
+      "lat": 48.267369,
+      "lng": 7.730772
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       7.730845,
+       48.267347
+      ],
+      [
+       7.735608,
+       48.267179
+      ],
+      [
+       7.747928,
+       48.258197
+      ],
+      [
+       7.759315,
+       48.252608
+      ],
+      [
+       7.761369,
+       48.253178
+      ],
+      [
+       7.751693,
+       48.234219
+      ],
+      [
+       7.747092,
+       48.218184
+      ],
+      [
+       7.745659,
+       48.19895
+      ],
+      [
+       7.748245,
+       48.181337
+      ],
+      [
+       7.758668,
+       48.156328
+      ],
+      [
+       7.783748,
+       48.123528
+      ],
+      [
+       7.795295,
+       48.092874
+      ],
+      [
+       7.810324,
+       48.069985
+      ],
+      [
+       7.811041,
+       48.061421
+      ],
+      [
+       7.824016,
+       48.059341
+      ],
+      [
+       7.856742,
+       48.047772
+      ],
+      [
+       7.861045,
+       48.034285
+      ],
+      [
+       7.851328,
+       48.016603
+      ],
+      [
+       7.854656,
+       48.011765
+      ],
+      [
+       7.854248,
+       47.996218
+      ],
+      [
+       7.856109,
+       47.997343
+      ],
+      [
+       7.843882,
+       47.999573
+      ],
+      [
+       7.839755,
+       47.992142
+      ],
+      [
+       7.835757,
+       47.99284
+      ],
+      [
+       7.805785,
+       48.004716
+      ],
+      [
+       7.79406,
+       48.017307
+      ],
+      [
+       7.790734,
+       48.012313
+      ],
+      [
+       7.780762,
+       48.007735
+      ],
+      [
+       7.776676,
+       48.00951
+      ],
+      [
+       7.776883,
+       48.016616
+      ],
+      [
+       7.776676,
+       48.00951
+      ],
+      [
+       7.780762,
+       48.007735
+      ],
+      [
+       7.795392,
+       48.016265
+      ],
+      [
+       7.787077,
+       48.021834
+      ],
+      [
+       7.786704,
+       48.024346
+      ],
+      [
+       7.8007,
+       48.034333
+      ],
+      [
+       7.807706,
+       48.042325
+      ],
+      [
+       7.812254,
+       48.052972
+      ],
+      [
+       7.812339,
+       48.064189
+      ],
+      [
+       7.808703,
+       48.073547
+      ],
+      [
+       7.7952,
+       48.09343
+      ],
+      [
+       7.783781,
+       48.123814
+      ],
+      [
+       7.758952,
+       48.15621
+      ],
+      [
+       7.748425,
+       48.181364
+      ],
+      [
+       7.745782,
+       48.201319
+      ],
+      [
+       7.747547,
+       48.219593
+      ],
+      [
+       7.754733,
+       48.240725
+      ],
+      [
+       7.763024,
+       48.252755
+      ],
+      [
+       7.76239,
+       48.251433
+      ],
+      [
+       7.746244,
+       48.259258
+      ],
+      [
+       7.735608,
+       48.267179
+      ],
+      [
+       7.730845,
+       48.267347
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.267369,7.730772&destination=48.267369,7.730772&travelmode=driving&waypoints=47.9955824%2C7.8527895%7C48.0164472%2C7.7780524"
+   }
+  },
+  {
+   "day": 9,
+   "date": "2027-08-22",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Rulantica water world, packing and an early night",
+    "he": "עולם המים רולנטיקה, אריזה ולישון מוקדם"
+   },
+   "trail": "green",
+   "overnight": "hotel_rust",
+   "plan": [
+    {
+     "en": "Book online as early as possible (Sunday sells out). Drive 1.8 km / 4 min (or walk 25 min) to Rulantica for the 9:30 opening; the Trølldal kids' area, the wave pool and the lazy river.",
+     "he": "להזמין ברשת כמה שיותר מוקדם (ביום ראשון נגמרים הכרטיסים). נסיעה של 1.8 ק״מ / 4 דק' (או הליכה של 25 דקות) לרולנטיקה לפתיחה ב-9:30; אזור הילדים טרולדאל, בריכת הגלים והנהר העצל."
+    },
+    {
+     "en": "Out by mid-afternoon; fill the tank (German stations are open on Sundays), pack, and agree the 07:30 key drop with the host. Early night.",
+     "he": "יוצאים באמצע אחר הצהריים; תדלוק (תחנות הדלק בגרמניה פתוחות בימי ראשון), אריזה, וסיכום עם המארח על השארת המפתח ב-07:30. לישון מוקדם."
+    }
+   ],
+   "attractions": [
+    "rulantica"
+   ],
+   "route": {
+    "km": 3.6,
+    "minutes": 8,
+    "legs": [
+     {
+      "from": "Busch's Gästehaus, Rust",
+      "to": "Rulantica water world, Rust",
+      "km": 1.8,
+      "min": 4
+     },
+     {
+      "from": "Rulantica water world, Rust",
+      "to": "Busch's Gästehaus, Rust",
+      "km": 1.8,
+      "min": 4
+     }
+    ],
+    "points": [
+     {
+      "name": "Busch's Gästehaus, Rust",
+      "lat": 48.267369,
+      "lng": 7.730772
+     },
+     {
+      "name": "Rulantica water world, Rust",
+      "lat": 48.2610334,
+      "lng": 7.7401798
+     },
+     {
+      "name": "Busch's Gästehaus, Rust",
+      "lat": 48.267369,
+      "lng": 7.730772
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       7.730845,
+       48.267347
+      ],
+      [
+       7.731118,
+       48.267804
+      ],
+      [
+       7.731968,
+       48.267675
+      ],
+      [
+       7.734191,
+       48.267554
+      ],
+      [
+       7.735053,
+       48.267393
+      ],
+      [
+       7.735805,
+       48.267087
+      ],
+      [
+       7.737035,
+       48.266293
+      ],
+      [
+       7.7372,
+       48.266047
+      ],
+      [
+       7.737342,
+       48.266031
+      ],
+      [
+       7.737741,
+       48.265825
+      ],
+      [
+       7.739132,
+       48.264903
+      ],
+      [
+       7.739364,
+       48.264689
+      ],
+      [
+       7.739523,
+       48.264342
+      ],
+      [
+       7.740251,
+       48.264173
+      ],
+      [
+       7.743332,
+       48.262133
+      ],
+      [
+       7.744096,
+       48.261483
+      ],
+      [
+       7.744961,
+       48.260545
+      ],
+      [
+       7.744552,
+       48.260781
+      ],
+      [
+       7.743536,
+       48.260625
+      ],
+      [
+       7.742934,
+       48.260457
+      ],
+      [
+       7.741847,
+       48.260428
+      ],
+      [
+       7.740834,
+       48.26106
+      ],
+      [
+       7.741847,
+       48.260428
+      ],
+      [
+       7.742934,
+       48.260457
+      ],
+      [
+       7.743536,
+       48.260625
+      ],
+      [
+       7.744552,
+       48.260781
+      ],
+      [
+       7.744961,
+       48.260545
+      ],
+      [
+       7.744096,
+       48.261483
+      ],
+      [
+       7.743523,
+       48.261991
+      ],
+      [
+       7.740251,
+       48.264173
+      ],
+      [
+       7.73994,
+       48.26458
+      ],
+      [
+       7.73926,
+       48.2648
+      ],
+      [
+       7.737765,
+       48.265807
+      ],
+      [
+       7.73738,
+       48.266178
+      ],
+      [
+       7.737035,
+       48.266293
+      ],
+      [
+       7.735805,
+       48.267087
+      ],
+      [
+       7.735053,
+       48.267393
+      ],
+      [
+       7.734191,
+       48.267554
+      ],
+      [
+       7.731968,
+       48.267675
+      ],
+      [
+       7.731118,
+       48.267804
+      ],
+      [
+       7.730845,
+       48.267347
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.267369,7.730772&destination=48.267369,7.730772&travelmode=driving&waypoints=48.2610334%2C7.7401798"
+   }
+  },
+  {
+   "day": 10,
+   "date": "2027-08-23",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Early drive to Zurich and fly home",
+    "he": "נסיעה מוקדמת לציריך וטיסה הביתה"
+   },
+   "trail": "yellow",
+   "overnight": null,
+   "plan": [
+    {
+     "en": "Aegean A3 851 + A3 926 departs 11:15 and lands in TLV at 19:00.",
+     "he": "אגיאן A3 851 + A3 926 ממריאה ב-11:15 ונוחתת בנתב\"ג ב-19:00."
+    },
+    {
+     "en": "Leave Rust at about 07:30 at the latest (07:00 gives a buffer for Monday traffic around Basel and Zurich): self check-out with the key left as agreed (official check-out is by 10:00). Drive 182 km / 2h00: A5 and A98 to Rheinfelden, into Switzerland, Swiss A3/A1/A11 to Zurich Airport.",
+     "he": "יוצאים מרוסט לכל המאוחר בסביבות 07:30 (07:00 נותן מרווח לתנועת יום שני סביב בזל וציריך): צ'ק-אאוט עצמי והשארת המפתח כפי שסוכם (הצ'ק-אאוט הרשמי עד 10:00). נסיעה של 182 ק״מ / 2:00: A5 ו-A98 עד ריינפלדן, כניסה לשווייץ, ואז A3/A1/A11 לשדה התעופה של ציריך."
+    },
+    {
+     "en": "Return the car at the rental centre by about 09:30 (allow 15–20 min), then check in for the 11:15 flight.",
+     "he": "החזרת הרכב במרכז ההשכרה עד כ-09:30 (להקצות 15–20 דקות), ואז צ'ק-אין לטיסה של 11:15."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 181.8,
+    "minutes": 120,
+    "legs": [
+     {
+      "from": "Busch's Gästehaus, Rust",
+      "to": "Zurich Airport (ZRH) – car",
+      "km": 181.8,
+      "min": 120
+     }
+    ],
+    "points": [
+     {
+      "name": "Busch's Gästehaus, Rust",
+      "lat": 48.267369,
+      "lng": 7.730772
+     },
+     {
+      "name": "Zurich Airport (ZRH) – car",
+      "lat": 47.4502,
+      "lng": 8.5622
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       7.730845,
+       48.267347
+      ],
+      [
+       7.761369,
+       48.253178
+      ],
+      [
+       7.747092,
+       48.218184
+      ],
+      [
+       7.748245,
+       48.181337
+      ],
+      [
+       7.809817,
+       48.071106
+      ],
+      [
+       7.81144,
+       48.050528
+      ],
+      [
+       7.723317,
+       47.973025
+      ],
+      [
+       7.686741,
+       47.955605
+      ],
+      [
+       7.620373,
+       47.938945
+      ],
+      [
+       7.595223,
+       47.919783
+      ],
+      [
+       7.536518,
+       47.784916
+      ],
+      [
+       7.55236,
+       47.738095
+      ],
+      [
+       7.521312,
+       47.699874
+      ],
+      [
+       7.531012,
+       47.657439
+      ],
+      [
+       7.581529,
+       47.617304
+      ],
+      [
+       7.603641,
+       47.626399
+      ],
+      [
+       7.674154,
+       47.63127
+      ],
+      [
+       7.683437,
+       47.613791
+      ],
+      [
+       7.712204,
+       47.596269
+      ],
+      [
+       7.758441,
+       47.584863
+      ],
+      [
+       7.760583,
+       47.541024
+      ],
+      [
+       7.893194,
+       47.551049
+      ],
+      [
+       7.980679,
+       47.541522
+      ],
+      [
+       8.031248,
+       47.505236
+      ],
+      [
+       8.074997,
+       47.497864
+      ],
+      [
+       8.139666,
+       47.456381
+      ],
+      [
+       8.168074,
+       47.463006
+      ],
+      [
+       8.192235,
+       47.451816
+      ],
+      [
+       8.246788,
+       47.446311
+      ],
+      [
+       8.301528,
+       47.459872
+      ],
+      [
+       8.31189,
+       47.453086
+      ],
+      [
+       8.333739,
+       47.453824
+      ],
+      [
+       8.362813,
+       47.430849
+      ],
+      [
+       8.428591,
+       47.411084
+      ],
+      [
+       8.52651,
+       47.433577
+      ],
+      [
+       8.571613,
+       47.424189
+      ],
+      [
+       8.57021,
+       47.450989
+      ],
+      [
+       8.561892,
+       47.450222
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.267369,7.730772&destination=47.4502,8.5622&travelmode=driving"
+   }
+  }
+ ],
+ "routes_total": {
+  "km": 690.2,
+  "minutes": 658
+ },
+ "budget": {
+  "lines": [
+   {
+    "key": "flights",
+    "eur": 1521,
+    "status": "live"
+   },
+   {
+    "key": "bags",
+    "eur": 320,
+    "status": "estimate"
+   },
+   {
+    "key": "car",
+    "eur": 585,
+    "status": "estimate"
+   },
+   {
+    "key": "seats",
+    "eur": 100,
+    "status": "estimate"
+   },
+   {
+    "key": "border",
+    "eur": 0,
+    "status": "live"
+   },
+   {
+    "key": "transfers",
+    "eur": 0,
+    "status": "estimate"
+   },
+   {
+    "key": "vignette",
+    "eur": 43,
+    "status": "estimate"
+   },
+   {
+    "key": "fuel",
+    "eur": 102,
+    "status": "estimate"
+   },
+   {
+    "key": "parking",
+    "eur": 45,
+    "status": "estimate"
+   },
+   {
+    "key": "hotels",
+    "eur": 2057.35,
+    "status": "live"
+   },
+   {
+    "key": "att",
+    "eur": 840,
+    "status": "mixed"
+   }
+  ],
+  "total_eur": 5613.35,
+  "live_part_eur": 3578.35,
+  "attractions_local": 840.0,
+  "fuel_km": 745
+ }
+}
