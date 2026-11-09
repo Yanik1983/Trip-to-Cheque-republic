@@ -25,35 +25,35 @@
  },
  "variant": "eve",
  "version": {
-  "id": "v1",
-  "date": "2026-10-25",
+  "id": "v2",
+  "date": "2026-11-09",
   "label": {
-   "en": "Germany – Black Forest v1",
-   "he": "גרמניה – היער השחור גרסה 1"
+   "en": "Germany – Black Forest v2",
+   "he": "גרמניה – היער השחור גרסה 2"
   }
  },
  "taxi_days": [],
  "car_km": 690.2,
  "changes": [
   {
-   "en": "Airport: the family allowed a nearby airport across the border if flights are cheaper (the whole stay stays in Germany). Cheapest total (flights + bags + 2 hotels + car) per airport: Zurich €4,581 (incl. the €43 Swiss vignette) · Frankfurt €4,568 but 3h28 from Schluchsee, so not used · Basel-Mulhouse €5,847 · Stuttgart €5,920 · Strasbourg: no usable flights. Zurich it is: SWISS nonstop out, 1h11 to the first base.",
-   "he": "שדה התעופה: המשפחה אישרה לנחות בשדה קרוב מעבר לגבול אם הטיסות זולות יותר (כל השהייה נשארת בגרמניה). הסכום הזול ביותר (טיסות + כבודה + 2 מלונות + רכב) לפי שדה: ציריך 4,581 € (כולל ויניטה שווייצרית 43 €) · פרנקפורט 4,568 € אבל 3:28 שעות משלוכזה, ולכן לא נבחר · בזל-מולוז 5,847 € · שטוטגרט 5,920 € · שטרסבורג: אין טיסות מתאימות. נבחרה ציריך: SWISS ישירה בהלוך, שעה ו-11 דקות לבסיס הראשון."
+   "en": "What changed in v2: flights were re-checked on 9 Nov 2026 (the v1 SWISS outbound rose from €683 to €1,006), so the cheapest dates moved from Sat 14 – Mon 23 Aug to Sun 15 – Tue 24 Aug 2027 (Aegean out at 05:30, Iberia back at 11:55). Zurich is still the cheapest airport among Zurich, Basel, Stuttgart and Frankfurt (Frankfurt looks €57 cheaper on paper, but it is 3½ hours from the first base). Flights + bags + hotels + car ≈ €4,710. The day order was rebuilt for the new weekdays: Europa-Park on Monday, Rulantica on Sunday (the weekday alternative is a Friday-evening ticket).",
+   "he": "מה השתנה בגרסה 2: הטיסות נבדקו שוב ב-9.11.2026 (טיסת ההלוך של SWISS מגרסה 1 עלתה מ-683 € ל-1,006 €), ולכן התאריכים הזולים ביותר עברו מ-ש' 14 – ב' 23 באוגוסט ל-א' 15 – ג' 24 באוגוסט 2027 (אגיאן הלוך ב-05:30, איבריה חזור ב-11:55). ציריך נשארה השדה הזול ביותר מבין ציריך, בזל, שטוטגרט ופרנקפורט (פרנקפורט נראית זולה ב-57 € על הנייר, אבל היא 3.5 שעות מהבסיס הראשון). טיסות + כבודה + מלונות + רכב כ-4,710 €. סדר הימים נבנה מחדש: אירופה-פארק ביום שני, רולנטיקה ביום ראשון (חלופה בימי חול: כרטיס ערב ביום שישי)."
   },
   {
-   "en": "Dates Sat 14 – Mon 23 Aug 2027 (evening arrival, late drive to the base): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €4,581).",
-   "he": "תאריכים ש' 14 – ב' 23 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-4,581 €)."
+   "en": "Dates Sun 15 – Tue 24 Aug 2027 (evening arrival, late drive to the base): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €4,661).",
+   "he": "תאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-4,661 €)."
   },
   {
-   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: SWISS LX 253 18:15→21:35; back: Aegean A3 851 + A3 926 11:15→19:00.",
-   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: סוויס LX 253 18:15←21:35; חזור: אגיאן A3 851 + A3 926 11:15←19:00."
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Aegean A3 457 + A3 448 05:30→19:45; back: Iberia IB 628 + IB 1873 11:55→23:20.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: אגיאן A3 457 + A3 448 05:30←19:45; חזור: Iberia IB 628 + IB 1873 11:55←23:20."
   },
   {
-   "en": "Next best: Sat 14 – Mon 23 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €4,581 (+€0); back Aegean 11:15→19:00.",
-   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-4,581 € (+0 €); חזור אגיאן 11:15←19:00."
+   "en": "Next best: Sat 14 – Mon 23 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €4,581 (+€-80); back Aegean 11:15→19:00.",
+   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-4,581 € (+-80 €); חזור אגיאן 11:15←19:00."
   },
   {
-   "en": "Next best: Wed 18 – Fri 27 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €4,583 (+€2); back Iberia 07:30→17:35.",
-   "he": "הבא בתור: ד' 18 – ו' 27 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-4,583 € (+2 €); חזור Iberia 07:30←17:35."
+   "en": "Next best: Sat 14 – Mon 23 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €4,581 (+€-80); back Aegean 11:15→19:00.",
+   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-4,581 € (+-80 €); חזור אגיאן 11:15←19:00."
   },
   {
    "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
@@ -62,8 +62,8 @@
  ],
  "trip": {
   "dates": {
-   "start": "2027-08-14",
-   "end": "2027-08-23",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
    "days": 10,
    "nights": 9
   },
@@ -72,65 +72,524 @@
    "he": "טיול משפחתי ביער השחור: שלוכזה, טיטיזה, פלדברג, טריברג ואירופה-פארק"
   },
   "lede": {
-   "en": "Sat 14 – Mon 23 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. Fly to Zurich, pick up a car and cross straight into Germany (the only border crossing is the airport drive): 5 nights in an air-conditioned apartment with a private indoor pool 1.2 km from Lake Schluchsee (lake lido, Titisee boats, Feldberg cable car, Steinwasen-Park, Todtnau waterfall and the Hasenhorn coaster), then 4 nights in an air-conditioned apartment in Rust, a 10-minute walk from Europa-Park (Europa-Park on a Friday, Freiburg's Bächle and the Mundenhof animal park, Rulantica water world), with Triberg's waterfalls and the Black Forest farm museum on the way.",
-   "he": "שבת 14 – שני 23 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. טסים לציריך, אוספים רכב ועוברים ישר לגרמניה (מעבר הגבול היחיד הוא הנסיעה מהשדה ואליו): 5 לילות בדירה ממוזגת עם בריכה פנימית פרטית, 1.2 ק״מ מאגם שלוכזה (חוף רחצה באגם, סירות בטיטיזה, רכבל פלדברג, פארק שטיינוואזן, מפל טודטנאו ומגלשת ההרים בהזנהורן), ואחר כך 4 לילות בדירה ממוזגת ברוסט, 10 דקות הליכה מאירופה-פארק (אירופה-פארק ביום שישי, תעלות הבֶּכְלֶה בפרייבורג וחוות החיות מונדנהוף, עולם המים רולנטיקה), עם מפלי טריברג ומוזיאון החוות של היער השחור בדרך."
+   "en": "Sun 15 – Tue 24 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. Fly to Zurich (evening landing), pick up a car and cross straight into Germany (the only border crossing is the airport drive): 5 nights in an air-conditioned apartment with a private indoor pool 1.2 km from Lake Schluchsee (lake lido, Titisee boats, Feldberg cable car, Steinwasen-Park, Todtnau waterfall and the Hasenhorn coaster), then 4 nights in an air-conditioned apartment in Rust, a 10-minute walk from Europa-Park (Freiburg's Bächle and the Mundenhof animal park, Rulantica water world, and Europa-Park on a Monday), with Triberg's waterfalls and the Black Forest farm museum on the way.",
+   "he": "ראשון 15 – שלישי 24 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. טסים לציריך (נחיתה בערב), אוספים רכב ועוברים ישר לגרמניה (מעבר הגבול היחיד הוא הנסיעה מהשדה ואליו): 5 לילות בדירה ממוזגת עם בריכה פנימית פרטית, 1.2 ק״מ מאגם שלוכזה (חוף רחצה באגם, סירות בטיטיזה, רכבל פלדברג, פארק שטיינוואזן, מפל טודטנאו ומגלשת ההרים בהזנהורן), ואחר כך 4 לילות בדירה ממוזגת ברוסט, 10 דקות הליכה מאירופה-פארק (תעלות הבֶּכְלֶה בפרייבורג וחוות החיות מונדנהוף, עולם המים רולנטיקה ואירופה-פארק ביום שני), עם מפלי טריברג ומוזיאון החוות של היער השחור בדרך."
   }
  },
  "currency": "EUR",
  "local_per_eur": 1,
  "local_currency": "EUR",
  "flights": {
+  "choices": {
+   "out": [
+    {
+     "id": "A3 457 + A3 448@05:30",
+     "fn": "A3 457 + A3 448",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "05:30",
+     "arr": "19:45",
+     "duration": "15h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 805,
+     "bags_eur": 160,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "A3 459 + A3 448@07:15",
+     "fn": "A3 459 + A3 448",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "07:15",
+     "arr": "19:45",
+     "duration": "13h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 805,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "AZ 807 + AZ 572@14:30",
+     "fn": "AZ 807 + AZ 572",
+     "airline": "ITA",
+     "airline_he": "ITA",
+     "dep": "14:30",
+     "arr": "10:05",
+     "duration": "20h 35m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 826,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "IB 1874 + IB 633@05:30",
+     "fn": "IB 1874 + IB 633",
+     "airline": "Iberia",
+     "airline_he": "Iberia",
+     "dep": "05:30",
+     "arr": "22:20",
+     "duration": "17h 50m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 839,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "A3 929 + A3 850@05:00",
+     "fn": "A3 929 + A3 850",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "05:00",
+     "arr": "10:20",
+     "duration": "6h 20m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 863,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "IB 1874 + IB 629@05:30",
+     "fn": "IB 1874 + IB 629",
+     "airline": "Iberia",
+     "airline_he": "Iberia",
+     "dep": "05:30",
+     "arr": "14:00",
+     "duration": "9h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 874,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "IB 1874 + IB 631@05:30",
+     "fn": "IB 1874 + IB 631",
+     "airline": "Iberia",
+     "airline_he": "Iberia",
+     "dep": "05:30",
+     "arr": "19:00",
+     "duration": "14h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 953,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "A3 927 + A3 850@19:55",
+     "fn": "A3 927 + A3 850",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "19:55",
+     "arr": "10:20",
+     "duration": "15h 25m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1013,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "UX 1302 + UX 1675@16:05",
+     "fn": "UX 1302 + UX 1675",
+     "airline": "Air Europa",
+     "airline_he": "Air Europa",
+     "dep": "16:05",
+     "arr": "10:00",
+     "duration": "18h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1158,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 695 + LH 1190@08:00",
+     "fn": "LH 695 + LH 1190",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "08:00",
+     "arr": "13:55",
+     "duration": "6h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1173,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 691 + LH 1186@04:45",
+     "fn": "LH 691 + LH 1186",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "04:45",
+     "arr": "10:35",
+     "duration": "6h 50m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1173,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "A3 929 + A3 852@05:00",
+     "fn": "A3 929 + A3 852",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "05:00",
+     "arr": "18:05",
+     "duration": "14h 5m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1174,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 683 + LH 2368@07:00",
+     "fn": "LH 683 + LH 2368",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "07:00",
+     "arr": "12:10",
+     "duration": "6h 10m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1309,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "@13:50",
+     "fn": "",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "13:50",
+     "arr": "10:20",
+     "duration": "21h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1324,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    }
+   ],
+   "back": [
+    {
+     "id": "IB 628 + IB 1873@11:55",
+     "fn": "IB 628 + IB 1873",
+     "airline": "Iberia",
+     "airline_he": "Iberia",
+     "dep": "11:55",
+     "arr": "23:20",
+     "duration": "10h 25m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 800,
+     "bags_eur": 160,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "IB 634 + IB 1873@07:30",
+     "fn": "IB 634 + IB 1873",
+     "airline": "Iberia",
+     "airline_he": "Iberia",
+     "dep": "07:30",
+     "arr": "23:20",
+     "duration": "14h 50m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 800,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "A3 853 + A3 928@19:00",
+     "fn": "A3 853 + A3 928",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "19:00",
+     "arr": "02:45",
+     "duration": "6h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 971,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "A3 851 + A3 926@11:15",
+     "fn": "A3 851 + A3 926",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "11:15",
+     "arr": "19:00",
+     "duration": "6h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 971,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LX 256@22:40",
+     "fn": "LX 256",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "22:40",
+     "arr": "03:35",
+     "duration": "3h 55m",
+     "stops": 0,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1046,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "AZ 573 + AZ 810@19:05",
+     "fn": "AZ 573 + AZ 810",
+     "airline": "ITA",
+     "airline_he": "ITA",
+     "dep": "19:05",
+     "arr": "03:10",
+     "duration": "7h 5m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1050,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "AZ 571 + AZ 810@10:55",
+     "fn": "AZ 571 + AZ 810",
+     "airline": "ITA",
+     "airline_he": "ITA",
+     "dep": "10:55",
+     "arr": "03:10",
+     "duration": "15h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1050,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LX 786 + SN 3293@07:25",
+     "fn": "LX 786 + SN 3293",
+     "airline": "SWISS and Brussels Airlines",
+     "airline_he": "SWISS and Brussels Airlines",
+     "dep": "07:25",
+     "arr": "01:55",
+     "duration": "17h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1052,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "SN 2730 + SN 3293@09:00",
+     "fn": "SN 2730 + SN 3293",
+     "airline": "Brussels Airlines",
+     "airline_he": "בריסל איירליינס",
+     "dep": "09:00",
+     "arr": "01:55",
+     "duration": "15h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1052,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LX 780 + SN 3293@12:55",
+     "fn": "LX 780 + SN 3293",
+     "airline": "SWISS and Brussels Airlines",
+     "airline_he": "SWISS and Brussels Airlines",
+     "dep": "12:55",
+     "arr": "01:55",
+     "duration": "12h",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1052,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LX 788 + SN 3293@17:15",
+     "fn": "LX 788 + SN 3293",
+     "airline": "SWISS and Brussels Airlines",
+     "airline_he": "SWISS and Brussels Airlines",
+     "dep": "17:15",
+     "arr": "01:55",
+     "duration": "7h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1052,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 1199 + LH 694@06:55",
+     "fn": "LH 1199 + LH 694",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "06:55",
+     "arr": "19:10",
+     "duration": "11h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1100,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 1181 + LH 694@08:15",
+     "fn": "LH 1181 + LH 694",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "08:15",
+     "arr": "19:10",
+     "duration": "9h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1100,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 1183 + LH 694@09:25",
+     "fn": "LH 1183 + LH 694",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "09:25",
+     "arr": "19:10",
+     "duration": "8h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1100,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    }
+   ],
+   "variant": "eve",
+   "note": {
+    "en": "Default = the cheapest flight that fits the plan (flights + bags). Pick another one to see the total change; the day-by-day text keeps the chosen plan's timing.",
+    "he": "ברירת המחדל = הטיסה הזולה ביותר שמתאימה לתוכנית (טיסה + כבודה). בחירה בטיסה אחרת משנה את הסכום הכולל; הטקסט היומי נשאר לפי התוכנית שנבחרה."
+   }
+  },
   "chosen": [
    {
     "dir": {
      "en": "Outbound",
      "he": "הלוך"
     },
-    "date": "2027-08-14",
+    "date": "2027-08-15",
     "wd": {
-     "en": "Sat",
-     "he": "ש'"
+     "en": "Sun",
+     "he": "א'"
     },
-    "flight": "LX 253",
-    "airline": "SWISS",
+    "flight": "A3 457 + A3 448",
+    "airline": "Aegean",
     "from": "TLV",
     "to": "ZRH",
-    "dep": "18:15",
-    "arr": "21:35",
-    "duration": "4h 20m",
-    "price_eur": 683
+    "dep": "05:30",
+    "arr": "19:45",
+    "duration": "15h 15m",
+    "price_eur": 805
    },
    {
     "dir": {
      "en": "Return",
      "he": "חזור"
     },
-    "date": "2027-08-23",
+    "date": "2027-08-24",
     "wd": {
-     "en": "Mon",
-     "he": "ב'"
+     "en": "Tue",
+     "he": "ג'"
     },
-    "flight": "A3 851 + A3 926",
-    "airline": "Aegean",
+    "flight": "IB 628 + IB 1873",
+    "airline": "Iberia",
     "from": "ZRH",
     "to": "TLV",
-    "dep": "11:15",
-    "arr": "19:00",
-    "duration": "6h 45m",
-    "price_eur": 838
+    "dep": "11:55",
+    "arr": "23:20",
+    "duration": "10h 25m",
+    "price_eur": 800
    }
   ],
   "evening_outbound_options": [
    {
     "what": {
-     "en": "SWISS LX 253 · 18:15 → 21:35 · nonstop",
-     "he": "סוויס LX 253 · 18:15 → 21:35 · ישירה"
+     "en": "Aegean A3 457 + A3 448 · 05:30 → 19:45 · 1 stop ",
+     "he": "אגיאן A3 457 + A3 448 · 05:30 → 19:45 · עצירה ב"
     },
     "when": {
-     "en": "Sat 14 Aug",
-     "he": "ש' 14 באוגוסט"
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
     },
-    "price_eur": 683,
+    "price_eur": 805,
     "note": {
      "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
      "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
@@ -139,49 +598,81 @@
    },
    {
     "what": {
-     "en": "SWISS LX 257 · 04:50 → 08:10 · nonstop",
-     "he": "סוויס LX 257 · 04:50 → 08:10 · ישירה"
+     "en": "SWISS LX 253 · 18:15 → 21:35 · nonstop",
+     "he": "סוויס LX 253 · 18:15 → 21:35 · ישירה"
     },
     "when": {
-     "en": "Sat 14 Aug",
-     "he": "ש' 14 באוגוסט"
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
     },
-    "price_eur": 683,
+    "price_eur": 1555,
     "note": {
-     "en": "Same price.",
-     "he": "אותו מחיר."
+     "en": "€750 more.",
+     "he": "יקרה ב-750 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Iberia IB 1874 + IB 633 · 05:30 → 22:20 · 1 stop ",
-     "he": "Iberia IB 1874 + IB 633 · 05:30 → 22:20 · עצירה ב"
+     "en": "SWISS  · 04:50 → 08:10 · nonstop",
+     "he": "סוויס  · 04:50 → 08:10 · ישירה"
     },
     "when": {
-     "en": "Sat 14 Aug",
-     "he": "ש' 14 באוגוסט"
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
     },
-    "price_eur": 838,
+    "price_eur": 1555,
     "note": {
-     "en": "€155 more; 17 hr 50 min with a connection.",
-     "he": "יקרה ב-155 €; 17 שע׳ 50 דק׳ עם קונקשן."
+     "en": "€750 more.",
+     "he": "יקרה ב-750 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Aegean A3 929 + A3 850 · 05:00 → 10:20 · 1 stop ",
-     "he": "אגיאן A3 929 + A3 850 · 05:00 → 10:20 · עצירה ב"
+     "en": "El Al LY 347 · 08:00 → 11:20 · nonstop",
+     "he": "אל על LY 347 · 08:00 → 11:20 · ישירה"
     },
     "when": {
-     "en": "Sat 14 Aug",
-     "he": "ש' 14 באוגוסט"
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
     },
-    "price_eur": 862,
+    "price_eur": 2368,
     "note": {
-     "en": "€179 more; 6 hr 20 min with a connection.",
-     "he": "יקרה ב-179 €; 6 שע׳ 20 דק׳ עם קונקשן."
+     "en": "€1563 more.",
+     "he": "יקרה ב-1563 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 459 + A3 448 · 07:15 → 19:45 · 1 stop ",
+     "he": "אגיאן A3 459 + A3 448 · 07:15 → 19:45 · עצירה ב"
+    },
+    "when": {
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
+    },
+    "price_eur": 805,
+    "note": {
+     "en": "Same price; 13 hr 30 min with a connection.",
+     "he": "אותו מחיר; 13 שע׳ 30 דק׳ עם קונקשן."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "ITA AZ 807 + AZ 572 · 14:30 → 10:05 (+1) · 1 stop ",
+     "he": "ITA AZ 807 + AZ 572 · 14:30 → 10:05 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
+    },
+    "price_eur": 826,
+    "note": {
+     "en": "€21 more; 20 hr 35 min with a connection; arrives the next day.",
+     "he": "יקרה ב-21 €; 20 שע׳ 35 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    }
@@ -189,14 +680,14 @@
   "return_options": [
    {
     "what": {
-     "en": "Aegean A3 851 + A3 926 · 11:15 → 19:00 · 1 stop ",
-     "he": "אגיאן A3 851 + A3 926 · 11:15 → 19:00 · עצירה ב"
+     "en": "Iberia IB 628 + IB 1873 · 11:55 → 23:20 · 1 stop ",
+     "he": "Iberia IB 628 + IB 1873 · 11:55 → 23:20 · עצירה ב"
     },
     "when": {
-     "en": "Mon 23 Aug",
-     "he": "ב' 23 באוגוסט"
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 838,
+    "price_eur": 800,
     "note": {
      "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
      "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
@@ -205,49 +696,33 @@
    },
    {
     "what": {
-     "en": "SWISS LX 252 · 11:50 → 17:00 · nonstop",
-     "he": "סוויס LX 252 · 11:50 → 17:00 · ישירה"
-    },
-    "when": {
-     "en": "Mon 23 Aug",
-     "he": "ב' 23 באוגוסט"
-    },
-    "price_eur": 993,
-    "note": {
-     "en": "€155 more.",
-     "he": "יקרה ב-155 €."
-    },
-    "best": false
-   },
-   {
-    "what": {
      "en": "SWISS LX 256 · 22:40 → 03:35 (+1) · nonstop",
      "he": "סוויס LX 256 · 22:40 → 03:35 (+1) · ישירה"
     },
     "when": {
-     "en": "Mon 23 Aug",
-     "he": "ב' 23 באוגוסט"
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 993,
+    "price_eur": 1046,
     "note": {
-     "en": "€155 more; arrives the next day.",
-     "he": "יקרה ב-155 €; נוחתת למחרת."
+     "en": "€246 more; arrives the next day.",
+     "he": "יקרה ב-246 €; נוחתת למחרת."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Aegean A3 853 + A3 928 · 19:00 → 02:45 (+1) · 1 stop ",
-     "he": "אגיאן A3 853 + A3 928 · 19:00 → 02:45 (+1) · עצירה ב"
+     "en": "SWISS  · 11:50 → 17:00 · nonstop",
+     "he": "סוויס  · 11:50 → 17:00 · ישירה"
     },
     "when": {
-     "en": "Mon 23 Aug",
-     "he": "ב' 23 באוגוסט"
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 838,
+    "price_eur": 1402,
     "note": {
-     "en": "Same price; 6 hr 45 min with a connection; arrives the next day.",
-     "he": "אותו מחיר; 6 שע׳ 45 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€602 more.",
+     "he": "יקרה ב-602 €."
     },
     "best": false
    },
@@ -257,13 +732,29 @@
      "he": "Iberia IB 634 + IB 1873 · 07:30 → 23:20 · עצירה ב"
     },
     "when": {
-     "en": "Mon 23 Aug",
-     "he": "ב' 23 באוגוסט"
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 871,
+    "price_eur": 800,
     "note": {
-     "en": "€33 more; 14 hr 50 min with a connection.",
-     "he": "יקרה ב-33 €; 14 שע׳ 50 דק׳ עם קונקשן."
+     "en": "Same price; 14 hr 50 min with a connection.",
+     "he": "אותו מחיר; 14 שע׳ 50 דק׳ עם קונקשן."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 853 + A3 928 · 19:00 → 02:45 (+1) · 1 stop ",
+     "he": "אגיאן A3 853 + A3 928 · 19:00 → 02:45 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
+    },
+    "price_eur": 971,
+    "note": {
+     "en": "€171 more; 6 hr 45 min with a connection; arrives the next day.",
+     "he": "יקרה ב-171 €; 6 שע׳ 45 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    }
@@ -327,7 +818,7 @@
    },
    "hotels_eur": 2057.35,
    "car_eur": 640,
-   "chosen": true
+   "chosen": false
   },
   {
    "total_eur": 4583.35,
@@ -552,7 +1043,7 @@
    },
    "hotels_eur": 2057.35,
    "car_eur": 640,
-   "chosen": false
+   "chosen": true
   },
   {
    "total_eur": 4695.35,
@@ -748,8 +1239,8 @@
   "lines": [
    [
     {
-     "en": "Compact estate/SUV, automatic, 9 days (≈ €65/day incl. Swiss airport surcharge), Sat 14 – Mon 23 Aug, Zurich Airport",
-     "he": "רכב סטיישן/קרוסאובר קומפקטי אוטומטי, 9 ימים (כ-65 € ליום כולל תוספת שדה בשווייץ), ש' 14 – ב' 23 באוגוסט, שדה התעופה של ציריך"
+     "en": "Compact estate/SUV, automatic, 9 days (≈ €65/day incl. Swiss airport surcharge), Sun 15 – Tue 24 Aug, Zurich Airport",
+     "he": "רכב סטיישן/קרוסאובר קומפקטי אוטומטי, 9 ימים (כ-65 € ליום כולל תוספת שדה בשווייץ), א' 15 – ג' 24 באוגוסט, שדה התעופה של ציריך"
     },
     585,
     true
@@ -796,21 +1287,21 @@
    ]
   ],
   "text": {
-   "en": "Pick-up at the Zurich Airport car rental centre after the 21:35 landing on Sat 14 Aug (about 22:15–22:30); return there on Mon 23 Aug by about 09:30 = 9 rental days. Desk hours found: Sixt and Enterprise 06:00–23:30 daily, Avis and Hertz listed 06:00/06:30–23:30 (third-party) – book a supplier that confirms the pick-up against your flight number. The car is needed for the whole stay (Schluchsee base, move day, Freiburg, and the 2-hour airport drive). Swiss rental cars normally carry the vignette; check at pick-up. Use in Germany: Enterprise/National say no cross-border charge; Sixt allows Germany ('Zone 1') with a possible fee; Europcar's terms were not found. Category: compact estate or small SUV (e.g. Škoda Octavia Combi automatic) for 2 large suitcases + 2 trolleys and 2 boosters. The price is an estimate: Zurich airport rentals carry an airport surcharge (≈ 20%) and August is peak season; no quote for August 2027 was available. Fuel: Germany is the cheaper place to fill up (Super E10 about €2.03–2.13/l in October 2026, ADAC); fill up on Sunday 22 Aug, before the early start.",
-   "he": "איסוף במרכז השכרת הרכב בשדה ציריך אחרי הנחיתה ב-21:35 ביום ש' 14 באוגוסט (בסביבות 22:15–22:30); החזרה שם ביום ב' 23 באוגוסט עד כ-09:30 = 9 ימי השכרה. שעות דלפק שנמצאו: Sixt ו-Enterprise 06:00–23:30 מדי יום, Avis ו-Hertz רשומים 06:00/06:30–23:30 (צד שלישי) – להזמין אצל ספק שמאשר את האיסוף לפי מספר הטיסה. הרכב נחוץ לכל השהות (הבסיס בשלוכזה, יום המעבר, פרייבורג והנסיעה של שעתיים לשדה). ברכב שכור בשווייץ בדרך כלל כבר יש וינייטה; לבדוק באיסוף. שימוש בגרמניה: Enterprise/National – ללא עמלת מעבר גבול; Sixt מתירה גרמניה ('אזור 1') עם עמלה אפשרית; תנאי Europcar לא נמצאו. קטגוריה: סטיישן קומפקטי או קרוסאובר קטן (למשל שקודה אוקטביה קומבי אוטומטית) ל-2 מזוודות גדולות, 2 טרולי ו-2 בוסטרים. המחיר הוא הערכה: בהשכרה בשדה ציריך יש תוספת שדה (כ-20%) ואוגוסט עונת שיא; הצעת מחיר לאוגוסט 2027 לא הייתה זמינה. דלק: בגרמניה זול יותר לתדלק (Super E10 כ-2.03–2.13 € לליטר באוקטובר 2026, ADAC); לתדלק ביום ראשון 22 באוגוסט, לפני היציאה המוקדמת."
+   "en": "Pick-up at the Zurich Airport car rental centre after the 19:45 landing on Sun 15 Aug (about 20:30); return there on Tue 24 Aug by about 09:30 = 9 rental days. Desk hours found: Sixt and Enterprise 06:00–23:30 daily, Avis and Hertz listed 06:00/06:30–23:30 (third-party) – book a supplier that confirms the pick-up against your flight number. The car is needed for the whole stay (Schluchsee base, move day, Freiburg, and the 2-hour airport drive). Swiss rental cars normally carry the vignette; check at pick-up. Use in Germany: Enterprise/National say no cross-border charge; Sixt allows Germany ('Zone 1') with a possible fee; Europcar's terms were not found. Category: compact estate or small SUV (e.g. Škoda Octavia Combi automatic) for 2 large suitcases + 2 trolleys and 2 boosters. The price is an estimate: Zurich airport rentals carry an airport surcharge (≈ 20%) and August is peak season; no quote for August 2027 was available. Fuel: Germany is the cheaper place to fill up (Super E10 about €2.03–2.13/l in October 2026, ADAC); fill up on Sunday 22 Aug, before the early start.",
+   "he": "איסוף במרכז השכרת הרכב בשדה ציריך אחרי הנחיתה ב-19:45 ביום א' 15 באוגוסט (בסביבות 20:30); החזרה שם ביום ג' 24 באוגוסט עד כ-09:30 = 9 ימי השכרה. שעות דלפק שנמצאו: Sixt ו-Enterprise 06:00–23:30 מדי יום, Avis ו-Hertz רשומים 06:00/06:30–23:30 (צד שלישי) – להזמין אצל ספק שמאשר את האיסוף לפי מספר הטיסה. הרכב נחוץ לכל השהות (הבסיס בשלוכזה, יום המעבר, פרייבורג והנסיעה של שעתיים לשדה). ברכב שכור בשווייץ בדרך כלל כבר יש וינייטה; לבדוק באיסוף. שימוש בגרמניה: Enterprise/National – ללא עמלת מעבר גבול; Sixt מתירה גרמניה ('אזור 1') עם עמלה אפשרית; תנאי Europcar לא נמצאו. קטגוריה: סטיישן קומפקטי או קרוסאובר קטן (למשל שקודה אוקטביה קומבי אוטומטית) ל-2 מזוודות גדולות, 2 טרולי ו-2 בוסטרים. המחיר הוא הערכה: בהשכרה בשדה ציריך יש תוספת שדה (כ-20%) ואוגוסט עונת שיא; הצעת מחיר לאוגוסט 2027 לא הייתה זמינה. דלק: בגרמניה זול יותר לתדלק (Super E10 כ-2.03–2.13 € לליטר באוקטובר 2026, ADAC); לתדלק ביום ראשון 22 באוגוסט, לפני היציאה המוקדמת."
   },
   "pickup": {
    "place": "Zurich Airport",
    "lat": 47.4502,
    "lng": 8.5622,
-   "when": "2027-08-14T22:25",
+   "when": "2027-08-15T20:35",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.450200,8.562200&travelmode=driving"
   },
   "dropoff": {
    "place": "Zurich Airport",
    "lat": 47.4502,
    "lng": 8.5622,
-   "when": "2027-08-23T09:30",
+   "when": "2027-08-24T09:30",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.450200,8.562200&travelmode=driving"
   }
  },
@@ -836,8 +1327,8 @@
    "he": "אזור פליטה נמוכה בפרייבורג: ב-2024 החלה הרשות האזורית בתהליך לביטולו; מדבקות ירוקות גרמניות ומדבקות Crit'Air צרפתיות (ירוקה, 1–3) מוכרות, אבל לרכב שכור שווייצרי בדרך כלל אין אף אחת מהן – לשאול באיסוף אם יש לרכב מדבקה ירוקה גרמנית; כל עוד האזור לא בוטל רשמית ואין מדבקה, לחנות בשוליים (למשל חניון Park+Ride). חניה: חניונים בתשלום בטיטיזה, פלדברג, טריברג, פרייבורג (חניונים עירוניים) ומונדנהוף (כ-5 €); לאירופה-פארק ולרולנטיקה לא צריך רכב מהדירה ברוסט."
   },
   {
-   "en": "Longest drives: Day 6 (Thu 19, move day) 2h26 in total, split into 1h04 + 6 min + 18 min + 58 min with stops; Day 10 (Mon 23) 2h00 straight to Zurich Airport in the early morning. On other days the driving is 1h06–1h22 in total, mostly on winding mountain roads; the Saturday-night arrival drive is 1h11.",
-   "he": "הנסיעות הארוכות: יום 6 (ה' 19, יום המעבר) 2:26 שעות בסך הכול, מחולקות ל-1:04 + 6 דק' + 18 דק' + 58 דק' עם עצירות; יום 10 (ב' 23) שעתיים ישר לשדה ציריך מוקדם בבוקר. בשאר הימים 1:06–1:22 שעות נסיעה בסך הכול, בעיקר בכבישי הרים מתפתלים; הנסיעה במוצאי שבת מהשדה היא 1:11."
+   "en": "Longest drives: Day 6 (Fri 20, move day) 2h26 in total, split into 1h04 + 6 min + 18 min + 58 min with stops; Day 10 (Tue 24) 2h00 straight to Zurich Airport in the early morning. On other days the driving is 1h06–1h22 in total, mostly on winding mountain roads; the Sunday-evening arrival drive is 1h11.",
+   "he": "הנסיעות הארוכות: יום 6 (ו' 20, יום המעבר) 2:26 שעות בסך הכול, מחולקות ל-1:04 + 6 דק' + 18 דק' + 58 דק' עם עצירות; יום 10 (ג' 24) שעתיים ישר לשדה ציריך מוקדם בבוקר. בשאר הימים 1:06–1:22 שעות נסיעה בסך הכול, בעיקר בכבישי הרים מתפתלים; הנסיעה בערב יום ראשון מהשדה היא 1:11."
   }
  ],
  "hotels": [
@@ -849,24 +1340,24 @@
     "en": "Schluchsee village, Am Riesenbühl 3 (about 1.2 km to the lake, the Aqua Fun lido and the boat pier; Titisee 22 km, Feldberg 17 km; 70 km / 1h11 from Zurich Airport)",
     "he": "הכפר שלוכזה, Am Riesenbühl 3 (כ-1.2 ק״מ לאגם, לחוף אקווה-פאן ולמזח הסירה; טיטיזה 22 ק״מ, פלדברג 17 ק״מ; 70 ק״מ / 1:11 משדה התעופה של ציריך)"
    },
-   "checkin": "2027-08-14",
-   "checkout": "2027-08-19",
+   "checkin": "2027-08-15",
+   "checkout": "2027-08-20",
    "nights": 5,
    "total_eur": 1297.75,
    "booking_score": 8.6,
    "booking_reviews": 5,
-   "booking_url": "https://www.booking.com/hotel/de/schonhier-design-apartment-mit-pool-sauna.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_url": "https://www.booking.com/hotel/de/schonhier-design-apartment-mit-pool-sauna.html?checkin=2027-08-15&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
-    "en": "One-bedroom design apartment for up to 4 (bedroom + sofa bed) with a fully equipped kitchen, a private heated indoor pool and sauna (not shared, per Booking Q&A), lift, free private parking; free cancellation. Check-in from 16:00, check-out by 10:00. LATE ARRIVAL: you land at 21:35 and arrive at about 23:30–00:00 on Saturday. Booking's listing and Q&A (25 Oct 2026) give no latest check-in time and no key-box/self check-in information – the only advice is to contact the property in advance. Get written late-arrival instructions (key box or code) with your flight number before you fly, and ask whether a late fee applies. Only 5 Booking reviews so far – the weak point of this choice.",
-    "he": "דירת מעצבים עם חדר שינה אחד עד 4 אנשים (חדר שינה + ספה נפתחת) עם מטבח מאובזר, בריכה פנימית מחוממת פרטית וסאונה (לא משותפות, לפי שאלות ותשובות ב-Booking), מעלית וחניה פרטית חינם; ביטול חינם. צ'ק-אין מ-16:00, צ'ק-אאוט עד 10:00. הגעה מאוחרת: נוחתים ב-21:35 ומגיעים בסביבות 23:30–00:00 במוצאי שבת. בדף הנכס ובשאלות ותשובות של Booking (25.10.2026) אין שעת צ'ק-אין אחרונה ואין מידע על כספת מפתחות או צ'ק-אין עצמי – ההמלצה היחידה היא לפנות לנכס מראש. לקבל בכתב הוראות הגעה מאוחרת (כספת מפתחות או קוד) עם מספר הטיסה לפני הטיסה, ולשאול אם יש תוספת תשלום. רק 5 ביקורות ב-Booking עד עכשיו – זו נקודת החולשה של הבחירה."
+    "en": "One-bedroom design apartment for up to 4 (bedroom + sofa bed) with a fully equipped kitchen, a private heated indoor pool and sauna (not shared, per Booking Q&A), lift, free private parking; free cancellation. Check-in from 16:00, check-out by 10:00. LATE ARRIVAL: you land at 19:45 and arrive at about 22:00 on Sunday evening. Booking's listing and Q&A (25 Oct 2026) give no latest check-in time and no key-box/self check-in information – the only advice is to contact the property in advance. Get written late-arrival instructions (key box or code) with your flight number before you fly, and ask whether a late fee applies. Only 5 Booking reviews so far – the weak point of this choice.",
+    "he": "דירת מעצבים עם חדר שינה אחד עד 4 אנשים (חדר שינה + ספה נפתחת) עם מטבח מאובזר, בריכה פנימית מחוממת פרטית וסאונה (לא משותפות, לפי שאלות ותשובות ב-Booking), מעלית וחניה פרטית חינם; ביטול חינם. צ'ק-אין מ-16:00, צ'ק-אאוט עד 10:00. הגעה מאוחרת: נוחתים ב-19:45 ומגיעים בסביבות 22:00 בערב יום ראשון. בדף הנכס ובשאלות ותשובות של Booking (25.10.2026) אין שעת צ'ק-אין אחרונה ואין מידע על כספת מפתחות או צ'ק-אין עצמי – ההמלצה היחידה היא לפנות לנכס מראש. לקבל בכתב הוראות הגעה מאוחרת (כספת מפתחות או קוד) עם מספר הטיסה לפני הטיסה, ולשאול אם יש תוספת תשלום. רק 5 ביקורות ב-Booking עד עכשיו – זו נקודת החולשה של הבחירה."
    },
    "ac": {
     "en": "Air conditioning confirmed (Booking facility filter and Booking property Q&A, 25 Oct 2026): the one-bedroom apartment for 4 has air conditioning at no extra charge.",
     "he": "מיזוג אוויר מאושר (סינון המתקנים של Booking ושאלות ותשובות על הנכס, 25.10.2026): דירת חדר השינה ל-4 ממוזגת והמיזוג בלי תוספת תשלום."
    },
    "alt": {
-    "en": "Ferienhaus Haus Herzog, Titisee-Neustadt (price for 17–22 Aug €1,950; Booking 8.0, 8 reviews; three-bedroom apartment for up to 6 with kitchen, A/C free of charge per Booking Q&A, about 7 km from Lake Titisee). Das Waldhotel – Spa & Wellness Resort, Notschrei pass (Todtnau) (price for 17–22 Aug €1,999.35; Booking 9.1, 38 reviews; family room with balcony for up to 6, A/C free per Booking Q&A, indoor and outdoor pool, playground; no kitchen). Checked and rejected: Schwarzwald-Hotel Kraeutle, Feldberg (price for 17–22 Aug €1,603; Booking 9.3, 640 reviews) – A/C appears in the facility list but Booking Q&A could not confirm it in the apartments. (Alternative prices were checked for 17–26 Aug.)",
-    "he": "Ferienhaus Haus Herzog, טיטיזה-נוישטאדט (מחיר ל-17–22 באוגוסט 1,950 €; Booking 8.0, 8 ביקורות; דירת 3 חדרי שינה עד 6 אנשים עם מטבח, מיזוג חינם לפי שאלות ותשובות ב-Booking, כ-7 ק״מ מאגם טיטיזה). Das Waldhotel – Spa & Wellness Resort, מעבר נוטשריי (טודטנאו) (מחיר ל-17–22 באוגוסט 1,999.35 €; Booking 9.1, 38 ביקורות; חדר משפחה עם מרפסת עד 6, מיזוג חינם לפי שאלות ותשובות, בריכה פנימית וחיצונית, מגרש משחקים; בלי מטבח). נבדק ונפסל: Schwarzwald-Hotel Kraeutle, פלדברג (מחיר ל-17–22 באוגוסט 1,603 €; Booking 9.3, 640 ביקורות) – מיזוג מופיע ברשימת המתקנים, אבל שאלות ותשובות של Booking לא אישרו מיזוג בדירות. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "Ferienhaus Haus Herzog, Titisee-Neustadt (price for 15–20 Aug €2,167.50; Booking 8.0, 8 reviews; three-bedroom apartment for up to 6 with kitchen, A/C free of charge per Booking Q&A, about 7 km from Lake Titisee). Das Waldhotel – Spa & Wellness Resort, Notschrei pass (Todtnau) (price for 15–20 Aug €1,883.35; Booking 9.1, 39 reviews; family room with balcony for up to 6, A/C free per Booking Q&A, indoor and outdoor pool, playground; no kitchen). Checked and rejected: Schwarzwald-Hotel Kraeutle, Feldberg (price for 15–20 Aug €1,603; Booking 9.3, 637 reviews) – A/C appears in the facility list but Booking Q&A could not confirm it in the apartments. (Alternative prices re-checked live on Booking on 9 Nov 2026 for 15–20 Aug 2027, free cancellation, A/C filter.) (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
+    "he": "Ferienhaus Haus Herzog, טיטיזה-נוישטאדט (מחיר ל-15–20 באוגוסט 2,167.50 €; Booking 8.0, 8 ביקורות; דירת 3 חדרי שינה עד 6 אנשים עם מטבח, מיזוג חינם לפי שאלות ותשובות ב-Booking, כ-7 ק״מ מאגם טיטיזה). Das Waldhotel – Spa & Wellness Resort, מעבר נוטשריי (טודטנאו) (מחיר ל-15–20 באוגוסט 1,883.35 €; Booking 9.1, 39 ביקורות; חדר משפחה עם מרפסת עד 6, מיזוג חינם לפי שאלות ותשובות, בריכה פנימית וחיצונית, מגרש משחקים; בלי מטבח). נבדק ונפסל: Schwarzwald-Hotel Kraeutle, פלדברג (מחיר ל-15–20 באוגוסט 1,603 €; Booking 9.3, 637 ביקורות) – מיזוג מופיע ברשימת המתקנים, אבל שאלות ותשובות של Booking לא אישרו מיזוג בדירות. (מחירי החלופות נבדקו שוב ב-Booking ב-9.11.2026 ל-15–20 באוגוסט 2027, ביטול חינם, מסנן מיזוג אוויר.) (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
    },
    "google_note": {
     "en": "Google: 4.3 from only 5 reviews; Booking.com 8.6 from 5 reviews.",
@@ -907,7 +1398,7 @@
      "score": 8.6,
      "out_of": 10,
      "reviews": 5,
-     "url": "https://www.booking.com/hotel/de/schonhier-design-apartment-mit-pool-sauna.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "url": "https://www.booking.com/hotel/de/schonhier-design-apartment-mit-pool-sauna.html?checkin=2027-08-15&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -926,28 +1417,28 @@
     "en": "Rust, Kirchstraße 6 (8–10 min walk to Europa-Park's main entrance, Rulantica 2 km; Freiburg 40 min; 182 km / 2h00 to Zurich Airport)",
     "he": "רוסט, Kirchstraße 6 (8–10 דקות הליכה לכניסה הראשית של אירופה-פארק, רולנטיקה 2 ק״מ; פרייבורג 40 דק'; 182 ק״מ / 2:00 שעות לשדה התעופה של ציריך)"
    },
-   "checkin": "2027-08-19",
-   "checkout": "2027-08-23",
+   "checkin": "2027-08-20",
+   "checkout": "2027-08-24",
    "nights": 4,
    "total_eur": 759.6,
    "booking_score": 8.9,
-   "booking_reviews": 158,
-   "booking_url": "https://www.booking.com/hotel/de/ferienwohnung-busch-rust1.html?checkin=2027-08-19&checkout=2027-08-23&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_reviews": 156,
+   "booking_url": "https://www.booking.com/hotel/de/ferienwohnung-busch-rust1.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
-    "en": "One-bedroom apartment for up to 4 (bedroom + sofa bed) with a kitchenette (stove and fridge), outdoor furniture and free parking; free cancellation. Check-in from 16:00 on Thu 19 Aug (self check-in available). Check-out is by 10:00, but you leave at about 07:30 on Mon 23 Aug: Booking's Q&A says private check-out exists but does not describe a key drop – tell the host in advance and agree where to leave the key. No pool – Rulantica and Europa-Park are next door.",
-    "he": "דירת חדר שינה אחד עד 4 אנשים (חדר שינה + ספה נפתחת) עם מטבחון (כיריים ומקרר), ריהוט חוץ וחניה חינם; ביטול חינם. צ'ק-אין מ-16:00 ביום ה' 19 באוגוסט (יש צ'ק-אין עצמי). הצ'ק-אאוט עד 10:00, אבל יוצאים בסביבות 07:30 ביום ב' 23 באוגוסט: לפי שאלות ותשובות ב-Booking יש צ'ק-אאוט פרטי, אבל לא מתואר איפה משאירים את המפתח – לעדכן את המארח מראש ולסכם היכן להשאיר אותו. אין בריכה – רולנטיקה ואירופה-פארק ממש ליד."
+    "en": "One-bedroom apartment for up to 4 (bedroom + sofa bed) with a kitchenette (stove and fridge), outdoor furniture and free parking; free cancellation. Check-in from 16:00 on Fri 20 Aug (self check-in available). Check-out is by 10:00, but you leave at about 07:30 on Tue 24 Aug: Booking's Q&A says private check-out exists but does not describe a key drop – tell the host in advance and agree where to leave the key. No pool – Rulantica and Europa-Park are next door.",
+    "he": "דירת חדר שינה אחד עד 4 אנשים (חדר שינה + ספה נפתחת) עם מטבחון (כיריים ומקרר), ריהוט חוץ וחניה חינם; ביטול חינם. צ'ק-אין מ-16:00 ביום ו' 20 באוגוסט (יש צ'ק-אין עצמי). הצ'ק-אאוט עד 10:00, אבל יוצאים בסביבות 07:30 ביום ג' 24 באוגוסט: לפי שאלות ותשובות ב-Booking יש צ'ק-אאוט פרטי, אבל לא מתואר איפה משאירים את המפתח – לעדכן את המארח מראש ולסכם היכן להשאיר אותו. אין בריכה – רולנטיקה ואירופה-פארק ממש ליד."
    },
    "ac": {
     "en": "Air conditioning confirmed (Booking facility filter and Booking property Q&A, 25 Oct 2026): the one-bedroom apartment is air-conditioned and the A/C is free of charge; the Google listing photo of the bedroom shows a wall-mounted unit.",
     "he": "מיזוג אוויר מאושר (סינון המתקנים של Booking ושאלות ותשובות על הנכס, 25.10.2026): דירת חדר השינה ממוזגת והמיזוג חינם; בתמונת חדר השינה בגוגל נראה מזגן תלוי על הקיר."
    },
    "alt": {
-    "en": "Prices below were found for 22–26 Aug and not re-checked for 19–23 Aug. Casaina, Weisweil €596 (Booking 9.5, 236 reviews; one-bedroom for 4, kitchenette, A/C free per Booking Q&A, about 9 km from Europa-Park). Ferienwohnung Paula, Lahr €652 (Booking 9.6, 52 reviews; one-bedroom for 4, full kitchen, A/C free, about 18 km from Europa-Park). AVALON (between Europa-Park and Rulantica), Rust €1,111.60 (Booking 9.1, 1,119 reviews; family room/studio with kitchenette, A/C free, seasonal outdoor pool, about 18 min walk to Europa-Park). (Alternative prices were checked for 17–26 Aug.)",
-    "he": "המחירים להלן נמצאו ל-22–26 באוגוסט ולא נבדקו מחדש ל-19–23 באוגוסט. Casaina, וייסוויל ב-596 € (Booking 9.5, 236 ביקורות; חדר שינה ל-4, מטבחון, מיזוג חינם לפי שאלות ותשובות, כ-9 ק״מ מאירופה-פארק). Ferienwohnung Paula, לאהר ב-652 € (Booking 9.6, 52 ביקורות; חדר שינה ל-4, מטבח מלא, מיזוג חינם, כ-18 ק״מ מאירופה-פארק). AVALON (בין אירופה-פארק לרולנטיקה), רוסט ב-1,111.60 € (Booking 9.1, 1,119 ביקורות; חדר משפחה/סטודיו עם מטבחון, מיזוג חינם, בריכה חיצונית עונתית, כ-18 דקות הליכה לאירופה-פארק). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "Casaina, Weisweil €596 (price for 20–24 Aug; Booking 9.5, 233 reviews; one-bedroom for 4, kitchenette, A/C free per Booking Q&A, about 9 km from Europa-Park). Ferienwohnung Paula, Lahr €652 (Booking 9.7, 53 reviews; one-bedroom for 4, full kitchen, A/C free, about 18 km from Europa-Park). AVALON (between Europa-Park and Rulantica), Rust €883.60 (Booking 9.1, 1,113 reviews; family room/studio with kitchenette, A/C free, seasonal outdoor pool, about 18 min walk to Europa-Park). (Alternative prices re-checked live on Booking on 9 Nov 2026 for 20–24 Aug 2027, free cancellation, A/C filter.) (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
+    "he": "Casaina, וייסוויל ב-596 € (מחיר ל-20–24 באוגוסט; Booking 9.5, 233 ביקורות; חדר שינה ל-4, מטבחון, מיזוג חינם לפי שאלות ותשובות, כ-9 ק״מ מאירופה-פארק). Ferienwohnung Paula, לאהר ב-652 € (Booking 9.7, 53 ביקורות; חדר שינה ל-4, מטבח מלא, מיזוג חינם, כ-18 ק״מ מאירופה-פארק). AVALON (בין אירופה-פארק לרולנטיקה), רוסט ב-883.60 € (Booking 9.1, 1,113 ביקורות; חדר משפחה/סטודיו עם מטבחון, מיזוג חינם, בריכה חיצונית עונתית, כ-18 דקות הליכה לאירופה-פארק). (מחירי החלופות נבדקו שוב ב-Booking ב-9.11.2026 ל-20–24 באוגוסט 2027, ביטול חינם, מסנן מיזוג אוויר.) (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
    },
    "google_note": {
-    "en": "Google: 4.9 from 32 reviews (listed as 'Ferienwohnung Busch'); Booking.com 8.9 from 158 reviews.",
-    "he": "בגוגל: 4.9 מתוך 32 ביקורות (רשום כ-'Ferienwohnung Busch'); ב-Booking.com 8.9 מתוך 158 ביקורות."
+    "en": "Google: 4.9 from 32 reviews (listed as 'Ferienwohnung Busch'); Booking.com 8.9 from 156 reviews.",
+    "he": "בגוגל: 4.9 מתוך 32 ביקורות (רשום כ-'Ferienwohnung Busch'); ב-Booking.com 8.9 מתוך 156 ביקורות."
    },
    "google": {
     "name": "Ferienwohnung Busch",
@@ -983,8 +1474,8 @@
      "source": "Booking.com",
      "score": 8.9,
      "out_of": 10,
-     "reviews": 158,
-     "url": "https://www.booking.com/hotel/de/ferienwohnung-busch-rust1.html?checkin=2027-08-19&checkout=2027-08-23&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 156,
+     "url": "https://www.booking.com/hotel/de/ferienwohnung-busch-rust1.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -1019,8 +1510,8 @@
     "he": "3 שעות"
    },
    "kids": {
-    "en": "A heated outdoor pool right on the lake shore with a 105 m giant slide, a kids' pool, an adventure playground and a sandy lake beach – 1.2 km from the apartment. Google 4.2 (1,119). Planned on Sunday 15 Aug: expect a full lawn after 11:00 on a sunny weekend – go at the 9:00 opening, or swim in the apartment's pool at midday.",
-    "he": "בריכה חיצונית מחוממת על שפת האגם עם מגלשת ענק של 105 מ', בריכת פעוטות, מגרש הרפתקאות וחוף אגם – 1.2 ק״מ מהדירה. בגוגל 4.2 (1,119). מתוכנן ליום ראשון 15 באוגוסט: בסוף שבוע שמשי הדשא מתמלא אחרי 11:00 – להגיע בפתיחה ב-9:00, או לשחות בבריכה של הדירה בצהריים."
+    "en": "A heated outdoor pool right on the lake shore with a 105 m giant slide, a kids' pool, an adventure playground and a sandy lake beach – 1.2 km from the apartment. Google 4.2 (1,119). Planned on Mon 16 Aug – a weekday, calmer than the weekend; still go at the 9:00 opening or after 16:00, and swim in the apartment's pool at midday.",
+    "he": "בריכה חיצונית מחוממת על שפת האגם עם מגלשת ענק של 105 מ', בריכת פעוטות, מגרש הרפתקאות וחוף אגם – 1.2 ק״מ מהדירה. בגוגל 4.2 (1,119). מתוכנן ליום שני 16 באוגוסט – יום חול, רגוע יותר מסוף שבוע; בכל זאת להגיע בפתיחה ב-9:00 או אחרי 16:00, ובצהריים לשחות בבריכה של הדירה."
    },
    "optional": false,
    "google": {
@@ -1279,8 +1770,8 @@
     "he": "שעה וחצי"
    },
    "kids": {
-    "en": "A chairlift up and Germany's longest summer coaster down (2.9 km, rails with brakes). Children ride from age 3 and 95 cm with an adult; alone only from age 8 and 1.40 m – so each child sits in front of a parent. Google 4.6 (8,649). Planned on Wednesday 18 Aug: shorter queues than at the weekend; still best before 11:00.",
-    "he": "רכבל כיסאות למעלה ומגלשת הקיץ הארוכה בגרמניה למטה (2.9 ק״מ, על מסילה עם בלמים). ילדים מגיל 3 ו-95 ס״מ עם מבוגר; לבד רק מגיל 8 ו-1.40 מ' – לכן כל ילד יושב לפני אחד ההורים. בגוגל 4.6 (8,649). מתוכנן ליום רביעי 18 באוגוסט: תורים קצרים יותר מבסוף השבוע; עדיין עדיף לפני 11:00."
+    "en": "A chairlift up and Germany's longest summer coaster down (2.9 km, rails with brakes). Children ride from age 3 and 95 cm with an adult; alone only from age 8 and 1.40 m – so each child sits in front of a parent. Google 4.6 (8,649). Planned on Thu 19 Aug: shorter queues than at the weekend; still best before 11:00.",
+    "he": "רכבל כיסאות למעלה ומגלשת הקיץ הארוכה בגרמניה למטה (2.9 ק״מ, על מסילה עם בלמים). ילדים מגיל 3 ו-95 ס״מ עם מבוגר; לבד רק מגיל 8 ו-1.40 מ' – לכן כל ילד יושב לפני אחד ההורים. בגוגל 4.6 (8,649). מתוכנן ליום חמישי 19 באוגוסט: תורים קצרים יותר מבסוף שבוע; עדיין עדיף לפני 11:00."
    },
    "optional": false,
    "google": {
@@ -1405,8 +1896,8 @@
     "he": "4–5 שעות"
    },
    "kids": {
-    "en": "A hillside park with deer, ibex, marmots and lynx, a 218 m suspension bridge, a summer toboggan, water rides and gentle family rides – ideal for 5–7 year-olds. Paths are steep in places; there is a chairlift. Google 4.5 (7,891). Planned on Tuesday 17 Aug – a weekday, calmer than the weekend.",
-    "he": "פארק על מדרון עם צבאים, יעלים, מרמיטות ולינקסים, גשר תלוי של 218 מ', מגלשת קיץ, מתקני מים ומתקנים משפחתיים רגועים – מתאים מאוד לגילאי 5–7. השבילים תלולים במקומות; יש רכבל כיסאות. בגוגל 4.5 (7,891). מתוכנן ליום שלישי 17 באוגוסט – יום חול, רגוע יותר מסוף השבוע."
+    "en": "A hillside park with deer, ibex, marmots and lynx, a 218 m suspension bridge, a summer toboggan, water rides and gentle family rides – ideal for 5–7 year-olds. Paths are steep in places; there is a chairlift. Google 4.5 (7,891). Planned on Wed 18 Aug – a weekday, calmer than the weekend.",
+    "he": "פארק על מדרון עם צבאים, יעלים, מרמיטות ולינקסים, גשר תלוי של 218 מ', מגלשת קיץ, מתקני מים ומתקנים משפחתיים רגועים – מתאים מאוד לגילאי 5–7. השבילים תלולים במקומות; יש רכבל כיסאות. בגוגל 4.5 (7,891). מתוכנן ליום רביעי 18 באוגוסט – יום חול, רגוע יותר מסוף השבוע."
    },
    "optional": false,
    "google": {
@@ -1520,8 +2011,8 @@
     "he": "באדפרדיז שוורצוואלד, טיטיזה (אופציה ליום גשום)"
    },
    "hours": {
-    "en": "Daily 9:00–22:00 (Google). Age rules: the Galaxy slide world has no age limit (under 4 free); the Palmenoase palm-tree lagoon is 16+ on weekdays and open to families only on Saturdays and Sundays ('Familientag'); the Palais Vital sauna is 16+ only. As the rain option on Wed 18 Aug the kids can use the Galaxy only.",
-    "he": "מדי יום 9:00–22:00 (גוגל). כללי גיל: עולם המגלשות Galaxy בלי הגבלת גיל (מתחת לגיל 4 חינם); לגונת הדקלים Palmenoase מגיל 16 בימי חול ופתוחה למשפחות רק בשבת ובראשון ('יום משפחה'); הסאונה Palais Vital מגיל 16 בלבד. כאופציה ליום גשום ביום ד' 18 באוגוסט הילדים יכולים להיכנס רק ל-Galaxy."
+    "en": "Daily 9:00–22:00 (Google). Age rules: the Galaxy slide world has no age limit (under 4 free); the Palmenoase palm-tree lagoon is 16+ on weekdays and open to families only on Saturdays and Sundays ('Familientag'); the Palais Vital sauna is 16+ only. As the rain option on a weekday (Mon 16 – Thu 19 Aug) the kids can use the Galaxy only.",
+    "he": "מדי יום 9:00–22:00 (גוגל). כללי גיל: עולם המגלשות Galaxy בלי הגבלת גיל (מתחת לגיל 4 חינם); לגונת הדקלים Palmenoase מגיל 16 בימי חול ופתוחה למשפחות רק בשבת ובראשון ('יום משפחה'); הסאונה Palais Vital מגיל 16 בלבד. כאופציה ליום גשום באמצע השבוע (ב' 16 – ה' 19 באוגוסט) הילדים יכולים להיכנס רק ל-Galaxy."
    },
    "price_text": {
     "en": "≈ €128 estimate: dynamic prices; Galaxy half-day about €32 per person from age 4 (listing 03/2026; Galaxy + Palmenoase day ticket from €41) → 4 × 32.",
@@ -1535,8 +2026,8 @@
     "he": "4 שעות"
    },
    "kids": {
-    "en": "An indoor water world under a glass roof with 23 slides (some have height minimums – check at each slide), wave pool and kids' area; 18 min from the apartment. Rain option for Wed 18 Aug (Galaxy only on a weekday); if it rains on Sun 15 instead, swap the days – on weekends families may also use the palm lagoon. Google 4.2 (22,905).",
-    "he": "עולם מים מקורה תחת גג זכוכית עם 23 מגלשות (בחלקן גובה מינימלי – לבדוק בכל מגלשה), בריכת גלים ואזור ילדים; 18 דקות מהדירה. אופציה ליום גשום ביום ד' 18 באוגוסט (ביום חול רק Galaxy); אם יורד גשם דווקא ביום א' 15, מחליפים ימים – בסופי שבוע משפחות יכולות להיכנס גם ללגונת הדקלים. בגוגל 4.2 (22,905)."
+    "en": "An indoor water world under a glass roof with 23 slides (some have height minimums – check at each slide), wave pool and kids' area; 18 min from the apartment. Rain option for a weekday at the Schluchsee base (Mon 16 – Thu 19 Aug; Galaxy only on a weekday); on the weekend (Sat 21 / Sun 22 Aug) families may also use the palm lagoon, but then it is a long drive from Rust and Rulantica is the better rain plan. Google 4.2 (22,905).",
+    "he": "עולם מים מקורה תחת גג זכוכית עם 23 מגלשות (בחלקן גובה מינימלי – לבדוק בכל מגלשה), בריכת גלים ואזור ילדים; 18 דקות מהדירה. אופציה ליום גשום באמצע השבוע בבסיס שלוכזה (ב' 16 – ה' 19 באוגוסט; ביום חול רק Galaxy); בסוף השבוע (ש' 21 / א' 22 באוגוסט) משפחות יכולות להיכנס גם ללגונת הדקלים, אבל אז זו נסיעה ארוכה מרוסט ורולנטיקה היא תוכנית הגשם הטובה יותר. בגוגל 4.2 (22,905)."
    },
    "optional": true,
    "google": {
@@ -1654,8 +2145,8 @@
     "he": "אבלה אורן-פארק: שעון הקוקייה הענק, טריברג"
    },
    "hours": {
-    "en": "Google: daily 10:00–18:00 (an older article: Mon–Sat 9:00–17:30, Sun 11:00–17:00). Open on Thursday 19 Aug either way.",
-    "he": "גוגל: מדי יום 10:00–18:00 (כתבה ישנה: ב'–ש' 9:00–17:30, א' 11:00–17:00). בכל מקרה פתוח ביום חמישי 19 באוגוסט."
+    "en": "Google: daily 10:00–18:00 (an older article: Mon–Sat 9:00–17:30, Sun 11:00–17:00). Open on Friday 20 Aug either way.",
+    "he": "גוגל: מדי יום 10:00–18:00 (כתבה ישנה: ב'–ש' 9:00–17:30, א' 11:00–17:00). בכל מקרה פתוח ביום שישי 20 באוגוסט."
    },
    "price_text": {
     "en": "≈ €6 estimate: about €3 per adult to walk inside the clock, children up to 10 free with a parent (undated source). The shop and the outside view are free.",
@@ -1717,8 +2208,8 @@
     "he": "מוזיאון הכפר הפתוח פוגטסבאוארנהוף, גוטאך"
    },
    "hours": {
-    "en": "Season 22 Mar – 1 Nov 2026, daily 9:00–18:00 (Deutsche Bahn listing, Google); ADAC lists August 9:00–19:00, last entry 18:00. Children's workshops on Sundays and during the Baden-Württemberg school holidays (29 Jul – 11 Sep 2027) – so also on Thursday 19 Aug.",
-    "he": "עונה 22.3–1.11.2026, מדי יום 9:00–18:00 (רישום דויטשה באן, גוגל); לפי ADAC באוגוסט 9:00–19:00, כניסה אחרונה 18:00. סדנאות ילדים בימי ראשון ובחופשות בבאדן-וירטמברג (29.7–11.9.2027) – לכן גם ביום חמישי 19 באוגוסט."
+    "en": "Season 22 Mar – 1 Nov 2026, daily 9:00–18:00 (Deutsche Bahn listing, Google); ADAC lists August 9:00–19:00, last entry 18:00. Children's workshops on Sundays and during the Baden-Württemberg school holidays (29 Jul – 11 Sep 2027) – so also on Friday 20 Aug.",
+    "he": "עונה 22.3–1.11.2026, מדי יום 9:00–18:00 (רישום דויטשה באן, גוגל); לפי ADAC באוגוסט 9:00–19:00, כניסה אחרונה 18:00. סדנאות ילדים בימי ראשון ובחופשות בבאדן-וירטמברג (29.7–11.9.2027) – לכן גם ביום שישי 20 באוגוסט."
    },
    "price_text": {
     "en": "≈ €30 estimate: the 2022 price list had a family ticket (2 adults + 2 children) at €28 and children up to 5 free; 2026 prices not found.",
@@ -1851,8 +2342,8 @@
     "he": "אירופה-פארק, רוסט"
    },
    "hours": {
-    "en": "Summer season 28 Mar – 25 Sep 2026: daily 9:00 until at least 18:00 (official; later on busy days). Baden-Württemberg's school holidays run 29 Jul – 11 Sep 2027, so all of August is busy; the plan puts Europa-Park on Friday 20 Aug, a weekday – the weekend (Sat 21 / Sun 22) is usually the most crowded (general experience, not verified). Buy dated online tickets early.",
-    "he": "עונת קיץ 28.3–25.9.2026: מדי יום מ-9:00 ועד 18:00 לפחות (אתר רשמי; מאוחר יותר בימים עמוסים). חופשת הקיץ בבאדן-וירטמברג 29.7–11.9.2027, כך שכל אוגוסט עמוס; בתוכנית אירופה-פארק ביום שישי 20 באוגוסט, יום חול – סוף השבוע (ש' 21 / א' 22) בדרך כלל העמוס ביותר (ניסיון כללי, לא מאומת). לקנות מוקדם כרטיסים מקוונים לתאריך."
+    "en": "Summer season 28 Mar – 25 Sep 2026: daily 9:00 until at least 18:00 (official; later on busy days). Baden-Württemberg's school holidays run 29 Jul – 11 Sep 2027, so all of August is busy; the plan puts Europa-Park on Monday 23 Aug, a weekday – the weekend (Sat 21 / Sun 22) is usually the most crowded (general experience, not verified). It is the last full day before the 07:30 departure on Tue 24. Buy dated online tickets early.",
+    "he": "עונת קיץ 28.3–25.9.2026: מדי יום מ-9:00 ועד 18:00 לפחות (אתר רשמי; מאוחר יותר בימים עמוסים). חופשת הקיץ בבאדן-וירטמברג 29.7–11.9.2027, כך שכל אוגוסט עמוס; בתוכנית אירופה-פארק ביום שני 23 באוגוסט, יום חול – סוף השבוע (ש' 21 / א' 22) בדרך כלל העמוס ביותר (ניסיון כללי, לא מאומת). זה היום המלא האחרון לפני היציאה ב-07:30 ביום ג' 24. לקנות מוקדם כרטיסים מקוונים לתאריך."
    },
    "price_text": {
     "en": "≈ €282: date-based online day tickets 2026 – adult (12+) €67–76, child 4–11 €56.50–65 (official) → top of the range for August: 2 × 76 + 2 × 65. €10 more per ticket at the gate; 2027 prices not yet published.",
@@ -1922,8 +2413,8 @@
     "he": "עולם המים המקורה רולנטיקה, רוסט"
    },
    "hours": {
-    "en": "Daily 9:30–22:00 (day ticket); evening ticket 17:00–22:00. Limited capacity – book online. It falls on Sunday 22 Aug (the only free day left: Fri = Europa-Park, Mon = flight), so book as soon as tickets open and be at the 9:30 opening. Weekday alternative: an evening ticket on Thu 19 Aug after the move (17:00–22:00), if the kids still have energy.",
-    "he": "מדי יום 9:30–22:00 (כרטיס יומי); כרטיס ערב 17:00–22:00. קיבולת מוגבלת – להזמין ברשת. יוצא ביום ראשון 22 באוגוסט (היום הפנוי היחיד: שישי = אירופה-פארק, שני = טיסה), לכן להזמין ברגע שהכרטיסים נפתחים ולהגיע לפתיחה ב-9:30. חלופה ביום חול: כרטיס ערב ביום חמישי 19 באוגוסט אחרי המעבר (17:00–22:00), אם לילדים עוד יש כוח."
+    "en": "Daily 9:30–22:00 (day ticket); evening ticket 17:00–22:00. Limited capacity – book online. It falls on Sunday 22 Aug (a weekend day, so expect it busy: the only free weekday in Rust is Mon 23 = Europa-Park), so book as soon as tickets open and be at the 9:30 opening. Weekday alternative: an evening ticket on Fri 20 Aug after the move (17:00–22:00), if the kids still have energy.",
+    "he": "מדי יום 9:30–22:00 (כרטיס יומי); כרטיס ערב 17:00–22:00. קיבולת מוגבלת – להזמין ברשת. יוצא ביום ראשון 22 באוגוסט (יום סוף שבוע, ולכן צפוי עמוס: יום החול היחיד הפנוי ברוסט הוא ב' 23 = אירופה-פארק), לכן להזמין ברגע שהכרטיסים נפתחים ולהגיע לפתיחה ב-9:30. חלופה ביום חול: כרטיס ערב ביום שישי 20 באוגוסט אחרי המעבר (17:00–22:00), אם לילדים עוד יש כוח."
    },
    "price_text": {
     "en": "≈ €210: online day tickets for 28 Mar 2026 – 19 Mar 2027 are date-based – adult €41–54, child 4–11 €38–51 (official) → top of the range for August: 2 × 54 + 2 × 51. Gate +€6 only if space is left.",
@@ -2112,10 +2603,10 @@
  "days": [
   {
    "day": 1,
-   "date": "2027-08-14",
+   "date": "2027-08-15",
    "weekday": {
-    "en": "Sat",
-    "he": "ש'"
+    "en": "Sun",
+    "he": "א'"
    },
    "title": {
     "en": "Evening flight to Zurich, car pick-up, night drive to Schluchsee",
@@ -2125,16 +2616,17 @@
    "overnight": "hotel_schluchsee",
    "plan": [
     {
-     "en": "18:15 SWISS LX 253 from TLV, landing at ZRH 21:35.",
-     "he": "18:15 סוויס LX 253 מנתב\"ג, נחיתה ברוסט (אירופה-פארק) ב-21:35."
+     "en": "05:30 Aegean A3 457 + A3 448 from TLV, landing at ZRH 19:45.",
+     "he": "05:30 אגיאן A3 457 + A3 448 מנתב\"ג, נחיתה ברוסט (אירופה-פארק) ב-19:45.",
+     "flight": "out"
     },
     {
-     "en": "Pick up the car at the ZRH car rental centre with 2 boosters (desks open until about 23:30 – book with the flight number; allow 45–60 min after landing). Check the Swiss vignette is on the car and that the contract allows Germany. Saturday-night tip: German shops are closed on Sunday, so buy breakfast and snacks at the airport shops before leaving (opening hours not verified).",
-     "he": "איסוף הרכב במרכז השכרת הרכב בשדה ציריך עם 2 בוסטרים (הדלפקים פתוחים עד כ-23:30 – להזמין עם מספר הטיסה; להקצות 45–60 דקות אחרי הנחיתה). לוודא שהוינייטה השווייצרית על הרכב ושהחוזה מתיר נסיעה לגרמניה. טיפ למוצאי שבת: החנויות בגרמניה סגורות ביום ראשון, אז לקנות ארוחת בוקר וחטיפים בחנויות השדה לפני היציאה (שעות הפתיחה לא אומתו)."
+     "en": "Pick up the car at the ZRH car rental centre at about 20:30 (allow 45–60 min after landing; the desks are open until about 23:30 per the earlier check – re-verify and book with the flight number) with 2 boosters. Check the Swiss vignette is on the car and that the contract allows Germany. Sunday tip: German shops are closed all day, so buy breakfast and snacks at the airport shops before leaving (opening hours not verified); the first proper grocery shop is on Monday.",
+     "he": "איסוף הרכב במרכז השכרת הרכב בשדה ציריך בסביבות 20:30 (להקצות 45–60 דקות אחרי הנחיתה; הדלפקים פתוחים עד כ-23:30 לפי הבדיקה הקודמת – לאמת שוב ולהזמין עם מספר הטיסה) עם 2 בוסטרים. לוודא שהוינייטה השווייצרית על הרכב ושהחוזה מתיר נסיעה לגרמניה. טיפ ליום ראשון: החנויות בגרמניה סגורות כל היום, אז לקנות ארוחת בוקר וחטיפים בחנויות השדה לפני היציאה (שעות הפתיחה לא אומתו); הקנייה הגדולה הראשונה ביום שני."
     },
     {
-     "en": "Drive 70 km / 1h11 (allow about 1h15 at night): Swiss A51 and road 4 to Rafz, into Germany at Rafz–Lottstetten, then through the Wutach area to Schluchsee. Arrive about 23:30–00:00 – use the late-arrival instructions agreed in writing with Schönhier (Booking gives no latest check-in time or key-box details). The kids sleep in the car.",
-     "he": "נסיעה של 70 ק״מ / 1:11 (בלילה כ-1:15): A51 וכביש 4 בשווייץ עד רפץ, כניסה לגרמניה ברפץ–לוטשטטן, ואז דרך אזור הווּטאך לשלוכזה. מגיעים בסביבות 23:30–00:00 – משתמשים בהוראות ההגעה המאוחרת שסוכמו בכתב עם Schönhier (ב-Booking אין שעת צ'ק-אין אחרונה ואין פרטים על כספת מפתחות). הילדים ישנים ברכב."
+     "en": "Drive 70 km / 1h11 (allow about 1h15 at night): Swiss A51 and road 4 to Rafz, into Germany at Rafz–Lottstetten, then through the Wutach area to Schluchsee. Arrive about 22:00 – use the late-arrival instructions agreed in writing with Schönhier (Booking gives no latest check-in time or key-box details). The kids sleep in the car.",
+     "he": "נסיעה של 70 ק״מ / 1:11 (בלילה כ-1:15): A51 וכביש 4 בשווייץ עד רפץ, כניסה לגרמניה ברפץ–לוטשטטן, ואז דרך אזור הווּטאך לשלוכזה. מגיעים בסביבות 22:00 – משתמשים בהוראות ההגעה המאוחרת שסוכמו בכתב עם Schönhier (ב-Booking אין שעת צ'ק-אין אחרונה ואין פרטים על כספת מפתחות). הילדים ישנים ברכב."
     }
    ],
    "attractions": [],
@@ -2303,25 +2795,25 @@
   },
   {
    "day": 2,
-   "date": "2027-08-15",
+   "date": "2027-08-16",
    "weekday": {
-    "en": "Sun",
-    "he": "א'"
+    "en": "Mon",
+    "he": "ב'"
    },
    "title": {
-    "en": "Slow Sunday at Lake Schluchsee: lido and (optional) boat",
-    "he": "יום ראשון רגוע באגם שלוכזה: חוף רחצה וסירה (אופציונלי)"
+    "en": "Lake Schluchsee on a Monday: lido, groceries and an (optional) boat",
+    "he": "יום שני באגם שלוכזה: חוף רחצה, קניות וסירה (אופציונלי)"
    },
    "trail": "green",
    "overnight": "hotel_schluchsee",
    "plan": [
     {
-     "en": "Sleep in after the late arrival; breakfast from the airport shopping (German supermarkets are closed on Sundays; local bakeries often open on Sunday mornings – not verified for Schluchsee). Swim in the apartment's private indoor pool.",
-     "he": "ישנים עד מאוחר אחרי ההגעה בלילה; ארוחת בוקר ממה שנקנה בשדה (הסופרמרקטים בגרמניה סגורים בימי ראשון; מאפיות מקומיות פתוחות לעתים קרובות בבוקר יום ראשון – לא אומת לשלוכזה). שחייה בבריכה הפנימית הפרטית של הדירה."
+     "en": "Sleep in after the late arrival; breakfast from the airport shopping. Shops were closed on Sunday, so do the first grocery shop today (Mon 16) at a Schluchsee supermarket (opening hours not verified). Swim in the apartment's private indoor pool.",
+     "he": "ישנים עד מאוחר אחרי ההגעה בערב; ארוחת בוקר ממה שנקנה בשדה. החנויות היו סגורות ביום ראשון, ולכן הקנייה הגדולה הראשונה היום (ב' 16) בסופרמרקט בשלוכזה (שעות הפתיחה לא אומתו). שחייה בבריכה הפנימית הפרטית של הדירה."
     },
     {
-     "en": "Aqua Fun lido on the lake (2.7 km / 7 min, or walk 1.2 km): the 105 m slide, kids' pool, playground and lake beach. Sunday is busy – go early or late afternoon.",
-     "he": "חוף אקווה-פאן על האגם (2.7 ק״מ / 7 דק', או הליכה של 1.2 ק״מ): המגלשה של 105 מ', בריכת ילדים, מגרש משחקים וחוף אגם. ביום ראשון עמוס – להגיע מוקדם או אחר הצהריים המאוחרים."
+     "en": "Aqua Fun lido on the lake (2.7 km / 7 min, or walk 1.2 km): the 105 m slide, kids' pool, playground and lake beach. A Monday is calmer than the weekend – go at the 9:00 opening or in the late afternoon.",
+     "he": "חוף אקווה-פאן על האגם (2.7 ק״מ / 7 דק', או הליכה של 1.2 ק״מ): המגלשה של 105 מ', בריכת ילדים, מגרש משחקים וחוף אגם. יום שני רגוע יותר מסוף שבוע – להגיע בפתיחה ב-9:00 או בסוף אחר הצהריים."
     },
     {
      "en": "Optional: the MS Schluchsee round trip from the lido pier (≈ 1 hour). Total driving 11 min.",
@@ -2572,10 +3064,10 @@
   },
   {
    "day": 3,
-   "date": "2027-08-16",
+   "date": "2027-08-17",
    "weekday": {
-    "en": "Mon",
-    "he": "ב'"
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Feldberg cable car, Lake Titisee and groceries",
@@ -3068,10 +3560,10 @@
   },
   {
    "day": 4,
-   "date": "2027-08-17",
+   "date": "2027-08-18",
    "weekday": {
-    "en": "Tue",
-    "he": "ג'"
+    "en": "Wed",
+    "he": "ד'"
    },
    "title": {
     "en": "Steinwasen-Park: animals, suspension bridge and rides",
@@ -3081,8 +3573,8 @@
    "overnight": "hotel_schluchsee",
    "plan": [
     {
-     "en": "Drive 39 km / 41 min over the Feldberg to Steinwasen-Park near Oberried (open daily); arrive at the 10:00 opening – a Tuesday is calmer than a weekend.",
-     "he": "נסיעה של 39 ק״מ / 41 דק' דרך הפלדברג לפארק שטיינוואזן ליד אוברריד (פתוח מדי יום); להגיע לפתיחה ב-10:00 – יום שלישי רגוע יותר מסוף שבוע."
+     "en": "Drive 39 km / 41 min over the Feldberg to Steinwasen-Park near Oberried (open daily); arrive at the 10:00 opening – a Wednesday is calmer than a weekend.",
+     "he": "נסיעה של 39 ק״מ / 41 דק' דרך הפלדברג לפארק שטיינוואזן ליד אוברריד (פתוח מדי יום); להגיע לפתיחה ב-10:00 – יום רביעי רגוע יותר מסוף שבוע."
     },
     {
      "en": "4–5 hours: the mountain animals, the 218 m suspension bridge, the toboggan and the family rides; lunch in the park.",
@@ -3713,10 +4205,10 @@
   },
   {
    "day": 5,
-   "date": "2027-08-18",
+   "date": "2027-08-19",
    "weekday": {
-    "en": "Wed",
-    "he": "ד'"
+    "en": "Thu",
+    "he": "ה'"
    },
    "title": {
     "en": "Todtnau: waterfall and the Hasenhorn mountain coaster",
@@ -3730,8 +4222,8 @@
      "he": "נסיעה של 32.5 ק״מ / 34 דק' לחניון מפל טודטנאו; השביל הקל של 15 דקות למפל הראשי וחזרה (לעצור במפל הראשי)."
     },
     {
-     "en": "6.6 km / 11 min to the Hasenhorn Coaster (daily 10:00–16:30): chairlift up and 2.9 km down – each child rides with a parent; a Wednesday has shorter queues than a weekend.",
-     "he": "6.6 ק״מ / 11 דק' להזנהורן קוסטר (מדי יום 10:00–16:30): רכבל כיסאות למעלה ו-2.9 ק״מ למטה – כל ילד נוסע עם הורה; ביום רביעי התורים קצרים יותר מבסוף שבוע."
+     "en": "6.6 km / 11 min to the Hasenhorn Coaster (daily 10:00–16:30): chairlift up and 2.9 km down – each child rides with a parent; a Thursday has shorter queues than a weekend.",
+     "he": "6.6 ק״מ / 11 דק' להזנהורן קוסטר (מדי יום 10:00–16:30): רכבל כיסאות למעלה ו-2.9 ק״מ למטה – כל ילד נוסע עם הורה; ביום חמישי התורים קצרים יותר מבסוף שבוע."
     },
     {
      "en": "Back to Schluchsee (27 min). Rain plan: Badeparadies Schwarzwald in Titisee (18 min) – on a weekday only the Galaxy slide world is open to children. Driving 1h12. Pack tonight.",
@@ -4266,10 +4758,10 @@
   },
   {
    "day": 6,
-   "date": "2027-08-19",
+   "date": "2027-08-20",
    "weekday": {
-    "en": "Thu",
-    "he": "ה'"
+    "en": "Fri",
+    "he": "ו'"
    },
    "title": {
     "en": "Move day: Triberg waterfalls, the giant cuckoo clock, the farm museum, on to Rust",
@@ -4535,206 +5027,6 @@
   },
   {
    "day": 7,
-   "date": "2027-08-20",
-   "weekday": {
-    "en": "Fri",
-    "he": "ו'"
-   },
-   "title": {
-    "en": "Europa-Park on a weekday (full day)",
-    "he": "אירופה-פארק ביום חול (יום מלא)"
-   },
-   "trail": "green",
-   "overnight": "hotel_rust",
-   "plan": [
-    {
-     "en": "Buy dated online tickets in advance (cheaper than the gate). Walk 8–10 min to the main entrance for the 9:00 opening – no parking needed. Friday is the last weekday before the weekend crowds.",
-     "he": "לקנות מראש כרטיסים מקוונים לתאריך (זול יותר מהקופה). הליכה של 8–10 דקות לכניסה הראשית לפתיחה ב-9:00 – לא צריך חניה. יום שישי הוא יום החול האחרון לפני עומס סוף השבוע."
-    },
-    {
-     "en": "Start with the most popular kids' rides while queues are short; a rest in the air-conditioned apartment at midday is easy because it is so close; back for the evening.",
-     "he": "מתחילים במתקני הילדים הפופולריים כשהתורים קצרים; מנוחה בצהריים בדירה הממוזגת קלה כי היא כל כך קרובה; חוזרים לערב."
-    }
-   ],
-   "attractions": [
-    "europapark"
-   ],
-   "route": {
-    "km": 1.7,
-    "minutes": 5,
-    "legs": [
-     {
-      "from": "Busch's Gästehaus, Rust",
-      "to": "Europa-Park main entrance, Rust",
-      "km": 0.8,
-      "min": 2
-     },
-     {
-      "from": "Europa-Park main entrance, Rust",
-      "to": "Busch's Gästehaus, Rust",
-      "km": 0.9,
-      "min": 3
-     }
-    ],
-    "points": [
-     {
-      "name": "Busch's Gästehaus, Rust",
-      "lat": 48.267369,
-      "lng": 7.730772
-     },
-     {
-      "name": "Europa-Park main entrance, Rust",
-      "lat": 48.2660194,
-      "lng": 7.7220076
-     },
-     {
-      "name": "Busch's Gästehaus, Rust",
-      "lat": 48.267369,
-      "lng": 7.730772
-     }
-    ],
-    "geometry": {
-     "coordinates": [
-      [
-       7.730845,
-       48.267347
-      ],
-      [
-       7.730771,
-       48.267239
-      ],
-      [
-       7.730536,
-       48.267038
-      ],
-      [
-       7.729969,
-       48.266658
-      ],
-      [
-       7.729836,
-       48.266475
-      ],
-      [
-       7.72946,
-       48.266549
-      ],
-      [
-       7.728146,
-       48.266902
-      ],
-      [
-       7.728085,
-       48.266617
-      ],
-      [
-       7.726099,
-       48.26569
-      ],
-      [
-       7.725973,
-       48.265669
-      ],
-      [
-       7.725639,
-       48.264823
-      ],
-      [
-       7.72532,
-       48.264511
-      ],
-      [
-       7.724007,
-       48.264881
-      ],
-      [
-       7.723495,
-       48.265264
-      ],
-      [
-       7.723233,
-       48.265297
-      ],
-      [
-       7.723209,
-       48.265007
-      ],
-      [
-       7.723288,
-       48.264779
-      ],
-      [
-       7.723209,
-       48.265007
-      ],
-      [
-       7.723233,
-       48.265297
-      ],
-      [
-       7.723495,
-       48.265264
-      ],
-      [
-       7.724007,
-       48.264881
-      ],
-      [
-       7.72532,
-       48.264511
-      ],
-      [
-       7.725639,
-       48.264823
-      ],
-      [
-       7.725973,
-       48.265669
-      ],
-      [
-       7.726099,
-       48.26569
-      ],
-      [
-       7.728085,
-       48.266617
-      ],
-      [
-       7.728146,
-       48.266902
-      ],
-      [
-       7.72946,
-       48.266549
-      ],
-      [
-       7.729836,
-       48.266475
-      ],
-      [
-       7.729969,
-       48.266658
-      ],
-      [
-       7.730536,
-       48.267038
-      ],
-      [
-       7.730771,
-       48.267239
-      ],
-      [
-       7.730845,
-       48.267347
-      ]
-     ],
-     "type": "LineString"
-    },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.267369,7.730772&destination=48.267369,7.730772&travelmode=driving&waypoints=48.2660194%2C7.7220076"
-   }
-  },
-  {
-   "day": 8,
    "date": "2027-08-21",
    "weekday": {
     "en": "Sat",
@@ -5022,15 +5314,15 @@
    }
   },
   {
-   "day": 9,
+   "day": 8,
    "date": "2027-08-22",
    "weekday": {
     "en": "Sun",
     "he": "א'"
    },
    "title": {
-    "en": "Rulantica water world, packing and an early night",
-    "he": "עולם המים רולנטיקה, אריזה ולישון מוקדם"
+    "en": "Rulantica water world and a quiet evening",
+    "he": "עולם המים רולנטיקה וערב רגוע"
    },
    "trail": "green",
    "overnight": "hotel_rust",
@@ -5040,8 +5332,8 @@
      "he": "להזמין ברשת כמה שיותר מוקדם (ביום ראשון נגמרים הכרטיסים). נסיעה של 1.8 ק״מ / 4 דק' (או הליכה של 25 דקות) לרולנטיקה לפתיחה ב-9:30; אזור הילדים טרולדאל, בריכת הגלים והנהר העצל."
     },
     {
-     "en": "Out by mid-afternoon; fill the tank (German stations are open on Sundays), pack, and agree the 07:30 key drop with the host. Early night.",
-     "he": "יוצאים באמצע אחר הצהריים; תדלוק (תחנות הדלק בגרמניה פתוחות בימי ראשון), אריזה, וסיכום עם המארח על השארת המפתח ב-07:30. לישון מוקדם."
+     "en": "Out by mid-afternoon; fill the tank (German stations are open on Sundays) for the early drive on Tue 24. Shops are closed today, so rely on Saturday's shopping; an early night before Europa-Park.",
+     "he": "יוצאים באמצע אחר הצהריים; תדלוק (תחנות הדלק בגרמניה פתוחות בימי ראשון) לנסיעה המוקדמת ביום ג' 24. החנויות סגורות היום, אז מסתמכים על קניות יום שבת; לישון מוקדם לפני אירופה-פארק."
     }
    ],
    "attractions": [
@@ -5254,11 +5546,215 @@
    }
   },
   {
-   "day": 10,
+   "day": 9,
    "date": "2027-08-23",
    "weekday": {
     "en": "Mon",
     "he": "ב'"
+   },
+   "title": {
+    "en": "Europa-Park on a weekday (full day), then pack",
+    "he": "אירופה-פארק ביום חול (יום מלא) ואריזה"
+   },
+   "trail": "green",
+   "overnight": "hotel_rust",
+   "plan": [
+    {
+     "en": "Buy dated online tickets in advance (cheaper than the gate). Walk 8–10 min to the main entrance for the 9:00 opening – no parking needed. Monday is the only weekday in Rust, so it is calmer than Sat/Sun.",
+     "he": "לקנות מראש כרטיסים מקוונים לתאריך (זול יותר מהקופה). הליכה של 8–10 דקות לכניסה הראשית לפתיחה ב-9:00 – לא צריך חניה. יום שני הוא יום החול היחיד ברוסט, ולכן רגוע יותר מש'/א'."
+    },
+    {
+     "en": "Start with the most popular kids' rides while queues are short; a rest in the air-conditioned apartment at midday is easy because it is so close.",
+     "he": "מתחילים במתקני הילדים הפופולריים כשהתורים קצרים; מנוחה בצהריים בדירה הממוזגת קלה כי היא כל כך קרובה."
+    },
+    {
+     "en": "Back by about 18:00: pack, agree the 07:30 key drop with the host, and an early night.",
+     "he": "חוזרים בסביבות 18:00: אריזה, סיכום עם המארח על השארת המפתח ב-07:30, ולישון מוקדם."
+    }
+   ],
+   "attractions": [
+    "europapark"
+   ],
+   "route": {
+    "km": 1.7,
+    "minutes": 5,
+    "legs": [
+     {
+      "from": "Busch's Gästehaus, Rust",
+      "to": "Europa-Park main entrance, Rust",
+      "km": 0.8,
+      "min": 2
+     },
+     {
+      "from": "Europa-Park main entrance, Rust",
+      "to": "Busch's Gästehaus, Rust",
+      "km": 0.9,
+      "min": 3
+     }
+    ],
+    "points": [
+     {
+      "name": "Busch's Gästehaus, Rust",
+      "lat": 48.267369,
+      "lng": 7.730772
+     },
+     {
+      "name": "Europa-Park main entrance, Rust",
+      "lat": 48.2660194,
+      "lng": 7.7220076
+     },
+     {
+      "name": "Busch's Gästehaus, Rust",
+      "lat": 48.267369,
+      "lng": 7.730772
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       7.730845,
+       48.267347
+      ],
+      [
+       7.730771,
+       48.267239
+      ],
+      [
+       7.730536,
+       48.267038
+      ],
+      [
+       7.729969,
+       48.266658
+      ],
+      [
+       7.729836,
+       48.266475
+      ],
+      [
+       7.72946,
+       48.266549
+      ],
+      [
+       7.728146,
+       48.266902
+      ],
+      [
+       7.728085,
+       48.266617
+      ],
+      [
+       7.726099,
+       48.26569
+      ],
+      [
+       7.725973,
+       48.265669
+      ],
+      [
+       7.725639,
+       48.264823
+      ],
+      [
+       7.72532,
+       48.264511
+      ],
+      [
+       7.724007,
+       48.264881
+      ],
+      [
+       7.723495,
+       48.265264
+      ],
+      [
+       7.723233,
+       48.265297
+      ],
+      [
+       7.723209,
+       48.265007
+      ],
+      [
+       7.723288,
+       48.264779
+      ],
+      [
+       7.723209,
+       48.265007
+      ],
+      [
+       7.723233,
+       48.265297
+      ],
+      [
+       7.723495,
+       48.265264
+      ],
+      [
+       7.724007,
+       48.264881
+      ],
+      [
+       7.72532,
+       48.264511
+      ],
+      [
+       7.725639,
+       48.264823
+      ],
+      [
+       7.725973,
+       48.265669
+      ],
+      [
+       7.726099,
+       48.26569
+      ],
+      [
+       7.728085,
+       48.266617
+      ],
+      [
+       7.728146,
+       48.266902
+      ],
+      [
+       7.72946,
+       48.266549
+      ],
+      [
+       7.729836,
+       48.266475
+      ],
+      [
+       7.729969,
+       48.266658
+      ],
+      [
+       7.730536,
+       48.267038
+      ],
+      [
+       7.730771,
+       48.267239
+      ],
+      [
+       7.730845,
+       48.267347
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=48.267369,7.730772&destination=48.267369,7.730772&travelmode=driving&waypoints=48.2660194%2C7.7220076"
+   }
+  },
+  {
+   "day": 10,
+   "date": "2027-08-24",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Early drive to Zurich and fly home",
@@ -5268,16 +5764,17 @@
    "overnight": null,
    "plan": [
     {
-     "en": "Aegean A3 851 + A3 926 departs 11:15 and lands in TLV at 19:00.",
-     "he": "אגיאן A3 851 + A3 926 ממריאה ב-11:15 ונוחתת בנתב\"ג ב-19:00."
+     "en": "Iberia IB 628 + IB 1873 departs 11:55 and lands in TLV at 23:20.",
+     "he": "Iberia IB 628 + IB 1873 ממריאה ב-11:55 ונוחתת בנתב\"ג ב-23:20.",
+     "flight": "back"
     },
     {
-     "en": "Leave Rust at about 07:30 at the latest (07:00 gives a buffer for Monday traffic around Basel and Zurich): self check-out with the key left as agreed (official check-out is by 10:00). Drive 182 km / 2h00: A5 and A98 to Rheinfelden, into Switzerland, Swiss A3/A1/A11 to Zurich Airport.",
-     "he": "יוצאים מרוסט לכל המאוחר בסביבות 07:30 (07:00 נותן מרווח לתנועת יום שני סביב בזל וציריך): צ'ק-אאוט עצמי והשארת המפתח כפי שסוכם (הצ'ק-אאוט הרשמי עד 10:00). נסיעה של 182 ק״מ / 2:00: A5 ו-A98 עד ריינפלדן, כניסה לשווייץ, ואז A3/A1/A11 לשדה התעופה של ציריך."
+     "en": "Leave Rust at about 07:30 at the latest (07:00 gives a buffer for Tuesday-morning traffic around Basel and Zurich): self check-out with the key left as agreed (official check-out is by 10:00). Drive 182 km / 2h00: A5 and A98 to Rheinfelden, into Switzerland, Swiss A3/A1/A11 to Zurich Airport.",
+     "he": "יוצאים מרוסט לכל המאוחר בסביבות 07:30 (07:00 נותן מרווח לתנועת בוקר של יום שלישי סביב בזל וציריך): צ'ק-אאוט עצמי והשארת המפתח כפי שסוכם (הצ'ק-אאוט הרשמי עד 10:00). נסיעה של 182 ק״מ / 2:00: A5 ו-A98 עד ריינפלדן, כניסה לשווייץ, ואז A3/A1/A11 לשדה התעופה של ציריך."
     },
     {
-     "en": "Return the car at the rental centre by about 09:30 (allow 15–20 min), then check in for the 11:15 flight.",
-     "he": "החזרת הרכב במרכז ההשכרה עד כ-09:30 (להקצות 15–20 דקות), ואז צ'ק-אין לטיסה של 11:15."
+     "en": "Return the car at the rental centre and be at the airport by about 09:30 (allow 15–20 min for the car), then check in for the flight.",
+     "he": "החזרת הרכב במרכז ההשכרה והגעה לשדה עד כ-09:30 (להקצות 15–20 דקות לרכב), ואז צ'ק-אין לטיסה."
     }
    ],
    "attractions": [],
@@ -5473,11 +5970,11 @@
   "lines": [
    {
     "key": "flights",
-    "eur": 1521,
+    "eur": 1605,
     "status": "live",
     "label": {
-     "en": "Flights – SWISS LX 253 + Aegean A3 851 + A3 926, 4 passengers",
-     "he": "טיסות – סוויס LX 253 + אגיאן A3 851 + A3 926, 4 נוסעים"
+     "en": "Flights – Aegean A3 457 + A3 448 + Iberia IB 628 + IB 1873, 4 passengers",
+     "he": "טיסות – אגיאן A3 457 + A3 448 + Iberia IB 628 + IB 1873, 4 נוסעים"
     }
    },
    {
@@ -5571,8 +6068,8 @@
     }
    }
   ],
-  "total_eur": 5613.35,
-  "live_part_eur": 3578.35,
+  "total_eur": 5697.35,
+  "live_part_eur": 3662.35,
   "attractions_local": 840.0,
   "fuel_km": 745
  },
@@ -5580,7 +6077,7 @@
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Germany – Black Forest v1 research · prices checked 25 Oct 2026 · awaiting your approval",
+   "eyebrow": "Germany – Black Forest v2 research · prices checked 9 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -5633,7 +6130,7 @@
    "gmaps": "Google Maps",
    "open_route": "Open route in Google Maps",
    "overnight": "Overnight",
-   "home": "Home: TLV 19:00",
+   "home": "Home: TLV 23:20",
    "optional": "OPTIONAL",
    "live": "LIVE",
    "est": "EST",
@@ -5646,7 +6143,7 @@
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Germany – Black Forest v1 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Germany – Black Forest v2 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Lake Schluchsee",
@@ -5673,7 +6170,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "גרמניה – היער השחור גרסה 1 · מחירים נבדקו 25.10.2026 · ממתין לאישורך",
+   "eyebrow": "גרמניה – היער השחור גרסה 2 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -5726,7 +6223,7 @@
    "gmaps": "Google Maps",
    "open_route": "פתח מסלול ב-Google Maps",
    "overnight": "לינה",
-   "home": "בבית: נתב\"ג 19:00",
+   "home": "בבית: נתב\"ג 23:20",
    "optional": "אופציונלי",
    "live": "חי",
    "est": "הערכה",
@@ -5739,7 +6236,7 @@
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "גרמניה – היער השחור גרסה 1 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "גרמניה – היער השחור גרסה 2 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "אגם שלוכזה",
@@ -5765,8 +6262,8 @@
   }
  },
  "approved": {
-  "version": "de v1",
-  "approved_on": "2026-10-25",
+  "version": "de v2",
+  "approved_on": "2026-11-09",
   "by": "traveller"
  },
  "map": {
