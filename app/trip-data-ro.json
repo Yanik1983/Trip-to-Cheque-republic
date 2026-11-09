@@ -25,21 +25,21 @@
  },
  "variant": "eve",
  "version": {
-  "id": "v3",
+  "id": "v4",
   "date": "2026-11-09",
   "label": {
-   "en": "Romania v3",
-   "he": "רומניה גרסה 3"
+   "en": "Romania v4",
+   "he": "רומניה גרסה 4"
   }
  },
  "taxi_days": [
   "D10"
  ],
- "car_km": 465.4,
+ "car_km": 461.0,
  "changes": [
   {
-   "en": "What changed in v3: on 9 Nov 2026 the return flight of v2 (TAROM RO 155, 23 Aug) rose from €541 to €924, so the cheapest dates moved from Sat 14 – Mon 23 Aug to Thu 19 – Sat 28 Aug 2027: flights + bags + hotels + car ≈ €3,415, €202 cheaper than the same plan on the old dates at today's prices. The day order was rebuilt for the new weekdays (Peleș on Friday, Babele on Sunday, Brașov and Bran on Monday, Antipa on Wednesday, Therme on Thursday); the arrival is in the evening (Wizz 19:35) with a night drive to Sinaia.",
-   "he": "מה השתנה בגרסה 3: ב-9.11.2026 טיסת החזור של גרסה 2 (טארום RO 155, 23 באוגוסט) עלתה מ-541 € ל-924 €, ולכן התאריכים הזולים ביותר עברו מ-ש' 14 – ב' 23 באוגוסט ל-ה' 19 – ש' 28 באוגוסט 2027: טיסות + כבודה + מלונות + רכב כ-3,415 €, זול ב-202 € מאותה תוכנית בתאריכים הישנים במחירי היום. סדר הימים נבנה מחדש לפי הימים החדשים בשבוע (פלש ביום שישי, בבלה ביום ראשון, ברשוב ובראן ביום שני, אנטיפה ביום רביעי, תרמה ביום חמישי); הנחיתה בערב (וויז 19:35) ונסיעת לילה לסינאיה."
+   "en": "What changed in v4: the plan is now kids-first with at least two kid activities on every full day: Peleș plus the Sinaia cable car to Cota 1400 and its alpine coaster; Libearty bears and Dino Parc; Babele cable car plus the Predeal mountain coaster; Tâmpa cable car and Brașov Adventure Park (Bran Castle became optional, so the driving day is 2h01); Cișmigiu boats and the Children's Town with its mini train; Bucharest Zoo then Antipa at 16:00; Therme; Village Museum and Herăstrău boats; the Technical Museum on the last morning. The Lipscani walk was dropped. Same dates, hotels and flights as v3.",
+   "he": "מה השתנה בגרסה 4: התוכנית בנויה עכשיו קודם כול לילדים, עם לפחות שתי פעילויות לילדים בכל יום מלא: פלש ועוד הרכבל של סינאיה לקוטה 1400 ורכבת ההרים האלפינית שלו; דובי ליברטי ודינו פארק; רכבל בבלה ורכבת הרים בפרדיאל; רכבל טמפה ופארק ההרפתקאות בברשוב (טירת בראן הפכה לאופציונלית, וכך נסיעת היום 2:01 שעות); סירות בצ'ישמיג'יו ועיר הילדים עם הרכבת הקטנה; גן החיות של בוקרשט ואחריו אנטיפה ב-16:00; תרמה; מוזיאון הכפר וסירות בהרשטרו; המוזיאון הטכני בבוקר האחרון. הטיול בליפסקני הוסר. אותם תאריכים, מלונות וטיסות כמו בגרסה 3."
   },
   {
    "en": "Dates Thu 19 – Sat 28 Aug 2027 (evening arrival, late drive to the base): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,275).",
@@ -70,12 +70,12 @@
    "nights": 9
   },
   "title": {
-   "en": "Romania Family Trip: Sinaia, Brașov Castles & Bucharest",
-   "he": "טיול משפחתי ברומניה: סינאיה, טירות ברשוב ובוקרשט"
+   "en": "Romania Family Trip for Kids: Sinaia Rides, Bears & Dinosaurs, Brașov Adventure Park, Bucharest Zoo & Therme",
+   "he": "טיול משפחתי לילדים ברומניה: מתקנים בסינאיה, דובים ודינוזאורים, פארק הרפתקאות בברשוב, גן חיות ותרמה בבוקרשט"
   },
   "lede": {
-   "en": "Thu 19 – Sat 28 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. A rental car from Bucharest Airport (evening pick-up on arrival, Thu 19 to Tue 24) and 5 nights in the air-conditioned 4-star Hotel Carpathia in Sinaia (free spa with an indoor pool) in the Carpathians (fairytale Peleș Castle, Bran Castle, a bear sanctuary, Dino Parc, Brașov's old town and a cable car to the Bucegi plateau), then 4 nights in an air-conditioned Bucharest apartment without a car (Therme water park, natural history museum, open-air Village Museum, Herăstrău Park).",
-   "he": "חמישי 19 – שבת 28 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. רכב שכור משדה התעופה של בוקרשט (איסוף בערב עם הנחיתה, חמישי 19 עד שלישי 24) ו-5 לילות במלון Carpathia 4 הכוכבים עם מיזוג אוויר בסינאיה (ספא חינם עם בריכה מקורה) בהרי הקרפטים (טירת פלש האגדית, טירת בראן, מקלט דובים, דינו פארק, העיר העתיקה של ברשוב ורכבל לרמת בוצ'ג'י), ואחר כך 4 לילות בדירה ממוזגת בבוקרשט בלי רכב (פארק המים תרמה, מוזיאון הטבע, מוזיאון הכפר הפתוח ופארק הרשטרו)."
+   "en": "Thu 19 – Sat 28 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. A rental car from Bucharest Airport (evening pick-up on arrival, Thu 19 to Tue 24) and 5 nights in the air-conditioned 4-star Hotel Carpathia in Sinaia (free spa with an indoor pool), then 4 nights in an air-conditioned Bucharest apartment without a car. Every day has at least two kid highlights: Peleș Castle and the Sinaia cable car with an alpine coaster, a bear sanctuary and Dino Parc, the Babele cable car and the Predeal Mountain Coaster, the Tâmpa cable car and Brașov Adventure Park, then Cișmigiu boats, the Children's Town rides and mini train, Bucharest Zoo, the Antipa museum, the Therme water park, the Village Museum with Herăstrău boats and the interactive Technical Museum. The hot hours are spent in the pool or the air-conditioned room.",
+   "he": "חמישי 19 – שבת 28 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. רכב שכור משדה התעופה של בוקרשט (איסוף בערב עם הנחיתה, חמישי 19 עד שלישי 24) ו-5 לילות במלון Carpathia 4 הכוכבים עם מיזוג אוויר בסינאיה (ספא חינם עם בריכה מקורה), ואחר כך 4 לילות בדירה ממוזגת בבוקרשט בלי רכב. בכל יום לפחות שתי אטרקציות לילדים: טירת פלש ורכבל סינאיה עם מגלשת הרים, מקלט דובים ודינו פארק, רכבל בבלה ומגלשת ההרים בפרדיאל, רכבל טמפה ופארק הרפתקאות בברשוב, ואחר כך סירות בצ'ישמיג'יו, מתקני 'עיר הילדים' ורכבת קטנה, גן החיות של בוקרשט, מוזיאון אנטיפה, פארק המים תרמה, מוזיאון הכפר עם סירות בהרשטרו והמוזיאון הטכני האינטראקטיבי. שעות החום עוברות בבריכה או בחדר הממוזג."
   }
  },
  "currency": "EUR",
@@ -1229,8 +1229,8 @@
    ]
   ],
   "text": {
-   "en": "Pick-up at Bucharest Henri Coandă Airport on arrival, Thu 19 Aug at about 20:15 (landing 19:35; the pick-up is before 21:00, so no after-hours fee is budgeted – desk closing times differ by source, so confirm in writing), return Tue 24 Aug at the airport before 11:00–12:00, i.e. before the 20:15 pick-up hour: 5 rental days. Category: intermediate estate, e.g. Škoda Octavia Combi automatic – 2 large suitcases + 2 trolleys in the boot, 2 boosters on the rear seat. The price is an estimate: aggregator averages for OTP in August are only $24–44/day for all classes; an automatic estate is higher.",
-   "he": "איסוף בשדה התעופה הנרי קואנדה בבוקרשט עם הנחיתה, ה' 19 באוגוסט בסביבות 20:15 (נחיתה 19:35; האיסוף לפני 21:00, ולכן לא תוקצבה תוספת מחוץ לשעות – שעות סגירת הדלפקים משתנות לפי המקור, ולכן לאשר בכתב), החזרה בשדה ב-ג' 24 באוגוסט לפני 11:00–12:00, כלומר לפני שעת האיסוף 20:15: 5 ימי השכרה. קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית – 2 מזוודות גדולות ו-2 טרולים בתא המטען, 2 בוסטרים במושב האחורי. המחיר הוא הערכה: ממוצעי אתרי ההשוואה לשדה OTP באוגוסט הם רק 24–44 $ ליום לכל הקטגוריות; סטיישן אוטומטי יקר יותר."
+   "en": "Pick-up at Bucharest Henri Coandă Airport on arrival, Thu 19 Aug at about 20:15 (landing 19:35; the pick-up is before 21:00, so no after-hours fee is budgeted – desk closing times differ by source, so confirm in writing), return Tue 24 Aug at the airport before 11:00–12:00, i.e. before the 20:15 pick-up hour: 5 rental days. Category: intermediate estate, e.g. Škoda Octavia Combi automatic – 2 large suitcases + 2 trolleys in the boot, 2 boosters on the rear seat. The price is an estimate: aggregator averages for OTP in August are only $24–44/day for all classes; an automatic estate is higher. Kids-first plan: the car is used for 5 short mountain days (the longest loop is 2h12 of driving).",
+   "he": "איסוף בשדה התעופה הנרי קואנדה בבוקרשט עם הנחיתה, ה' 19 באוגוסט בסביבות 20:15 (נחיתה 19:35; האיסוף לפני 21:00, ולכן לא תוקצבה תוספת מחוץ לשעות – שעות סגירת הדלפקים משתנות לפי המקור, ולכן לאשר בכתב), החזרה בשדה ב-ג' 24 באוגוסט לפני 11:00–12:00, כלומר לפני שעת האיסוף 20:15: 5 ימי השכרה. קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית – 2 מזוודות גדולות ו-2 טרולים בתא המטען, 2 בוסטרים במושב האחורי. המחיר הוא הערכה: ממוצעי אתרי ההשוואה לשדה OTP באוגוסט הם רק 24–44 $ ליום לכל הקטגוריות; סטיישן אוטומטי יקר יותר. תוכנית ממוקדת ילדים: הרכב משמש ל-5 ימי הרים קצרים (הסיבוב הארוך ביותר 2:12 שעות נסיעה)."
   },
   "pickup": {
    "place": "Bucharest Henri Coandă International Airport",
@@ -1261,8 +1261,8 @@
    "he": "אורות נמוכים: חובה מחוץ לערים יום ולילה בכל השנה – להדליק בכל נסיעה בכבישי DN. אלכוהול: אפס סובלנות. מהירויות: 50 קמ\"ש בערים, 90 מחוץ לעיר, 100 בכבישים כפולים, 130 בכבישים מהירים."
   },
   {
-   "en": "DN1 through the Prahova Valley (Ploiești – Comarnic – Sinaia – Predeal – Brașov) is one of Romania's busiest roads: on summer weekends it jams northbound on Friday evening and Saturday morning and southbound on Sunday afternoon and evening. The plan avoids it: the night drive up on Thursday is quiet, Peleș is a 5-minute drive on Friday, the Saturday bears and dinosaurs trip leaves at 7:15, Sunday is a short local day (Babele at 8:00), Brașov and Bran are on Monday, and the drive to Bucharest on Tuesday morning leaves at 8:30.",
-   "he": "DN1 בעמק פראהובה (פלואשט – קומרניק – סינאיה – פרדיאל – ברשוב) הוא אחד הכבישים העמוסים ברומניה: בסופי שבוע בקיץ הוא חסום צפונה בשישי בערב ובשבת בבוקר, ודרומה ביום ראשון אחר הצהריים ובערב. התוכנית נמנעת מכך: נסיעת הלילה צפונה בחמישי שקטה, פלש בנסיעה של 5 דקות בשישי, הטיול לדובים ולדינוזאורים בשבת יוצא ב-7:15, ראשון הוא יום מקומי קצר (בבלה ב-8:00), ברשוב ובראן בשני, והנסיעה לבוקרשט בשלישי בבוקר יוצאת ב-8:30."
+   "en": "DN1 through the Prahova Valley (Ploiești – Comarnic – Sinaia – Predeal – Brașov) is one of Romania's busiest roads: on summer weekends it jams northbound on Friday evening and Saturday morning and southbound on Sunday afternoon and evening. The plan avoids it: the night drive up on Thursday is quiet, Peleș is a 5-minute drive on Friday, the Saturday bears and dinosaurs trip leaves at 7:15, Sunday is a short day (Babele at 8:00, Predeal coaster, back at 13:30 before the southbound jam), Brașov is on Monday, and the drive to Bucharest on Tuesday morning leaves at 8:30.",
+   "he": "DN1 בעמק פראהובה (פלואשט – קומרניק – סינאיה – פרדיאל – ברשוב) הוא אחד הכבישים העמוסים ברומניה: בסופי שבוע בקיץ הוא חסום צפונה בשישי בערב ובשבת בבוקר, ודרומה ביום ראשון אחר הצהריים ובערב. התוכנית נמנעת מכך: נסיעת הלילה צפונה בחמישי שקטה, פלש בנסיעה של 5 דקות בשישי, הטיול לדובים ולדינוזאורים בשבת יוצא ב-7:15, ראשון הוא יום קצר (בבלה ב-8:00, מגלשת פרדיאל, חזרה ב-13:30 לפני הפקק דרומה), ברשוב בשני, והנסיעה לבוקרשט בשלישי בבוקר יוצאת ב-8:30."
   },
   {
    "en": "Parking: Peleș has a paid car park below the castle; Bran has a paid car park (≈ 20–30 RON) on the road below – arrive early; central Brașov and Bușteni are paid zones (pay by app or machine). Fuel: petrol about 10.2 RON/l (≈ €1.90, Oct 2026).",
@@ -1452,8 +1452,8 @@
     "he": "שעתיים (סיור מודרך כ-45–60 דקות + הגנים)"
    },
    "kids": {
-    "en": "A real fairytale castle in the forest: carved wood halls, a stained-glass hall, armour and a theatre. The guide keeps it short; shoe covers over your shoes. Fri 20 Aug is before the weekend crowds (Sunday is the busiest day; Monday it is closed): book the first slot online; the Day 2 plan uses the 9:15 opening.",
-    "he": "טירת אגדות אמיתית ביער: אולמות עץ מגולפים, אולם ויטראז'ים, שריונות ותיאטרון. המדריך שומר על סיור קצר; מכסים נעליים בכיסויי בד. יום ו' 20 באוגוסט הוא לפני עומס סוף השבוע (יום ראשון הוא העמוס ביותר; ביום שני סגור): כדאי להזמין באינטרנט את השעה הראשונה; תוכנית יום 2 משתמשת בפתיחה של 9:15."
+    "en": "A real fairytale castle in the forest: carved wood halls, a stained-glass hall, armour and a theatre. The guide keeps it short; shoe covers over your shoes. Fri 20 Aug is before the weekend crowds (Sunday is the busiest day; Monday it is closed): book the first slot online; the Day 2 plan uses the 9:15 opening. Kid-friendly because it is short and magical; the real rides come right after, at the Sinaia cable car and alpine coaster.",
+    "he": "טירת אגדות אמיתית ביער: אולמות עץ מגולפים, אולם ויטראז'ים, שריונות ותיאטרון. המדריך שומר על סיור קצר; מכסים נעליים בכיסויי בד. יום ו' 20 באוגוסט הוא לפני עומס סוף השבוע (יום ראשון הוא העמוס ביותר; ביום שני סגור): כדאי להזמין באינטרנט את השעה הראשונה; תוכנית יום 2 משתמשת בפתיחה של 9:15. מתאימה לילדים כי היא קצרה וקסומה; הנסיעות האמיתיות מגיעות מיד אחרי, ברכבל סינאיה ובמגלשת ההרים."
    },
    "optional": false,
    "google": {
@@ -1515,12 +1515,12 @@
    "price_eur": 128.97,
    "estimate": true,
    "time": {
-    "en": "3 h (ride ≈ 20 min each way + 1 h up top)",
-    "he": "3 שעות (נסיעה כ-20 דקות לכל כיוון + שעה למעלה)"
+    "en": "2.5 h (down by about 10:45); then Predeal Mountain Coaster",
+    "he": "2.5 שעות (יורדים עד בערך 10:45); ואז מגלשת ההרים בפרדיאל"
    },
    "kids": {
-    "en": "A big gondola over the forest to 2,200 m, then a flat 10–15 min walk to the Babele rocks and the Sphinx – almost no hiking. Pricey and queues build up after 10:00, hence the 8:00 start on a Sunday; take jackets (10–15 °C up there). Google rating only 2.0 (393 reviews) – complaints are about price and queues.",
-    "he": "גונדולה גדולה מעל היער עד גובה 2,200 מ', ואז הליכה מישורית של 10–15 דקות לסלעי בבלה ולספינקס – כמעט בלי הליכה. יקר, ותורים מתארכים אחרי 10:00, ולכן יוצאים ב-8:00 ביום ראשון; להצטייד בג'קטים (10–15 מעלות למעלה). בגוגל רק 2.0 (393 ביקורות) – התלונות על המחיר ועל התורים."
+    "en": "A big gondola over the forest to 2,200 m, then a flat 10–15 min walk to the Babele rocks and the Sphinx – almost no hiking. There is a small family playground next to the lower station (listed by a local guide) for the minutes before the ride. Pricey and queues build up after 10:00, hence the 8:00 start on a Sunday; take jackets (10–15 °C up there). Google rating only 2.0 (393 reviews) – complaints are about price and queues.",
+    "he": "גונדולה גדולה מעל היער עד גובה 2,200 מ', ואז הליכה מישורית של 10–15 דקות לסלעי בבלה ולספינקס – כמעט בלי הליכה. ליד התחנה התחתונה יש מגרש משחקים משפחתי קטן (לפי מדריך מקומי) לדקות שלפני הנסיעה. יקר, ותורים מתארכים אחרי 10:00, ולכן יוצאים ב-8:00 ביום ראשון; להצטייד בג'קטים (10–15 מעלות למעלה). בגוגל רק 2.0 (393 ביקורות) – התלונות על המחיר ועל התורים."
    },
    "optional": false,
    "google": {
@@ -1578,8 +1578,8 @@
    "price_eur": 0.0,
    "estimate": false,
    "time": {
-    "en": "1.5–2 h",
-    "he": "שעה וחצי–שעתיים"
+    "en": "1.5 h (flat; Rope Street and ice cream)",
+    "he": "שעה וחצי (שטוח; רחוב החבל וגלידה)"
    },
    "kids": {
     "en": "A pedestrian square with colourful houses, fountains and cafés with ice cream, the narrow Rope Street (one of Europe's narrowest) and the Hollywood-style sign on the hill. Easy flat walking.",
@@ -1641,8 +1641,8 @@
    "price_eur": 28.04,
    "estimate": true,
    "time": {
-    "en": "1–1.5 h",
-    "he": "שעה–שעה וחצי"
+    "en": "1 h (ride 4 min each way)",
+    "he": "שעה (נסיעה 4 דקות לכל כיוון)"
    },
    "kids": {
     "en": "A 4-minute ride over the forest to the top of Tâmpa mountain with a view over the red roofs of Brașov and the Brașov sign; a short flat promenade at the top. Google rating 3.7 (older cabins, some queues).",
@@ -1693,8 +1693,8 @@
     "he": "טירת בראן (\"טירת דרקולה\")"
    },
    "hours": {
-    "en": "1 Apr–1 Nov: Mon 12:00–19:00, Tue–Sun 9:00–19:00 (last entry at closing). Planned on Mon 23 Aug at about 14:30.",
-    "he": "1 באפריל–1 בנובמבר: ב' 12:00–19:00, ג'–א' 9:00–19:00 (כניסה אחרונה בסגירה). מתוכנן ליום ב' 23 באוגוסט בסביבות 14:30."
+    "en": "1 Apr–1 Nov: Mon 12:00–19:00, Tue–Sun 9:00–19:00 (last entry at closing). Planned on Mon 23 Aug at about 14:30. Optional swap for the Adventure Park, or for another day; it adds 37 min of driving.",
+    "he": "1 באפריל–1 בנובמבר: ב' 12:00–19:00, ג'–א' 9:00–19:00 (כניסה אחרונה בסגירה). מתוכנן ליום ב' 23 באוגוסט בסביבות 14:30. חלופה אופציונלית לפארק ההרפתקאות; מוסיפה 37 דקות נסיעה."
    },
    "price_text": {
     "en": "≈ 360 RON (≈ €67) budgeted: official site 100 adult / 40 child 5–17, under 5 free (→ ≈ 280 RON), but August 2026 visitors report 120 / 60 at the till (→ 360 RON). Estimate; parking ≈ 20–30 RON extra. Book online – tickets sell out.",
@@ -1711,7 +1711,7 @@
     "en": "The Dracula-legend castle on a rock: narrow stairs, a secret staircase and small rooms – busy in August; the plan goes on Mon 23 Aug (it opens at 12:00) at about 14:30, when the morning crowd has thinned and the weekend is over. Souvenir market at the bottom. Lots of steps for a 5-year-old.",
     "he": "טירת אגדת דרקולה על סלע: מדרגות צרות, מדרגות סודיות וחדרים קטנים – עמוס באוגוסט; התוכנית מגיעה ביום ב' 23 באוגוסט (נפתחת ב-12:00) בסביבות 14:30, כשהעומס של הבוקר פחת וסוף השבוע מאחור. שוק מזכרות למטה. הרבה מדרגות לילד בן 5."
    },
-   "optional": false,
+   "optional": true,
    "google": {
     "name": "Bran Castle",
     "rating": 4.3,
@@ -1941,12 +1941,12 @@
   "adventure": {
    "id": "adventure",
    "name": {
-    "en": "Adventure Park Brașov (kids' rope trails, optional)",
-    "he": "פארק הרפתקאות ברשוב (שבילי חבלים לילדים, אופציונלי)"
+    "en": "Adventure Park Brașov: kids' rope trails in the forest",
+    "he": "פארק הרפתקאות ברשוב: שבילי חבלים לילדים ביער"
    },
    "hours": {
-    "en": "Daily about 10:00–18:00 (Google Maps; summer hours may be longer)",
-    "he": "מדי יום בערך 10:00–18:00 (גוגל מפות; בקיץ אולי ארוך יותר)"
+    "en": "Google: Mon–Tue 9:00–18:00, Wed–Sun 10:00–18:00 (an independent guide says weekends only in winter; summer is daily). Planned on Mon 23 Aug at about 14:00–16:15 (open 9:00–18:00). Strada Paltinului 16, Noua district, 13 min from the old town. Book ahead on parc-aventura.ro.",
+    "he": "גוגל: ב'–ג' 9:00–18:00, ד'–א' 10:00–18:00 (מדריך עצמאי: בחורף רק בסופי שבוע; בקיץ מדי יום). מתוכנן ליום ב' 23 באוגוסט בסביבות 14:00–16:15 (פתוח 9:00–18:00). Strada Paltinului 16, שכונת נואה, 13 דקות מהעיר העתיקה. להזמין מראש ב-parc-aventura.ro."
    },
    "price_text": {
     "en": "≈ 200 RON (≈ €37) estimate for 2 children: about 90 RON per child for 3 hours (an Observator report, July 2026), adults 100 RON if they climb too. Kids' trails from age 4.",
@@ -1956,14 +1956,14 @@
    "price_eur": 37.38,
    "estimate": true,
    "time": {
-    "en": "2–3 h",
-    "he": "2–3 שעות"
+    "en": "2–2.5 h (13 min drive from the old town)",
+    "he": "2–2.5 שעות (13 דקות נסיעה מהעיר העתיקה)"
    },
    "kids": {
-    "en": "Rope courses in the trees with easy kids' trails, near a small lake with a playground. Fits as an alternative afternoon in Brașov (Day 5, Monday) instead of Bran.",
-    "he": "מסלולי חבלים בין העצים עם שבילי ילדים קלים, ליד אגם קטן עם מגרש משחקים. מתאים כחלופה אחר הצהריים בברשוב (יום 5, יום שני) במקום בראן."
+    "en": "Rope courses in the tall trees, shaded and cooler than the old town: separate kids' courses (purple, for under 8, without carabiners, a guide says suitable for ages 4–7) with the 7-year-old moving up to a yellow course (8+ per the same guide; ask on the day). Parents watch or climb too. Google 4.6 from 10,991 reviews. Replaces Bran Castle in the main plan (Bran is optional): it saves 37 minutes of driving and 100+ steps.",
+    "he": "מסלולי חבלים על עצים גבוהים, מוצל וקריר יותר מהעיר העתיקה: מסלולי ילדים נפרדים (סגולים, מתחת לגיל 8, בלי קרבינרים, לפי מדריך מתאימים לגילי 4–7) ובן ה-7 עשוי לעלות למסלול צהוב (8+ לפי אותו מדריך; לשאול במקום). ההורים צופים או מטפסים גם הם. גוגל 4.6 מתוך 10,991 ביקורות. מחליף את טירת בראן בתוכנית הראשית (בראן אופציונלית): חוסך 37 דקות נסיעה ומאות מדרגות."
    },
-   "optional": true,
+   "optional": false,
    "google": {
     "name": "Adventure Park Brasov",
     "rating": 4.6,
@@ -1998,6 +1998,10 @@
     [
      "Parc Aventura (official)",
      "http://www.parc-aventura.ro/"
+    ],
+    [
+     "InfoContact – Parc Aventura Brașov (courses and ages)",
+     "https://www.infocontact.ro/parc-aventura-brasov/"
     ]
    ]
   },
@@ -2086,8 +2090,8 @@
     "he": "5–6 שעות (יום שלם)"
    },
    "kids": {
-    "en": "A huge glass-dome water park: wave pool, slides, a children's area and warm pools. Under-14s may enter only the Galaxy zone (not The Palm or Elysium) and need an ID or birth certificate. Bring swimsuits (towels and slippers can be rented).",
-    "he": "פארק מים ענק מתחת לכיפת זכוכית: בריכת גלים, מגלשות, אזור ילדים ובריכות חמות. מתחת לגיל 14 נכנסים רק לאזור הגלקסי (לא The Palm ולא Elysium) ונדרשת תעודה או תעודת לידה. להביא בגדי ים (מגבות וכפכפים להשכרה)."
+    "en": "A huge glass-dome water park: wave pool, slides, a children's area and warm pools. Under-14s may enter only the Galaxy zone (not The Palm or Elysium) and need an ID or birth certificate. Bring swimsuits (towels and slippers can be rented). Two kid highlights in one day: the slides and wave pool, and the separate kids' area.",
+    "he": "פארק מים ענק מתחת לכיפת זכוכית: בריכת גלים, מגלשות, אזור ילדים ובריכות חמות. מתחת לגיל 14 נכנסים רק לאזור הגלקסי (לא The Palm ולא Elysium) ונדרשת תעודה או תעודת לידה. להביא בגדי ים (מגבות וכפכפים להשכרה). שני רגעי שיא לילדים ביום אחד: המגלשות ובריכת הגלים, ואזור הילדים הנפרד."
    },
    "optional": false,
    "google": {
@@ -2138,8 +2142,8 @@
     "he": "פארק הרשטרו (פארק המלך מיכאל הראשון): סירות באגם ומגרשי משחקים"
    },
    "hours": {
-    "en": "Park open 24/7; boat rental and the small passenger boat about 10:00–19:30 / 20:00",
-    "he": "הפארק פתוח 24/7; השכרת סירות והסירה המסיירת בערך 10:00–19:30 / 20:00"
+    "en": "Park open 24/7; boat rental and the small passenger boat about 10:00–19:30 / 20:00. NOTE: the park is being restored in 2025–2026 (stage 2 from autumn 2026, 4–5 years in all), so the boat pier or playgrounds may be closed in Aug 2027: check on the day; the fallback is the Cișmigiu boats or Children's Town.",
+    "he": "הפארק פתוח 24/7; השכרת סירות והסירה המסיירת בערך 10:00–19:30 / 20:00. לתשומת לב: הפארק בשיקום ב-2025–2026 (שלב 2 מסתיו 2026, 4–5 שנים בסך הכול), ולכן ייתכן שהמזח או מגרשי המשחקים סגורים באוגוסט 2027: לבדוק ביום עצמו; חלופה: הסירות בצ'ישמיג'יו או עיר הילדים."
    },
    "price_text": {
     "en": "≈ 50 RON (≈ €9) estimate: passenger boat 15 RON adult / 10 RON child 7–14 per trip; rowing boats about 20 RON/hour (max 3 people, so 2 boats for 4). An undated price list – confirm at the pier.",
@@ -2153,8 +2157,8 @@
     "he": "שעתיים"
    },
    "kids": {
-    "en": "Bucharest's biggest park around a lake: shady paths, playgrounds, boats and ice cream, right next to the Village Museum (Day 9, Fri 27).",
-    "he": "הפארק הגדול של בוקרשט סביב אגם: שבילים מוצלים, מגרשי משחקים, סירות וגלידה, ממש ליד מוזיאון הכפר (יום 9, ו' 27)."
+    "en": "Bucharest's biggest park around a lake: shady paths, boats and ice cream, right next to the Village Museum (Day 9, Fri 27). Playground status during the restoration was not confirmed.",
+    "he": "הפארק הגדול של בוקרשט סביב אגם: שבילים מוצלים, סירות וגלידה, ממש ליד מוזיאון הכפר (יום 9, ו' 27). מצב מגרשי המשחקים בזמן השיקום לא אומת."
    },
    "optional": false,
    "google": {
@@ -2191,6 +2195,10 @@
     [
      "Cotidianul – Herăstrău passenger boat",
      "https://www.cotidianul.ro/venituri-cu-35-mai-mari-fata-de-anul-trecut-pentru-debarcaderul-din-herastrau/"
+    ],
+    [
+     "Romania Insider – Herăstrău restoration works",
+     "https://www.romania-insider.com/society/restoration-works-bucharest-herastrau-park-2025"
     ]
    ]
   },
@@ -2201,8 +2209,8 @@
     "he": "מוזיאון הכפר (Muzeul Satului), באוויר הפתוח"
    },
    "hours": {
-    "en": "Summer schedule announced for 2025: Wed–Sun 9:00–19:00 (last entry 18:30); closed Mon–Tue – the plan uses Fri 27 Aug (open). Check muzeul-satului.ro.",
-    "he": "לוח קיץ שפורסם ל-2025: ד'–א' 9:00–19:00 (כניסה אחרונה 18:30); סגור ב'–ג' – התוכנית משתמשת ביום ו' 27 באוגוסט (פתוח). לבדוק ב-muzeul-satului.ro."
+    "en": "Summer schedule announced for 2025: Wed–Sun 9:00–19:00 (last entry 18:30); closed Mon–Tue – the plan uses Fri 27 Aug (open). Check muzeul-satului.ro. Google lists 9:00–17:00 daily.",
+    "he": "לוח קיץ שפורסם ל-2025: ד'–א' 9:00–19:00 (כניסה אחרונה 18:30); סגור ב'–ג' – התוכנית משתמשת ביום ו' 27 באוגוסט (פתוח). לבדוק ב-muzeul-satului.ro. גוגל מציג 9:00–17:00 מדי יום."
    },
    "price_text": {
     "en": "≈ 80 RON (≈ €15) estimate: adults about 30 RON, children / pupils a fraction of that (2024 guide: adult 30, pensioner 15, student 8); the regular 2026 list was not found.",
@@ -2212,8 +2220,8 @@
    "price_eur": 14.95,
    "estimate": true,
    "time": {
-    "en": "2 h",
-    "he": "שעתיים"
+    "en": "2 h (9:30–11:30; shaded paths about 1.5 km in all, benches on the way)",
+    "he": "שעתיים (9:30–11:30; שבילים מוצלים כ-1.5 ק\"מ בסך הכול, ספסלים בדרך)"
    },
    "kids": {
     "en": "Real old houses, windmills and a wooden church moved from all over Romania, laid out around a shady lake-side park; flat paths and room to run. Combine with Herăstrău, next door.",
@@ -2264,8 +2272,8 @@
     "he": "מוזיאון הטבע על שם גריגורה אנטיפה"
    },
    "hours": {
-    "en": "Tue–Sun about 10:00–19:00 (Google), closed Monday; last entry 1 h earlier – check antipa.ro. Planned on Wed 25 Aug (open).",
-    "he": "ג'–א' בערך 10:00–19:00 (גוגל), סגור בשני; כניסה אחרונה שעה קודם – לבדוק ב-antipa.ro. מתוכנן ליום ד' 25 באוגוסט (פתוח)."
+    "en": "Tue–Sun about 10:00–19:00 (Google), closed Monday; last entry 1 h earlier – check antipa.ro. Planned on Wed 25 Aug, 16:00–18:00 (open; after the zoo and the midday rest).",
+    "he": "ג'–א' בערך 10:00–19:00 (גוגל), סגור בשני; כניסה אחרונה שעה קודם – לבדוק ב-antipa.ro. מתוכנן ליום ד' 25 באוגוסט, 16:00–18:00 (פתוח; אחרי גן החיות והמנוחה של הצהריים)."
    },
    "price_text": {
     "en": "≈ 80 RON (≈ €15) estimate: adult 32 RON (March 2026), student/reduced 8 RON; the children's price was not published, so 2 × 32 + 2 × 8. The live butterfly greenhouse is a separate ticket.",
@@ -2275,8 +2283,8 @@
    "price_eur": 14.95,
    "estimate": true,
    "time": {
-    "en": "2–3 h",
-    "he": "2–3 שעות"
+    "en": "2 h (air-conditioned; taxi 10 min)",
+    "he": "שעתיים (ממוזג; מונית 10 דקות)"
    },
    "kids": {
     "en": "A modern, air-conditioned museum with dioramas, a huge Deinotherium skeleton, dinosaurs, a mineral hall and a live butterfly greenhouse – good in the August heat.",
@@ -2323,27 +2331,27 @@
   "cismigiu": {
    "id": "cismigiu",
    "name": {
-    "en": "Cișmigiu Gardens (playground, lake, rowing boats)",
-    "he": "גני צ'ישמיג'יו (מגרש משחקים, אגם, סירות משוטים)"
+    "en": "Cișmigiu Gardens: playground and rowing boats on the lake",
+    "he": "גני צ'ישמיג'יו: מגרש משחקים וסירות משוטים באגם"
    },
    "hours": {
-    "en": "Park open 24/7; boat rental about 10:00–20:00 in summer (not confirmed)",
-    "he": "הפארק פתוח 24/7; השכרת סירות בערך 10:00–20:00 בקיץ (לא אומת)"
+    "en": "Park open 24 h (free); Google lists a boat pier ('Debarcaderul Cișmigiu', 3.7 from 51 reviews) but no hours; boats usually run about 10:00–20:00 in summer (not confirmed). Planned on Tue 24 Aug, 16:00–17:15 and again on Sat 28 Aug.",
+    "he": "הפארק פתוח 24 שעות (חינם); גוגל מציג מזח סירות ('Debarcaderul Cișmigiu', 3.7 מתוך 51 ביקורות) בלי שעות; הסירות בדרך כלל פועלות בערך 10:00–20:00 בקיץ (לא אומת). מתוכנן ליום ג' 24 באוגוסט, 16:00–17:15 וגם ביום ש' 28 באוגוסט."
    },
    "price_text": {
-    "en": "Park free; rowing boat price not found (ask at the kiosk).",
-    "he": "הפארק חינם; מחיר סירת משוטים לא נמצא (לשאול בקיוסק)."
+    "en": "≈ 40 RON (≈ €8), ESTIMATE: the park and playgrounds are free; a rowing boat for about 30 minutes was not priced anywhere (assumed 40 RON for a boat with 2–3 people). Ask at the pier.",
+    "he": "כ-40 לי\"י (כ-8 €), הערכה: הפארק ומגרשי המשחקים חינם; סירת משוטים לכ-30 דקות לא תומחרה באף מקור (הנחה: 40 לי\"י לסירה ל-2–3 אנשים). לשאול במזח."
    },
-   "price_czk": 0,
-   "price_eur": 0.0,
-   "estimate": false,
+   "price_czk": 40,
+   "price_eur": 7.48,
+   "estimate": true,
    "time": {
-    "en": "1.5–2 h",
-    "he": "שעה וחצי–שעתיים"
+    "en": "1–1.25 h (7-min walk from the apartment)",
+    "he": "שעה–שעה ורבע (7 דקות הליכה מהדירה)"
    },
    "kids": {
-    "en": "The old central park, 450 m from the apartment: a lake with rowing boats, shady paths, playgrounds and ducks – an easy first afternoon in the city.",
-    "he": "הפארק המרכזי הוותיק, 450 מ' מהדירה: אגם עם סירות משוטים, שבילים מוצלים, מגרשי משחקים וברווזים – אחר צהריים קל ראשון בעיר."
+    "en": "The old central park 450 m from the apartment: a lake with rowing boats, shady paths, playgrounds and ducks. Go after the afternoon rest (16:00), when the shade is deep and the heat of the day is gone; flat paths, no walking beyond 1 km.",
+    "he": "הפארק המרכזי הוותיק 450 מ' מהדירה: אגם עם סירות משוטים, שבילים מוצלים, מגרשי משחקים וברווזים. הולכים אחרי המנוחה של אחר הצהריים (16:00), כשהצל עמוק וחום היום חלף; שבילים שטוחים, בלי הליכה מעבר לק\"מ."
    },
    "optional": false,
    "google": {
@@ -2382,29 +2390,29 @@
   "zoo": {
    "id": "zoo",
    "name": {
-    "en": "Bucharest Zoo, Băneasa (optional)",
-    "he": "גן החיות של בוקרשט, בנאסה (אופציונלי)"
+    "en": "Bucharest Zoo, Băneasa: tigers, bears, monkeys and a petting corner",
+    "he": "גן החיות של בוקרשט, בנאסה: נמרים, דובים, קופים ופינת ליטוף"
    },
    "hours": {
-    "en": "Daily about 9:00–19:00 (Google Maps; older sources: weekdays 9–19, weekends 8–18). Fallback for Wed 25 Aug or Thu 26 Aug.",
-    "he": "מדי יום בערך 9:00–19:00 (גוגל מפות; במקורות ישנים: ימי חול 9–19, סופ\"ש 8–18). חלופה ליום ד' 25 או ה' 26 באוגוסט."
+    "en": "Apr–Oct, Tue–Sun about 9:00–19:00 (one 2026 visitor guide; older sources: weekends 8:00–18:00; the Google listing shows odd hours, so check on the day). Planned on Wed 25 Aug, 9:00–11:30 (open; the morning is cooler and the animals are active). Strada Vadul Moldovei 4; taxi about 25 min from the apartment.",
+    "he": "אפריל–אוקטובר, ג'–א' בערך 9:00–19:00 (מדריך מבקרים אחד מ-2026; מקורות ישנים: סופ\"ש 8:00–18:00; רישום גוגל מציג שעות מוזרות, ולכן לבדוק ביום עצמו). מתוכנן ליום ד' 25 באוגוסט, 9:00–11:30 (פתוח; הבוקר קריר יותר והחיות פעילות). Strada Vadul Moldovei 4; מונית כ-25 דקות מהדירה."
    },
    "price_text": {
-    "en": "≈ 60 RON (≈ €11) estimate: adult 20 RON and child 10 RON after the 2026 increase (reduced rate not confirmed).",
-    "he": "כ-60 לי\"י (כ-11 €) הערכה: מבוגר 20 לי\"י וילד 10 לי\"י אחרי העלאה ב-2026 (מחיר מוזל לא אומת)."
+    "en": "≈ 60 RON (≈ €11), estimate: adult 20 RON, child over 3 years 10 RON after the 2026 increase (reported by the press; no official tariff page found): 2 × 20 + 2 × 10. Tickets at the entrance.",
+    "he": "כ-60 לי\"י (כ-11 €), הערכה: מבוגר 20 לי\"י, ילד מעל גיל 3 10 לי\"י אחרי העלאת 2026 (לפי העיתונות; לא נמצא מחירון רשמי): 2 × 20 + 2 × 10. כרטיסים בכניסה."
    },
    "price_czk": 60,
    "price_eur": 11.21,
    "estimate": true,
    "time": {
-    "en": "2–3 h",
-    "he": "2–3 שעות"
+    "en": "2.5 h (flat; 5.85 ha, shaded paths)",
+    "he": "2.5 שעות (שטוח; 5.85 דונם, שבילים מוצלים)"
    },
    "kids": {
-    "en": "Cheap and easy, with big cats, bears, monkeys and a petting corner, but the enclosures are old (Google rating only 3.9). Take it only as a fallback; 25 min by taxi.",
-    "he": "זול וקל, עם חתולים גדולים, דובים, קופים ופינת ליטוף, אבל המתקנים ישנים (דירוג גוגל רק 3.9). רק כחלופה; 25 דקות במונית."
+    "en": "Real animals for a 5- and 7-year-old: big cats, bears, monkeys and a petting corner on a small, flat site (Google 3.9 from 16,202 reviews; the enclosures are old, so keep expectations modest). Go at 9:00 and be done by 11:30, then lunch and the long rest in the air-conditioned apartment.",
+    "he": "חיות אמיתיות לילדים בני 5 ו-7: חתולים גדולים, דובים, קופים ופינת ליטוף באתר קטן ושטוח (גוגל 3.9 מתוך 16,202 ביקורות; המתחמים ישנים, ולכן לא לצפות ליותר מדי). להגיע ב-9:00 ולסיים עד 11:30, ואז ארוחת צהריים ומנוחה ארוכה בדירה הממוזגת."
    },
-   "optional": true,
+   "optional": false,
    "google": {
     "name": "Zoo Bucharest",
     "rating": 3.9,
@@ -2439,65 +2447,286 @@
     [
      "Bugetul – Romanian zoos and ticket prices",
      "https://www.bugetul.ro/top-gradini-zoologice-din-romania-pe-care-merita-sa-le-vezi-cat-costa-biletul-de-intrare-cine-are-parte-de-reducere/"
+    ],
+    [
+     "UmbluTeleleu – Zoo Băneasa 2026: schedule and tickets",
+     "https://umblu-teleleu.ro/zoo-baneasa/"
+    ],
+    [
+     "Zoo Bucharest (official)",
+     "https://www.zoobucuresti.com/"
     ]
    ]
   },
-  "lipscani": {
-   "id": "lipscani",
+  "sinaia_coaster": {
+   "id": "sinaia_coaster",
    "name": {
-    "en": "Old Town (Lipscani) and Stavropoleos Monastery",
-    "he": "העיר העתיקה (ליפסקאני) ומנזר סטברופולאוס"
+    "en": "Sinaia: cable car up to Cota 1400 and the alpine coaster",
+    "he": "סינאיה: רכבל לקוטה 1400 ומגלשת הרים על מסילה"
    },
    "hours": {
-    "en": "Streets open 24/7; Stavropoleos Church about 8:00–19:00 (Google)",
-    "he": "הרחובות פתוחים 24/7; כנסיית סטברופולאוס בערך 8:00–19:00 (גוגל)"
+    "en": "Cable car from the town centre to Cota 1400: about 9:00–17:00 per a Nov 2026 guide (other guides say 8:00–17:00; summer times not confirmed). Alpine coaster at Cota 1400 (Google: 'Alpine coaster', Strada Cota 1400): opening hours and 2027 season NOT found. The older Sinaia gondola section Cota 1000–1400 was stopped in 2026 with no reopening date, so use the town-centre cable car. Planned on Fri 20 Aug, about 11:15–14:00 (a weekday). Call SinaiaGo / Transport Urban Sinaia the week before.",
+    "he": "רכבל ממרכז העיירה לקוטה 1400: בערך 9:00–17:00 לפי מדריך מנובמבר 2026 (מדריכים אחרים: 8:00–17:00; שעות קיץ לא אומתו). מגלשת ההרים בקוטה 1400 (גוגל: Alpine coaster, Strada Cota 1400): שעות הפתיחה ועונת 2027 לא נמצאו. קטע הגונדולה הישן קוטה 1000–1400 הופסק ב-2026 בלי מועד לפתיחה מחדש, ולכן משתמשים ברכבל ממרכז העיירה. מתוכנן ליום ו' 20 באוגוסט, בערך 11:15–14:00 (יום חול). להתקשר ל-SinaiaGo / Transport Urban Sinaia שבוע לפני."
    },
    "price_text": {
-    "en": "Free (a small donation at the church).",
-    "he": "חינם (תרומה קטנה בכנסייה)."
+    "en": "≈ 450 RON (≈ €85), ESTIMATE: cable car return 2 × (44 + 44 adult + 34 + 34 child) ≈ 312 RON (2025–26 tariff of one section; children under 5 free, ages 5–12 need proof of age; guides disagree) + 2 coaster sleds at about 70 RON per descent (a 2025 press report; each sled seats an adult with a child) = 140 RON. Check the operator's price list.",
+    "he": "כ-450 לי\"י (כ-85 €), הערכה: רכבל הלוך-חזור 2 × (44 + 44 מבוגר + 34 + 34 ילד) ≈ 312 לי\"י (תעריף 2025–26 לקטע אחד; מתחת לגיל 5 חינם, בגילי 5–12 צריך הוכחת גיל; המדריכים לא מסכימים) + 2 מזחלות במגלשה בכ-70 לי\"י לירידה (דיווח בעיתונות מ-2025; כל מזחלת מכילה מבוגר עם ילד) = 140 לי\"י. לבדוק במחירון של המפעיל."
    },
-   "price_czk": 0,
-   "price_eur": 0.0,
-   "estimate": false,
+   "price_czk": 450,
+   "price_eur": 84.11,
+   "estimate": true,
    "time": {
-    "en": "1–1.5 h",
-    "he": "שעה–שעה וחצי"
+    "en": "2.5–3 h (cable car about 15 min each way; the hotel is 2 km from the lower station)",
+    "he": "2.5–3 שעות (רכבל כ-15 דקות לכל כיוון; המלון במרחק 2 ק\"מ מהתחנה התחתונה)"
    },
    "kids": {
-    "en": "A short walk through the cobbled pedestrian lanes with ice-cream shops, then the quiet, beautiful courtyard of Stavropoleos (5 minutes). Keep it short in the evening heat; busy bars at night.",
-    "he": "הליכה קצרה ברחובות מרוצפים להולכי רגל עם חנויות גלידה, ואז החצר השקטה והיפה של סטברופולאוס (5 דקות). לשמור על קצר בחום הערב; בלילה הרבה ברים."
+    "en": "Two real kid rides in cool mountain air (10 °C cooler than Bucharest): a cable car over the forest and a rail toboggan (alpine coaster) through the meadows, an adult riding with each child (the 2.2 km Sinaia run is described as the longest in Eastern Europe). Lunch in a mountain restaurant at Cota 1400, no hiking. If the coaster is not running, the cable car and the view still make a good morning; fall back to Dimitrie Ghica Park and the Casino in the centre (flat, free).",
+    "he": "שתי נסיעות ילדים אמיתיות באוויר הררי קריר (10 מעלות פחות מבוקרשט): רכבל מעל היער ומגלשת הרים על מסילה (קרון זחל) בין הכרים, מבוגר רוכב עם כל ילד (הסיבוב של 2.2 ק\"מ בסינאיה מתואר כארוך ביותר במזרח אירופה). ארוחת צהריים במסעדת הר בקוטה 1400, בלי הליכה. אם המגלשה לא פועלת, הרכבל והנוף עדיין מצוינים לבוקר; חלופה: פארק דימיטרי גיקה והקזינו במרכז (שטוח, חינם)."
    },
    "optional": false,
    "google": {
-    "name": "The Church of the \"Stavropoleos\" Monastery",
-    "rating": 4.8,
-    "reviews": 6519,
-    "lat": 44.431793,
-    "lng": 26.098861,
-    "address": "Strada Stavropoleos 4, 030167 București, Romania",
-    "website": "https://www.stavropoleos.ro/en/monastery/the-church-of-stavropoleos-monastery/",
-    "place_id": "ChIJEZe8dkD_sUARM-n4qdjze5c",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Church%20of%20the%20%22Stavropoleos%22%20Monastery&query_place_id=ChIJEZe8dkD_sUARM-n4qdjze5c",
-    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.431793,26.098861&travelmode=driving"
+    "name": "Alpine coaster",
+    "rating": 3.5,
+    "reviews": 61,
+    "lat": 45.354393,
+    "lng": 25.51812,
+    "address": "Strada Cota 1400, 106100 Sinaia, Romania",
+    "website": null,
+    "place_id": "ChIJN2b4TQAXs0ARdGS1ZIrCo8Y",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Alpine%20coaster&query_place_id=ChIJN2b4TQAXs0ARdGS1ZIrCo8Y",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.354393,25.518120&travelmode=driving"
    },
    "rating": {
     "source": "Google Maps",
-    "score": 4.8,
+    "score": 3.5,
     "out_of": 5,
-    "reviews": 6519,
-    "url": "https://www.google.com/maps/search/?api=1&query=The%20Church%20of%20the%20%22Stavropoleos%22%20Monastery&query_place_id=ChIJEZe8dkD_sUARM-n4qdjze5c"
+    "reviews": 61,
+    "url": "https://www.google.com/maps/search/?api=1&query=Alpine%20coaster&query_place_id=ChIJN2b4TQAXs0ARdGS1ZIrCo8Y"
    },
    "photo": {
-    "file": "img/ro/lipscani-1.jpg",
+    "file": "img/ro/sinaia_coaster-1.jpg",
     "w": 1000,
-    "h": 750,
-    "source_page": "https://www.google.com/maps/search/?api=1&query=The%20Church%20of%20the%20\"Stavropoleos\"%20Monastery&query_place_id=ChIJEZe8dkD_sUARM-n4qdjze5c",
+    "h": 1777,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Alpine%20coaster%20Sinaia&query_place_id=ChIJN2b4TQAXs0ARdGS1ZIrCo8Y",
     "credit": "Google Maps listing photo"
    },
    "sources": [
     [
-     "Stavropoleos Monastery (official)",
-     "https://www.stavropoleos.ro/en/monastery/the-church-of-stavropoleos-monastery/"
+     "Wall Street RO – Sinaia gondola Cota 1000–1400 closed (2026)",
+     "https://www.wall-street.ro/articol/turism/probleme-la-sinaia-inainte-de-sezonul-de-schi-gondola-inchisa"
+    ],
+    [
+     "Găzarul – cable transport prices, Prahova Valley winter 2026–27",
+     "https://gazarul.ro/2026/11/06/cat-costa-transportul-pe-cablu-pe-valea-prahovei-in-iarna-2026-2027/"
+    ],
+    [
+     "Observator – Sinaia alpine sled opened (about 70 lei a descent)",
+     "https://observatornews.ro/economic/cea-mai-lunga-sanie-alpina-din-romania-deschisa-la-sinaia-ai-padure-ai-adrenalina-cat-costa-639540.html"
+    ],
+    [
+     "Google Maps – Alpine coaster, Cota 1400",
+     "https://www.google.com/maps/search/?api=1&query=Alpine%20coaster%20Sinaia&query_place_id=ChIJN2b4TQAXs0ARdGS1ZIrCo8Y"
+    ]
+   ]
+  },
+  "predeal_coaster": {
+   "id": "predeal_coaster",
+   "name": {
+    "en": "Predeal Mountain Coaster (summer rail toboggan)",
+    "he": "מגלשת ההרים בפרדיאל (קרון זחל על מסילה)"
+   },
+   "hours": {
+    "en": "Press reports of Aug 2025: 10:00–17:00 daily at 28 RON a ride (one site lists up to 19:00). Google listing: Fri–Sun 10:00–16:00, Mon–Thu closed (may be a seasonal listing: check). Planned on Sun 22 Aug at about 11:30, straight after the Babele cable car (25 min north on DN1, northbound traffic is light on Sunday morning). Strada Teleferic 100, Predeal.",
+    "he": "דיווחי עיתונות מאוגוסט 2025: 10:00–17:00 מדי יום, 28 לי\"י לנסיעה (באתר אחד עד 19:00). רישום בגוגל: ו'–א' 10:00–16:00, ב'–ה' סגור (אולי רישום עונתי: לבדוק). מתוכנן ליום א' 22 באוגוסט בסביבות 11:30, מיד אחרי רכבל בבלה (25 דקות צפונה ב-DN1; ביום ראשון בבוקר התנועה צפונה קלה). Strada Teleferic 100, פרדיאל."
+   },
+   "price_text": {
+    "en": "≈ 112 RON (≈ €21), estimate: 28 RON a ride, each sled takes an adult with one child (up to age 12 per one report) = 2 sleds × 2 runs. 2027 price not published.",
+    "he": "כ-112 לי\"י (כ-21 €), הערכה: 28 לי\"י לנסיעה, כל מזחלת מכילה מבוגר עם ילד אחד (עד גיל 12 לפי דיווח אחד) = 2 מזחלות × 2 נסיעות. מחיר 2027 לא פורסם."
+   },
+   "price_czk": 112,
+   "price_eur": 20.93,
+   "estimate": true,
+   "time": {
+    "en": "1–1.5 h on site (+ 25 min drive each way)",
+    "he": "שעה–שעה וחצי במקום (+ 25 דקות נסיעה לכל כיוון)"
+   },
+   "kids": {
+    "en": "An 822 m rail toboggan through the forest with a loop and a 91 m drop, ridden with a parent who controls the speed: the kids will ask for a second go. Shaded track, cool at 1,000 m. Minimum age/height not published: ask at the ticket booth for the 5-year-old (he rides in the parent's sled). Leave Predeal by 13:30, before the Sunday southbound jam builds up.",
+    "he": "מגלשה על מסילה באורך 822 מ' ביער עם לולאה וירידה של 91 מ', רוכבים עם הורה ששולט במהירות: הילדים יבקשו עוד סיבוב. מסלול מוצל, קריר בגובה 1,000 מ'. גיל/גובה מינימלי לא פורסמו: לשאול בקופה לגבי הילד בן ה-5 (רוכב במזחלת של ההורה). יוצאים מפרדיאל עד 13:30, לפני שהפקק דרומה ביום ראשון מתחיל."
+   },
+   "optional": false,
+   "google": {
+    "name": "Mountain Coaster Predeal - Sanie de vară / iarnă",
+    "rating": 4.1,
+    "reviews": 141,
+    "lat": 45.497115,
+    "lng": 25.581553,
+    "address": "Strada Teleferic 100, 505300 Predeal, Romania",
+    "website": "http://predeal.ro/",
+    "place_id": "ChIJt0DxAx1Bs0ARjgRhGfFq0Xo",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Mountain%20Coaster%20Predeal%20-%20Sanie%20de%20var%C4%83%20/%20iarn%C4%83&query_place_id=ChIJt0DxAx1Bs0ARjgRhGfFq0Xo",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.497115,25.581553&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.1,
+    "out_of": 5,
+    "reviews": 141,
+    "url": "https://www.google.com/maps/search/?api=1&query=Mountain%20Coaster%20Predeal%20-%20Sanie%20de%20var%C4%83%20/%20iarn%C4%83&query_place_id=ChIJt0DxAx1Bs0ARjgRhGfFq0Xo"
+   },
+   "photo": {
+    "file": "img/ro/predeal_coaster-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Mountain%20Coaster%20Predeal&query_place_id=ChIJt0DxAx1Bs0ARjgRhGfFq0Xo",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Monitorul Expres – 'One ride, 28 lei', Predeal summer sled",
+     "https://www.monitorulexpres.ro/2025/08/22/o-tura-28-lei-sanie-de-vara-la-predeal/"
+    ],
+    [
+     "Brașov.net – Predeal sled: schedule and price",
+     "https://www.brasov.net/video-sania-de-vara-de-la-predeal-a-fost-deschisa-care-este-programul-si-cat-costa-o-tura/"
+    ],
+    [
+     "Google Maps – Mountain Coaster Predeal",
+     "https://www.google.com/maps/search/?api=1&query=Mountain%20Coaster%20Predeal&query_place_id=ChIJt0DxAx1Bs0ARjgRhGfFq0Xo"
+    ]
+   ]
+  },
+  "oraselul": {
+   "id": "oraselul",
+   "name": {
+    "en": "Children's Town (Orășelul Copiilor), Tineretului Park: rides and mini train",
+    "he": "עיר הילדים (Orășelul Copiilor) בפארק טינרטולוי: מתקנים ורכבת קטנה"
+   },
+   "hours": {
+    "en": "Free entry, rides paid separately; Google lists 7:00–22:00 daily (rides usually run about 10:00–20:00 in the warm months, unconfirmed). Planned on Tue 24 Aug, about 18:00–19:30 when the heat has eased. Taxi from the apartment about 10–15 min; metro Tineretului also works.",
+    "he": "כניסה חינם, המתקנים בתשלום נפרד; גוגל: 7:00–22:00 מדי יום (המתקנים בדרך כלל פועלים בערך 10:00–20:00 בחודשים החמים, לא אומת). מתוכנן ליום ג' 24 באוגוסט, בערך 18:00–19:30 כשהחום יורד. מונית מהדירה כ-10–15 דקות; גם מטרו טינרטולוי מתאים."
+   },
+   "price_text": {
+    "en": "≈ 150 RON (≈ €28), ESTIMATE: mini train about 15–20 RON a ticket (an older guide; small children free or discounted), rides 10–25 RON each (a 2026 guide): 4 train tickets + about 3 rides.",
+    "he": "כ-150 לי\"י (כ-28 €), הערכה: הרכבת הקטנה כ-15–20 לי\"י לכרטיס (מדריך ישן; ילדים קטנים חינם או בהנחה), מתקנים 10–25 לי\"י כל אחד (מדריך 2026): 4 כרטיסי רכבת + כ-3 מתקנים."
+   },
+   "price_czk": 150,
+   "price_eur": 28.04,
+   "estimate": true,
+   "time": {
+    "en": "1.5–2 h (flat, shaded paths)",
+    "he": "שעה וחצי–שעתיים (שבילים שטוחים ומוצלים)"
+   },
+   "kids": {
+    "en": "The classic Bucharest children's amusement park (since 1953; Google 4.5 from 25,217 reviews): a Ferris wheel, carousels and small rides for 3–10 year olds, playgrounds and the small train that circles the grounds, all under trees. Evening is the right time: the heat is gone and the lights come on. Rides can be closed or run down on weekdays: if so, the playgrounds and the park lake are free.",
+    "he": "פארק השעשועים הקלאסי של בוקרשט לילדים (מ-1953; גוגל 4.5 מתוך 25,217 ביקורות): גלגל ענק, קרוסלות ומתקנים קטנים לגילי 3–10, מגרשי משחקים והרכבת הקטנה שמקיפה את המתחם, הכול תחת עצים. הערב הוא הזמן הנכון: החום חלף והאורות נדלקים. מתקנים עלולים להיות סגורים או ישנים באמצע השבוע: אם כך – מגרשי המשחקים ואגם הפארק חינם."
+   },
+   "optional": false,
+   "google": {
+    "name": "Children's Town Bucharest",
+    "rating": 4.5,
+    "reviews": 25217,
+    "lat": 44.400514,
+    "lng": 26.108279,
+    "address": "041701 București0, Romania",
+    "website": "https://m.facebook.com/pages/Oraselul-Copiilor-sector-4-Bucuresti/495329373858941",
+    "place_id": "ChIJ_wQUY1H-sUARfM74_1E_z3Y",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Children%27s%20Town%20Bucharest&query_place_id=ChIJ_wQUY1H-sUARfM74_1E_z3Y",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.400514,26.108279&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 25217,
+    "url": "https://www.google.com/maps/search/?api=1&query=Children%27s%20Town%20Bucharest&query_place_id=ChIJ_wQUY1H-sUARfM74_1E_z3Y"
+   },
+   "photo": {
+    "file": "img/ro/oraselul-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Orasel%20Copiilor%20Bucuresti&query_place_id=ChIJ_wQUY1H-sUARfM74_1E_z3Y",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Umblu-teleleu – Orășelul Copiilor",
+     "https://umblu-teleleu.ro/oraselul-copiilor/"
+    ],
+    [
+     "Viața de Părinte – Orășelul Copiilor program and prices [2026]",
+     "https://viatadeparinte.ro/oraselul-copiilor-bucuresti/"
+    ],
+    [
+     "Google Maps – Children's Town Bucharest",
+     "https://www.google.com/maps/search/?api=1&query=Orasel%20Copiilor%20Bucuresti&query_place_id=ChIJ_wQUY1H-sUARfM74_1E_z3Y"
+    ]
+   ]
+  },
+  "tech": {
+   "id": "tech",
+   "name": {
+    "en": "Dimitrie Leonida Technical Museum in Carol Park (interactive route 'Micii Inventatori')",
+    "he": "המוזיאון הטכני דימיטרי לאונידה בפארק קרול (מסלול אינטראקטיבי 'Micii Inventatori')"
+   },
+   "hours": {
+    "en": "Reopened with new interactive displays on 28 Mar 2026. Wed–Sun about 9:30/10:00–17:00/18:00 (Google: 9:30–17:00; reopening reports: Saturday 10:00–18:00); closed Mon–Tue. Planned on Sat 28 Aug at 10:00 (open); entrance through Carol I Park, Str. General Candiano Popescu 2. Check the museum's page for 2027 hours.",
+    "he": "נפתח מחדש עם תצוגות אינטראקטיביות חדשות ב-28 במרץ 2026. ד'–א' בערך 9:30/10:00–17:00/18:00 (גוגל: 9:30–17:00; בדיווחי הפתיחה מחדש: שבת 10:00–18:00); סגור ב'–ג'. מתוכנן ליום ש' 28 באוגוסט ב-10:00 (פתוח); כניסה דרך פארק קרול I, Str. General Candiano Popescu 2. לבדוק באתר המוזיאון את שעות 2027."
+   },
+   "price_text": {
+    "en": "≈ 64 RON (≈ €12), ESTIMATE: one travel site quotes a family ticket of 64 RON for 2 adults + 2 children (other listings: adult 20, child 5 RON; photography 10 RON). Not an official price list.",
+    "he": "כ-64 לי\"י (כ-12 €), הערכה: אתר תיירות אחד מציין כרטיס משפחתי של 64 לי\"י ל-2 מבוגרים + 2 ילדים (רישומים אחרים: מבוגר 20, ילד 5 לי\"י; צילום 10 לי\"י). לא מחירון רשמי."
+   },
+   "price_czk": 64,
+   "price_eur": 11.96,
+   "estimate": true,
+   "time": {
+    "en": "1.5–2 h (taxi about 15 min from the apartment; air-conditioned)",
+    "he": "שעה וחצי–שעתיים (מונית כ-15 דקות מהדירה; ממוזג)"
+   },
+   "kids": {
+    "en": "A hall of real steam engines, locomotive models, a power-plant boiler and generators, with the new 'Micii Inventatori' children's route (guided tour and a hands-on workshop, per museum announcements; the workshop dates were event-based, so ask on the day). Cool inside, on the morning of the last day. Afterwards 20 minutes on the shaded lawns of Carol I Park (open 24 h, Google 4.6 from 18,970 reviews; playgrounds there were not confirmed).",
+    "he": "אולם של מכונות קיטור אמיתיות, דגמי קטרים, דוד של תחנת כוח וגנרטורים, עם מסלול הילדים החדש 'Micii Inventatori' (סיור מודרך וסדנה מעשית, לפי הודעות המוזיאון; מועדי הסדנה היו לפי אירועים, ולכן לשאול במקום). קריר בפנים, בבוקר של היום האחרון. אחר כך 20 דקות על הדשא המוצל של פארק קרול I (פתוח 24 שעות, גוגל 4.6 מתוך 18,970 ביקורות; מגרשי משחקים לא אומתו)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Dimitrie Leonida Technical Museum",
+    "rating": 4.2,
+    "reviews": 1045,
+    "lat": 44.41753,
+    "lng": 26.096118,
+    "address": "intrarea prin parcul Carol I, Strada General Candiano Popescu 2, 040583 București, Romania",
+    "website": "https://www.muzeultehnic.ro/",
+    "place_id": "ChIJSwaZIA__sUARMX6He1nOKiA",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Dimitrie%20Leonida%20Technical%20Museum&query_place_id=ChIJSwaZIA__sUARMX6He1nOKiA",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.417530,26.096118&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.2,
+    "out_of": 5,
+    "reviews": 1045,
+    "url": "https://www.google.com/maps/search/?api=1&query=Dimitrie%20Leonida%20Technical%20Museum&query_place_id=ChIJSwaZIA__sUARMX6He1nOKiA"
+   },
+   "photo": {
+    "file": "img/ro/tech-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Muzeul%20Tehnic%20Dimitrie%20Leonida&query_place_id=ChIJSwaZIA__sUARMX6He1nOKiA",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Agerpres – the historic wing reopens on 28 Mar 2026",
+     "https://agerpres.ro/economic/2026/03/26/aripa-istorica-a-muzeului-national-tehnic-prof-ing-dimitrie-leonida-se-redeschide-sambata--1541291"
+    ],
+    [
+     "Bucharest.ro – museums in Bucharest for kids 2026",
+     "https://www.bucharest.ro/articles/museums-in-bucharest-for-kids-12-places-worth-visiting-in-2026-1153"
+    ],
+    [
+     "Google Maps – Dimitrie Leonida Technical Museum",
+     "https://www.google.com/maps/search/?api=1&query=Muzeul%20Tehnic%20Dimitrie%20Leonida&query_place_id=ChIJSwaZIA__sUARMX6He1nOKiA"
     ]
    ]
   }
@@ -2647,8 +2876,8 @@
     "he": "ו'"
    },
    "title": {
-    "en": "Peleș Castle (first slot), pool afternoon",
-    "he": "טירת פלש (שעה ראשונה) ובריכה אחר הצהריים"
+    "en": "Peleș Castle, the Sinaia cable car and alpine coaster, pool afternoon",
+    "he": "טירת פלש, רכבל סינאיה ומגלשת הרים, אחר צהריים בבריכה"
    },
    "trail": "green",
    "overnight": "hotel_carpathia",
@@ -2662,28 +2891,39 @@
      "he": "טירת פלש במרחק 5 דקות נסיעה. ביום שישי היא פתוחה מ-9:15 ועוד לפני עומס סוף השבוע (ביום שני היא סגורה), אז להזמין באינטרנט את השעה הראשונה. סיור מודרך (כ-45–60 דקות), ואז המרפסות והגנים; חונים בחניון התחתון ועולים בשביל הרחב."
     },
     {
-     "en": "Lunch in Sinaia, then afternoon rest and the pool/sauna of the free spa. Fill the tank and shop for snacks: tomorrow starts early.",
-     "he": "ארוחת צהריים בסינאיה, ואחר כך מנוחה ובריכה/סאונה בספא החינמי. מתדלקים וקונים חטיפים: מחר מתחילים מוקדם."
+     "en": "About 11:15 the cable car from the town centre up to Cota 1400 (about 15 min), then the alpine coaster (an adult in each sled with a child) and lunch in the mountain restaurant in cool air, back down by about 14:00. Call the operator first: the older gondola section Cota 1000–1400 was stopped in 2026, and the coaster's summer hours were not found. If something is closed: Dimitrie Ghica Park and the Casino of Sinaia in the centre (flat, free).",
+     "he": "בסביבות 11:15 רכבל ממרכז העיירה לקוטה 1400 (כ-15 דקות), ואז מגלשת ההרים (מבוגר בכל מזחלת עם ילד) וארוחת צהריים במסעדת ההר באוויר קריר, יורדים עד בערך 14:00. להתקשר למפעיל קודם: קטע הגונדולה הישן קוטה 1000–1400 הופסק ב-2026, ושעות הקיץ של המגלשה לא נמצאו. אם משהו סגור: פארק דימיטרי גיקה והקזינו של סינאיה במרכז (שטוח, חינם)."
+    },
+    {
+     "en": "14:30–17:30 the hotel's indoor pool, saunas and hot tub (free spa access) in the hottest hours. Fill the tank and shop for snacks: tomorrow starts early.",
+     "he": "14:30–17:30 הבריכה המקורה, הסאונות והג'קוזי של המלון (ספא חינם) בשעות החמות ביותר. מתדלקים וקונים חטיפים: מחר מתחילים מוקדם."
     }
    ],
    "attractions": [
-    "peles"
+    "peles",
+    "sinaia_coaster"
    ],
    "route": {
-    "km": 5.6,
-    "minutes": 11,
+    "km": 6.0,
+    "minutes": 14,
     "legs": [
      {
       "from": "Hotel Carpathia, Sinaia",
       "to": "Peleș Castle",
-      "km": 2.9,
-      "min": 5
+      "km": 2.8,
+      "min": 6
      },
      {
       "from": "Peleș Castle",
+      "to": "Sinaia centre (cable car to Cota 1400)",
+      "km": 1.9,
+      "min": 5
+     },
+     {
+      "from": "Sinaia centre (cable car to Cota 1400)",
       "to": "Hotel Carpathia, Sinaia",
-      "km": 2.8,
-      "min": 6
+      "km": 1.3,
+      "min": 2
      }
     ],
     "points": [
@@ -2696,6 +2936,11 @@
       "name": "Peleș Castle",
       "lat": 45.35998,
       "lng": 25.54264
+     },
+     {
+      "name": "Sinaia centre (cable car to Cota 1400)",
+      "lat": 45.3543,
+      "lng": 25.5521
      },
      {
       "name": "Hotel Carpathia, Sinaia",
@@ -2726,200 +2971,176 @@
        45.350473
       ],
       [
-       25.547902,
-       45.351969
+       25.54839,
+       45.351215
       ],
       [
-       25.546451,
-       45.353162
+       25.549302,
+       45.354309
       ],
       [
-       25.54564,
-       45.353331
-      ],
-      [
-       25.544716,
-       45.353895
-      ],
-      [
-       25.543766,
-       45.353972
-      ],
-      [
-       25.543004,
-       45.354217
-      ],
-      [
-       25.54083,
-       45.35545
-      ],
-      [
-       25.540581,
-       45.35541
-      ],
-      [
-       25.540418,
-       45.355145
-      ],
-      [
-       25.540181,
-       45.354252
-      ],
-      [
-       25.539598,
-       45.353769
-      ],
-      [
-       25.53963,
-       45.354492
-      ],
-      [
-       25.539152,
-       45.354879
-      ],
-      [
-       25.538849,
-       45.355616
-      ],
-      [
-       25.538979,
-       45.356222
-      ],
-      [
-       25.53919,
-       45.356407
-      ],
-      [
-       25.540261,
-       45.356452
-      ],
-      [
-       25.54047,
-       45.356592
-      ],
-      [
-       25.539885,
-       45.356792
-      ],
-      [
-       25.540128,
-       45.35747
-      ],
-      [
-       25.539178,
-       45.358859
-      ],
-      [
-       25.539313,
-       45.359295
-      ],
-      [
-       25.539575,
-       45.359383
-      ],
-      [
-       25.539907,
-       45.359184
-      ],
-      [
-       25.540451,
-       45.359216
-      ],
-      [
-       25.54179,
-       45.358792
-      ],
-      [
-       25.542566,
-       45.358856
-      ],
-      [
-       25.543414,
-       45.358721
-      ],
-      [
-       25.544206,
-       45.358845
-      ],
-      [
-       25.544423,
-       45.358214
-      ],
-      [
-       25.545316,
-       45.357149
-      ],
-      [
-       25.546376,
-       45.35628
-      ],
-      [
-       25.547313,
-       45.355806
-      ],
-      [
-       25.54728,
-       45.35559
-      ],
-      [
-       25.546981,
-       45.355306
-      ],
-      [
-       25.545932,
-       45.354871
-      ],
-      [
-       25.545564,
-       45.354836
-      ],
-      [
-       25.543494,
-       45.355831
-      ],
-      [
-       25.542161,
-       45.355937
-      ],
-      [
-       25.543783,
-       45.355058
-      ],
-      [
-       25.544378,
-       45.354968
-      ],
-      [
-       25.545047,
-       45.354639
-      ],
-      [
-       25.546465,
-       45.354475
-      ],
-      [
-       25.54715,
-       45.354599
-      ],
-      [
-       25.548449,
-       45.355594
-      ],
-      [
-       25.548574,
-       45.355114
-      ],
-      [
-       25.549063,
-       45.3549
+       25.548709,
+       45.35403
       ],
       [
        25.54848,
        45.35409
       ],
       [
-       25.548709,
-       45.35403
+       25.549063,
+       45.3549
+      ],
+      [
+       25.548574,
+       45.355114
+      ],
+      [
+       25.548449,
+       45.355594
+      ],
+      [
+       25.547217,
+       45.354637
+      ],
+      [
+       25.546465,
+       45.354475
+      ],
+      [
+       25.54516,
+       45.354615
+      ],
+      [
+       25.544378,
+       45.354968
+      ],
+      [
+       25.543837,
+       45.35504
+      ],
+      [
+       25.542161,
+       45.355937
+      ],
+      [
+       25.543494,
+       45.355831
+      ],
+      [
+       25.545564,
+       45.354836
+      ],
+      [
+       25.545932,
+       45.354871
+      ],
+      [
+       25.546981,
+       45.355306
+      ],
+      [
+       25.54728,
+       45.35559
+      ],
+      [
+       25.547313,
+       45.355806
+      ],
+      [
+       25.546376,
+       45.35628
+      ],
+      [
+       25.545316,
+       45.357149
+      ],
+      [
+       25.544423,
+       45.358214
+      ],
+      [
+       25.544206,
+       45.358845
+      ],
+      [
+       25.547786,
+       45.358235
+      ],
+      [
+       25.549018,
+       45.35698
+      ],
+      [
+       25.549688,
+       45.356576
+      ],
+      [
+       25.550026,
+       45.356564
+      ],
+      [
+       25.550881,
+       45.35692
+      ],
+      [
+       25.551728,
+       45.357034
+      ],
+      [
+       25.554242,
+       45.356379
+      ],
+      [
+       25.554537,
+       45.355503
+      ],
+      [
+       25.553265,
+       45.354332
+      ],
+      [
+       25.55171,
+       45.352576
+      ],
+      [
+       25.550601,
+       45.352392
+      ],
+      [
+       25.550055,
+       45.352488
+      ],
+      [
+       25.549703,
+       45.353186
+      ],
+      [
+       25.549863,
+       45.353663
+      ],
+      [
+       25.550286,
+       45.354096
+      ],
+      [
+       25.551628,
+       45.354768
+      ],
+      [
+       25.552407,
+       45.355175
+      ],
+      [
+       25.55235,
+       45.355497
+      ],
+      [
+       25.551503,
+       45.355094
+      ],
+      [
+       25.550163,
+       45.354763
       ],
       [
        25.549302,
@@ -2944,7 +3165,7 @@
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.35998%2C25.54264"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.35998%2C25.54264%7C45.3543%2C25.5521"
    }
   },
   {
@@ -2970,8 +3191,8 @@
      "he": "17 דקות לדינו פארק ראשנוב (פתוח בשבת 10:00–19:00): דינוזאורים, מגרש משחקים וארוחת צהריים; 2.5–3 שעות. אופציונלי: מצודת ראשנוב שלידו (לבדוק שפתוחה)."
     },
     {
-     "en": "0h52 back to Sinaia, about 17:00 (southbound traffic is normal on a Saturday afternoon; the big southbound jam is on Sunday). Evening in the pool. 2h12 of driving in total.",
-     "he": "52 דקות חזרה לסינאיה, בסביבות 17:00 (בשבת אחר הצהריים התנועה דרומה רגילה; הפקק הגדול דרומה הוא ביום ראשון). ערב בבריכה. בסך הכול 2:12 שעות נסיעה."
+     "en": "0h52 back to Sinaia, about 17:00 (southbound traffic is normal on a Saturday afternoon; the big southbound jam is on Sunday). Evening in the pool. 2h12 of driving in total. Midday heat: the Libearty tour is in the forest in the morning and Dino Parc has shaded paths; bring hats and water, and keep the Râșnov Citadel optional.",
+     "he": "52 דקות חזרה לסינאיה, בסביבות 17:00 (בשבת אחר הצהריים התנועה דרומה רגילה; הפקק הגדול דרומה הוא ביום ראשון). ערב בבריכה. בסך הכול 2:12 שעות נסיעה. חום הצהריים: הסיור בליברטי ביער בבוקר ובדינו פארק יש שבילים מוצלים; להביא כובעים ומים, ומצודת ראשנוב נשארת אופציונלית."
     }
    ],
    "attractions": [
@@ -3396,31 +3617,32 @@
     "he": "א'"
    },
    "title": {
-    "en": "Cable car to the Bucegi plateau, pool afternoon",
-    "he": "רכבל לרמת בוצ'ג'י ואחר צהריים בבריכה"
+    "en": "Babele cable car and the Predeal Mountain Coaster, pool afternoon",
+    "he": "רכבל בבלה ומגלשת ההרים בפרדיאל, אחר צהריים בבריכה"
    },
    "trail": "blue",
    "overnight": "hotel_carpathia",
    "plan": [
     {
-     "en": "Sunday: be at the Bușteni cable car for the 8:00 opening (11 min from Sinaia) – queues and traffic on DN1 build up later; ride up to Babele, easy 10–15 min walk to the Sphinx and the rocks, jackets for the kids. A short local day on purpose: Sunday afternoon DN1 is jammed.",
-     "he": "יום ראשון: להיות ברכבל בושטני בפתיחה ב-8:00 (11 דקות מסינאיה) – התורים והפקקים ב-DN1 גדלים מאוחר יותר; עולים לבבלה, הליכה קלה של 10–15 דקות לספינקס ולסלעים, ג'קטים לילדים. יום מקומי קצר בכוונה: ביום ראשון אחר הצהריים DN1 חסום."
+     "en": "Sunday: be at the Bușteni cable car for the 8:00 opening (11 min from Sinaia) – queues and traffic on DN1 build up later. Ride up to Babele, an easy 10–15 min walk to the Sphinx and the rocks, jackets for the kids. Before the ride the kids can use the small playground by the lower station.",
+     "he": "יום ראשון: להיות ברכבל בושטני בפתיחה ב-8:00 (11 דקות מסינאיה) – התורים והפקקים ב-DN1 גדלים מאוחר יותר. עולים לבבלה, הליכה קלה של 10–15 דקות לספינקס ולסלעים, ג'קטים לילדים. לפני הנסיעה הילדים יכולים לשחק במגרש הקטן ליד התחנה התחתונה."
     },
     {
-     "en": "Down by about 11:30, lunch in Bușteni or Sinaia (back before the weekend traffic).",
-     "he": "יורדים בסביבות 11:30, ארוחת צהריים בבושטני או בסינאיה (חוזרים לפני תנועת סוף השבוע)."
+     "en": "Down by about 10:45, then 25 min north on DN1 (Sunday morning, northbound is light) to the Predeal Mountain Coaster for about 11:30: the 822 m rail toboggan through the forest, an adult with a child in each sled, two runs each. Lunch in Predeal.",
+     "he": "יורדים בסביבות 10:45, ואז 25 דקות צפונה ב-DN1 (בוקר של יום ראשון, צפונה קל) למגלשת ההרים בפרדיאל בסביבות 11:30: מסילה של 822 מ' ביער, מבוגר עם ילד בכל מזחלת, שתי נסיעות לכל אחד. ארוחת צהריים בפרדיאל."
     },
     {
-     "en": "Afternoon: the hotel's indoor pool, saunas and hot tub (free spa access); pack a little for the Brașov day tomorrow.",
-     "he": "אחר הצהריים: הבריכה המקורה, הסאונות והג'קוזי של המלון (ספא חינם); מכינים תיק קטן ליום ברשוב מחר."
+     "en": "Leave Predeal by 13:30 (25 min) – back in Sinaia before the Sunday southbound jam. 1h02 of driving in all. Afternoon: the hotel's indoor pool, saunas and hot tub (free spa access); pack a little for the Brașov day tomorrow.",
+     "he": "יוצאים מפרדיאל עד 13:30 (25 דקות) – חוזרים לסינאיה לפני הפקק של יום ראשון דרומה. בסך הכול 1:02 שעות נסיעה. אחר הצהריים: הבריכה המקורה, הסאונות והג'קוזי של המלון (ספא חינם); מכינים תיק קטן ליום ברשוב מחר."
     }
    ],
    "attractions": [
-    "babele"
+    "babele",
+    "predeal_coaster"
    ],
    "route": {
-    "km": 18.1,
-    "minutes": 23,
+    "km": 45.2,
+    "minutes": 62,
     "legs": [
      {
       "from": "Hotel Carpathia, Sinaia",
@@ -3430,9 +3652,15 @@
      },
      {
       "from": "Bușteni – Babele cable car",
+      "to": "Predeal Mountain Coaster",
+      "km": 14.8,
+      "min": 25
+     },
+     {
+      "from": "Predeal Mountain Coaster",
       "to": "Hotel Carpathia, Sinaia",
-      "km": 9.1,
-      "min": 12
+      "km": 21.4,
+      "min": 25
      }
     ],
     "points": [
@@ -3447,6 +3675,11 @@
       "lng": 25.52551
      },
      {
+      "name": "Predeal Mountain Coaster",
+      "lat": 45.4971155,
+      "lng": 25.5815534
+     },
+     {
       "name": "Hotel Carpathia, Sinaia",
       "lat": 45.346357,
       "lng": 25.546826
@@ -3459,32 +3692,8 @@
        45.346495
       ],
       [
-       25.550138,
-       45.352237
-      ],
-      [
-       25.551673,
-       45.352547
-      ],
-      [
-       25.555646,
-       45.355735
-      ],
-      [
        25.55556,
        45.356611
-      ],
-      [
-       25.553898,
-       45.358841
-      ],
-      [
-       25.550723,
-       45.360427
-      ],
-      [
-       25.544053,
-       45.368254
       ],
       [
        25.542153,
@@ -3493,154 +3702,166 @@
       [
        25.537769,
        45.382312
-      ],
-      [
-       25.53767,
-       45.386658
       ],
       [
        25.540239,
        45.389573
       ],
       [
-       25.53873,
-       45.39457
-      ],
-      [
        25.535446,
        45.397602
       ],
       [
-       25.53454,
-       45.401309
-      ],
-      [
-       25.535135,
-       45.403029
-      ],
-      [
-       25.534654,
-       45.405179
-      ],
-      [
-       25.535259,
-       45.409016
-      ],
-      [
        25.534553,
        45.410631
-      ],
-      [
-       25.531254,
-       45.410584
-      ],
-      [
-       25.530125,
-       45.409313
-      ],
-      [
-       25.528794,
-       45.40964
       ],
       [
        25.525421,
        45.408702
       ],
       [
-       25.525165,
-       45.409174
+       25.534047,
+       45.40989
       ],
       [
-       25.525564,
-       45.408664
+       25.538016,
+       45.417544
       ],
       [
-       25.528297,
-       45.40953
+       25.552746,
+       45.424872
       ],
       [
-       25.530125,
-       45.409313
+       25.554774,
+       45.43044
       ],
       [
-       25.531254,
-       45.410584
+       25.55013,
+       45.439037
       ],
       [
-       25.534553,
-       45.410631
+       25.554798,
+       45.44234
       ],
       [
-       25.535259,
-       45.40906
+       25.556192,
+       45.447407
       ],
       [
-       25.534654,
-       45.405179
+       25.564284,
+       45.452949
       ],
       [
-       25.535135,
-       45.403029
+       25.567832,
+       45.459526
       ],
       [
-       25.534535,
-       45.401393
+       25.560709,
+       45.467447
+      ],
+      [
+       25.565678,
+       45.481525
+      ],
+      [
+       25.564853,
+       45.48601
+      ],
+      [
+       25.573405,
+       45.499015
+      ],
+      [
+       25.580106,
+       45.499849
+      ],
+      [
+       25.584908,
+       45.492617
+      ],
+      [
+       25.582497,
+       45.497473
+      ],
+      [
+       25.580106,
+       45.499849
+      ],
+      [
+       25.582669,
+       45.502285
+      ],
+      [
+       25.573405,
+       45.499015
+      ],
+      [
+       25.564853,
+       45.48601
+      ],
+      [
+       25.565678,
+       45.481525
+      ],
+      [
+       25.560709,
+       45.467447
+      ],
+      [
+       25.567832,
+       45.459526
+      ],
+      [
+       25.564284,
+       45.452949
+      ],
+      [
+       25.556192,
+       45.447407
+      ],
+      [
+       25.554798,
+       45.44234
+      ],
+      [
+       25.55013,
+       45.439037
+      ],
+      [
+       25.554774,
+       45.43044
+      ],
+      [
+       25.552746,
+       45.424872
+      ],
+      [
+       25.53954,
+       45.418662
+      ],
+      [
+       25.534487,
+       45.412622
       ],
       [
        25.535408,
        45.397743
       ],
       [
-       25.53873,
-       45.39457
-      ],
-      [
        25.540233,
        45.389632
       ],
       [
-       25.53767,
-       45.386658
-      ],
-      [
-       25.537769,
-       45.382312
+       25.537411,
+       45.384282
       ],
       [
        25.542153,
        45.369417
       ],
       [
-       25.544269,
-       45.367823
-      ],
-      [
-       25.550723,
-       45.360427
-      ],
-      [
-       25.553898,
-       45.358841
-      ],
-      [
-       25.55556,
-       45.356611
-      ],
-      [
-       25.555646,
-       45.355735
-      ],
-      [
-       25.553279,
-       45.354343
-      ],
-      [
-       25.551673,
-       45.352547
-      ],
-      [
-       25.550138,
-       45.352237
+       25.555727,
+       45.356088
       ],
       [
        25.546889,
@@ -3649,7 +3870,7 @@
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.40883%2C25.52551"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.40883%2C25.52551%7C45.4971155%2C25.5815534"
    }
   },
   {
@@ -3660,53 +3881,53 @@
     "he": "ב'"
    },
    "title": {
-    "en": "Brașov old town, cable car and Bran Castle",
-    "he": "העיר העתיקה של ברשוב, רכבל וטירת בראן"
+    "en": "Brașov: Tâmpa cable car, ice cream and the Adventure Park in the forest",
+    "he": "ברשוב: רכבל טמפה, גלידה ופארק ההרפתקאות ביער"
    },
    "trail": "blue",
    "overnight": "hotel_carpathia",
    "plan": [
     {
-     "en": "Leave at 8:30, 1h00 to Brașov (Monday morning, northbound traffic is fine). Council Square, Rope Street, the Black Church (opens about 10:00) and ice cream. On Mondays the Tâmpa cable car opens at 12:00: ride up around 12:00 (about 1 h).",
-     "he": "יוצאים ב-8:30, שעה לברשוב (בוקר של יום שני, התנועה צפונה סבירה). כיכר המועצה, רחוב החבל, הכנסייה השחורה (נפתחת בסביבות 10:00) וגלידה. בימי שני רכבל טמפה נפתח ב-12:00: עולים בסביבות 12:00 (כשעה)."
+     "en": "Leave at 8:45, 1h00 to Brașov (Monday morning, northbound traffic is fine). Council Square, Rope Street, ice cream (the Black Church opens about 10:00). On Mondays the Tâmpa cable car opens at 12:00: the 4-minute ride up the mountain around 12:00 (about 1 h with the view over the red roofs).",
+     "he": "יוצאים ב-8:45, שעה לברשוב (בוקר של יום שני, התנועה צפונה סבירה). כיכר המועצה, רחוב החבל, גלידה (הכנסייה השחורה נפתחת בסביבות 10:00). בימי שני רכבל טמפה נפתח ב-12:00: נסיעה של 4 דקות במעלה ההר בסביבות 12:00 (כשעה עם הנוף לגגות האדומים)."
     },
     {
-     "en": "Quick lunch, then 35 min to Bran Castle for about 14:30 (booked online; on Mondays it opens at 12:00); visit 1.5–2 h.",
-     "he": "ארוחת צהריים מהירה, ואז 35 דקות לטירת בראן בסביבות 14:30 (הוזמן באינטרנט; בימי שני היא נפתחת ב-12:00); ביקור של שעה וחצי–שעתיים."
+     "en": "13:00 lunch, then 13 min to Adventure Park Brașov for about 14:00 (book ahead): the kids' rope courses in the shaded forest, 2–2.5 h; the parents watch or climb too. In the heat of the early afternoon you are already under trees.",
+     "he": "13:00 ארוחת צהריים, ואז 13 דקות לפארק ההרפתקאות ברשוב לקראת 14:00 (להזמין מראש): מסלולי החבלים לילדים ביער המוצל, 2–2.5 שעות; ההורים צופים או מטפסים גם הם. בחום של תחילת אחר הצהריים כבר נמצאים מתחת לעצים."
     },
     {
-     "en": "1h04 back to Sinaia, about 18:30. A long day (2h39 of driving in total): drop the Tâmpa cable car or swap Bran for the Brașov Adventure Park or the Prejmer fortified church (20 min from Brașov) if the kids are tired. Pack tonight: the car goes back tomorrow.",
-     "he": "שעה ו-4 דקות חזרה לסינאיה, בסביבות 18:30. יום ארוך (בסך הכול 2:39 שעות נסיעה): אפשר לוותר על רכבל טמפה או להחליף את בראן בפארק ההרפתקאות בברשוב או בכנסייה המבוצרת בפרז'מר (20 דקות מברשוב) אם הילדים עייפים. אורזים הערב: מחר מחזירים את הרכב."
+     "en": "About 16:30 drive back, 0h48 to Sinaia, about 17:30. 2h01 of driving in total. Optional swap: Bran Castle (35 min from Brașov, adds 37 min of driving and many steps) or the Prejmer fortified church instead of the Adventure Park. Pack tonight: the car goes back tomorrow.",
+     "he": "בסביבות 16:30 נוסעים חזרה, 48 דקות לסינאיה, בסביבות 17:30. בסך הכול 2:01 שעות נסיעה. חלופה אופציונלית: טירת בראן (35 דקות מברשוב, מוסיפה 37 דקות נסיעה והרבה מדרגות) או הכנסייה המבוצרת בפרז'מר במקום פארק ההרפתקאות. אורזים הערב: מחר מחזירים את הרכב."
     }
    ],
    "attractions": [
     "brasov_old",
     "tampa",
-    "bran",
     "adventure",
+    "bran",
     "prejmer"
    ],
    "route": {
-    "km": 127.5,
-    "minutes": 159,
+    "km": 95.6,
+    "minutes": 121,
     "legs": [
      {
       "from": "Hotel Carpathia, Sinaia",
-      "to": "Brașov Council Square",
+      "to": "Brașov Council Square (Tâmpa cable car nearby)",
       "km": 46.9,
       "min": 60
      },
      {
-      "from": "Brașov Council Square",
-      "to": "Bran Castle",
-      "km": 30.8,
-      "min": 35
+      "from": "Brașov Council Square (Tâmpa cable car nearby)",
+      "to": "Parc Aventura Brașov",
+      "km": 8.1,
+      "min": 13
      },
      {
-      "from": "Bran Castle",
+      "from": "Parc Aventura Brașov",
       "to": "Hotel Carpathia, Sinaia",
-      "km": 49.8,
-      "min": 64
+      "km": 40.6,
+      "min": 48
      }
     ],
     "points": [
@@ -3716,14 +3937,14 @@
       "lng": 25.546826
      },
      {
-      "name": "Brașov Council Square",
+      "name": "Brașov Council Square (Tâmpa cable car nearby)",
       "lat": 45.64213,
       "lng": 25.58918
      },
      {
-      "name": "Bran Castle",
-      "lat": 45.5149,
-      "lng": 25.36716
+      "name": "Parc Aventura Brașov",
+      "lat": 45.6133029,
+      "lng": 25.6378369
      },
      {
       "name": "Hotel Carpathia, Sinaia",
@@ -3746,16 +3967,48 @@
        45.369417
       ],
       [
+       25.537411,
+       45.384282
+      ],
+      [
+       25.540239,
+       45.389573
+      ],
+      [
+       25.535408,
+       45.397743
+      ],
+      [
        25.534472,
        45.412548
+      ],
+      [
+       25.539466,
+       45.418612
       ],
       [
        25.552607,
        45.424671
       ],
       [
+       25.554774,
+       45.43044
+      ],
+      [
        25.55013,
        45.439037
+      ],
+      [
+       25.554798,
+       45.44234
+      ],
+      [
+       25.556192,
+       45.447407
+      ],
+      [
+       25.563169,
+       45.451663
       ],
       [
        25.567803,
@@ -3764,6 +4017,14 @@
       [
        25.560741,
        45.469279
+      ],
+      [
+       25.565639,
+       45.481363
+      ],
+      [
+       25.564853,
+       45.48601
       ],
       [
        25.574067,
@@ -3778,28 +4039,68 @@
        45.511203
       ],
       [
+       25.576639,
+       45.517572
+      ],
+      [
        25.579695,
        45.517772
+      ],
+      [
+       25.575095,
+       45.518121
+      ],
+      [
+       25.575937,
+       45.520501
       ],
       [
        25.573034,
        45.518807
       ],
       [
+       25.574128,
+       45.522423
+      ],
+      [
        25.570569,
        45.524098
+      ],
+      [
+       25.575779,
+       45.526018
+      ],
+      [
+       25.578788,
+       45.53173
       ],
       [
        25.588206,
        45.537936
       ],
       [
+       25.58839,
+       45.550852
+      ],
+      [
        25.591778,
        45.555049
       ],
       [
+       25.619534,
+       45.578424
+      ],
+      [
+       25.624421,
+       45.585848
+      ],
+      [
        25.658896,
        45.610735
+      ],
+      [
+       25.658472,
+       45.61351
       ],
       [
        25.632955,
@@ -3818,6 +4119,14 @@
        45.63631
       ],
       [
+       25.608744,
+       45.639115
+      ],
+      [
+       25.606222,
+       45.641984
+      ],
+      [
        25.597538,
        45.643321
       ],
@@ -3826,144 +4135,192 @@
        45.636851
       ],
       [
+       25.585164,
+       45.640001
+      ],
+      [
        25.588503,
        45.642311
       ],
       [
-       25.580855,
-       45.664245
+       25.590101,
+       45.64561
       ],
       [
-       25.573626,
-       45.66563
+       25.596364,
+       45.644936
       ],
       [
-       25.497172,
-       45.635597
+       25.604116,
+       45.648128
       ],
       [
-       25.480897,
-       45.639527
+       25.617252,
+       45.649738
       ],
       [
-       25.461356,
-       45.637695
+       25.642871,
+       45.625923
       ],
       [
-       25.449584,
-       45.611041
+       25.635454,
+       45.623564
       ],
       [
-       25.444383,
-       45.577337
+       25.639967,
+       45.615662
       ],
       [
-       25.41903,
-       45.571406
+       25.636958,
+       45.61498
       ],
       [
-       25.39435,
-       45.557191
+       25.637847,
+       45.613307
       ],
       [
-       25.378154,
-       45.540218
+       25.636958,
+       45.61498
       ],
       [
-       25.370655,
-       45.522283
+       25.65145,
+       45.617822
       ],
       [
-       25.366213,
-       45.52244
+       25.658457,
+       45.613341
       ],
       [
-       25.366447,
-       45.514484
+       25.658857,
+       45.610576
       ],
       [
-       25.366213,
-       45.52244
+       25.624421,
+       45.585848
       ],
       [
-       25.370655,
-       45.522283
+       25.619534,
+       45.578424
       ],
       [
-       25.378154,
-       45.540218
+       25.591778,
+       45.555049
       ],
       [
-       25.394558,
-       45.557358
+       25.58839,
+       45.550852
       ],
       [
-       25.41903,
-       45.571406
+       25.588206,
+       45.537936
       ],
       [
-       25.449044,
-       45.579233
+       25.578788,
+       45.53173
       ],
       [
-       25.456202,
-       45.576491
+       25.575872,
+       45.52609
       ],
       [
-       25.46021,
-       45.563634
+       25.570569,
+       45.524098
       ],
       [
-       25.496144,
-       45.54755
+       25.574128,
+       45.522423
       ],
       [
-       25.499654,
-       45.527851
+       25.573034,
+       45.518807
       ],
       [
-       25.508616,
-       45.518906
+       25.575937,
+       45.520501
       ],
       [
-       25.500158,
-       45.518724
+       25.575095,
+       45.518121
       ],
       [
-       25.509971,
-       45.511885
+       25.579695,
+       45.517772
       ],
       [
-       25.507438,
-       45.507464
+       25.576639,
+       45.517572
       ],
       [
-       25.513422,
-       45.500596
+       25.577072,
+       45.511203
       ],
       [
-       25.565654,
-       45.487103
+       25.571313,
+       45.513413
       ],
       [
-       25.560694,
-       45.467672
+       25.574067,
+       45.500387
       ],
       [
-       25.566466,
-       45.45615
+       25.564853,
+       45.48601
+      ],
+      [
+       25.565639,
+       45.481363
+      ],
+      [
+       25.560741,
+       45.469279
+      ],
+      [
+       25.567803,
+       45.459417
+      ],
+      [
+       25.564284,
+       45.452949
+      ],
+      [
+       25.556192,
+       45.447407
+      ],
+      [
+       25.554798,
+       45.44234
       ],
       [
        25.55013,
        45.439037
       ],
       [
+       25.554774,
+       45.43044
+      ],
+      [
        25.552607,
        45.424671
       ],
       [
+       25.53954,
+       45.418662
+      ],
+      [
        25.534472,
        45.412548
+      ],
+      [
+       25.535408,
+       45.397743
+      ],
+      [
+       25.540233,
+       45.389632
+      ],
+      [
+       25.537411,
+       45.384282
       ],
       [
        25.542153,
@@ -3980,7 +4337,7 @@
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.64213%2C25.58918%7C45.5149%2C25.36716"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.64213%2C25.58918%7C45.6133029%2C25.6378369"
    }
   },
   {
@@ -3991,8 +4348,8 @@
     "he": "ג'"
    },
    "title": {
-    "en": "Back to Bucharest, return the car, Cișmigiu Gardens",
-    "he": "חזרה לבוקרשט, החזרת הרכב וגני צ'ישמיג'יו"
+    "en": "Back to Bucharest, return the car, Cișmigiu boats and the Children's Town rides",
+    "he": "חזרה לבוקרשט, החזרת הרכב, סירות בצ'ישמיג'יו ומתקני עיר הילדים"
    },
    "trail": "green",
    "overnight": "hotel_maison",
@@ -4006,12 +4363,21 @@
      "he": "מונית לדירה (32 דקות, כ-20 €; לבקש 2 מושבי ילדים או מונית מוזמנת מהשדה). צ'ק-אין עצמי מ-15:00 – לבקש מהמארח צ'ק-אין מוקדם או שמירת מזוודות; ארוחת צהריים בסביבה."
     },
     {
-     "en": "Afternoon: Cișmigiu Gardens (a 7-minute walk): playground, lake and a rowing boat.",
-     "he": "אחר הצהריים: גני צ'ישמיג'יו (7 דקות הליכה): מגרש משחקים, אגם וסירת משוטים."
+     "en": "13:00 lunch and the hottest hours in the air-conditioned apartment (Bucharest is typically 32–35 °C in the afternoon).",
+     "he": "13:00 ארוחת צהריים והשעות החמות בדירה הממוזגת (בבוקרשט בדרך כלל 32–35 מעלות אחר הצהריים)."
+    },
+    {
+     "en": "16:00 Cișmigiu Gardens (7-minute walk): the playground and a rowing boat on the lake, about an hour in the shade.",
+     "he": "16:00 גני צ'ישמיג'יו (7 דקות הליכה): מגרש משחקים וסירת משוטים באגם, כשעה בצל."
+    },
+    {
+     "en": "17:45 taxi (10–15 min) to the Children's Town in Tineretului Park: the Ferris wheel, small rides and the mini train in the evening cool; early dinner nearby and a taxi back by 20:00.",
+     "he": "17:45 מונית (10–15 דקות) לעיר הילדים בפארק טינרטולוי: הגלגל הענק, מתקנים קטנים והרכבת הקטנה בקרירות של הערב; ארוחת ערב מוקדמת בסביבה ומונית חזרה עד 20:00."
     }
    ],
    "attractions": [
-    "cismigiu"
+    "cismigiu",
+    "oraselul"
    ],
    "route": {
     "km": 128.2,
@@ -4167,29 +4533,28 @@
     "he": "ד'"
    },
    "title": {
-    "en": "Natural history museum and the Old Town",
-    "he": "מוזיאון הטבע והעיר העתיקה"
+    "en": "Bucharest Zoo in the morning, the Antipa natural history museum in the late afternoon",
+    "he": "גן החיות של בוקרשט בבוקר, מוזיאון הטבע אנטיפה בסוף אחר הצהריים"
    },
    "trail": "yellow",
    "overnight": "hotel_maison",
    "plan": [
     {
-     "en": "Taxi (10 min) or metro to the Antipa Museum (open Wednesday; closed Monday): dinosaurs, the giant skeleton, the butterfly greenhouse; 2–3 h and lunch nearby.",
-     "he": "מונית (10 דקות) או מטרו למוזיאון אנטיפה (פתוח ברביעי; סגור בשני): דינוזאורים, השלד הענק וחממת הפרפרים; 2–3 שעות וארוחת צהריים בסביבה."
+     "en": "Taxi at 8:30 (about 25 min, ask for child seats) to Bucharest Zoo in Băneasa for the 9:00 opening (open Wednesday): big cats, bears, monkeys and the petting corner on flat shaded paths, until about 11:30.",
+     "he": "מונית ב-8:30 (כ-25 דקות, לבקש מושבי ילדים) לגן החיות של בוקרשט בבנאסה לפתיחה ב-9:00 (פתוח ביום רביעי): חתולים גדולים, דובים, קופים ופינת ליטוף בשבילים שטוחים ומוצלים, עד בערך 11:30."
     },
     {
-     "en": "Rest at the apartment, then a short evening walk in the Old Town (Lipscani) with ice cream and the Stavropoleos courtyard.",
-     "he": "מנוחה בדירה, ואז הליכה ערב קצרה בעיר העתיקה (ליפסקאני) עם גלידה והחצר של סטברופולאוס."
+     "en": "Taxi back, lunch near the apartment and the hot hours (13:00–15:30) in the air-conditioned apartment.",
+     "he": "מונית חזרה, ארוחת צהריים ליד הדירה והשעות החמות (13:00–15:30) בדירה הממוזגת."
     },
     {
-     "en": "Fallback (rain or a different mood): Bucharest Zoo in Băneasa by taxi.",
-     "he": "חלופה (גשם או מצב רוח אחר): גן החיות של בוקרשט בבנאסה במונית."
+     "en": "16:00 taxi (10 min) or metro to the Antipa Museum (open Wednesday until 19:00, last entry 1 h earlier): dinosaurs, the giant Deinotherium skeleton and the butterfly greenhouse, about 2 h in the air conditioning. Dinner out and an early night; a short ice-cream walk in the Old Town is optional.",
+     "he": "16:00 מונית (10 דקות) או מטרו למוזיאון אנטיפה (פתוח ברביעי עד 19:00, כניסה אחרונה שעה קודם): דינוזאורים, שלד הדינותריום הענק וחממת הפרפרים, כשעתיים במיזוג. ארוחת ערב בחוץ ולישון מוקדם; הליכת גלידה קצרה בעיר העתיקה אופציונלית."
     }
    ],
    "attractions": [
-    "antipa",
-    "lipscani",
-    "zoo"
+    "zoo",
+    "antipa"
    ],
    "route": null,
    "no_drive_key": "no_drive_city"
@@ -4202,8 +4567,8 @@
     "he": "ה'"
    },
    "title": {
-    "en": "Therme water park",
-    "he": "פארק המים תרמה"
+    "en": "Therme water park: slides, wave pool and the kids' area",
+    "he": "פארק המים תרמה: מגלשות, בריכת גלים ואזור ילדים"
    },
    "trail": "yellow",
    "overnight": "hotel_maison",
@@ -4231,8 +4596,8 @@
     "he": "ו'"
    },
    "title": {
-    "en": "Village Museum and Herăstrău Park",
-    "he": "מוזיאון הכפר ופארק הרשטרו"
+    "en": "Village Museum, Herăstrău boats and ice cream",
+    "he": "מוזיאון הכפר, סירות בהרשטרו וגלידה"
    },
    "trail": "yellow",
    "overnight": "hotel_maison",
@@ -4242,8 +4607,8 @@
      "he": "מונית (כ-20 דקות, 5–8 €) למוזיאון הכפר (פתוח ביום שישי): בתים עתיקים, טחנות רוח וכנסיית העץ, 9:30 – 11:30."
     },
     {
-     "en": "Walk into Herăstrău Park: playground, ice cream, the small passenger boat or two rowing boats on the lake.",
-     "he": "הליכה לפארק הרשטרו: מגרש משחקים, גלידה, הסירה המסיירת הקטנה או שתי סירות משוטים באגם."
+     "en": "About 11:45 walk into Herăstrău Park (the restoration works may close parts: check): a rowing boat or the small passenger boat on the lake, ice cream and a playground if it is open. Fallback: the boats at Cișmigiu or the Children's Town rides in the evening.",
+     "he": "בסביבות 11:45 הליכה לפארק הרשטרו (עבודות השיקום עלולות לסגור חלקים: לבדוק): סירת משוטים או הסירה המסיירת הקטנה באגם, גלידה ומגרש משחקים אם פתוח. חלופה: הסירות בצ'ישמיג'יו או מתקני עיר הילדים בערב."
     },
     {
      "en": "Back by taxi for a rest; last dinner out and packing (the flight home is tomorrow evening, so no early start).",
@@ -4265,8 +4630,8 @@
     "he": "ש'"
    },
    "title": {
-    "en": "Last morning in Bucharest, fly home in the evening",
-    "he": "בוקר אחרון בבוקרשט וטיסה הביתה בערב"
+    "en": "Last morning: the interactive Technical Museum and Cișmigiu, fly home in the evening",
+    "he": "בוקר אחרון: המוזיאון הטכני האינטראקטיבי וצ'ישמיג'יו, וטיסה הביתה בערב"
    },
    "trail": "green",
    "overnight": null,
@@ -4277,15 +4642,22 @@
      "flight": "back"
     },
     {
-     "en": "Slow morning and packing; check out by 11:00 and leave the bags with the host. A last easy outing near the apartment (Cișmigiu Gardens, a 7-minute walk: playground, lake) and an early lunch.",
-     "he": "בוקר איטי ואריזות; צ'ק-אאוט עד 11:00 ומשאירים את המזוודות אצל המארח. טיול קל אחרון ליד הדירה (גני צ'ישמיג'יו, 7 דקות הליכה: מגרש משחקים ואגם) וארוחת צהריים מוקדמת."
+     "en": "Check out by 9:30 and leave the bags with the host. Taxi (about 15 min) to the Dimitrie Leonida Technical Museum in Carol I Park for the 10:00 opening (open Saturday): steam engines, locomotive models and the 'Micii Inventatori' children's route, about 2 h in the air conditioning, then 20 minutes on the shaded lawns of the park.",
+     "he": "צ'ק-אאוט עד 9:30 ומשאירים את המזוודות אצל המארח. מונית (כ-15 דקות) למוזיאון הטכני דימיטרי לאונידה בפארק קרול I לפתיחה ב-10:00 (פתוח בשבת): מכונות קיטור, דגמי קטרים ומסלול הילדים 'Micii Inventatori', כשעתיים במיזוג, ואז 20 דקות על הדשא המוצל של הפארק."
     },
     {
-     "en": "Collect the bags and take a taxi to Henri Coandă Airport (25 min, about €20) about 3 hours before departure (Saturday evening traffic towards the airport can be slow).",
-     "he": "אוספים את המזוודות ולוקחים מונית לשדה התעופה הנרי קואנדה (25 דקות, כ-20 €) כשלוש שעות לפני ההמראה (בשבת בערב התנועה לכיוון השדה יכולה להיות איטית)."
+     "en": "12:45 taxi back, an early lunch, then 14:00–15:00 Cișmigiu Gardens (7-minute walk): a last rowing boat and the playground. The flight is in the evening, so there is no rush.",
+     "he": "12:45 מונית חזרה, ארוחת צהריים מוקדמת, ואז 14:00–15:00 גני צ'ישמיג'יו (7 דקות הליכה): סירת משוטים אחרונה ומגרש המשחקים. הטיסה בערב, אז אין לחץ."
+    },
+    {
+     "en": "Collect the bags and take a taxi to Henri Coandă Airport (25 min, about €20) about 3 hours before departure, at about 17:00 (Saturday evening traffic towards the airport can be slow).",
+     "he": "אוספים את המזוודות ולוקחים מונית לשדה התעופה הנרי קואנדה (25 דקות, כ-20 €) כשלוש שעות לפני ההמראה, בסביבות 17:00 (בשבת בערב התנועה לכיוון השדה יכולה להיות איטית)."
     }
    ],
-   "attractions": [],
+   "attractions": [
+    "tech",
+    "cismigiu"
+   ],
    "route": {
     "km": 17.7,
     "minutes": 25,
@@ -4391,8 +4763,8 @@
   }
  ],
  "routes_total": {
-  "km": 502.9,
-  "minutes": 591
+  "km": 498.5,
+  "minutes": 595
  },
  "budget": {
   "lines": [
@@ -4464,8 +4836,8 @@
     "eur": 62,
     "status": "estimate",
     "label": {
-     "en": "Fuel – ≈ 503 km",
-     "he": "דלק – כ-503 ק\"מ"
+     "en": "Fuel – ≈ 498 km",
+     "he": "דלק – כ-498 ק\"מ"
     }
    },
    {
@@ -4488,24 +4860,24 @@
    },
    {
     "key": "att",
-    "eur": 534,
+    "eur": 675,
     "status": "mixed",
     "label": {
-     "en": "Attractions & Bucharest public transport (2,857 RON)",
-     "he": "אטרקציות ותחבורה ציבורית בבוקרשט (2,857 RON)"
+     "en": "Attractions & Bucharest public transport (3,613 RON)",
+     "he": "אטרקציות ותחבורה ציבורית בבוקרשט (3,613 RON)"
     }
    }
   ],
-  "total_eur": 4101.1,
+  "total_eur": 4242.1,
   "live_part_eur": 2765.1,
-  "attractions_local": 2857,
-  "fuel_km": 503
+  "attractions_local": 3613,
+  "fuel_km": 498
  },
  "ui": {
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Romania v3 research · prices checked 9 Nov 2026 · awaiting your approval",
+   "eyebrow": "Romania v4 research · prices checked 9 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -4571,7 +4943,7 @@
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Romania v3 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Romania v4 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Sinaia",
@@ -4598,7 +4970,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "רומניה גרסה 3 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
+   "eyebrow": "רומניה גרסה 4 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -4664,7 +5036,7 @@
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "רומניה גרסה 3 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "רומניה גרסה 4 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "סינאיה",
@@ -4690,7 +5062,7 @@
   }
  },
  "approved": {
-  "version": "ro v3",
+  "version": "ro v4",
   "approved_on": "2026-11-09",
   "by": "traveller"
  },
