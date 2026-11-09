@@ -848,7 +848,7 @@ footer .links a{font-weight:600}
 (function(){
 'use strict';
 var DATA=null, OUTLINE=null, lang='he', tab='overview', selDay=1, mapSel='all', dest='cz';
-var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data-cz.json',total:4140.93,outline:'czechia.geojson',report:'../cz/v7/index.html'},
+var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data-cz.json',total:4215.93,outline:'czechia.geojson',report:'../cz/v8/index.html'},
  {id:'hu',he:'הונגריה',en:'Hungary',data:'trip-data-hu.json',total:4487.5,outline:'hungary.geojson',report:'../hu/v3/index.html'},
  {id:'pl',he:'פולין',en:'Poland',data:'trip-data-pl.json',total:5099.08,outline:'poland.geojson',report:'../pl/v5/index.html'},
  {id:'ro',he:'רומניה',en:'Romania',data:'trip-data-ro.json',total:4242.1,outline:'romania.geojson',report:'../ro/v4/index.html'},
@@ -910,7 +910,7 @@ var S={
   flightsel:'הטיסות שנבחרו',price:'מחיר',duration:'משך',baggage_fee:'עלות כבודה',lines:'פריטים',
   notes_driving:'הערות נהיגה',map_fail:'ספריית המפה לא נטענה.',
   err_t:'לא ניתן לטעון את נתוני הטיול',err_d:'הקובץ trip-data.json לא נטען. בדקו את החיבור, ופתחו את האפליקציה דרך שרת אינטרנט (לא ישירות כקובץ).',
-  report:'דוח מחקר גרסה 5',report4:'גרסה 4',report6:'תוכנית גרסה 6',report7:'תוכנית גרסה 7',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',plan_page:'דף התוכנית',dates_cmp:'השוואת תאריכים וטיסות',
+  report:'דוח מחקר גרסה 5',report4:'גרסה 4',report6:'תוכנית גרסה 6',report7:'תוכנית גרסה 7',report8:'תוכנית גרסה 8',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',plan_page:'דף התוכנית',dates_cmp:'השוואת תאריכים וטיסות',
   lang:'EN',overview_flights:'סיכום טיסות',total_car:'סה"כ רכב',sources:'מקורות'},
  en:{tabs:{overview:'Overview',map:'Map',days:'Days',flights:'Flights',hotels:'Hotels',car:'Car',budget:'Budget'},
   attractions:'Attractions',hotel:'Hotel',arr_dep:'Arrival & departure',pickup:'Car pick-up',dropoff:'Car return',
@@ -918,7 +918,7 @@ var S={
   flightsel:'Chosen flights',price:'Price',duration:'Duration',baggage_fee:'Baggage fee',lines:'Items',
   notes_driving:'Driving notes',map_fail:'The map library did not load.',
   err_t:'Could not load the trip data',err_d:'The file trip-data.json did not load. Check your connection and open the app through a web server (not directly as a file).',
-  report:'Research report v5',report4:'v4',report6:'Plan v6',report7:'Plan v7',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',plan_page:'plan page',dates_cmp:'Dates and flights compared',
+  report:'Research report v5',report4:'v4',report6:'Plan v6',report7:'Plan v7',report8:'Plan v8',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',plan_page:'plan page',dates_cmp:'Dates and flights compared',
   lang:'עב',overview_flights:'Flights summary',total_car:'Car total',sources:'Sources'}
 };
 var ICON={
@@ -962,7 +962,7 @@ function renderTabbar(){
   }).join('');
 }
 function renderFooter(){
-  var r=dest==='cz'?'<a href="../cz/v7/index.html">'+esc(ST('report7'))+'</a> · <a href="../v6/index.html">'+esc(ST('report6'))+'</a> · <a href="../v5/index.html">'+esc(ST('report'))+'</a> · <a href="../v4/index.html">'+esc(ST('report4'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a>'
+  var r=dest==='cz'?'<a href="../cz/v8/index.html">'+esc(ST('report8'))+'</a> · <a href="../cz/v7/index.html">'+esc(ST('report7'))+'</a> · <a href="../v6/index.html">'+esc(ST('report6'))+'</a> · <a href="../v5/index.html">'+esc(ST('report'))+'</a> · <a href="../v4/index.html">'+esc(ST('report4'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a>'
     :'<a href="'+DST().report+'">'+esc(T(DATA.version.label))+' – '+esc(ST('plan_page'))+'</a>';
   $('#foot').innerHTML='<div class="links">'+r+'</div><p>'+esc(ST('credits'))+'</p>';
 }

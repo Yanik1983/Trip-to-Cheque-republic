@@ -25,22 +25,22 @@
  },
  "variant": "eve",
  "version": {
-  "id": "v7",
+  "id": "v8",
   "date": "2026-11-09",
   "label": {
-   "en": "Czechia v7",
-   "he": "צ'כיה גרסה 7"
+   "en": "Czechia v8",
+   "he": "צ'כיה גרסה 8"
   }
  },
  "taxi_days": [
   "D10",
   "D8"
  ],
- "car_km": 563.8,
+ "car_km": 561.6,
  "changes": [
   {
-   "en": "What changed in v7: the cheapest dates moved from Tue 17 – Thu 26 Aug to Sat 21 – Mon 30 Aug 2027 (flights + bags + hotels + car ≈ €3,480, €161 cheaper than the same plan on the old dates at today's prices). Same plan and hotels, re-priced live on 9 Nov 2026. This version uses the same page and flight-selection engine as the other trips.",
-   "he": "מה השתנה בגרסה 7: התאריכים הזולים ביותר עברו מ-ג' 17 – ה' 26 באוגוסט ל-ש' 21 – ב' 30 באוגוסט 2027 (טיסות + כבודה + מלונות + רכב כ-3,480 €, זול ב-161 € מאותה תוכנית בתאריכים הישנים במחירי היום). אותה תוכנית ואותם מלונות, תומחרו מחדש ב-9.11.2026. הגרסה משתמשת באותו עמוד ובאותו מנגנון בחירת טיסות כמו שאר הטיולים."
+   "en": "What changed in v8: the plan is now kids-first with at least two kid activities on every full day: Hluboká kitchen tour (35 min) plus Zoo Ohrada as a real stop; treetop walk, forest playground and bobsled; Maleček raft plus the Český Krumlov bear moat; Frymburk ferry and beach (Hopsárium optional); Aquapalace water park plus DinoPark; Prague Zoo with its chairlift plus the Technical Museum; Petřín funicular and mirror maze, a 30-minute castle guard and Slovanka boats. Charles Bridge, the Orloj and the Kleť lift were dropped. Same dates, hotels and flights as v7.",
+   "he": "מה השתנה בגרסה 8: התוכנית בנויה עכשיו קודם כול לילדים, עם לפחות שתי פעילויות לילדים בכל יום מלא: סיור מטבח הלובוקה (35 דקות) וגן החיות אוהרדה כעצירה אמיתית; שביל צמרות, מגרש משחקים ביער ומגלשת בובסלי; רפסודה במלצ'ק וגומחת הדובים בצ'סקי קרומלוב; מעבורת ופוקה בפרימבורק (הופסריום אופציונלי); פארק המים אקוואפאלאס ודינו פארק; גן החיות של פראג עם הרכבל שלו והמוזיאון הטכני; פוניקולר פטרז'ין ומבוך המראות, חילוף משמרות בטירה (30 דקות) וסירות בסלובנקה. גשר קרל, השעון האסטרונומי ורכבל קלט הוסרו. אותם תאריכים, מלונות וטיסות כמו בגרסה 7."
   },
   {
    "en": "Dates Sat 21 – Mon 30 Aug 2027 (evening arrival + airport night): the cheapest of 16 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,480).",
@@ -71,12 +71,12 @@
    "nights": 9
   },
   "title": {
-   "en": "Czech Family Road Trip",
-   "he": "טיול משפחתי בצ'כיה"
+   "en": "Czech Family Trip for Kids: Zoos, Treetops, Rafting, Water Park & Petřín",
+   "he": "טיול משפחתי לילדים בצ'כיה: גני חיות, שביל צמרות, רפטינג, פארק מים והר פטרשין"
   },
   "lede": {
-   "en": "Sat 21 – Mon 30 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at the airport, then a rental car to Hluboká Castle and 4 nights at Lake Lipno (a beachfront apartment, treetop walk, rafting, bears), and finally 4 nights in a Prague apartment without a car (water park, dinosaurs, zoo, castle).",
-   "he": "שבת 21 – שני 30 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה, ואז רכב שכור לטירת הלובוקה ו-4 לילות באגם ליפנו (דירה על החוף, שביל צמרות, רפטינג, דובים), ולסיום 4 לילות בדירה בפראג בלי רכב (פארק מים, דינוזאורים, גן חיות, טירה)."
+   "en": "Sat 21 – Mon 30 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at the airport, then a rental car to Hluboká Castle's kitchen and Zoo Ohrada and 4 nights at Lake Lipno (a beachfront apartment, treetop walk, forest playground, summer bobsled, rafting, bears, ferry), and finally 4 nights in a Prague apartment without a car (water park, dinosaurs, Prague Zoo, technical museum, Petřín funicular and mirror maze, pedal boats).",
+   "he": "שבת 21 – שני 30 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה, ואז רכב שכור למטבח טירת הלובוקה ולגן החיות אוהרדה ו-4 לילות באגם ליפנו (דירה על החוף, שביל צמרות, מגרש משחקים ביער, מזחלת קיץ, רפטינג, דובים, מעבורת), ולסיום 4 לילות בדירה בפראג בלי רכב (פארק מים, דינוזאורים, גן החיות של פראג, מוזיאון הטכנולוגיה, פוניקולר ומבוך המראות בפטרשין, סירות פדלים)."
   }
  },
  "currency": "EUR",
@@ -1489,19 +1489,19 @@
     "he": "אוגוסט 9:00–19:00 (כניסה אחרונה 18:30), פתוח מדי יום. שבת 28 באוגוסט היא היום העמוס בשבוע: להגיע לשער לפתיחה ב-9:00."
    },
    "price_text": {
-    "en": "Family ticket (2 adults + up to 4 kids): 850 CZK online / 1,000 CZK at the gate (≈ €35–41).",
-    "he": "כרטיס משפחתי (2 מבוגרים + עד 4 ילדים): 850 קרונות באינטרנט / 1,000 בקופה (כ-35–41 €)."
+    "en": "Family ticket (2 adults + up to 4 kids 3–15): 850 CZK online / 1,000 CZK at the gate (≈ €35–41). The chairlift is a separate ticket (≈ 40 CZK per ride per adult, under 6 free; DPP-operated, ESTIMATE).",
+    "he": "כרטיס משפחתי (2 מבוגרים + עד 4 ילדים 3–15): 850 קרונות באינטרנט / 1,000 בקופה (כ-35–41 €). הרכבל בכרטיס נפרד (כ-40 קרונות לנסיעה למבוגר, עד גיל 6 חינם; מופעל על ידי DPP, הערכה)."
    },
    "price_czk": 850,
    "price_eur": 34.69,
    "estimate": false,
    "time": {
-    "en": "4–5 h",
-    "he": "4–5 שעות"
+    "en": "4 h (9:00–13:00)",
+    "he": "4 שעות (9:00–13:00)"
    },
    "kids": {
-    "en": "One of the world's top zoos: chairlift over the park, children's zoo, Indonesian jungle pavilion, gorillas and elephants.",
-    "he": "מגני החיות הטובים בעולם: רכבל מעל הפארק, פינת ליטוף, ביתן ג'ונגל אינדונזי, גורילות ופילים."
+    "en": "One of the world's top zoos, and kid-friendly: the chairlift over the park (the lift is the kids' ride), the children's zoo where goats and sheep can be fed, the Indonesian jungle pavilion, gorillas, elephants and a playground. Do the shaded lower part first, go up by chairlift and leave by 13:00 before the heat peaks.",
+    "he": "אחד מגני החיות הטובים בעולם וידידותי לילדים: הרכבל מעל הפארק (הרכבל הוא ה'מתקן' של הילדים), פינת ליטוף עם עיזים וכבשים להאכלה, ביתן ג'ונגל אינדונזי, גורילות, פילים ומגרש משחקים. קודם החלק התחתון המוצל, למעלה ברכבל ולצאת עד 13:00 לפני שיא החום."
    },
    "optional": false,
    "google": {
@@ -1538,14 +1538,18 @@
     [
      "zoopraha.cz",
      "https://www.zoopraha.cz/"
+    ],
+    [
+     "prague.eu – Prague Zoo (hours, chairlift)",
+     "https://prague.eu/cs/objevujte/zoologicka-zahrada-hl-m-prahy/"
     ]
    ]
   },
   "prague_castle": {
    "id": "prague_castle",
    "name": {
-    "en": "Prague Castle – changing of the guard",
-    "he": "טירת פראג – החלפת המשמר"
+    "en": "Prague Castle: the noon guard ceremony only (30 min)",
+    "he": "טירת פראג: טקס החלפת המשמר של 12:00 בלבד (30 דקות)"
    },
    "hours": {
     "en": "Grounds 6:00–22:00; big guard ceremony at 12:00 every day (Sun 29 Aug included).",
@@ -1559,12 +1563,12 @@
    "price_eur": 0.0,
    "estimate": false,
    "time": {
-    "en": "1–1.5 h",
-    "he": "1–1.5 שעות"
+    "en": "30–40 min",
+    "he": "30–40 דקות"
    },
    "kids": {
-    "en": "Soldiers, music and flags at noon. Take tram 22 to the 'Pražský hrad' stop, so there's no uphill walk.",
-    "he": "חיילים, מוזיקה ודגלים בצהריים. נוסעים בחשמלית 22 לתחנת Pražský hrad, כך שאין עלייה ברגל."
+    "en": "Soldiers, music and flags in the first courtyard at noon, then straight back on tram 22: no interiors, no queues (tram 22 stops at the gate, so no uphill walk).",
+    "he": "חיילים, מוזיקה ודגלים בחצר הראשונה בצהריים, ואז ישר חזרה בחשמלית 22: בלי פנים ובלי תורים (חשמלית 22 עוצרת ליד השער, בלי עלייה ברגל)."
    },
    "optional": false,
    "google": {
@@ -1604,124 +1608,6 @@
     ]
    ]
   },
-  "charles_bridge": {
-   "id": "charles_bridge",
-   "name": {
-    "en": "Charles Bridge",
-    "he": "גשר קארל"
-   },
-   "hours": {
-    "en": "Open 24/7",
-    "he": "פתוח 24/7"
-   },
-   "price_text": {
-    "en": "Free",
-    "he": "חינם"
-   },
-   "price_czk": 0,
-   "price_eur": 0.0,
-   "estimate": false,
-   "time": {
-    "en": "30 min",
-    "he": "30 דקות"
-   },
-   "kids": {
-    "en": "Statues, street musicians and caricature artists. Sunday 29 Aug is crowded: cross before about 10:00 or after 18:00 if you can; keep the kids by the hand.",
-    "he": "פסלים, נגנים ברחוב וקריקטוריסטים. יום א' 29 באוגוסט צפוף: לחצות לפני כ-10:00 או אחרי 18:00 אם אפשר; להחזיק את הילדים ביד."
-   },
-   "optional": false,
-   "google": {
-    "name": "Charles Bridge",
-    "rating": 4.8,
-    "reviews": 201404,
-    "lat": 50.086477,
-    "lng": 14.411437,
-    "address": "Karlův most, 110 00 Praha 1, Czechia",
-    "website": "https://prague.eu/cs/objevujte/karluv-most-2",
-    "place_id": "ChIJn7WO5eWUC0cRJrHT0TiXIHU",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=Charles%20Bridge&query_place_id=ChIJn7WO5eWUC0cRJrHT0TiXIHU",
-    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.086477,14.411437&travelmode=driving"
-   },
-   "rating": {
-    "source": "Google Maps",
-    "score": 4.8,
-    "out_of": 5,
-    "reviews": 201404,
-    "url": "https://www.google.com/maps/search/?api=1&query=Charles%20Bridge&query_place_id=ChIJn7WO5eWUC0cRJrHT0TiXIHU"
-   },
-   "photo": {
-    "file": "img/cz/charles_bridge-1.jpg",
-    "w": 1000,
-    "h": 562,
-    "source_page": "https://commons.wikimedia.org/wiki/File:Praha_Charles_Bridge_20170430_01.jpg",
-    "credit": "Uoaei1 · CC BY-SA 4.0 · Wikimedia Commons"
-   },
-   "sources": [
-    [
-     "prague.eu – Charles Bridge",
-     "https://prague.eu/cs/objevujte/karluv-most-2"
-    ]
-   ]
-  },
-  "orloj": {
-   "id": "orloj",
-   "name": {
-    "en": "Astronomical Clock (Old Town Square)",
-    "he": "השעון האסטרונומי (כיכר העיר העתיקה)"
-   },
-   "hours": {
-    "en": "Apostles parade every hour 9:00–23:00 (daily, Sun 29 Aug included)",
-    "he": "מצעד השליחים בכל שעה עגולה 9:00–23:00 (מדי יום, כולל יום א' 29 באוגוסט)"
-   },
-   "price_text": {
-    "en": "Free from the square",
-    "he": "חינם מהכיכר"
-   },
-   "price_czk": 0,
-   "price_eur": 0.0,
-   "estimate": false,
-   "time": {
-    "en": "30 min",
-    "he": "30 דקות"
-   },
-   "kids": {
-    "en": "Be there 5 minutes before the hour: the skeleton rings its bell and the 12 apostles appear.",
-    "he": "להגיע 5 דקות לפני השעה העגולה: השלד מצלצל בפעמון ו-12 השליחים מופיעים."
-   },
-   "optional": false,
-   "google": {
-    "name": "Prague Astronomical Clock",
-    "rating": 4.7,
-    "reviews": 104150,
-    "lat": 50.087021,
-    "lng": 14.420706,
-    "address": "Staroměstské nám. 1, 110 00 Josefov, Czechia",
-    "website": "https://prague.eu/cs/objevujte/staromestska-radnice-s-orlojem",
-    "place_id": "ChIJSS_AOemUC0cRlgaiWrJEe_E",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=Prague%20Astronomical%20Clock&query_place_id=ChIJSS_AOemUC0cRlgaiWrJEe_E",
-    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.087021,14.420706&travelmode=driving"
-   },
-   "rating": {
-    "source": "Google Maps",
-    "score": 4.7,
-    "out_of": 5,
-    "reviews": 104150,
-    "url": "https://www.google.com/maps/search/?api=1&query=Prague%20Astronomical%20Clock&query_place_id=ChIJSS_AOemUC0cRlgaiWrJEe_E"
-   },
-   "photo": {
-    "file": "img/cz/orloj-1.jpg",
-    "w": 1000,
-    "h": 752,
-    "source_page": "https://commons.wikimedia.org/wiki/File:Czech-2013-Prague-Astronomical_clock_face.jpg",
-    "credit": "Godot13 · CC BY-SA 4.0 · Wikimedia Commons"
-   },
-   "sources": [
-    [
-     "prague.eu – Astronomical Clock",
-     "https://prague.eu/cs/objevujte/staromestska-radnice-s-orlojem"
-    ]
-   ]
-  },
   "slovanka": {
    "id": "slovanka",
    "name": {
@@ -1729,8 +1615,8 @@
     "he": "סירות פדלים באי סלובנקה"
    },
    "hours": {
-    "en": "Apr–Oct daily ≈ 11:00–23:00 (weather); Sunday afternoon can have a queue.",
-    "he": "אפריל–אוקטובר מדי יום, בערך 11:00–23:00 (לפי מזג האוויר); בצהרי יום א' ייתכן תור."
+    "en": "Apr–Oct daily ≈ 11:00–23:00 (weather). Sun 29 Aug, about 17:00 (Sunday: a queue is possible, so go at 16:30).",
+    "he": "אפריל–אוקטובר מדי יום, בערך 11:00–23:00 (לפי מזג האוויר). יום א' 29 באוגוסט, בסביבות 17:00 (יום ראשון: ייתכן תור, אז להגיע ב-16:30)."
    },
    "price_text": {
     "en": "≈ 350 CZK per hour (≈ €14); kids' life jackets free; cash advised.",
@@ -1788,8 +1674,8 @@
     "he": "ממלכת הרכבות – חלופה ליום גשום"
    },
    "hours": {
-    "en": "Daily 9:00–19:00 (last tickets 18:00), also open Sun 29 Aug.",
-    "he": "מדי יום 9:00–19:00 (כרטיס אחרון 18:00), פתוח גם ביום א' 29 באוגוסט."
+    "en": "Daily 9:00–19:00 (last tickets 18:00), also open Sun 29 Aug. Rainy-day swap for the pedal boats.",
+    "he": "מדי יום 9:00–19:00 (כרטיס אחרון 18:00), פתוח גם ביום א' 29 באוגוסט. חלופה ליום גשום במקום סירות הפדלים."
    },
    "price_text": {
     "en": "390 CZK per person incl. children (under 1 m: 50 CZK), so ≈ 1,560 CZK (≈ €64) for your family.",
@@ -1965,12 +1851,12 @@
   "hluboka": {
    "id": "hluboka",
    "name": {
-    "en": "Hluboká Castle",
-    "he": "טירת הלובוקה"
+    "en": "Hluboká Castle: the kitchen tour (35 min)",
+    "he": "טירת הלובוקה: סיור המטבח (35 דקות)"
    },
    "hours": {
-    "en": "August daily 9:00–17:00 (Jul–Aug open Monday to Sunday). Planned on Sun 22 Aug.",
-    "he": "באוגוסט מדי יום 9:00–17:00 (ביולי–אוגוסט פתוח מיום ב' עד יום א'). מתוכנן ליום א' 22 באוגוסט."
+    "en": "July–August daily 9:00–17:00 (the main tours; kitchen times not published): Sun 22 Aug, about 14:00 after lunch. Buy a timed ticket online for a Sunday.",
+    "he": "יולי–אוגוסט מדי יום 9:00–17:00 (הסיורים הראשיים; שעות המטבח לא פורסמו): יום א' 22 באוגוסט, בסביבות 14:00 אחרי ארוחת צהריים. ביום ראשון לקנות כרטיס לפי שעה באינטרנט."
    },
    "price_text": {
     "en": "Park free. Castle Kitchen tour (35 min, family-friendly): 2026 price not found online, estimate ≈ 600 CZK (≈ €24) for your family.",
@@ -1980,12 +1866,12 @@
    "price_eur": 24.49,
    "estimate": true,
    "time": {
-    "en": "1.5 h",
-    "he": "1.5 שעות"
+    "en": "1 h (35 min kitchen tour + the white castle seen from the park)",
+    "he": "שעה (35 דקות סיור מטבח + הטירה הלבנה מהפארק)"
    },
    "kids": {
-    "en": "White fairy-tale castle. The short kitchen tour suits small kids; buy timed tickets online. Sunday 22 Aug is a busy day: book the time slot in advance and be at the castle by about 13:00.",
-    "he": "טירה לבנה כמו באגדה. סיור המטבח הקצר מתאים לילדים קטנים; לקנות כרטיסים לפי שעה באינטרנט. יום א' 22 באוגוסט עמוס: להזמין שעה מראש ולהגיע לטירה עד כ-13:00."
+    "en": "Short and indoors in the hottest hour: the old kitchen with copper pots, a huge stove and hunting trophies is the part small kids like; walk around the white castle in the park afterwards (flat, about 600 m). Skip the long state-rooms tour.",
+    "he": "קצר ובתוך הבניין בשעה החמה: המטבח הישן עם סירי נחושת, תנור ענק וקרניים ציד הוא החלק שילדים קטנים אוהבים; אחר כך סיבוב סביב הטירה הלבנה בפארק (שטוח, כ-600 מ'). לוותר על סיור חדרי הייצוג הארוך."
    },
    "optional": false,
    "google": {
@@ -2028,29 +1914,29 @@
   "zoo_ohrada": {
    "id": "zoo_ohrada",
    "name": {
-    "en": "Zoo Ohrada (Hluboká)",
-    "he": "גן החיות אוהרדה (הלובוקה)"
+    "en": "Zoo Hluboká (Ohrada): bears, lynx, otters and the playground",
+    "he": "גן החיות הלובוקה (אוהרדה): דובים, שונרים, לוטרות ומגרש משחקים"
    },
    "hours": {
-    "en": "Summer daily 8:30–19:00 (open Sun 22 Aug).",
-    "he": "בקיץ מדי יום 8:30–19:00 (פתוח ביום א' 22 באוגוסט)."
+    "en": "Open daily all year, July–August about 9:00–19:00 (one source says to 20:00; check zoohluboka.cz). Sun 22 Aug, 15:00–17:15 (Google: 4.7 from 14,459 reviews).",
+    "he": "פתוח מדי יום כל השנה, ביולי–אוגוסט בערך 9:00–19:00 (מקור אחד אומר עד 20:00; לבדוק ב-zoohluboka.cz). יום א' 22 באוגוסט, 15:00–17:15 (גוגל: 4.7 מתוך 14,459 ביקורות)."
    },
    "price_text": {
-    "en": "2026 prices not found online; older list: adult 90, child 50 CZK. Estimate ≈ 300 CZK (≈ €12).",
-    "he": "מחירי 2026 לא נמצאו; מחירון ישן: מבוגר 90, ילד 50 קרונות. הערכה כ-300 קרונות (כ-12 €)."
+    "en": "≈ 500 CZK (≈ €20), ESTIMATE from third-party 2026 tables (adult 180, child 140, family 2+2 500 CZK); the zoo's own price page was not readable. Children under about 90 cm free.",
+    "he": "כ-500 קרונות (כ-20 €), הערכה מטבלאות צד שלישי ל-2026 (מבוגר 180, ילד 140, משפחתי 2+2 500 קרונות); דף המחירים של הגן עצמו לא היה זמין. ילדים מתחת לכ-90 ס\"מ חינם."
    },
-   "price_czk": 300,
-   "price_eur": 12.24,
+   "price_czk": 500,
+   "price_eur": 20.41,
    "estimate": true,
    "time": {
-    "en": "1–1.5 h",
-    "he": "1–1.5 שעות"
+    "en": "2–2.25 h (2.6 km / 8 min from the castle)",
+    "he": "2–2.25 שעות (2.6 ק\"מ / 8 דקות מהטירה)"
    },
    "kids": {
-    "en": "Small, shady zoo of Czech animals (otters, lynx, bears) 2 km from the castle. Easy add-on if the kids still have energy; on a Sunday it is busier, so skip it if the castle took long.",
-    "he": "גן חיות קטן ומוצל של חיות צ'כיות (לוטרות, שונרים, דובים) 2 ק\"מ מהטירה. תוספת קלה אם לילדים נשאר כוח; ביום ראשון עמוס יותר, אז לוותר אם הטירה נמשכה זמן רב."
+    "en": "The day's main kid stop: a shady zoo of European animals in a forest park (bears, lynx, wolves, otters, owls), with a children's playground. Flat paths, a few hundred metres at a time, plenty of shade, so the 15:00 start is comfortable. Then 1h08 on to Lipno and a self check-in.",
+    "he": "תחנת הילדים העיקרית של היום: גן חיות מוצל של חיות אירופאיות בפארק יער (דובים, שונרים, זאבים, לוטרות, ינשופים) עם מגרש משחקים לילדים. שבילים שטוחים, כמה מאות מטרים בכל פעם והרבה צל, כך שהתחלה ב-15:00 נוחה. אחר כך 1:08 שעות לליפנו וצ'ק-אין עצמי."
    },
-   "optional": true,
+   "optional": false,
    "google": {
     "name": "Zoo Hluboká",
     "rating": 4.7,
@@ -2079,8 +1965,12 @@
    },
    "sources": [
     [
-     "zoohluboka.cz",
+     "Zoo Hluboká (official site)",
      "http://www.zoohluboka.cz/"
+    ],
+    [
+     "Finance.cz – 2026 zoo price table (adult 180 / child 140 / family 500 CZK)",
+     "https://www.finance.cz/clanky/za-vysvedceni-do-zoo-zdarma-do-kterych-zoo-mohou-deti-za-snizene-ceny/"
     ]
    ]
   },
@@ -2091,8 +1981,8 @@
     "he": "שביל הצמרות בליפנו"
    },
    "hours": {
-    "en": "1 Jun – 28 Sep: 10:00–19:00 (last tickets 18:00). Planned on Mon 23 Aug, a quieter day than the weekend.",
-    "he": "1 ביוני – 28 בספטמבר: 10:00–19:00 (כרטיס אחרון 18:00). מתוכנן ליום ב' 23 באוגוסט, יום רגוע יותר מסוף השבוע."
+    "en": "1 Jun – 28 Sep: 10:00–19:00 (last tickets 18:00). Mon 23 Aug, from 10:00 (a Monday: calm).",
+    "he": "1 ביוני – 28 בספטמבר: 10:00–19:00 (כרטיס אחרון 18:00). יום ב' 23 באוגוסט, מ-10:00 (יום שני: רגוע)."
    },
    "price_text": {
     "en": "Dynamic: family (2+2) ≈ 730–1,140 CZK; budget 1,000 CZK (≈ €41). Cheaper if booked ~14 days ahead. Tube slide extra.",
@@ -2272,8 +2162,8 @@
     "he": "חוף אגם ליפנו"
    },
    "hours": {
-    "en": "Open access",
-    "he": "פתוח תמיד"
+    "en": "Open access. Wed 25 Aug, 15:30–18:00 (after the A/C rest).",
+    "he": "גישה חופשית. יום ד' 25 באוגוסט, 15:30–18:00 (אחרי המנוחה במיזוג)."
    },
    "price_text": {
     "en": "Free",
@@ -2464,8 +2354,8 @@
     "he": "1–2 שעות"
    },
    "kids": {
-    "en": "Short car-ferry crossing of the lake; beach and playground by the pier.",
-    "he": "חציית האגם במעבורת קצרה; חוף ומגרש משחקים ליד המזח."
+    "en": "A real boat ride for the kids: a short ferry across the lake and back, then a sandy beach and a playground by the pier. Flat, 20 min from the apartment.",
+    "he": "שייט אמיתי לילדים: מעבורת קצרה לצד השני של האגם וחזרה, ואז חוף חולי ומגרש משחקים ליד המזח. שטוח, 20 דקות מהדירה."
    },
    "optional": false,
    "google": {
@@ -2501,62 +2391,196 @@
     ]
    ]
   },
-  "klet_lift": {
-   "id": "klet_lift",
+  "hopsarium": {
+   "id": "hopsarium",
    "name": {
-    "en": "Kleť chairlift (optional, no hiking)",
-    "he": "רכבל הכיסאות לקלט (אופציונלי, בלי הליכה)"
+    "en": "Hopsárium Lipno: indoor play park with slides and trampolines (optional)",
+    "he": "הופסריום ליפנו: פארק משחקים מקורה עם מגלשות וטרמפולינות (אופציונלי)"
    },
    "hours": {
-    "en": "Summer daily ≈ 9:00–17:00 (to 18:00 weekends); planned on Wed 25 Aug.",
-    "he": "בקיץ מדי יום, בערך 9:00–17:00 (עד 18:00 בסופי שבוע); מתוכנן ליום ד' 25 באוגוסט."
+    "en": "Lipno.info lists Mon–Sun 10:00–19:00; the Google listing shows Mon–Thu closed (probably off-season data). UNCONFIRMED for Wed 25 Aug: phone +420 728 006 500 or check lipno.hopsarium.cz before you go; if closed, stay at the beach.",
+    "he": "Lipno.info מציין שני–ראשון 10:00–19:00; ברישום בגוגל מופיע סגור ב'–ה' (כנראה נתוני מחוץ לעונה). לא מאושר ליום ד' 25 באוגוסט: להתקשר +420 728 006 500 או לבדוק ב-lipno.hopsarium.cz לפני; אם סגור – נשארים בחוף."
    },
    "price_text": {
-    "en": "2026 fares not published; estimate ≈ 640 CZK return for the family + ≈ 100 CZK for the tower.",
-    "he": "מחירי 2026 לא פורסמו; הערכה כ-640 קרונות הלוך-חזור למשפחה + כ-100 למגדל."
+    "en": "≈ 450 CZK (≈ €18), ESTIMATE: no current price found (an undated school rate was 120 CZK per child); assumed 2 kids × ≈ 200 CZK, accompanying adults free or small.",
+    "he": "כ-450 קרונות (כ-18 €), הערכה: לא נמצא מחיר עדכני (תעריף בית ספר לא מתוארך היה 120 קרונות לילד); הנחתי 2 ילדים × כ-200 קרונות, מבוגרים מלווים חינם או סמלי."
    },
-   "price_czk": 740,
-   "price_eur": 30.2,
+   "price_czk": 450,
+   "price_eur": 18.37,
    "estimate": true,
    "time": {
-    "en": "2.5 h incl. 55 min drive each way",
-    "he": "2.5 שעות כולל 55 דק' נסיעה לכל כיוון"
+    "en": "1.5–2 h (5 min from the apartment)",
+    "he": "1.5–2 שעות (5 דקות מהדירה)"
    },
    "kids": {
-    "en": "20-min chairlift ride to a stone lookout tower (1,084 m). The chairlift takes you up, so there's no climb.",
-    "he": "20 דקות ברכבל כיסאות עד מגדל תצפית מאבן (1,084 מ'). הרכבל מעלה אתכם, כך שאין טיפוס."
+    "en": "A large indoor play park (soft-play frames, a long slide, trampolines, a bouncy castle) in the Aquaworld building: a cool, safe way to spend the hottest hours; there is also an outdoor playground and a mat slope (good weather). Google: 4.0 from 539 reviews.",
+    "he": "פארק משחקים מקורה גדול (מבנים רכים, מגלשה ארוכה, טרמפולינות, מתנפח) בבניין אקוואוורלד: דרך קרירה ובטוחה להעביר את השעות החמות; יש גם מגרש משחקים בחוץ ומדרון מחצלות (במזג אוויר טוב). גוגל: 4.0 מתוך 539 ביקורות."
    },
    "optional": true,
    "google": {
-    "name": "Lanovka Krasetín - Kleť",
-    "rating": 4.5,
-    "reviews": 496,
-    "lat": 48.87844,
-    "lng": 14.299915,
-    "address": "382 03 Holubov-Křemže, Czechia",
-    "website": "https://www.lanovkaklet.cz/",
-    "place_id": "ChIJ0x9kLgFcc0cRlQYx3qB7zCs",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=Lanovka%20Kraset%C3%ADn%20-%20Kle%C5%A5&query_place_id=ChIJ0x9kLgFcc0cRlQYx3qB7zCs",
-    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.878440,14.299915&travelmode=driving"
+    "name": "Hopsárium, Lipno",
+    "rating": 4,
+    "reviews": 539,
+    "lat": 48.640733,
+    "lng": 14.223518,
+    "address": "Lipno nad Vltavou 86, 382 78 Lipno nad Vltavou, Czechia",
+    "website": "http://lipno.hopsarium.cz/",
+    "place_id": "ChIJC5D2vjl7c0cR7OosvLCnmTg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Hops%C3%A1rium%2C%20Lipno&query_place_id=ChIJC5D2vjl7c0cR7OosvLCnmTg",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=48.640733,14.223518&travelmode=driving"
    },
    "rating": {
     "source": "Google Maps",
-    "score": 4.5,
+    "score": 4,
     "out_of": 5,
-    "reviews": 496,
-    "url": "https://www.google.com/maps/search/?api=1&query=Lanovka%20Kraset%C3%ADn%20-%20Kle%C5%A5&query_place_id=ChIJ0x9kLgFcc0cRlQYx3qB7zCs"
+    "reviews": 539,
+    "url": "https://www.google.com/maps/search/?api=1&query=Hops%C3%A1rium%2C%20Lipno&query_place_id=ChIJC5D2vjl7c0cR7OosvLCnmTg"
    },
    "photo": {
-    "file": "img/cz/klet_lift-1.jpg",
-    "w": 960,
-    "h": 1441,
-    "source_page": "https://commons.wikimedia.org/wiki/File:Kle%C5%A5,_lanov%C3%A1_dr%C3%A1ha.jpg",
-    "credit": "I would appreciate being notified if you use my work outside Wikimedia.\n\nMore of · CC BY 4.0 · Wikimedia Commons"
+    "file": "img/cz/hopsarium-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Hops%C3%A1rium%20Lipno&query_place_id=ChIJC5D2vjl7c0cR7OosvLCnmTg",
+    "credit": "Google Maps listing photo"
    },
    "sources": [
     [
-     "lanovkaklet.cz",
-     "https://www.lanovkaklet.cz/"
+     "Hopsárium Lipno (lipno.info)",
+     "https://www.lipno.info/en/adventures/hopsarium-lipno.html"
+    ],
+    [
+     "Hopsárium Lipno (official)",
+     "http://lipno.hopsarium.cz/"
+    ]
+   ]
+  },
+  "ntm": {
+   "id": "ntm",
+   "name": {
+    "en": "National Technical Museum: planes, trains and cars (1.5 h)",
+    "he": "המוזיאון הלאומי הטכני: מטוסים, רכבות ומכוניות (שעה וחצי)"
+   },
+   "hours": {
+    "en": "Tuesday–Sunday 9:00–18:00, closed Mondays (Google and Prague City Tourism): open Sat 28 Aug. Go at 16:15 and stay until about 17:45.",
+    "he": "שלישי–ראשון 9:00–18:00, סגור בימי שני (גוגל וסיור פראג): פתוח ביום ש' 28 באוגוסט. להגיע ב-16:15 ולהישאר עד כ-17:45."
+   },
+   "price_text": {
+    "en": "≈ 640 CZK (≈ €26), ESTIMATE: an undated Prague City Tourism page lists family 640 CZK (adult 290, reduced 180); children under 6 free. Check ntm.cz for the 2027 price.",
+    "he": "כ-640 קרונות (כ-26 €), הערכה: בדף לא מתוארך של סיור פראג מופיע משפחתי 640 קרונות (מבוגר 290, מוזל 180); ילדים עד גיל 6 חינם. לבדוק ב-ntm.cz את מחיר 2027."
+   },
+   "price_czk": 640,
+   "price_eur": 26.12,
+   "estimate": true,
+   "time": {
+    "en": "1.5 h (taxi about 20 min from the apartment, ≈ 250 CZK, ESTIMATE)",
+    "he": "שעה וחצי (מונית כ-20 דקות מהדירה, כ-250 קרונות, הערכה)"
+   },
+   "kids": {
+    "en": "Air-conditioned halls under a glass roof with real aeroplanes and a helicopter hanging overhead, a steam locomotive, vintage cars and motorbikes, plus interactive exhibits and children's workshops (ask at the desk what runs on Saturday). Calm, flat and cool after the zoo morning; leave when the kids tire. Fallback: the Letná park playground next door.",
+    "he": "אולמות ממוזגים מתחת לגג זכוכית עם מטוסים אמיתיים והליקופטר תלוי מעל, קטר קיטור, מכוניות ואופנועים עתיקים, ובנוסף תצוגות אינטראקטיביות וסדנאות ילדים (לשאול בקופה מה פועל בשבת). רגוע, שטוח וקריר אחרי בוקר בגן החיות; לצאת כשהילדים עייפים. חלופה: מגרש המשחקים בפארק לטנה ליד."
+   },
+   "optional": false,
+   "google": {
+    "name": "National Technical Museum",
+    "rating": 4.7,
+    "reviews": 20736,
+    "lat": 50.097302,
+    "lng": 14.424914,
+    "address": "Kostelní 1320/42, 170 00 Praha 7-Letná, Czechia",
+    "website": "http://www.ntm.cz/",
+    "place_id": "ChIJsRsfZMSUC0cR_w8SNUO5JxI",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=National%20Technical%20Museum&query_place_id=ChIJsRsfZMSUC0cR_w8SNUO5JxI",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.097302,14.424914&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 20736,
+    "url": "https://www.google.com/maps/search/?api=1&query=National%20Technical%20Museum&query_place_id=ChIJsRsfZMSUC0cR_w8SNUO5JxI"
+   },
+   "photo": {
+    "file": "img/cz/ntm-1.jpg",
+    "w": 1000,
+    "h": 977,
+    "source_page": "https://commons.wikimedia.org/wiki/File:View_in_the_National_Technical_Museum_(Prague).jpg",
+    "credit": "High Contrast · CC BY 3.0 de · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "National Technical Museum (official)",
+     "https://www.ntm.cz/en/"
+    ],
+    [
+     "prague.eu – National Technical Museum (hours, prices)",
+     "https://www.prague.eu/cs/objekt/mista/386/narodni-technicke-muzeum"
+    ]
+   ]
+  },
+  "petrin": {
+   "id": "petrin",
+   "name": {
+    "en": "Petřín: funicular ride and the mirror maze (plus the hilltop playgrounds)",
+    "he": "פטרשין: נסיעה בפוניקולר ומבוך המראות (ומגרשי המשחקים בפסגה)"
+   },
+   "hours": {
+    "en": "Funicular (reopened 22 Sep 2026 after 2 years): daily 7:00–22:15, every ~10 min. Mirror maze: daily 9:00–19:00 in June–August (prague.eu; Google 9:00–18:00 — arrive by 17:00 either way). Sun 29 Aug: funicular at 10:00, maze 10:15.",
+    "he": "פוניקולר (נפתח מחדש ב-22.9.2026 אחרי שנתיים): מדי יום 7:00–22:15, כל כ-10 דקות. מבוך המראות: מדי יום 9:00–19:00 ביוני–אוגוסט (prague.eu; בגוגל 9:00–18:00 – בכל מקרה להגיע עד 17:00). יום א' 29 באוגוסט: פוניקולר ב-10:00, מבוך ב-10:15."
+   },
+   "price_text": {
+    "en": "≈ 700 CZK (≈ €29), ESTIMATE: funicular is free for children up to 15, adults 100 CZK one way (90 in the PID Lítačka app), or included in a 24-hour PID ticket: ≈ 200; mirror maze adult 150, junior 6–15 100 CZK, under 5 free (the 5-year-old may count as a junior): ≈ 500.",
+    "he": "כ-700 קרונות (כ-29 €), הערכה: הפוניקולר חינם לילדים עד גיל 15, מבוגרים 100 קרונות לכיוון (90 באפליקציית PID Lítačka), או כלול בכרטיס PID ל-24 שעות: כ-200; מבוך המראות מבוגר 150, נער 6–15 100 קרונות, עד גיל 5 חינם (בן ה-5 אולי ייחשב נער): כ-500."
+   },
+   "price_czk": 700,
+   "price_eur": 28.57,
+   "estimate": true,
+   "time": {
+    "en": "2 h (funicular 4 min each way; maze 5 min walk from the top station; flat paths)",
+    "he": "שעתיים (פוניקולר 4 דקות לכל כיוון; המבוך 5 דקות הליכה מהתחנה העליונה; שבילים שטוחים)"
+   },
+   "kids": {
+    "en": "The kids' hill in the middle of the city: a funicular like a little train up the slope, a toy-castle building full of distorting mirrors (the 5-year-old can run through it with a parent), and shady lawns and playgrounds in the park around it. Skip the 299-step lookout tower. Under-15s may enter the maze building only with an adult.",
+    "he": "ההר של הילדים באמצע העיר: פוניקולר כמו רכבת קטנה במעלה המדרון, מבנה כמו טירת צעצוע מלא מראות מעוותות (בן ה-5 יכול לרוץ בו עם הורה) ומדשאות מוצלות ומגרשי משחקים בפארק סביבו. לדלג על מגדל התצפית של 299 מדרגות. ילדים עד 15 נכנסים למבוך רק עם מבוגר."
+   },
+   "optional": false,
+   "google": {
+    "name": "Mirror Maze in Petrin Park",
+    "rating": 3.6,
+    "reviews": 5063,
+    "lat": 50.083503,
+    "lng": 14.396314,
+    "address": "Petřínské sady, 110 00 Praha 1, Czechia",
+    "website": "https://www.prague.eu/cs/objekt/mista/107/zrcadlove-bludiste-petrin",
+    "place_id": "ChIJQUBkXf2UC0cRzf9v7ZTvopM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Mirror%20Maze%20in%20Petrin%20Park&query_place_id=ChIJQUBkXf2UC0cRzf9v7ZTvopM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.083503,14.396314&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 3.6,
+    "out_of": 5,
+    "reviews": 5063,
+    "url": "https://www.google.com/maps/search/?api=1&query=Mirror%20Maze%20in%20Petrin%20Park&query_place_id=ChIJQUBkXf2UC0cRzf9v7ZTvopM"
+   },
+   "photo": {
+    "file": "img/cz/petrin-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Petřín_funicular_in_Prague_at_Újezd_station.jpg",
+    "credit": "Mattsjc · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "PID – Petřín funicular reopens 22 Sep 2026",
+     "https://pid.cz/lanovka-na-petrin-s-novymi-kabinami-obnovuje-provoz-v-utery-22-zari/"
+    ],
+    [
+     "prague.eu – Petřín mirror maze (hours, prices)",
+     "https://www.prague.eu/cs/objekt/mista/107/zrcadlove-bludiste-na-petrine"
+    ],
+    [
+     "Google Maps – Mirror Maze in Petřín Park",
+     "https://www.google.com/maps/search/?api=1&query=Mirror%20Maze%20Petrin&query_place_id=ChIJQUBkXf2UC0cRzf9v7ZTvopM"
     ]
    ]
   }
@@ -2598,8 +2622,8 @@
     "he": "א'"
    },
    "title": {
-    "en": "Car pick-up, Hluboká Castle, on to Lipno",
-    "he": "איסוף רכב, טירת הלובוקה, והלאה לליפנו"
+    "en": "Car pick-up, Hluboká castle kitchen and Zoo Ohrada, on to Lipno (Sun 22)",
+    "he": "איסוף רכב, מטבח טירת הלובוקה וגן החיות אוהרדה, והמשך לליפנו (א' 22)"
    },
    "trail": "green",
    "overnight": "hotel_jedeme",
@@ -2609,12 +2633,20 @@
      "he": "בוקר רגוע וארוחת בוקר, ואז הליכה חזרה לטרמינל ואיסוף הרכב ב-11:00 (יום ראשון: לאשר מראש את שעות הדלפק)."
     },
     {
-     "en": "Drive 2h06 to Hluboká Castle: kitchen tour and park. Sunday is the castle's busiest day, so book the timed tour online. Optional Zoo Ohrada next door (also busier on a Sunday).",
-     "he": "נסיעה של 2:06 שעות לטירת הלובוקה: סיור המטבח והפארק. יום ראשון הוא היום העמוס בטירה, אז להזמין את הסיור לפי שעה באינטרנט. אופציונלי: גן החיות אוהרדה ליד (גם הוא עמוס יותר ביום ראשון)."
+     "en": "Drive 2h04 to Hluboká (snack stop on the D3 if the kids are restless), lunch in the town by about 13:15.",
+     "he": "נסיעה של 2:04 שעות להלובוקה (עצירת חטיף בכביש D3 אם הילדים חסרי מנוחה), ארוחת צהריים בעיירה עד כ-13:15."
     },
     {
-     "en": "1h07 to Lipno, check in, then a first walk to the lake (the beach is at the door).",
-     "he": "שעה ו-7 דקות לליפנו, צ'ק-אין, ואז הליכה ראשונה לאגם (החוף ממש ליד הדלת)."
+     "en": "About 14:00 the castle kitchen tour (35 min, indoors in the hottest hour; book a timed ticket online) and a short flat walk round the white castle in the park.",
+     "he": "בסביבות 14:00 סיור מטבח הטירה (35 דקות, בפנים בשעה החמה ביותר; להזמין כרטיס לפי שעה באינטרנט) והליכה קצרה ושטוחה סביב הטירה הלבנה בפארק."
+    },
+    {
+     "en": "15:00–17:15 Zoo Hluboká (Ohrada, 8 min drive): bears, lynx, otters and the playground in the shade.",
+     "he": "15:00–17:15 גן החיות הלובוקה (אוהרדה, 8 דקות נסיעה): דובים, שונרים, לוטרות ומגרש משחקים בצל."
+    },
+    {
+     "en": "17:30 drive 1h08 to Lipno, self check-in and a first walk to the lake (the beach is at the door). Total driving 3h20 in two legs.",
+     "he": "17:30 נסיעה של 1:08 שעות לליפנו, צ'ק-אין עצמי והליכה ראשונה לאגם (החוף ממש ליד הדלת). סך הכול 3:20 שעות נסיעה בשני קטעים."
     }
    ],
    "attractions": [
@@ -2622,20 +2654,26 @@
     "zoo_ohrada"
    ],
    "route": {
-    "km": 243.0,
-    "minutes": 192,
+    "km": 240.8,
+    "minutes": 201,
     "legs": [
      {
       "from": "Prague Airport (PRG) – car pick-up",
-      "to": "Hluboká Castle & Zoo Ohrada",
-      "km": 162.7,
-      "min": 125
+      "to": "Hluboká Castle (kitchen tour)",
+      "km": 165.9,
+      "min": 124
      },
      {
-      "from": "Hluboká Castle & Zoo Ohrada",
+      "from": "Hluboká Castle (kitchen tour)",
+      "to": "Zoo Hluboká (Ohrada)",
+      "km": 2.6,
+      "min": 8
+     },
+     {
+      "from": "Zoo Hluboká (Ohrada)",
       "to": "Jedeme Lipno apartment",
-      "km": 80.4,
-      "min": 67
+      "km": 72.3,
+      "min": 68
      }
     ],
     "points": [
@@ -2645,9 +2683,14 @@
       "lng": 14.26
      },
      {
-      "name": "Hluboká Castle & Zoo Ohrada",
+      "name": "Hluboká Castle (kitchen tour)",
       "lat": 49.0511,
       "lng": 14.4416
+     },
+     {
+      "name": "Zoo Hluboká (Ohrada)",
+      "lat": 49.0423,
+      "lng": 14.4224
      },
      {
       "name": "Jedeme Lipno apartment",
@@ -2670,104 +2713,108 @@
        50.07661
       ],
       [
-       14.272914,
-       50.036785
+       14.271952,
+       50.037717
       ],
       [
-       14.392748,
-       49.984246
+       14.333121,
+       50.020721
       ],
       [
-       14.332898,
-       49.906898
+       14.346356,
+       49.999684
       ],
       [
-       14.279963,
-       49.884908
+       14.481361,
+       49.979236
       ],
       [
-       14.193993,
-       49.781656
+       14.508545,
+       49.960596
       ],
       [
-       14.074877,
-       49.697263
+       14.60771,
+       49.979055
       ],
       [
-       14.051463,
-       49.627652
+       14.715359,
+       49.90333
       ],
       [
-       14.087789,
-       49.568789
+       14.681137,
+       49.847753
       ],
       [
-       14.071052,
-       49.491845
+       14.673085,
+       49.74698
       ],
       [
-       14.037335,
-       49.469286
+       14.63291,
+       49.65459
       ],
       [
-       14.056089,
-       49.445456
+       14.660986,
+       49.612768
       ],
       [
-       14.036897,
-       49.414708
+       14.660652,
+       49.470203
       ],
       [
-       14.055589,
-       49.347222
+       14.726035,
+       49.391437
       ],
       [
-       14.168868,
-       49.29264
+       14.727406,
+       49.222719
       ],
       [
-       14.217757,
-       49.223483
+       14.674093,
+       49.171196
       ],
       [
-       14.188965,
-       49.165308
+       14.564803,
+       49.106911
       ],
       [
-       14.202974,
-       49.123451
+       14.507423,
+       49.04432
       ],
       [
-       14.386523,
-       49.024462
+       14.471456,
+       49.039112
       ],
       [
        14.443827,
        49.051339
       ],
       [
-       14.475557,
-       49.039081
+       14.422548,
+       49.042294
       ],
       [
-       14.518199,
-       49.053385
+       14.465815,
+       48.970875
       ],
       [
-       14.522483,
-       48.978604
+       14.435737,
+       48.918089
       ],
       [
-       14.42669,
-       48.838095
+       14.45154,
+       48.87302
+      ],
+      [
+       14.426553,
+       48.834503
       ],
       [
        14.484586,
        48.749311
       ],
       [
-       14.47665,
-       48.711166
+       14.476742,
+       48.711351
       ],
       [
        14.41123,
@@ -2792,7 +2839,7 @@
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.1008,14.26&destination=48.638175,14.224625&travelmode=driving&waypoints=49.0511%2C14.4416"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.1008,14.26&destination=48.638175,14.224625&travelmode=driving&waypoints=49.0511%2C14.4416%7C49.0423%2C14.4224"
    }
   },
   {
@@ -2803,19 +2850,23 @@
     "he": "ב'"
    },
    "title": {
-    "en": "Treetop walk, forest playground, bobsled (Mon 23)",
+    "en": "Treetop walk, forest playground and summer bobsled (Mon 23)",
     "he": "שביל צמרות, מגרש משחקים ביער ומזחלת קיץ (ב' 23)"
    },
    "trail": "blue",
    "overnight": "hotel_jedeme",
    "plan": [
     {
-     "en": "Morning: Treetop Walkway and tube slide, then Kingdom of the Forest next door. Monday is calmer than the weekend, so there is little queuing.",
-     "he": "בבוקר: שביל הצמרות ומגלשת הצינור, ואז ממלכת היער ליד. יום שני רגוע יותר מסוף השבוע, כך שכמעט אין תורים."
+     "en": "10:00 Treetop Walkway (gentle ramp, a 40 m tower over the lake, the tube slide down), then Kingdom of the Forest next door (rope bridges, climbing, the new marble run). Monday is calm, so little queuing; both are in the shade of the forest.",
+     "he": "10:00 שביל הצמרות (רמפה מתונה, מגדל של 40 מ' מעל האגם, מגלשת הצינור למטה), ואז ממלכת היער ליד (גשרי חבלים, טיפוס, מסלול הגולות החדש). יום שני רגוע, כמעט בלי תורים; שניהם בצל היער."
     },
     {
-     "en": "A few bobsled rides, then the afternoon at the beach.",
-     "he": "כמה ירידות במזחלת הקיץ, ואז אחר הצהריים בחוף."
+     "en": "13:00 lunch, then 13:30–15:30 rest in the air-conditioned apartment (the midday heat).",
+     "he": "13:00 ארוחת צהריים, ואז 13:30–15:30 מנוחה בדירה הממוזגת (חום הצהריים)."
+    },
+    {
+     "en": "16:00 a few bobsled rides (open to 18:00), then the beach in front of the apartment until dinner.",
+     "he": "16:00 כמה ירידות במזחלת הקיץ (פתוחה עד 18:00), ואז החוף מול הדירה עד ארוחת הערב."
     }
    ],
    "attractions": [
@@ -3149,19 +3200,23 @@
     "he": "ג'"
    },
    "title": {
-    "en": "Český Krumlov: rafting + bears",
-    "he": "צ'סקי קרומלוב: רפטינג ודובים"
+    "en": "Český Krumlov: family raft and the castle bears (Tue 24)",
+    "he": "צ'סקי קרומלוב: רפטינג משפחתי והדובים בטירה (ג' 24)"
    },
    "trail": "blue",
    "overnight": "hotel_jedeme",
    "plan": [
     {
-     "en": "35-min drive. Morning family raft through the old town (reserve ahead for Tue 24 Aug).",
-     "he": "נסיעה של 35 דקות. בבוקר רפטינג משפחתי דרך העיר העתיקה (להזמין מראש ליום ג' 24 באוגוסט)."
+     "en": "35-min drive. 09:30 a short family raft through the old town (reserve ahead for Tue 24 Aug; life jackets included; ask Maleček about the minimum age for the 5-year-old).",
+     "he": "נסיעה של 35 דקות. 09:30 רפטינג משפחתי קצר דרך העיר העתיקה (להזמין מראש ליום ג' 24 באוגוסט; אפודי הצלה כלולים; לשאול את מאלצ'ק על גיל מינימום לבן ה-5)."
     },
     {
-     "en": "Castle courtyards and the bear moat (open daily), ice cream, back to Lipno by mid-afternoon.",
-     "he": "חצרות הטירה ותעלת הדובים (פתוחות מדי יום), גלידה, וחזרה לליפנו עד אמצע אחר הצהריים."
+     "en": "11:00 the bear moat and castle courtyards (open daily, flat, shady arcades), ice cream and an early lunch by the river.",
+     "he": "11:00 תעלת הדובים וחצרות הטירה (פתוחות מדי יום, שטוח, מעברים מקורים ומוצלים), גלידה וארוחת צהריים מוקדמת ליד הנהר."
+    },
+    {
+     "en": "13:00 back to Lipno for the rest in the air-conditioned apartment, then the beach from 16:00.",
+     "he": "13:00 חזרה לליפנו למנוחה בדירה הממוזגת, ואז החוף מ-16:00."
     }
    ],
    "attractions": [
@@ -3470,29 +3525,29 @@
     "he": "ד'"
    },
    "title": {
-    "en": "Lake day: ferry + beach",
-    "he": "יום אגם: מעבורת וחוף"
+    "en": "Lake day: Frymburk ferry, beach and playground (Wed 25)",
+    "he": "יום אגם: מעבורת פרימבורק, חוף ומגרש משחקים (ד' 25)"
    },
    "trail": "blue",
    "overnight": "hotel_jedeme",
    "plan": [
     {
-     "en": "20 min to Frymburk: ferry across the lake and back, playground and beach by the pier.",
-     "he": "20 דקות לפרימבורק: מעבורת לצד השני של האגם וחזרה, מגרש משחקים וחוף ליד המזח."
+     "en": "20 min to Frymburk. 10:00 the ferry across the lake and back (hourly on the hour), then the sandy beach and the playground by the pier.",
+     "he": "20 דקות לפרימבורק. 10:00 המעבורת לצד השני של האגם וחזרה (כל שעה עגולה), ואז החוף החולי ומגרש המשחקים ליד המזח."
     },
     {
-     "en": "Afternoon on the beach by the apartment.",
-     "he": "אחר הצהריים בחוף ליד הדירה."
+     "en": "12:30 lunch, then 13:30–15:30 rest in the air-conditioned apartment. Optional instead (call first, the Google listing shows it closed Mon–Thu): Hopsárium Lipno, the indoor play park 5 min away.",
+     "he": "12:30 ארוחת צהריים, ואז 13:30–15:30 מנוחה בדירה הממוזגת. אופציונלי במקום זה (להתקשר קודם, ברישום בגוגל מופיע סגור ב'–ה'): הופסריום ליפנו, פארק המשחקים המקורה 5 דקות משם."
     },
     {
-     "en": "Optional: Kleť chairlift for the view (55 min each way, no hiking).",
-     "he": "אופציונלי: רכבל קלט לנוף (55 דקות לכל כיוון, בלי הליכה)."
+     "en": "15:30 swimming and sandcastles at the beach by the apartment. Pack tonight: tomorrow is the drive to Prague (Kleť chairlift dropped: 110 min of extra driving).",
+     "he": "15:30 שחייה וטירות חול בחוף ליד הדירה. לארוז הערב: מחר נוסעים לפראג (רכבל קלט הוסר: 110 דקות נסיעה נוספות)."
     }
    ],
    "attractions": [
     "frymburk_ferry",
     "lipno_beach",
-    "klet_lift"
+    "hopsarium"
    ],
    "route": {
     "km": 19.7,
@@ -3803,8 +3858,12 @@
      "he": "יציאה מליפנו בערך ב-07:45 ונסיעה של שעתיים ו-54 דקות לשדה התעופה (עצירת מנוחה בכביש המהיר). החזרת הרכב עד 11:00 (בדיוק 4 ימי השכרה)."
     },
     {
-     "en": "Taxi with 2 child seats to the apartment (about 34 min, ≈ €40). Lunch and rest; evening at the Folimanka playground (8 min walk).",
-     "he": "מונית עם 2 מושבי ילדים לדירה (כ-34 דק', כ-40 €). ארוחת צהריים ומנוחה; בערב מגרש המשחקים בפולימנקה (8 דקות הליכה)."
+     "en": "Taxi with 2 child seats to the apartment (about 34 min, ≈ €40). Lunch, then 13:30–16:30 rest in the air-conditioned apartment; 17:30 the Folimanka park playground (8 min walk), dinner nearby.",
+     "he": "מונית עם 2 מושבי ילדים לדירה (כ-34 דק', כ-40 €). ארוחת צהריים, ואז 13:30–16:30 מנוחה בדירה הממוזגת; 17:30 מגרש המשחקים בפארק פולימנקה (8 דקות הליכה), ארוחת ערב בסביבה."
+    },
+    {
+     "en": "No kid stop fits on the way: the drive is already 2h54 and the car must be back by 11:00 (a stop would cost an extra rental day). The kid time is in the evening instead.",
+     "he": "אין עצירת ילדים שמתאימה בדרך: הנסיעה כבר 2:54 שעות והרכב חייב לחזור עד 11:00 (עצירה תעלה יום השכרה נוסף). זמן הילדים הוא בערב."
     }
    ],
    "attractions": [],
@@ -3816,13 +3875,13 @@
       "from": "Jedeme Lipno apartment",
       "to": "Prague Airport (PRG) – car return",
       "km": 231.2,
-      "min": 175
+      "min": 174
      },
      {
       "from": "Prague Airport (PRG) – car return",
       "to": "The Nova Apart Hotel, Prague 2",
       "km": 18.2,
-      "min": 34
+      "min": 35
      }
     ],
     "points": [
@@ -4298,23 +4357,28 @@
     "he": "ש'"
    },
    "title": {
-    "en": "Prague Zoo (Sat 28)",
-    "he": "גן החיות של פראג (ש' 28)"
+    "en": "Prague Zoo with the chairlift, then the Technical Museum (Sat 28)",
+    "he": "גן החיות של פראג עם הרכבל, ואחר כך המוזיאון הטכני (ש' 28)"
    },
    "trail": "yellow",
    "overnight": "hotel_nova",
    "plan": [
     {
-     "en": "Metro C from I.P. Pavlova to Nádraží Holešovice (direct), then bus 112 to the zoo (about 40 min); be at the gate at the 9:00 opening, because Saturday is the busiest day. Zoo about 9:00–14:30, buy tickets online.",
-     "he": "מטרו C מ-I.P. Pavlova ל-Nádraží Holešovice (ישיר) ואוטובוס 112 לגן החיות (כ-40 דק'); להיות בשער בפתיחה ב-9:00, כי שבת היא היום העמוס ביותר. בגן החיות בערך 9:00–14:30, לקנות כרטיסים באינטרנט."
+     "en": "Metro C from I.P. Pavlova to Nádraží Holešovice (direct), then bus 112 to the zoo (about 40 min); be at the gate for the 9:00 opening, because Saturday is the busiest day. 9:00–13:00: the shaded lower part, the children's zoo, the chairlift up to the hilltop; buy tickets online.",
+     "he": "מטרו C מ-I.P. Pavlova ל-Nádraží Holešovice (ישיר) ואוטובוס 112 לגן החיות (כ-40 דק'); להיות בשער בפתיחה ב-9:00, כי שבת היא היום העמוס ביותר. 9:00–13:00: החלק התחתון המוצל, פינת הליטוף, הרכבל לפסגה; לקנות כרטיסים באינטרנט."
     },
     {
-     "en": "Afternoon rest in the apartment; dinner cooked at home or nearby.",
-     "he": "אחר הצהריים מנוחה בדירה; ארוחת ערב בבית או בסביבה."
+     "en": "13:30 lunch and 14:00–16:00 rest in the air-conditioned apartment (the midday heat).",
+     "he": "13:30 ארוחת צהריים ו-14:00–16:00 מנוחה בדירה הממוזגת (חום הצהריים)."
+    },
+    {
+     "en": "16:00 taxi (about 20 min) to the National Technical Museum on Letná (open until 18:00 on Saturday): aeroplanes, a locomotive and cars in cool halls, about 1.5 h; early dinner and back.",
+     "he": "16:00 מונית (כ-20 דקות) למוזיאון הלאומי הטכני בלטנה (פתוח עד 18:00 בשבת): מטוסים, קטר ומכוניות באולמות קרירים, כשעה וחצי; ארוחת ערב מוקדמת וחזרה."
     }
    ],
    "attractions": [
-    "prague_zoo"
+    "prague_zoo",
+    "ntm"
    ],
    "route": null,
    "no_drive_key": "no_drive_city"
@@ -4327,29 +4391,32 @@
     "he": "א'"
    },
    "title": {
-    "en": "Prague city day (Sun 29; by tram, little walking)",
-    "he": "יום עיר בפראג (א' 29; בחשמלית, מעט הליכה)"
+    "en": "Petřín funicular and mirror maze, castle guard, pedal boats (Sun 29)",
+    "he": "פוניקולר פטרשין ומבוך מראות, משמר הטירה וסירות פדלים (א' 29)"
    },
    "trail": "yellow",
    "overnight": "hotel_nova",
    "plan": [
     {
-     "en": "Metro C from I.P. Pavlova to Muzeum, change to metro A to Malostranská, then tram 22 up to Prague Castle for the changing of the guard at 12:00 (Sunday: arrive by 11:30).",
-     "he": "מטרו C מ-I.P. Pavlova ל-Muzeum, מעבר למטרו A ל-Malostranská וחשמלית 22 עד טירת פראג לטקס החלפת המשמר ב-12:00 (יום ראשון: להגיע עד 11:30)."
+     "en": "09:30 taxi (about 15 min, ≈ 200 CZK) or tram 22 from Karlovo náměstí to Újezd (check the PID app for the stop). 10:00 the Petřín funicular up (4 min; free for the kids), then the mirror maze (5 min walk) and the lawns and playgrounds around it until about 11:20.",
+     "he": "09:30 מונית (כ-15 דקות, כ-200 קרונות) או חשמלית 22 מ-Karlovo náměstí ל-Újezd (לבדוק את התחנה באפליקציית PID). 10:00 הפוניקולר לפטרשין (4 דקות; חינם לילדים), ואז מבוך המראות (5 דקות הליכה) והמדשאות ומגרשי המשחקים סביבו עד כ-11:20."
     },
     {
-     "en": "Tram down to Malá Strana, walk across Charles Bridge to see the Astronomical Clock on the hour.",
-     "he": "חשמלית למלה סטרנה, הליכה על גשר קארל ולראות את השעון האסטרונומי בשעה העגולה."
+     "en": "11:25 funicular down and tram 22 from Újezd to Pražský hrad (about 12 min): the big guard ceremony at 12:00 in the first courtyard (30 min only; Sunday: stand by 11:50). Charles Bridge and the Astronomical Clock are dropped (crowded). Lunch in a café on the way down and tram or taxi home.",
+     "he": "11:25 פוניקולר למטה וחשמלית 22 מ-Újezd ל-Pražský hrad (כ-12 דקות): טקס החלפת המשמר הגדול ב-12:00 בחצר הראשונה (30 דקות בלבד; יום ראשון: לעמוד שם עד 11:50). גשר קארל והשעון האסטרונומי הוסרו (צפופים). ארוחת צהריים בבית קפה בדרך למטה וחשמלית או מונית הביתה."
     },
     {
-     "en": "Pedal boats at Slovanka island (Sunday afternoon can be busy), then tram or metro back. Rain? Railway Kingdom instead. Early night: the taxi to the airport is tomorrow at about 06:30, so pack in the evening.",
-     "he": "סירות פדלים באי סלובנקה (אחר הצהריים של יום ראשון עמוס) ואז חשמלית או מטרו חזרה. יורד גשם? ממלכת הרכבות במקום. לילה מוקדם: המונית לשדה מחר בסביבות 06:30, אז לארוז בערב."
+     "en": "14:00–16:30 rest in the air-conditioned apartment (the midday heat).",
+     "he": "14:00–16:30 מנוחה בדירה הממוזגת (חום הצהריים)."
+    },
+    {
+     "en": "16:30 pedal boats at Slovanka island (Sunday: a queue is possible), then tram or metro back. Rain? Railway Kingdom instead. Early night: the taxi to the airport is tomorrow at about 06:30, so pack in the evening.",
+     "he": "16:30 סירות פדלים באי סלובנקה (יום ראשון: ייתכן תור) ואז חשמלית או מטרו חזרה. יורד גשם? ממלכת הרכבות במקום. לילה מוקדם: המונית לשדה מחר בסביבות 06:30, אז לארוז בערב."
     }
    ],
    "attractions": [
+    "petrin",
     "prague_castle",
-    "charles_bridge",
-    "orloj",
     "slovanka",
     "railway"
    ],
@@ -4542,8 +4609,8 @@
   }
  ],
  "routes_total": {
-  "km": 640.6,
-  "minutes": 606
+  "km": 638.4,
+  "minutes": 615
  },
  "budget": {
   "lines": [
@@ -4615,8 +4682,8 @@
     "eur": 73,
     "status": "estimate",
     "label": {
-     "en": "Fuel – ≈ 609 km",
-     "he": "דלק – כ-609 ק\"מ"
+     "en": "Fuel – ≈ 607 km",
+     "he": "דלק – כ-607 ק\"מ"
     }
    },
    {
@@ -4639,24 +4706,24 @@
    },
    {
     "key": "att",
-    "eur": 443,
+    "eur": 518,
     "status": "mixed",
     "label": {
-     "en": "Attractions & Prague public transport (10,859 CZK)",
-     "he": "אטרקציות ותחבורה ציבורית בפראג (10,859 CZK)"
+     "en": "Attractions & Prague public transport (12,699 CZK)",
+     "he": "אטרקציות ותחבורה ציבורית בפראג (12,699 CZK)"
     }
    }
   ],
-  "total_eur": 4140.93,
+  "total_eur": 4215.93,
   "live_part_eur": 2847.93,
-  "attractions_local": 10859,
-  "fuel_km": 609
+  "attractions_local": 12699,
+  "fuel_km": 607
  },
  "ui": {
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Czechia v7 research · prices checked 9 Nov 2026 · awaiting your approval",
+   "eyebrow": "Czechia v8 research · prices checked 9 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -4722,7 +4789,7 @@
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Czechia v7 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Czechia v8 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Lipno nad Vltavou",
@@ -4749,7 +4816,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "צ'כיה גרסה 7 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
+   "eyebrow": "צ'כיה גרסה 8 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -4815,7 +4882,7 @@
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "צ'כיה גרסה 7 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "צ'כיה גרסה 8 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "ליפנו",
@@ -4841,7 +4908,7 @@
   }
  },
  "approved": {
-  "version": "cz v7",
+  "version": "cz v8",
   "approved_on": "2026-11-09",
   "by": "traveller"
  },
