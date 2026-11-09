@@ -23,43 +23,39 @@
    "he": "סינאיה (עמק פראהובה, הקרפטים)"
   }
  },
- "variant": "day",
+ "variant": "eve",
  "version": {
-  "id": "v2",
-  "date": "2026-10-21",
+  "id": "v3",
+  "date": "2026-11-09",
   "label": {
-   "en": "Romania v2",
-   "he": "רומניה גרסה 2"
+   "en": "Romania v3",
+   "he": "רומניה גרסה 3"
   }
  },
  "taxi_days": [
   "D10"
  ],
- "car_km": 467.8,
+ "car_km": 465.4,
  "changes": [
   {
-   "en": "What changed in v2: air conditioning is now a must in every hotel. Hello Mountains Apartaments in Sinaia has no air conditioning, so it is replaced by the 4-star Hotel Carpathia (Booking 8.7 from 1,522 reviews, free spa with an indoor pool, 2 saunas and a hot tub, buffet breakfast; no kitchen). Maison Bucarest has air conditioning and stays.",
-   "he": "מה השתנה בגרסה 2: מיזוג אוויר הוא עכשיו חובה בכל מלון. ל-Hello Mountains Apartaments בסינאיה אין מיזוג אוויר, ולכן הוא הוחלף במלון Carpathia 4 הכוכבים (Booking 8.7 מתוך 1,522 ביקורות, ספא חינם עם בריכה מקורה, 2 סאונות וג'קוזי, ארוחת בוקר בבופה; בלי מטבח). ל-Maison Bucarest יש מיזוג אוויר והוא נשאר."
+   "en": "What changed in v3: on 9 Nov 2026 the return flight of v2 (TAROM RO 155, 23 Aug) rose from €541 to €924, so the cheapest dates moved from Sat 14 – Mon 23 Aug to Thu 19 – Sat 28 Aug 2027: flights + bags + hotels + car ≈ €3,415, €202 cheaper than the same plan on the old dates at today's prices. The day order was rebuilt for the new weekdays (Peleș on Friday, Babele on Sunday, Brașov and Bran on Monday, Antipa on Wednesday, Therme on Thursday); the arrival is in the evening (Wizz 19:35) with a night drive to Sinaia.",
+   "he": "מה השתנה בגרסה 3: ב-9.11.2026 טיסת החזור של גרסה 2 (טארום RO 155, 23 באוגוסט) עלתה מ-541 € ל-924 €, ולכן התאריכים הזולים ביותר עברו מ-ש' 14 – ב' 23 באוגוסט ל-ה' 19 – ש' 28 באוגוסט 2027: טיסות + כבודה + מלונות + רכב כ-3,415 €, זול ב-202 € מאותה תוכנית בתאריכים הישנים במחירי היום. סדר הימים נבנה מחדש לפי הימים החדשים בשבוע (פלש ביום שישי, בבלה ביום ראשון, ברשוב ובראן ביום שני, אנטיפה ביום רביעי, תרמה ביום חמישי); הנחיתה בערב (וויז 19:35) ונסיעת לילה לסינאיה."
   },
   {
-   "en": "Same dates (Sat 14 – Mon 23 Aug 2027) and same flights: with the new hotel the comparison of all start dates still ends with 14 Aug cheapest. Total about €4,025 instead of about €3,457 (+€568, almost all of it the hotel). Routes re-calculated from the new hotel (it is 5 min from Peleș Castle).",
-   "he": "אותם תאריכים (שבת 14 – שני 23 באוגוסט 2027) ואותן טיסות: גם עם המלון החדש, בהשוואת כל תאריכי ההתחלה 14 באוגוסט נשאר הזול ביותר. סה\"כ כ-4,025 € במקום כ-3,457 € (+568 €, כמעט כולו המלון). המסלולים חושבו מחדש מהמלון החדש (5 דקות מטירת פלש)."
+   "en": "Dates Thu 19 – Sat 28 Aug 2027 (evening arrival, late drive to the base): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,275).",
+   "he": "תאריכים ה' 19 – ש' 28 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-3,275 €)."
   },
   {
-   "en": "Dates Sat 14 – Mon 23 Aug 2027 (daytime arrival, straight to the base): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €2,761).",
-   "he": "תאריכים ש' 14 – ב' 23 באוגוסט 2027 (נחיתה ביום, ישר לבסיס): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-2,761 €)."
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Wizz Air W4 3254 16:45→19:35; back: TAROM RO 155 20:45→23:20.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: וויז אייר W4 3254 16:45←19:35; חזור: טארום RO 155 20:45←23:20."
   },
   {
-   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Wizz Air W4 3252 09:20→12:10; back: TAROM RO 155 20:45→23:20.",
-   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: וויז אייר W4 3252 09:20←12:10; חזור: טארום RO 155 20:45←23:20."
+   "en": "Next best: Thu 19 – Sat 28 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €3,335 (+€60); back SWISS 16:10→03:35.",
+   "he": "הבא בתור: ה' 19 – ש' 28 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-3,335 € (+60 €); חזור סוויס 16:10←03:35."
   },
   {
-   "en": "Next best: Sat 14 – Mon 23 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €2,761 (+€0); back TAROM 20:45→23:20.",
-   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-2,761 € (+0 €); חזור טארום 20:45←23:20."
-  },
-  {
-   "en": "Next best: Sun 15 – Tue 24 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €2,842 (+€82); back TAROM 20:45→23:20.",
-   "he": "הבא בתור: א' 15 – ג' 24 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-2,842 € (+82 €); חזור טארום 20:45←23:20."
+   "en": "Next best: Fri 20 – Sun 29 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €3,449 (+€174); back TAROM 20:20→22:55.",
+   "he": "הבא בתור: ו' 20 – א' 29 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-3,449 € (+174 €); חזור טארום 20:20←22:55."
   },
   {
    "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
@@ -68,8 +64,8 @@
  ],
  "trip": {
   "dates": {
-   "start": "2027-08-14",
-   "end": "2027-08-23",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
    "days": 10,
    "nights": 9
   },
@@ -78,43 +74,502 @@
    "he": "טיול משפחתי ברומניה: סינאיה, טירות ברשוב ובוקרשט"
   },
   "lede": {
-   "en": "Sat 14 – Mon 23 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. A rental car from Bucharest Airport and 5 nights in the air-conditioned 4-star Hotel Carpathia in Sinaia (free spa with an indoor pool) in the Carpathians (fairytale Peleș Castle, Bran Castle, a bear sanctuary, Dino Parc, Brașov's old town and a cable car to the Bucegi plateau), then 4 nights in an air-conditioned Bucharest apartment without a car (Therme water park, natural history museum, open-air Village Museum, Herăstrău Park).",
-   "he": "ש' 14 – ב' 23 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. רכב שכור משדה התעופה של בוקרשט ו-5 לילות במלון Carpathia 4 הכוכבים עם מיזוג אוויר בסינאיה (ספא חינם עם בריכה מקורה) בהרי הקרפטים (טירת פלש האגדית, טירת בראן, מקלט דובים, דינו פארק, העיר העתיקה של ברשוב ורכבל לרמת בוצ'ג'י), ואחר כך 4 לילות בדירה ממוזגת בבוקרשט בלי רכב (פארק המים תרמה, מוזיאון הטבע, מוזיאון הכפר הפתוח ופארק הרשטרו)."
+   "en": "Thu 19 – Sat 28 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. A rental car from Bucharest Airport (evening pick-up on arrival, Thu 19 to Tue 24) and 5 nights in the air-conditioned 4-star Hotel Carpathia in Sinaia (free spa with an indoor pool) in the Carpathians (fairytale Peleș Castle, Bran Castle, a bear sanctuary, Dino Parc, Brașov's old town and a cable car to the Bucegi plateau), then 4 nights in an air-conditioned Bucharest apartment without a car (Therme water park, natural history museum, open-air Village Museum, Herăstrău Park).",
+   "he": "חמישי 19 – שבת 28 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. רכב שכור משדה התעופה של בוקרשט (איסוף בערב עם הנחיתה, חמישי 19 עד שלישי 24) ו-5 לילות במלון Carpathia 4 הכוכבים עם מיזוג אוויר בסינאיה (ספא חינם עם בריכה מקורה) בהרי הקרפטים (טירת פלש האגדית, טירת בראן, מקלט דובים, דינו פארק, העיר העתיקה של ברשוב ורכבל לרמת בוצ'ג'י), ואחר כך 4 לילות בדירה ממוזגת בבוקרשט בלי רכב (פארק המים תרמה, מוזיאון הטבע, מוזיאון הכפר הפתוח ופארק הרשטרו)."
   }
  },
  "currency": "EUR",
  "local_per_eur": 5.35,
  "local_currency": "RON",
  "flights": {
+  "choices": {
+   "out": [
+    {
+     "id": "W4 3254@16:45",
+     "fn": "W4 3254",
+     "airline": "Wizz Air",
+     "airline_he": "וויז אייר",
+     "dep": "16:45",
+     "arr": "19:35",
+     "duration": "2h 50m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 600,
+     "bags_eur": 200,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "RO 156@00:20",
+     "fn": "RO 156",
+     "airline": "TAROM",
+     "airline_he": "טארום",
+     "dep": "00:20",
+     "arr": "02:05",
+     "duration": "1h 45m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 685,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "W4 3252@09:20",
+     "fn": "W4 3252",
+     "airline": "Wizz Air",
+     "airline_he": "וויז אייר",
+     "dep": "09:20",
+     "arr": "12:10",
+     "duration": "2h 50m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 660,
+     "bags_eur": 200,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "A3 929 + A3 962@05:00",
+     "fn": "A3 929 + A3 962",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "05:00",
+     "arr": "19:45",
+     "duration": "14h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 856,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "A3 925 + A3 962@13:50",
+     "fn": "A3 925 + A3 962",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "13:50",
+     "arr": "19:45",
+     "duration": "5h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 856,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "A3 927 + A3 960@19:55",
+     "fn": "A3 927 + A3 960",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "19:55",
+     "arr": "09:25",
+     "duration": "13h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 881,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LY 573@06:20",
+     "fn": "LY 573",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "06:20",
+     "arr": "09:00",
+     "duration": "2h 40m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 957,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LY 571@18:30",
+     "fn": "LY 571",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "18:30",
+     "arr": "21:10",
+     "duration": "2h 40m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 957,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LX 257 + LX 1888@04:50",
+     "fn": "LX 257 + LX 1888",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "04:50",
+     "arr": "15:20",
+     "duration": "10h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 961,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 681 + LH 1654@17:05",
+     "fn": "LH 681 + LH 1654",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "17:05",
+     "arr": "01:10",
+     "duration": "8h 5m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 973,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "OS 80 + OS 699@15:30",
+     "fn": "OS 80 + OS 699",
+     "airline": "Austrian",
+     "airline_he": "אוסטריאן",
+     "dep": "15:30",
+     "arr": "00:10",
+     "duration": "8h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 975,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "QS 1285 + QS 1010@18:25",
+     "fn": "QS 1285 + QS 1010",
+     "airline": "Smartwings",
+     "airline_he": "סמארטווינגס",
+     "dep": "18:25",
+     "arr": "15:00",
+     "duration": "20h 35m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1005,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 691 + LH 1416@04:45",
+     "fn": "LH 691 + LH 1416",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "04:45",
+     "arr": "12:50",
+     "duration": "8h 5m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1015,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 691 + VL 1418@04:45",
+     "fn": "LH 691 + VL 1418",
+     "airline": "Lufthansa and Lufthansa City Airlines",
+     "airline_he": "Lufthansa and Lufthansa City Airlines",
+     "dep": "04:45",
+     "arr": "16:50",
+     "duration": "12h 5m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1015,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    }
+   ],
+   "back": [
+    {
+     "id": "LX 1889 + LX 256@16:10",
+     "fn": "LX 1889 + LX 256",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "16:10",
+     "arr": "03:35",
+     "duration": "11h 25m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 784,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "RO 155@20:45",
+     "fn": "RO 155",
+     "airline": "TAROM",
+     "airline_he": "טארום",
+     "dep": "20:45",
+     "arr": "23:20",
+     "duration": "2h 35m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 924,
+     "bags_eur": 160,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "LX 1887 + LX 256@06:20",
+     "fn": "LX 1887 + LX 256",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "06:20",
+     "arr": "03:35",
+     "duration": "21h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1070,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "A3 961 + A3 928@10:15",
+     "fn": "A3 961 + A3 928",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "10:15",
+     "arr": "02:45",
+     "duration": "16h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1089,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "QS 1011 + QS 1286@15:45",
+     "fn": "QS 1011 + QS 1286",
+     "airline": "Smartwings",
+     "airline_he": "סמארטווינגס",
+     "dep": "15:45",
+     "arr": "04:35",
+     "duration": "12h 50m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1203,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "A3 961 + A3 924@10:15",
+     "fn": "A3 961 + A3 924",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "10:15",
+     "arr": "12:50",
+     "duration": "26h 35m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1261,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "W4 3251@05:45",
+     "fn": "W4 3251",
+     "airline": "Wizz Air",
+     "airline_he": "וויז אייר",
+     "dep": "05:45",
+     "arr": "08:25",
+     "duration": "2h 40m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1257,
+     "bags_eur": 200,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LX 1887 + LX 252@06:20",
+     "fn": "LX 1887 + LX 252",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "06:20",
+     "arr": "17:00",
+     "duration": "10h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1468,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "VL 1423 + LH 686@06:05",
+     "fn": "VL 1423 + LH 686",
+     "airline": "Lufthansa City Airlines and Lufthansa",
+     "airline_he": "Lufthansa City Airlines and Lufthansa",
+     "dep": "06:05",
+     "arr": "15:25",
+     "duration": "9h 20m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1511,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 1417 + LH 690@13:35",
+     "fn": "LH 1417 + LH 690",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "13:35",
+     "arr": "23:15",
+     "duration": "9h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1511,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "W4 3253@13:10",
+     "fn": "W4 3253",
+     "airline": "Wizz Air",
+     "airline_he": "וויז אייר",
+     "dep": "13:10",
+     "arr": "15:50",
+     "duration": "2h 40m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1549,
+     "bags_eur": 200,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "@06:15",
+     "fn": "",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "06:15",
+     "arr": "16:00",
+     "duration": "9h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1707,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "@19:15",
+     "fn": "",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "19:15",
+     "arr": "00:35",
+     "duration": "29h 20m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1795,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "@08:35",
+     "fn": "",
+     "airline": "TAROM and KLM",
+     "airline_he": "TAROM and KLM",
+     "dep": "08:35",
+     "arr": "02:35",
+     "duration": "18h",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1803,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    }
+   ],
+   "variant": "eve",
+   "note": {
+    "en": "Default = the cheapest flight that fits the plan (flights + bags). Pick another one to see the total change; the day-by-day text keeps the chosen plan's timing.",
+    "he": "ברירת המחדל = הטיסה הזולה ביותר שמתאימה לתוכנית (טיסה + כבודה). בחירה בטיסה אחרת משנה את הסכום הכולל; הטקסט היומי נשאר לפי התוכנית שנבחרה."
+   }
+  },
   "chosen": [
    {
     "dir": {
      "en": "Outbound",
      "he": "הלוך"
     },
-    "date": "2027-08-14",
+    "date": "2027-08-19",
     "wd": {
-     "en": "Sat",
-     "he": "ש'"
+     "en": "Thu",
+     "he": "ה'"
     },
-    "flight": "W4 3252",
+    "flight": "W4 3254",
     "airline": "Wizz Air",
     "from": "TLV",
     "to": "OTP",
-    "dep": "09:20",
-    "arr": "12:10",
+    "dep": "16:45",
+    "arr": "19:35",
     "duration": "2h 50m",
-    "price_eur": 720
+    "price_eur": 600
    },
    {
     "dir": {
      "en": "Return",
      "he": "חזור"
     },
-    "date": "2027-08-23",
+    "date": "2027-08-28",
     "wd": {
-     "en": "Mon",
-     "he": "ב'"
+     "en": "Sat",
+     "he": "ש'"
     },
     "flight": "RO 155",
     "airline": "TAROM",
@@ -123,20 +578,20 @@
     "dep": "20:45",
     "arr": "23:20",
     "duration": "2h 35m",
-    "price_eur": 541
+    "price_eur": 924
    }
   ],
   "evening_outbound_options": [
    {
     "what": {
-     "en": "Wizz Air W4 3252 · 09:20 → 12:10 · nonstop",
-     "he": "וויז אייר W4 3252 · 09:20 → 12:10 · ישירה"
+     "en": "Wizz Air W4 3254 · 16:45 → 19:35 · nonstop",
+     "he": "וויז אייר W4 3254 · 16:45 → 19:35 · ישירה"
     },
     "when": {
-     "en": "Sat 14 Aug",
-     "he": "ש' 14 באוגוסט"
+     "en": "Thu 19 Aug",
+     "he": "ה' 19 באוגוסט"
     },
-    "price_eur": 720,
+    "price_eur": 600,
     "note": {
      "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
      "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
@@ -145,49 +600,81 @@
    },
    {
     "what": {
-     "en": "Wizz Air W4 3254 · 16:45 → 19:35 · nonstop",
-     "he": "וויז אייר W4 3254 · 16:45 → 19:35 · ישירה"
+     "en": "Wizz Air W4 3252 · 09:20 → 12:10 · nonstop",
+     "he": "וויז אייר W4 3252 · 09:20 → 12:10 · ישירה"
     },
     "when": {
-     "en": "Sat 14 Aug",
-     "he": "ש' 14 באוגוסט"
+     "en": "Thu 19 Aug",
+     "he": "ה' 19 באוגוסט"
     },
-    "price_eur": 720,
+    "price_eur": 660,
     "note": {
-     "en": "Same price.",
-     "he": "אותו מחיר."
+     "en": "€60 more.",
+     "he": "יקרה ב-60 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "SWISS LX 257 + LX 1888 · 04:50 → 15:20 · 1 stop ",
-     "he": "סוויס LX 257 + LX 1888 · 04:50 → 15:20 · עצירה ב"
+     "en": "TAROM RO 156 · 00:20 → 02:05 · nonstop",
+     "he": "טארום RO 156 · 00:20 → 02:05 · ישירה"
     },
     "when": {
-     "en": "Sat 14 Aug",
-     "he": "ש' 14 באוגוסט"
+     "en": "Thu 19 Aug",
+     "he": "ה' 19 באוגוסט"
     },
-    "price_eur": 767,
+    "price_eur": 685,
     "note": {
-     "en": "€47 more; 10 hr 30 min with a connection.",
-     "he": "יקרה ב-47 €; 10 שע׳ 30 דק׳ עם קונקשן."
+     "en": "€85 more.",
+     "he": "יקרה ב-85 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Lufthansa LH 681 + LH 1654 · 17:05 → 01:10 (+1) · 1 stop ",
-     "he": "לופטהנזה LH 681 + LH 1654 · 17:05 → 01:10 (+1) · עצירה ב"
+     "en": "El Al LY 573 · 06:20 → 09:00 · nonstop",
+     "he": "אל על LY 573 · 06:20 → 09:00 · ישירה"
     },
     "when": {
-     "en": "Sat 14 Aug",
-     "he": "ש' 14 באוגוסט"
+     "en": "Thu 19 Aug",
+     "he": "ה' 19 באוגוסט"
     },
-    "price_eur": 866,
+    "price_eur": 957,
     "note": {
-     "en": "€146 more; 8 hr 5 min with a connection; arrives the next day.",
-     "he": "יקרה ב-146 €; 8 שע׳ 5 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€357 more.",
+     "he": "יקרה ב-357 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 929 + A3 962 · 05:00 → 19:45 · 1 stop ",
+     "he": "אגיאן A3 929 + A3 962 · 05:00 → 19:45 · עצירה ב"
+    },
+    "when": {
+     "en": "Thu 19 Aug",
+     "he": "ה' 19 באוגוסט"
+    },
+    "price_eur": 856,
+    "note": {
+     "en": "€256 more; 14 hr 45 min with a connection.",
+     "he": "יקרה ב-256 €; 14 שע׳ 45 דק׳ עם קונקשן."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 925 + A3 962 · 13:50 → 19:45 · 1 stop ",
+     "he": "אגיאן A3 925 + A3 962 · 13:50 → 19:45 · עצירה ב"
+    },
+    "when": {
+     "en": "Thu 19 Aug",
+     "he": "ה' 19 באוגוסט"
+    },
+    "price_eur": 856,
+    "note": {
+     "en": "€256 more; 5 hr 55 min with a connection.",
+     "he": "יקרה ב-256 €; 5 שע׳ 55 דק׳ עם קונקשן."
     },
     "best": false
    }
@@ -199,10 +686,10 @@
      "he": "טארום RO 155 · 20:45 → 23:20 · ישירה"
     },
     "when": {
-     "en": "Mon 23 Aug",
-     "he": "ב' 23 באוגוסט"
+     "en": "Sat 28 Aug",
+     "he": "ש' 28 באוגוסט"
     },
-    "price_eur": 541,
+    "price_eur": 924,
     "note": {
      "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
      "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
@@ -211,81 +698,65 @@
    },
    {
     "what": {
-     "en": "El Al LY 574 · 10:25 → 12:55 · nonstop",
-     "he": "אל על LY 574 · 10:25 → 12:55 · ישירה"
-    },
-    "when": {
-     "en": "Mon 23 Aug",
-     "he": "ב' 23 באוגוסט"
-    },
-    "price_eur": 839,
-    "note": {
-     "en": "€298 more.",
-     "he": "יקרה ב-298 €."
-    },
-    "best": false
-   },
-   {
-    "what": {
      "en": "Wizz Air W4 3251 · 05:45 → 08:25 · nonstop",
      "he": "וויז אייר W4 3251 · 05:45 → 08:25 · ישירה"
     },
     "when": {
-     "en": "Mon 23 Aug",
-     "he": "ב' 23 באוגוסט"
+     "en": "Sat 28 Aug",
+     "he": "ש' 28 באוגוסט"
     },
-    "price_eur": 946,
+    "price_eur": 1257,
     "note": {
-     "en": "€405 more.",
-     "he": "יקרה ב-405 €."
+     "en": "€333 more.",
+     "he": "יקרה ב-333 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "El Al LY 572 · 22:20 → 00:50 (+1) · nonstop",
-     "he": "אל על LY 572 · 22:20 → 00:50 (+1) · ישירה"
+     "en": "Wizz Air W4 3253 · 13:10 → 15:50 · nonstop",
+     "he": "וויז אייר W4 3253 · 13:10 → 15:50 · ישירה"
     },
     "when": {
-     "en": "Mon 23 Aug",
-     "he": "ב' 23 באוגוסט"
+     "en": "Sat 28 Aug",
+     "he": "ש' 28 באוגוסט"
     },
-    "price_eur": 1159,
+    "price_eur": 1549,
     "note": {
-     "en": "€618 more; arrives the next day.",
-     "he": "יקרה ב-618 €; נוחתת למחרת."
+     "en": "€625 more.",
+     "he": "יקרה ב-625 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Aegean A3 963 + A3 928 · 20:35 → 02:45 (+1) · 1 stop ",
-     "he": "אגיאן A3 963 + A3 928 · 20:35 → 02:45 (+1) · עצירה ב"
+     "en": "SWISS LX 1889 + LX 256 · 16:10 → 03:35 (+1) · 1 stop ",
+     "he": "סוויס LX 1889 + LX 256 · 16:10 → 03:35 (+1) · עצירה ב"
     },
     "when": {
-     "en": "Mon 23 Aug",
-     "he": "ב' 23 באוגוסט"
+     "en": "Sat 28 Aug",
+     "he": "ש' 28 באוגוסט"
     },
-    "price_eur": 688,
+    "price_eur": 784,
     "note": {
-     "en": "€147 more; 6 hr 10 min with a connection; arrives the next day.",
-     "he": "יקרה ב-147 €; 6 שע׳ 10 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€140 cheaper; 11 hr 25 min with a connection; arrives the next day.",
+     "he": "זולה ב-140 €; 11 שע׳ 25 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Aegean A3 961 + A3 926 · 10:15 → 19:00 · 1 stop ",
-     "he": "אגיאן A3 961 + A3 926 · 10:15 → 19:00 · עצירה ב"
+     "en": "SWISS LX 1887 + LX 256 · 06:20 → 03:35 (+1) · 1 stop ",
+     "he": "סוויס LX 1887 + LX 256 · 06:20 → 03:35 (+1) · עצירה ב"
     },
     "when": {
-     "en": "Mon 23 Aug",
-     "he": "ב' 23 באוגוסט"
+     "en": "Sat 28 Aug",
+     "he": "ש' 28 באוגוסט"
     },
-    "price_eur": 688,
+    "price_eur": 1070,
     "note": {
-     "en": "€147 more; 8 hr 45 min with a connection.",
-     "he": "יקרה ב-147 €; 8 שע׳ 45 דק׳ עם קונקשן."
+     "en": "€146 more; 21 hr 15 min with a connection; arrives the next day.",
+     "he": "יקרה ב-146 €; 21 שע׳ 15 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    }
@@ -302,32 +773,207 @@
  },
  "date_options": [
   {
-   "total_eur": 2760.72,
-   "plan": "day",
-   "start": "2027-08-14",
-   "end": "2027-08-23",
+   "total_eur": 3275.1,
+   "plan": "eve",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
    "out": {
-    "eur": 720,
+    "eur": 600,
     "bags_eur": 200,
     "airline": "Wizz Air",
-    "flight": "W4 3252",
-    "dep": "09:20",
-    "arr": "12:10"
+    "flight": "W4 3254",
+    "dep": "16:45",
+    "arr": "19:35"
    },
    "back": {
-    "eur": 541,
+    "eur": 784,
     "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 155",
-    "dep": "20:45",
-    "arr": "23:20"
+    "airline": "SWISS",
+    "flight": "LX 1889 + LX 256",
+    "dep": "16:10",
+    "arr": "03:35"
    },
-   "hotels_eur": 849.72,
+   "hotels_eur": 1241.1,
    "car_eur": 290,
    "chosen": true
   },
   {
-   "total_eur": 2760.72,
+   "total_eur": 3335.1,
+   "plan": "day",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 660,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3252",
+    "dep": "09:20",
+    "arr": "12:10"
+   },
+   "back": {
+    "eur": 784,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 1889 + LX 256",
+    "dep": "16:10",
+    "arr": "03:35"
+   },
+   "hotels_eur": 1241.1,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3448.77,
+   "plan": "eve",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 480,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3254",
+    "dep": "16:45",
+    "arr": "19:35"
+   },
+   "back": {
+    "eur": 1010,
+    "bags_eur": 160,
+    "airline": "TAROM",
+    "flight": "RO 2153",
+    "dep": "20:20",
+    "arr": "22:55"
+   },
+   "hotels_eur": 1308.77,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3491.94,
+   "plan": "day",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 720,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3252",
+    "dep": "09:20",
+    "arr": "12:10"
+   },
+   "back": {
+    "eur": 784,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 1889 + LX 256",
+    "dep": "16:10",
+    "arr": "03:35"
+   },
+   "hotels_eur": 1337.94,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3491.94,
+   "plan": "eve",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 720,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3254",
+    "dep": "16:45",
+    "arr": "19:35"
+   },
+   "back": {
+    "eur": 784,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 1889 + LX 256",
+    "dep": "16:10",
+    "arr": "03:35"
+   },
+   "hotels_eur": 1337.94,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3527.85,
+   "plan": "day",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 910,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 691 + LH 1416",
+    "dep": "04:45",
+    "arr": "12:50"
+   },
+   "back": {
+    "eur": 784,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 1889 + LX 256",
+    "dep": "16:10",
+    "arr": "03:35"
+   },
+   "hotels_eur": 1223.85,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3527.85,
+   "plan": "eve",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 910,
+    "bags_eur": 160,
+    "airline": "Lufthansa and Lufthansa City Airlines",
+    "flight": "LH 691 + VL 1418",
+    "dep": "04:45",
+    "arr": "16:50"
+   },
+   "back": {
+    "eur": 784,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 1889 + LX 256",
+    "dep": "16:10",
+    "arr": "03:35"
+   },
+   "hotels_eur": 1223.85,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3616.69,
+   "plan": "day",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 720,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W4 3252",
+    "dep": "09:20",
+    "arr": "12:10"
+   },
+   "back": {
+    "eur": 837,
+    "bags_eur": 160,
+    "airline": "El Al",
+    "flight": "LY 574",
+    "dep": "10:25",
+    "arr": "12:55"
+   },
+   "hotels_eur": 1409.69,
+   "car_eur": 290,
+   "chosen": false
+  },
+  {
+   "total_eur": 3616.69,
    "plan": "eve",
    "start": "2027-08-14",
    "end": "2027-08-23",
@@ -340,24 +986,24 @@
     "arr": "19:35"
    },
    "back": {
-    "eur": 541,
+    "eur": 837,
     "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 155",
-    "dep": "20:45",
-    "arr": "23:20"
+    "airline": "El Al",
+    "flight": "LY 574",
+    "dep": "10:25",
+    "arr": "12:55"
    },
-   "hotels_eur": 849.72,
+   "hotels_eur": 1409.69,
    "car_eur": 290,
    "chosen": false
   },
   {
-   "total_eur": 2842.3,
+   "total_eur": 3628.77,
    "plan": "day",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
    "out": {
-    "eur": 720,
+    "eur": 660,
     "bags_eur": 200,
     "airline": "Wizz Air",
     "flight": "W4 3252",
@@ -365,289 +1011,114 @@
     "arr": "12:10"
    },
    "back": {
-    "eur": 617,
+    "eur": 1010,
     "bags_eur": 160,
     "airline": "TAROM",
-    "flight": "RO 155",
-    "dep": "20:45",
-    "arr": "23:20"
+    "flight": "RO 2153",
+    "dep": "20:20",
+    "arr": "22:55"
    },
-   "hotels_eur": 855.3,
+   "hotels_eur": 1308.77,
    "car_eur": 290,
    "chosen": false
   },
   {
-   "total_eur": 2842.3,
-   "plan": "eve",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
-   "out": {
-    "eur": 720,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W4 3254",
-    "dep": "16:45",
-    "arr": "19:35"
-   },
-   "back": {
-    "eur": 617,
-    "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 155",
-    "dep": "20:45",
-    "arr": "23:20"
-   },
-   "hotels_eur": 855.3,
-   "car_eur": 290,
-   "chosen": false
-  },
-  {
-   "total_eur": 2948.28,
+   "total_eur": 3708.43,
    "plan": "day",
    "start": "2027-08-16",
    "end": "2027-08-25",
    "out": {
-    "eur": 907,
+    "eur": 910,
     "bags_eur": 160,
     "airline": "Lufthansa",
     "flight": "LH 691 + LH 1416",
     "dep": "04:45",
-    "arr": "13:00"
+    "arr": "12:50"
    },
    "back": {
-    "eur": 617,
+    "eur": 944,
     "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 155",
-    "dep": "20:45",
-    "arr": "23:20"
+    "airline": "Aegean",
+    "flight": "A3 963 + A3 928",
+    "dep": "20:35",
+    "arr": "02:45"
    },
-   "hotels_eur": 814.28,
+   "hotels_eur": 1244.43,
    "car_eur": 290,
    "chosen": false
   },
   {
-   "total_eur": 2948.28,
+   "total_eur": 3708.43,
    "plan": "eve",
    "start": "2027-08-16",
    "end": "2027-08-25",
    "out": {
-    "eur": 907,
+    "eur": 910,
     "bags_eur": 160,
     "airline": "Lufthansa and Lufthansa City Airlines",
     "flight": "LH 691 + VL 1418",
     "dep": "04:45",
-    "arr": "16:20"
+    "arr": "16:50"
    },
    "back": {
-    "eur": 617,
+    "eur": 944,
     "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 155",
-    "dep": "20:45",
-    "arr": "23:20"
+    "airline": "Aegean",
+    "flight": "A3 963 + A3 928",
+    "dep": "20:35",
+    "arr": "02:45"
    },
-   "hotels_eur": 814.28,
+   "hotels_eur": 1244.43,
    "car_eur": 290,
    "chosen": false
   },
   {
-   "total_eur": 2957.3,
-   "plan": "eve",
-   "start": "2027-08-20",
-   "end": "2027-08-29",
-   "out": {
-    "eur": 441,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W4 3254",
-    "dep": "16:45",
-    "arr": "19:35"
-   },
-   "back": {
-    "eur": 1011,
-    "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 2153",
-    "dep": "20:20",
-    "arr": "22:55"
-   },
-   "hotels_eur": 855.3,
-   "car_eur": 290,
-   "chosen": false
-  },
-  {
-   "total_eur": 2979.15,
+   "total_eur": 3864.31,
    "plan": "day",
-   "start": "2027-08-19",
-   "end": "2027-08-28",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
    "out": {
-    "eur": 600,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W4 3252",
-    "dep": "09:20",
-    "arr": "12:10"
+    "eur": 910,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 691 + LH 1416",
+    "dep": "04:45",
+    "arr": "12:50"
    },
    "back": {
-    "eur": 925,
+    "eur": 1116,
     "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 155",
-    "dep": "20:45",
-    "arr": "23:20"
+    "airline": "Aegean",
+    "flight": "A3 963 + A3 928",
+    "dep": "20:35",
+    "arr": "02:45"
    },
-   "hotels_eur": 804.15,
+   "hotels_eur": 1228.31,
    "car_eur": 290,
    "chosen": false
   },
   {
-   "total_eur": 2979.15,
-   "plan": "eve",
-   "start": "2027-08-19",
-   "end": "2027-08-28",
-   "out": {
-    "eur": 600,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W4 3254",
-    "dep": "16:45",
-    "arr": "19:35"
-   },
-   "back": {
-    "eur": 925,
-    "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 155",
-    "dep": "20:45",
-    "arr": "23:20"
-   },
-   "hotels_eur": 804.15,
-   "car_eur": 290,
-   "chosen": false
-  },
-  {
-   "total_eur": 3077.3,
-   "plan": "day",
-   "start": "2027-08-20",
-   "end": "2027-08-29",
-   "out": {
-    "eur": 561,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W4 3252",
-    "dep": "09:20",
-    "arr": "12:10"
-   },
-   "back": {
-    "eur": 1011,
-    "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 2153",
-    "dep": "20:20",
-    "arr": "22:55"
-   },
-   "hotels_eur": 855.3,
-   "car_eur": 290,
-   "chosen": false
-  },
-  {
-   "total_eur": 3206.88,
-   "plan": "eve",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 954,
-    "bags_eur": 160,
-    "airline": "El Al",
-    "flight": "LY 571",
-    "dep": "18:30",
-    "arr": "21:10"
-   },
-   "back": {
-    "eur": 874,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 1887 + LX 252",
-    "dep": "06:20",
-    "arr": "17:00"
-   },
-   "hotels_eur": 768.88,
-   "car_eur": 290,
-   "chosen": false
-  },
-  {
-   "total_eur": 3222.88,
-   "plan": "day",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 970,
-    "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 84 + OS 693",
-    "dep": "06:00",
-    "arr": "12:25"
-   },
-   "back": {
-    "eur": 874,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 1887 + LX 252",
-    "dep": "06:20",
-    "arr": "17:00"
-   },
-   "hotels_eur": 768.88,
-   "car_eur": 290,
-   "chosen": false
-  },
-  {
-   "total_eur": 3322.42,
+   "total_eur": 3864.31,
    "plan": "eve",
    "start": "2027-08-17",
    "end": "2027-08-26",
    "out": {
-    "eur": 907,
+    "eur": 910,
     "bags_eur": 160,
     "airline": "Lufthansa and Lufthansa City Airlines",
-    "flight": "LH 695 + VL 1418",
-    "dep": "08:00",
-    "arr": "16:20"
+    "flight": "LH 691 + VL 1418",
+    "dep": "04:45",
+    "arr": "16:50"
    },
    "back": {
-    "eur": 1032,
+    "eur": 1116,
     "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 1887 + LX 252",
-    "dep": "06:20",
-    "arr": "17:00"
+    "airline": "Aegean",
+    "flight": "A3 963 + A3 928",
+    "dep": "20:35",
+    "arr": "02:45"
    },
-   "hotels_eur": 773.42,
-   "car_eur": 290,
-   "chosen": false
-  },
-  {
-   "total_eur": 3369.42,
-   "plan": "day",
-   "start": "2027-08-17",
-   "end": "2027-08-26",
-   "out": {
-    "eur": 954,
-    "bags_eur": 160,
-    "airline": "El Al",
-    "flight": "LY 573",
-    "dep": "06:30",
-    "arr": "09:10"
-   },
-   "back": {
-    "eur": 1032,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 1887 + LX 252",
-    "dep": "06:20",
-    "arr": "17:00"
-   },
-   "hotels_eur": 773.42,
+   "hotels_eur": 1228.31,
    "car_eur": 290,
    "chosen": false
   }
@@ -718,8 +1189,8 @@
   "lines": [
    [
     {
-     "en": "Estate car, automatic, 5 days (≈ €50/day), Sat 14 – Thu 19 Aug",
-     "he": "רכב סטיישן אוטומטי, 5 ימים (כ-50 € ליום), ש' 14 – ה' 19 באוגוסט"
+     "en": "Estate car, automatic, 5 days (≈ €50/day), Thu 19 evening – Tue 24 Aug",
+     "he": "רכב סטיישן אוטומטי, 5 ימים (כ-50 € ליום), ה' 19 בערב – ג' 24 באוגוסט"
     },
     250,
     true
@@ -758,21 +1229,21 @@
    ]
   ],
   "text": {
-   "en": "Pick-up at Bucharest Henri Coandă Airport on arrival (daytime landing, about 12:00–15:00), Sat 14 Aug; return Thu 19 Aug at the airport by the same hour you picked it up – the planned drive back leaves Sinaia at 8:30, so you arrive well before that hour: 5 rental days. Same car class and seats as the main plan. The price is an estimate.",
-   "he": "איסוף בשדה התעופה הנרי קואנדה עם הנחיתה (נחיתת יום, בסביבות 12:00–15:00), ש' 14 באוגוסט; החזרה בשדה ב-ה' 19 באוגוסט עד אותה שעה שבה נלקח הרכב – הנסיעה חזרה יוצאת מסינאיה ב-8:30 ולכן מגיעים הרבה לפני אותה שעה: 5 ימי השכרה. אותה קטגוריית רכב ואותם מושבים כמו בתוכנית הראשית. המחיר הוא הערכה."
+   "en": "Pick-up at Bucharest Henri Coandă Airport on arrival, Thu 19 Aug at about 20:15 (landing 19:35; the pick-up is before 21:00, so no after-hours fee is budgeted – desk closing times differ by source, so confirm in writing), return Tue 24 Aug at the airport before 11:00–12:00, i.e. before the 20:15 pick-up hour: 5 rental days. Category: intermediate estate, e.g. Škoda Octavia Combi automatic – 2 large suitcases + 2 trolleys in the boot, 2 boosters on the rear seat. The price is an estimate: aggregator averages for OTP in August are only $24–44/day for all classes; an automatic estate is higher.",
+   "he": "איסוף בשדה התעופה הנרי קואנדה בבוקרשט עם הנחיתה, ה' 19 באוגוסט בסביבות 20:15 (נחיתה 19:35; האיסוף לפני 21:00, ולכן לא תוקצבה תוספת מחוץ לשעות – שעות סגירת הדלפקים משתנות לפי המקור, ולכן לאשר בכתב), החזרה בשדה ב-ג' 24 באוגוסט לפני 11:00–12:00, כלומר לפני שעת האיסוף 20:15: 5 ימי השכרה. קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית – 2 מזוודות גדולות ו-2 טרולים בתא המטען, 2 בוסטרים במושב האחורי. המחיר הוא הערכה: ממוצעי אתרי ההשוואה לשדה OTP באוגוסט הם רק 24–44 $ ליום לכל הקטגוריות; סטיישן אוטומטי יקר יותר."
   },
   "pickup": {
    "place": "Bucharest Henri Coandă International Airport",
    "lat": 44.5711,
    "lng": 26.0858,
-   "when": "2027-08-14T13:00",
+   "when": "2027-08-19T20:25",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.571100,26.085800&travelmode=driving"
   },
   "dropoff": {
    "place": "Bucharest Henri Coandă International Airport",
    "lat": 44.5711,
    "lng": 26.0858,
-   "when": "2027-08-19T12:00",
+   "when": "2027-08-24T12:00",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=44.571100,26.085800&travelmode=driving"
   }
  },
@@ -790,8 +1261,8 @@
    "he": "אורות נמוכים: חובה מחוץ לערים יום ולילה בכל השנה – להדליק בכל נסיעה בכבישי DN. אלכוהול: אפס סובלנות. מהירויות: 50 קמ\"ש בערים, 90 מחוץ לעיר, 100 בכבישים כפולים, 130 בכבישים מהירים."
   },
   {
-   "en": "DN1 through the Prahova Valley (Ploiești – Comarnic – Sinaia – Predeal – Brașov) is one of Romania's busiest roads: on summer weekends it jams northbound on Friday evening and Saturday morning and southbound on Sunday afternoon and evening. The plan avoids it: drive up late on a Tuesday night, Brașov and Bran on Thursday, Libearty on Friday morning, only a short trip on Saturday, and the Sunday drive to Bucharest leaves at 8:30.",
-   "he": "DN1 בעמק פראהובה (פלואשט – קומרניק – סינאיה – פרדיאל – ברשוב) הוא אחד הכבישים העמוסים ברומניה: בסופי שבוע בקיץ הוא חסום צפונה בשישי בערב ובשבת בבוקר, ודרומה ביום ראשון אחר הצהריים ובערב. התוכנית נמנעת מכך: עולים בלילה של יום שלישי, ברשוב ובראן בחמישי, ליברטי בשישי בבוקר, רק נסיעה קצרה בשבת, והנסיעה לבוקרשט ביום ראשון יוצאת ב-8:30."
+   "en": "DN1 through the Prahova Valley (Ploiești – Comarnic – Sinaia – Predeal – Brașov) is one of Romania's busiest roads: on summer weekends it jams northbound on Friday evening and Saturday morning and southbound on Sunday afternoon and evening. The plan avoids it: the night drive up on Thursday is quiet, Peleș is a 5-minute drive on Friday, the Saturday bears and dinosaurs trip leaves at 7:15, Sunday is a short local day (Babele at 8:00), Brașov and Bran are on Monday, and the drive to Bucharest on Tuesday morning leaves at 8:30.",
+   "he": "DN1 בעמק פראהובה (פלואשט – קומרניק – סינאיה – פרדיאל – ברשוב) הוא אחד הכבישים העמוסים ברומניה: בסופי שבוע בקיץ הוא חסום צפונה בשישי בערב ובשבת בבוקר, ודרומה ביום ראשון אחר הצהריים ובערב. התוכנית נמנעת מכך: נסיעת הלילה צפונה בחמישי שקטה, פלש בנסיעה של 5 דקות בשישי, הטיול לדובים ולדינוזאורים בשבת יוצא ב-7:15, ראשון הוא יום מקומי קצר (בבלה ב-8:00), ברשוב ובראן בשני, והנסיעה לבוקרשט בשלישי בבוקר יוצאת ב-8:30."
   },
   {
    "en": "Parking: Peleș has a paid car park below the castle; Bran has a paid car park (≈ 20–30 RON) on the road below – arrive early; central Brașov and Bușteni are paid zones (pay by app or machine). Fuel: petrol about 10.2 RON/l (≈ €1.90, Oct 2026).",
@@ -811,28 +1282,28 @@
     "en": "Sinaia, Bd. Carol I 46 (town centre; 108 km / 1h46 from OTP, Sinaia train station a 10-minute walk, Peleș Castle about 2.9 km / 5 min by car)",
     "he": "סינאיה, שד' קרול הראשון 46 (מרכז העיירה; 108 ק\"מ / 1:46 שעות משדה התעופה, תחנת הרכבת של סינאיה במרחק 10 דקות הליכה, טירת פלש כ-2.9 ק\"מ / 5 דקות נסיעה)"
    },
-   "checkin": "2027-08-14",
-   "checkout": "2027-08-19",
+   "checkin": "2027-08-19",
+   "checkout": "2027-08-24",
    "nights": 5,
-   "total_eur": 890.3,
-   "booking_score": 8.7,
-   "booking_reviews": 1522,
-   "booking_url": "https://www.booking.com/hotel/ro/hotel-carpathia.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "total_eur": 781.91,
+   "booking_score": 8.6,
+   "booking_reviews": 1521,
+   "booking_url": "https://www.booking.com/hotel/ro/hotel-carpathia.html?checkin=2027-08-19&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
-    "en": "4-star hotel, family room for 4 (price is Booking's cheapest family option), free cancellation. Free spa access with an indoor swimming pool, 2 saunas and a hot tub; restaurant, buffet breakfast included, 24-hour front desk (a late arrival is fine); free Wi-Fi. No kitchen. Booking says the indoor pool may have no designated shallow area, so keep the kids within arm's reach. Free on-site parking subject to availability (paid public parking across the street, 30 RON/day, as a fallback).",
-    "he": "מלון 4 כוכבים, חדר משפחתי ל-4 (המחיר הוא האפשרות המשפחתית הזולה ביותר ב-Booking), ביטול חינם. כניסה חופשית לספא עם בריכה מקורה, 2 סאונות וג'קוזי; מסעדה, ארוחת בוקר בבופה כלולה, קבלה 24 שעות (הגעה מאוחרת בסדר); Wi-Fi חינם. אין מטבח. לפי Booking ייתכן שאין בבריכה המקורה אזור רדוד מוגדר, אז כדאי להישאר קרוב לילדים. חניה חינם במקום בכפוף לזמינות (חניון ציבורי בתשלום מעבר לכביש, 30 לי\"י ליום, כגיבוי)."
+    "en": "4-star hotel, family room for 4 (price is Booking's cheapest family option), free cancellation. Free spa access with an indoor swimming pool, 2 saunas and a hot tub; restaurant, buffet breakfast included, 24-hour front desk (a late arrival is fine); free Wi-Fi. No kitchen. Booking lists a shallow end in the indoor pool; still keep the kids within arm's reach. Free on-site parking subject to availability (paid public parking across the street, 30 RON/day, as a fallback). You arrive on Thu 19 Aug at about 23:00 after the night drive: the front desk is open 24 hours, so just send your ETA.",
+    "he": "מלון 4 כוכבים, חדר משפחתי ל-4 (המחיר הוא האפשרות המשפחתית הזולה ביותר ב-Booking), ביטול חינם. כניסה חופשית לספא עם בריכה מקורה, 2 סאונות וג'קוזי; מסעדה, ארוחת בוקר בבופה כלולה, קבלה 24 שעות (הגעה מאוחרת בסדר); Wi-Fi חינם. אין מטבח. לפי Booking יש בבריכה המקורה אזור רדוד; בכל זאת כדאי להישאר קרוב לילדים. חניה חינם במקום בכפוף לזמינות (חניון ציבורי בתשלום מעבר לכביש, 30 לי\"י ליום, כגיבוי). מגיעים ביום ה' 19 באוגוסט בסביבות 23:00 אחרי הנסיעה בלילה: הקבלה פתוחה 24 שעות, מספיק לשלוח שעת הגעה משוערת."
    },
    "ac": {
     "en": "Yes – air conditioning is listed in the family rooms (Booking.com search with the air-conditioning filter, 21 Oct 2026).",
     "he": "יש – מיזוג אוויר מופיע בחדרים המשפחתיים (חיפוש ב-Booking.com עם מסנן מיזוג אוויר, 21.10.2026)."
    },
    "alt": {
-    "en": "All with air conditioning. Central, with a kitchenless family suite and a big indoor pool, kids' club, playground and waterslide: Hotel Sinaia €1,400.81 (Booking 9.0, 10,860 reviews, 24h desk, parking 40 RON/day). Cheaper, central apartment-hotel with 24h desk: Parc Suites by Hotel Cerbul €664.81 (Booking 9.1, 493 reviews). ART Escape €665.92. Hello Mountains Apartaments (v1: Booking 9.6, €319.14 for the earlier dates, kitchen) is no longer offered: no air conditioning. (Alternative prices were checked for 17–26 Aug.)",
-    "he": "כולם עם מיזוג אוויר. במרכז, סוויטה משפחתית בלי מטבח, בריכה מקורה גדולה, מועדון ילדים, מגרש משחקים ומגלשת מים: Hotel Sinaia ב-1,400.81 € (Booking 9.0, 10,860 ביקורות, קבלה 24 שעות, חניה 40 לי\"י ליום). זול יותר, דירות-מלון במרכז עם קבלה 24 שעות: Parc Suites by Hotel Cerbul ב-664.81 € (Booking 9.1, 493 ביקורות). ART Escape ב-665.92 €. Hello Mountains Apartaments (גרסה 1: Booking 9.6, 319.14 € בתאריכים הקודמים, עם מטבח) כבר לא מוצע: אין מיזוג אוויר. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "All with air conditioning. Central, with a kitchenless family suite and a big indoor pool, kids' club, playground and waterslide: Hotel Sinaia €1,273.73 (Booking 9.0, 10,839 reviews, 24h desk, parking 40 RON/day). Cheaper, central apartment-hotel with 24h desk: Parc Suites by Hotel Cerbul €663.32 (Booking 9.1, 503 reviews). ART Escape €664.43. Hello Mountains Apartaments (v1: Booking 9.6, €319.14 for the earlier dates, kitchen) is no longer offered: no air conditioning. (Alternative prices re-checked live on Booking on 9 Nov 2026 for 19–24 Aug 2027, free cancellation, A/C filter.) (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
+    "he": "כולם עם מיזוג אוויר. במרכז, סוויטה משפחתית בלי מטבח, בריכה מקורה גדולה, מועדון ילדים, מגרש משחקים ומגלשת מים: Hotel Sinaia ב-1,273.73 € (Booking 9.0, 10,839 ביקורות, קבלה 24 שעות, חניה 40 לי\"י ליום). זול יותר, דירות-מלון במרכז עם קבלה 24 שעות: Parc Suites by Hotel Cerbul ב-663.32 € (Booking 9.1, 503 ביקורות). ART Escape ב-664.43 €. Hello Mountains Apartaments (גרסה 1: Booking 9.6, 319.14 € בתאריכים הקודמים, עם מטבח) כבר לא מוצע: אין מיזוג אוויר. (מחירי החלופות נבדקו שוב ב-Booking ב-9.11.2026 ל-19–24 באוגוסט 2027, ביטול חינם, מסנן מיזוג אוויר.) (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
    },
    "google_note": {
-    "en": "Google: 4.2 from 3,114 reviews; Booking.com 8.7 from 1,522 reviews.",
-    "he": "בגוגל: 4.2 מתוך 3,114 ביקורות; ב-Booking.com 8.7 מתוך 1,522 ביקורות."
+    "en": "Google: 4.2 from 3,114 reviews; Booking.com 8.6 from 1,521 reviews.",
+    "he": "בגוגל: 4.2 מתוך 3,114 ביקורות; ב-Booking.com 8.6 מתוך 1,521 ביקורות."
    },
    "google": {
     "name": "Hotel Carpathia",
@@ -862,14 +1333,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 178.06,
+   "price_per_night_eur": 156.38,
    "ratings": [
     {
      "source": "Booking.com",
-     "score": 8.7,
+     "score": 8.6,
      "out_of": 10,
-     "reviews": 1522,
-     "url": "https://www.booking.com/hotel/ro/hotel-carpathia.html?checkin=2027-08-14&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 1521,
+     "url": "https://www.booking.com/hotel/ro/hotel-carpathia.html?checkin=2027-08-19&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -888,20 +1359,20 @@
     "en": "Bucharest city centre, Bd. Mihail Kogălniceanu 8 (Izvor metro ≈ 400 m, Cișmigiu Gardens ≈ 450 m, Old Town / Lipscani about 1.3 km)",
     "he": "מרכז בוקרשט, שד' מיהאיל קוגלניצ'אנו 8 (מטרו איזבור כ-400 מ', גני צ'ישמיג'יו כ-450 מ', העיר העתיקה / ליפסקאני כ-1.3 ק\"מ)"
    },
-   "checkin": "2027-08-19",
-   "checkout": "2027-08-23",
+   "checkin": "2027-08-24",
+   "checkout": "2027-08-28",
    "nights": 4,
-   "total_eur": 530.58,
+   "total_eur": 459.19,
    "booking_score": 9.0,
-   "booking_reviews": 1801,
-   "booking_url": "https://www.booking.com/hotel/ro/maison-bucarest-apartments-by-olala-homes.html?checkin=2027-08-19&checkout=2027-08-23&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_reviews": 1839,
+   "booking_url": "https://www.booking.com/hotel/ro/maison-bucarest-apartments-by-olala-homes.html?checkin=2027-08-24&checkout=2027-08-28&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
-    "en": "Two-bedroom apartment (up to 6) with a fully equipped kitchen, a sofa bed, air conditioning and a lift, free cancellation. Smart self check-in (no reception), check-in from 15:00; you arrive around midday from the airport, so ask the host in advance for early check-in or bag storage. Garage parking exists but you have no car in the city.",
-    "he": "דירת 2 חדרי שינה (עד 6) עם מטבח מאובזר, ספה נפתחת, מיזוג ומעלית, ביטול חינם. צ'ק-אין עצמי חכם (בלי קבלה), מ-15:00; מגיעים מהשדה בסביבות הצהריים, אז כדאי לבקש מראש מהמארח צ'ק-אין מוקדם או שמירת מזוודות. יש חניון מקורה אבל בעיר אין לכם רכב."
+    "en": "Two-bedroom apartment (up to 6) with a fully equipped kitchen, a sofa bed, air conditioning and a lift, free cancellation. Smart self check-in (no reception), check-in from 15:00; you arrive around midday from the airport, so ask the host in advance for early check-in or bag storage. Garage parking exists but you have no car in the city. Departure is Sat 28 Aug (evening flight): check-out is by 11:00, so ask the host for bag storage after check-out.",
+    "he": "דירת 2 חדרי שינה (עד 6) עם מטבח מאובזר, ספה נפתחת, מיזוג ומעלית, ביטול חינם. צ'ק-אין עצמי חכם (בלי קבלה), מ-15:00; מגיעים מהשדה בסביבות הצהריים, אז כדאי לבקש מראש מהמארח צ'ק-אין מוקדם או שמירת מזוודות. יש חניון מקורה אבל בעיר אין לכם רכב. היציאה ביום ש' 28 באוגוסט (טיסת ערב): הצ'ק-אאוט עד 11:00, אז כדאי לבקש מהמארח שמירת מזוודות אחרי הצ'ק-אאוט."
    },
    "alt": {
-    "en": "All with air conditioning. Cheaper: Bucur Accommodation (Caesar's Downtown aparthotel) €440.78 (Booking 9.0, 3,771 reviews, no kitchen listed). With 24h reception: Mercure Bucharest City Center €547.38 (Booking 8.7, 1,036 reviews); Novotel Bucharest City Centre €656.19 (Booking 8.3, 4,217 reviews; indoor pool, indoor play area, breakfast included, 2 min from Universitate metro). (Alternative prices were checked for 17–26 Aug.)",
-    "he": "כולם עם מיזוג אוויר. זול יותר: Bucur Accommodation (Caesar's Downtown aparthotel) ב-440.78 € (Booking 9.0, 3,771 ביקורות, ללא מטבח ברשימה). עם קבלה 24 שעות: Mercure Bucharest City Center ב-547.38 € (Booking 8.7, 1,036 ביקורות); Novotel Bucharest City Centre ב-656.19 € (Booking 8.3, 4,217 ביקורות; בריכה מקורה, פינת משחקים מקורה, ארוחת בוקר כלולה, 2 דקות ממטרו אוניברסיטה). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "All with air conditioning. Cheaper: Bucur Accommodation (Caesar's Downtown aparthotel) €468.27 (Booking 9.0, 3,764 reviews, no kitchen listed). With 24h reception: Mercure Bucharest City Center €563.46 (Booking 8.7, 1,040 reviews); Novotel Bucharest City Centre €669.71 (Booking 8.3, 4,187 reviews; indoor pool, indoor play area, breakfast included, 2 min from Universitate metro). (Alternative prices re-checked live on Booking on 9 Nov 2026 for 24–28 Aug 2027, free cancellation, A/C filter.) (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
+    "he": "כולם עם מיזוג אוויר. זול יותר: Bucur Accommodation (Caesar's Downtown aparthotel) ב-468.27 € (Booking 9.0, 3,764 ביקורות, ללא מטבח ברשימה). עם קבלה 24 שעות: Mercure Bucharest City Center ב-563.46 € (Booking 8.7, 1,040 ביקורות); Novotel Bucharest City Centre ב-669.71 € (Booking 8.3, 4,187 ביקורות; בריכה מקורה, פינת משחקים מקורה, ארוחת בוקר כלולה, 2 דקות ממטרו אוניברסיטה). (מחירי החלופות נבדקו שוב ב-Booking ב-9.11.2026 ל-24–28 באוגוסט 2027, ביטול חינם, מסנן מיזוג אוויר.) (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
    },
    "google_note": {
     "en": "Google: 4.6 from 107 reviews.",
@@ -939,14 +1410,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 132.65,
+   "price_per_night_eur": 114.8,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 9.0,
      "out_of": 10,
-     "reviews": 1801,
-     "url": "https://www.booking.com/hotel/ro/maison-bucarest-apartments-by-olala-homes.html?checkin=2027-08-19&checkout=2027-08-23&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 1839,
+     "url": "https://www.booking.com/hotel/ro/maison-bucarest-apartments-by-olala-homes.html?checkin=2027-08-24&checkout=2027-08-28&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -966,8 +1437,8 @@
     "he": "טירת פלש, סינאיה (סיור מודרך)"
    },
    "hours": {
-    "en": "Aug (per 2026 listings): Tue and Thu–Sun 9:15–16:15, Wed 11:00–16:15, closed Mon; timed tickets with a daily visitor limit. Check bilete.peles.ro for 2027.",
-    "he": "אוגוסט (לפי רישומים מ-2026): ג' וה'–א' 9:15–16:15, ד' 11:00–16:15, סגור בשני; כרטיסים לפי שעה עם הגבלת מבקרים יומית. לבדוק ב-bilete.peles.ro ל-2027."
+    "en": "Aug (per 2026 listings): Tue and Thu–Sun 9:15–16:15, Wed 11:00–16:15, closed Mon; timed tickets with a daily visitor limit. Planned on Fri 20 Aug (open, first slot 9:15). Check bilete.peles.ro for 2027.",
+    "he": "אוגוסט (לפי רישומים מ-2026): ג' וה'–א' 9:15–16:15, ד' 11:00–16:15, סגור בשני; כרטיסים לפי שעה עם הגבלת מבקרים יומית. מתוכנן ליום ו' 20 באוגוסט (פתוח, שעה ראשונה 9:15). לבדוק ב-bilete.peles.ro ל-2027."
    },
    "price_text": {
     "en": "≈ 225 RON (≈ €42): 2 adults × 100 RON (ground + first floor) + pupil 25 RON for the 7-year-old; children under 7 free (a free ticket may need booking). Estimate from a third-party 2026 page; the official ticket shop could not be opened. Photo permit extra.",
@@ -981,8 +1452,8 @@
     "he": "שעתיים (סיור מודרך כ-45–60 דקות + הגנים)"
    },
    "kids": {
-    "en": "A real fairytale castle in the forest: carved wood halls, a stained-glass hall, armour and a theatre. The guide keeps it short; shoe covers over your shoes. Sunday is busy: book the first slot online; the Day 2 plan uses the 9:15 opening.",
-    "he": "טירת אגדות אמיתית ביער: אולמות עץ מגולפים, אולם ויטראז'ים, שריונות ותיאטרון. המדריך שומר על סיור קצר; מכסים נעליים בכיסויי בד. ביום ראשון עמוס: כדאי להזמין באינטרנט את השעה הראשונה; תוכנית יום 2 משתמשת בפתיחה של 9:15."
+    "en": "A real fairytale castle in the forest: carved wood halls, a stained-glass hall, armour and a theatre. The guide keeps it short; shoe covers over your shoes. Fri 20 Aug is before the weekend crowds (Sunday is the busiest day; Monday it is closed): book the first slot online; the Day 2 plan uses the 9:15 opening.",
+    "he": "טירת אגדות אמיתית ביער: אולמות עץ מגולפים, אולם ויטראז'ים, שריונות ותיאטרון. המדריך שומר על סיור קצר; מכסים נעליים בכיסויי בד. יום ו' 20 באוגוסט הוא לפני עומס סוף השבוע (יום ראשון הוא העמוס ביותר; ביום שני סגור): כדאי להזמין באינטרנט את השעה הראשונה; תוכנית יום 2 משתמשת בפתיחה של 9:15."
    },
    "optional": false,
    "google": {
@@ -1026,65 +1497,6 @@
     ]
    ]
   },
-  "sinaia_monastery": {
-   "id": "sinaia_monastery",
-   "name": {
-    "en": "Sinaia Monastery (short stop, free)",
-    "he": "מנזר סינאיה (עצירה קצרה, חינם)"
-   },
-   "hours": {
-    "en": "Daily about 8:00–20:00 (Google Maps)",
-    "he": "מדי יום בערך 8:00–20:00 (גוגל מפות)"
-   },
-   "price_text": {
-    "en": "Free (donation box). Modest dress for the church interior.",
-    "he": "חינם (קופסת תרומות). לבוש צנוע לכניסה לכנסייה."
-   },
-   "price_czk": 0,
-   "price_eur": 0.0,
-   "estimate": false,
-   "time": {
-    "en": "30–45 min",
-    "he": "30–45 דקות"
-   },
-   "kids": {
-    "en": "A calm cobbled courtyard under the mountains with two churches and a museum; a good leg-stretch on the way up from the airport (Day 1 daytime plan).",
-    "he": "חצר מרוצפת ושקטה מתחת להרים עם שתי כנסיות ומוזיאון; מקום טוב להתמתח בדרך מהשדה (תוכנית יום 1 בהגעה ביום)."
-   },
-   "optional": false,
-   "google": {
-    "name": "Sinaia Monastery",
-    "rating": 4.7,
-    "reviews": 13489,
-    "lat": 45.355349,
-    "lng": 25.549074,
-    "address": "Strada Mănăstirii 2, 106100 Sinaia, Romania",
-    "website": "http://www.manastireasinaia.ro/",
-    "place_id": "ChIJ84SFyMEWs0ARVY-bzpBkDgI",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sinaia%20Monastery&query_place_id=ChIJ84SFyMEWs0ARVY-bzpBkDgI",
-    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=45.355349,25.549074&travelmode=driving"
-   },
-   "rating": {
-    "source": "Google Maps",
-    "score": 4.7,
-    "out_of": 5,
-    "reviews": 13489,
-    "url": "https://www.google.com/maps/search/?api=1&query=Sinaia%20Monastery&query_place_id=ChIJ84SFyMEWs0ARVY-bzpBkDgI"
-   },
-   "photo": {
-    "file": "img/ro/sinaia_monastery-1.jpg",
-    "w": 1000,
-    "h": 750,
-    "source_page": "https://www.google.com/maps/search/?api=1&query=Sinaia%20Monastery&query_place_id=ChIJ84SFyMEWs0ARVY-bzpBkDgI",
-    "credit": "Google Maps listing photo"
-   },
-   "sources": [
-    [
-     "Sinaia Monastery (official)",
-     "http://www.manastireasinaia.ro/"
-    ]
-   ]
-  },
   "babele": {
    "id": "babele",
    "name": {
@@ -1092,8 +1504,8 @@
     "he": "רכבל בושטני – בבלה (רמת בוצ'ג'י, הספינקס)"
    },
    "hours": {
-    "en": "Winter 2026 timetable (summer likely longer): Mon, Wed–Fri 8:30–16:00 (last ascent 15:30), Sat–Sun 8:00–17:00, closed Tue for checks; stops in strong wind. Confirm with the operator.",
-    "he": "לוח חורף 2026 (בקיץ כנראה ארוך יותר): ב', ד'–ו' 8:30–16:00 (עלייה אחרונה 15:30), ש'–א' 8:00–17:00, סגור בשלישי לבדיקות; נעצר ברוח חזקה. לאשר מול המפעיל."
+    "en": "Winter 2026 timetable (summer likely longer): Mon, Wed–Fri 8:30–16:00 (last ascent 15:30), Sat–Sun 8:00–17:00, closed Tue for checks; stops in strong wind. Planned on Sun 22 Aug (8:00 opening); confirm with the operator.",
+    "he": "לוח חורף 2026 (בקיץ כנראה ארוך יותר): ב', ד'–ו' 8:30–16:00 (עלייה אחרונה 15:30), ש'–א' 8:00–17:00, סגור בשלישי לבדיקות; נעצר ברוח חזקה. מתוכנן ליום א' 22 באוגוסט (פתיחה ב-8:00); לאשר מול המפעיל."
    },
    "price_text": {
     "en": "≈ 690 RON (≈ €129): return 230 adult / 115 child 5–12 (under 5 free) per an independent 2026 guide; operator prices quoted elsewhere range 170–215 RON. Estimate – the operator's price list was not reachable.",
@@ -1107,8 +1519,8 @@
     "he": "3 שעות (נסיעה כ-20 דקות לכל כיוון + שעה למעלה)"
    },
    "kids": {
-    "en": "A big gondola over the forest to 2,200 m, then a flat 10–15 min walk to the Babele rocks and the Sphinx – almost no hiking. Pricey and queues build up after 10:00, hence the 8:00 start; take jackets (10–15 °C up there). Google rating only 2.0 (393 reviews) – complaints are about price and queues.",
-    "he": "גונדולה גדולה מעל היער עד גובה 2,200 מ', ואז הליכה מישורית של 10–15 דקות לסלעי בבלה ולספינקס – כמעט בלי הליכה. יקר, ותורים מתארכים אחרי 10:00, ולכן יוצאים ב-8:00; להצטייד בג'קטים (10–15 מעלות למעלה). בגוגל רק 2.0 (393 ביקורות) – התלונות על המחיר ועל התורים."
+    "en": "A big gondola over the forest to 2,200 m, then a flat 10–15 min walk to the Babele rocks and the Sphinx – almost no hiking. Pricey and queues build up after 10:00, hence the 8:00 start on a Sunday; take jackets (10–15 °C up there). Google rating only 2.0 (393 reviews) – complaints are about price and queues.",
+    "he": "גונדולה גדולה מעל היער עד גובה 2,200 מ', ואז הליכה מישורית של 10–15 דקות לסלעי בבלה ולספינקס – כמעט בלי הליכה. יקר, ותורים מתארכים אחרי 10:00, ולכן יוצאים ב-8:00 ביום ראשון; להצטייד בג'קטים (10–15 מעלות למעלה). בגוגל רק 2.0 (393 ביקורות) – התלונות על המחיר ועל התורים."
    },
    "optional": false,
    "google": {
@@ -1218,8 +1630,8 @@
     "he": "רכבל טמפה, ברשוב"
    },
    "hours": {
-    "en": "Reported since Oct 2025: Tue–Sun 10:00–23:00, Mon 12:00–23:00 (morning maintenance break); summer times not confirmed",
-    "he": "דווח מאוקטובר 2025: ג'–א' 10:00–23:00, ב' 12:00–23:00 (הפסקת תחזוקה בבוקר); שעות קיץ לא אומתו"
+    "en": "Reported since Oct 2025: Tue–Sun 10:00–23:00, Mon 12:00–23:00 (morning maintenance break); summer times not confirmed. Planned on Mon 23 Aug: ride up at about 12:00.",
+    "he": "דווח מאוקטובר 2025: ג'–א' 10:00–23:00, ב' 12:00–23:00 (הפסקת תחזוקה בבוקר); שעות קיץ לא אומתו. מתוכנן ליום ב' 23 באוגוסט: עולים בסביבות 12:00."
    },
    "price_text": {
     "en": "≈ 150 RON (≈ €28): return 45 adult / 30 child 6–12 (since 19 Oct 2025) → 2 × 45 + 2 × 30; the 5-year-old may be free or discounted. Estimate (2027 price not published).",
@@ -1281,8 +1693,8 @@
     "he": "טירת בראן (\"טירת דרקולה\")"
    },
    "hours": {
-    "en": "1 Apr–1 Nov: Mon 12:00–19:00, Tue–Sun 9:00–19:00 (last entry at closing)",
-    "he": "1 באפריל–1 בנובמבר: ב' 12:00–19:00, ג'–א' 9:00–19:00 (כניסה אחרונה בסגירה)"
+    "en": "1 Apr–1 Nov: Mon 12:00–19:00, Tue–Sun 9:00–19:00 (last entry at closing). Planned on Mon 23 Aug at about 14:30.",
+    "he": "1 באפריל–1 בנובמבר: ב' 12:00–19:00, ג'–א' 9:00–19:00 (כניסה אחרונה בסגירה). מתוכנן ליום ב' 23 באוגוסט בסביבות 14:30."
    },
    "price_text": {
     "en": "≈ 360 RON (≈ €67) budgeted: official site 100 adult / 40 child 5–17, under 5 free (→ ≈ 280 RON), but August 2026 visitors report 120 / 60 at the till (→ 360 RON). Estimate; parking ≈ 20–30 RON extra. Book online – tickets sell out.",
@@ -1296,8 +1708,8 @@
     "he": "שעה וחצי–שעתיים"
    },
    "kids": {
-    "en": "The Dracula-legend castle on a rock: narrow stairs, a secret staircase and small rooms – busy in August; the plan goes on a Monday (it opens at 12:00) at about 14:30, when the morning crowd has thinned. Souvenir market at the bottom. Lots of steps for a 5-year-old.",
-    "he": "טירת אגדת דרקולה על סלע: מדרגות צרות, מדרגות סודיות וחדרים קטנים – עמוס באוגוסט; התוכנית מגיעה ביום שני (נפתחת ב-12:00) בסביבות 14:30, כשהעומס של הבוקר פחת. שוק מזכרות למטה. הרבה מדרגות לילד בן 5."
+    "en": "The Dracula-legend castle on a rock: narrow stairs, a secret staircase and small rooms – busy in August; the plan goes on Mon 23 Aug (it opens at 12:00) at about 14:30, when the morning crowd has thinned and the weekend is over. Souvenir market at the bottom. Lots of steps for a 5-year-old.",
+    "he": "טירת אגדת דרקולה על סלע: מדרגות צרות, מדרגות סודיות וחדרים קטנים – עמוס באוגוסט; התוכנית מגיעה ביום ב' 23 באוגוסט (נפתחת ב-12:00) בסביבות 14:30, כשהעומס של הבוקר פחת וסוף השבוע מאחור. שוק מזכרות למטה. הרבה מדרגות לילד בן 5."
    },
    "optional": false,
    "google": {
@@ -1344,8 +1756,8 @@
     "he": "דינו פארק ראשנוב"
    },
    "hours": {
-    "en": "Apr–Oct: Mon–Thu 10:00–18:00, Fri 10:00–18:30, Sat 10:00–19:00, Sun 10:00–18:30",
-    "he": "אפריל–אוקטובר: ב'–ה' 10:00–18:00, ו' 10:00–18:30, ש' 10:00–19:00, א' 10:00–18:30"
+    "en": "Apr–Oct: Mon–Thu 10:00–18:00, Fri 10:00–18:30, Sat 10:00–19:00, Sun 10:00–18:30. Planned on Sat 21 Aug (open 10:00–19:00; a busy day, so go straight after Libearty).",
+    "he": "אפריל–אוקטובר: ב'–ה' 10:00–18:00, ו' 10:00–18:30, ש' 10:00–19:00, א' 10:00–18:30. מתוכנן ליום ש' 21 באוגוסט (פתוח 10:00–19:00; יום עמוס, ולכן ישר אחרי ליברטי)."
    },
    "price_text": {
     "en": "200 RON (≈ €37): 2 adults × 60 + 2 children (3–18) × 40 (official 2026 prices; the online shop is slightly cheaper). Extras 15 RON each per person: adventure trails, 9D cinema, Dino Train; laser maze 10 RON. Volcano and earthquake simulator included.",
@@ -1470,12 +1882,12 @@
     "he": "מקלט הדובים ליברטי, זרנשט (סיור מודרך)"
    },
    "hours": {
-    "en": "Tue–Sun, mornings only, guided tours at fixed times (classic tour 1 h 15 min at 9:45 and 11:15); closed Monday. Spots are limited – book ahead.",
-    "he": "ג'–א', בבקרים בלבד, סיורים מודרכים בשעות קבועות (סיור קלאסי שעה ורבע ב-9:45 וב-11:15); סגור בשני. מקומות מוגבלים – להזמין מראש."
+    "en": "Tue–Sun, mornings only, guided tours at fixed times (classic tour 1 h 15 min at 9:45 and 11:15); closed Monday. Planned on Sat 21 Aug (open; weekend slots fill up – book ahead). Spots are limited.",
+    "he": "ג'–א', בבקרים בלבד, סיורים מודרכים בשעות קבועות (סיור קלאסי שעה ורבע ב-9:45 וב-11:15); סגור בשני. מתוכנן ליום ש' 21 באוגוסט (פתוח; מקומות בסוף שבוע מתמלאים – להזמין מראש). מקומות מוגבלים."
    },
    "price_text": {
-    "en": "≈ 290 RON (≈ €54): classic tour from 95 RON per adult and 50 RON per child 5–18 (weekends and holidays cost more). Children under 5 are not admitted – bring proof of age for the 5-year-old. Estimate for 2027.",
-    "he": "כ-290 לי\"י (כ-54 €): סיור קלאסי מ-95 לי\"י למבוגר ו-50 לי\"י לילד 5–18 (בסופי שבוע ובחגים יקר יותר). ילדים מתחת לגיל 5 לא נכנסים – להביא הוכחת גיל לילד בן ה-5. הערכה ל-2027."
+    "en": "≈ 290 RON (≈ €54): classic tour from 95 RON per adult and 50 RON per child 5–18 (weekends and holidays cost more). Children under 5 are not admitted – bring proof of age for the 5-year-old. Estimate for 2027. Saturday 21 Aug is a weekend day: expect the higher weekend rate (not verified; the figure here is the budget estimate).",
+    "he": "כ-290 לי\"י (כ-54 €): סיור קלאסי מ-95 לי\"י למבוגר ו-50 לי\"י לילד 5–18 (בסופי שבוע ובחגים יקר יותר). ילדים מתחת לגיל 5 לא נכנסים – להביא הוכחת גיל לילד בן ה-5. הערכה ל-2027. יום ש' 21 באוגוסט הוא יום סוף שבוע: צפויה תעריף סוף שבוע גבוה יותר (לא אומת; הסכום כאן הוא הערכת תקציב)."
    },
    "price_czk": 290,
    "price_eur": 54.21,
@@ -1548,8 +1960,8 @@
     "he": "2–3 שעות"
    },
    "kids": {
-    "en": "Rope courses in the trees with easy kids' trails, near a small lake with a playground. Fits as an alternative afternoon in Brașov (Day 3) instead of Bran.",
-    "he": "מסלולי חבלים בין העצים עם שבילי ילדים קלים, ליד אגם קטן עם מגרש משחקים. מתאים כחלופה אחר הצהריים בברשוב (יום 3) במקום בראן."
+    "en": "Rope courses in the trees with easy kids' trails, near a small lake with a playground. Fits as an alternative afternoon in Brașov (Day 5, Monday) instead of Bran.",
+    "he": "מסלולי חבלים בין העצים עם שבילי ילדים קלים, ליד אגם קטן עם מגרש משחקים. מתאים כחלופה אחר הצהריים בברשוב (יום 5, יום שני) במקום בראן."
    },
    "optional": true,
    "google": {
@@ -1659,16 +2071,16 @@
     "he": "תרמה בוקרשט (אזור הגלקסי – פארק המים)"
    },
    "hours": {
-    "en": "Daily about 10:00–23:00 (Google Maps); check the Therme site",
-    "he": "מדי יום בערך 10:00–23:00 (גוגל מפות); לבדוק באתר תרמה"
+    "en": "Daily about 10:00–23:00 (Google Maps); check the Therme site. Planned on Thu 26 Aug (weekday price).",
+    "he": "מדי יום בערך 10:00–23:00 (גוגל מפות); לבדוק באתר תרמה. מתוכנן ליום ה' 26 באוגוסט (מחיר יום חול)."
    },
    "price_text": {
-    "en": "572 RON (≈ €107): One Day Holiday ticket on a Friday (Fri–Sun +10 RON on the Mon–Thu price): 2 × 151 adult + 2 × 135 child 3–14 (Mon–Thu would be 532 RON; 3-hour tickets are cheaper). Prices of mid-2026 – 2027 may be higher. Taxi from the city ≈ 35–45 min.",
-    "he": "572 לי\"י (כ-107 €): כרטיס One Day Holiday ביום שישי (ו'–א' +10 לי\"י על מחיר ב'–ה'): 2 × 151 מבוגר + 2 × 135 ילד 3–14 (בימים ב'–ה' זה 532 לי\"י; כרטיסי 3 שעות זולים יותר). מחירים מאמצע 2026 – ב-2027 אולי יקרים יותר. מונית מהעיר כ-35–45 דקות."
+    "en": "532 RON (≈ €99): One Day Holiday ticket on a Thursday (Mon–Thu price; Fri–Sun is +10 RON per ticket, i.e. 572 RON): 2 × 141 adult + 2 × 125 child 3–14 (the adult price was confirmed for July 2026; the child price is carried from the earlier check; 3-hour tickets are cheaper). Prices of mid-2026 – 2027 may be higher. Taxi from the city ≈ 35–45 min.",
+    "he": "532 לי\"י (כ-99 €): כרטיס One Day Holiday ביום חמישי (מחיר ב'–ה'; ו'–א' +10 לי\"י לכרטיס, כלומר 572 לי\"י): 2 × 141 מבוגר + 2 × 125 ילד 3–14 (מחיר המבוגר אומת ליולי 2026; מחיר הילד מועבר מבדיקה קודמת; כרטיסי 3 שעות זולים יותר). מחירים מאמצע 2026 – ב-2027 אולי יקרים יותר. מונית מהעיר כ-35–45 דקות."
    },
-   "price_czk": 572,
-   "price_eur": 106.92,
-   "estimate": false,
+   "price_czk": 532,
+   "price_eur": 99.44,
+   "estimate": true,
    "time": {
     "en": "5–6 h (a full day)",
     "he": "5–6 שעות (יום שלם)"
@@ -1741,8 +2153,8 @@
     "he": "שעתיים"
    },
    "kids": {
-    "en": "Bucharest's biggest park around a lake: shady paths, playgrounds, boats and ice cream, right next to the Village Museum (Day 9).",
-    "he": "הפארק הגדול של בוקרשט סביב אגם: שבילים מוצלים, מגרשי משחקים, סירות וגלידה, ממש ליד מוזיאון הכפר (יום 9)."
+    "en": "Bucharest's biggest park around a lake: shady paths, playgrounds, boats and ice cream, right next to the Village Museum (Day 9, Fri 27).",
+    "he": "הפארק הגדול של בוקרשט סביב אגם: שבילים מוצלים, מגרשי משחקים, סירות וגלידה, ממש ליד מוזיאון הכפר (יום 9, ו' 27)."
    },
    "optional": false,
    "google": {
@@ -1789,8 +2201,8 @@
     "he": "מוזיאון הכפר (Muzeul Satului), באוויר הפתוח"
    },
    "hours": {
-    "en": "Summer schedule announced for 2025: Wed–Sun 9:00–19:00 (last entry 18:30); closed Mon–Tue – the plan uses Wednesday. Check muzeul-satului.ro.",
-    "he": "לוח קיץ שפורסם ל-2025: ד'–א' 9:00–19:00 (כניסה אחרונה 18:30); סגור ב'–ג' – התוכנית משתמשת ביום רביעי. לבדוק ב-muzeul-satului.ro."
+    "en": "Summer schedule announced for 2025: Wed–Sun 9:00–19:00 (last entry 18:30); closed Mon–Tue – the plan uses Fri 27 Aug (open). Check muzeul-satului.ro.",
+    "he": "לוח קיץ שפורסם ל-2025: ד'–א' 9:00–19:00 (כניסה אחרונה 18:30); סגור ב'–ג' – התוכנית משתמשת ביום ו' 27 באוגוסט (פתוח). לבדוק ב-muzeul-satului.ro."
    },
    "price_text": {
     "en": "≈ 80 RON (≈ €15) estimate: adults about 30 RON, children / pupils a fraction of that (2024 guide: adult 30, pensioner 15, student 8); the regular 2026 list was not found.",
@@ -1852,8 +2264,8 @@
     "he": "מוזיאון הטבע על שם גריגורה אנטיפה"
    },
    "hours": {
-    "en": "Tue–Sun about 10:00–19:00 (Google), closed Monday; last entry 1 h earlier – check antipa.ro",
-    "he": "ג'–א' בערך 10:00–19:00 (גוגל), סגור בשני; כניסה אחרונה שעה קודם – לבדוק ב-antipa.ro"
+    "en": "Tue–Sun about 10:00–19:00 (Google), closed Monday; last entry 1 h earlier – check antipa.ro. Planned on Wed 25 Aug (open).",
+    "he": "ג'–א' בערך 10:00–19:00 (גוגל), סגור בשני; כניסה אחרונה שעה קודם – לבדוק ב-antipa.ro. מתוכנן ליום ד' 25 באוגוסט (פתוח)."
    },
    "price_text": {
     "en": "≈ 80 RON (≈ €15) estimate: adult 32 RON (March 2026), student/reduced 8 RON; the children's price was not published, so 2 × 32 + 2 × 8. The live butterfly greenhouse is a separate ticket.",
@@ -1974,8 +2386,8 @@
     "he": "גן החיות של בוקרשט, בנאסה (אופציונלי)"
    },
    "hours": {
-    "en": "Daily about 9:00–19:00 (Google Maps; summer hours older sources: weekdays 9–19, weekends 8–18)",
-    "he": "מדי יום בערך 9:00–19:00 (גוגל מפות; במקורות ישנים: ימי חול 9–19, סופ\"ש 8–18)"
+    "en": "Daily about 9:00–19:00 (Google Maps; older sources: weekdays 9–19, weekends 8–18). Fallback for Wed 25 Aug or Thu 26 Aug.",
+    "he": "מדי יום בערך 9:00–19:00 (גוגל מפות; במקורות ישנים: ימי חול 9–19, סופ\"ש 8–18). חלופה ליום ד' 25 או ה' 26 באוגוסט."
    },
    "price_text": {
     "en": "≈ 60 RON (≈ €11) estimate: adult 20 RON and child 10 RON after the 2026 increase (reduced rate not confirmed).",
@@ -2093,53 +2505,42 @@
  "days": [
   {
    "day": 1,
-   "date": "2027-08-14",
+   "date": "2027-08-19",
    "weekday": {
-    "en": "Sat",
-    "he": "ש'"
+    "en": "Thu",
+    "he": "ה'"
    },
    "title": {
-    "en": "Daytime flight, car pick-up, Sinaia stop and check-in",
-    "he": "טיסת יום, איסוף רכב, עצירה בסינאיה וצ'ק-אין"
+    "en": "Evening flight, car pick-up, night drive to Sinaia",
+    "he": "טיסת ערב, איסוף רכב ונסיעת לילה לסינאיה"
    },
    "trail": "green",
    "overnight": "hotel_carpathia",
    "plan": [
     {
-     "en": "09:20 Wizz Air W4 3252 from TLV, landing at OTP 12:10.",
-     "he": "09:20 וויז אייר W4 3252 מנתב\"ג, נחיתה בבוקרשט ב-12:10."
+     "en": "16:45 Wizz Air W4 3254 from TLV, landing at OTP 19:35.",
+     "he": "16:45 וויז אייר W4 3254 מנתב\"ג, נחיתה בבוקרשט ב-19:35.",
+     "flight": "out"
     },
     {
-     "en": "Pick up the car at Henri Coandă Airport with 2 child seats (45–60 min; confirm the rovinieta is included). Drive 109 km on DN1 to Sinaia: 1h46 without traffic, but Saturday afternoon is busy towards the mountains in summer, so allow about 2h30.",
-     "he": "איסוף הרכב בשדה התעופה הנרי קואנדה עם 2 מושבי ילדים (45–60 דקות; לוודא שהרובינייטה כלולה). נסיעה של 109 ק\"מ ב-DN1 לסינאיה: שעה ו-46 דקות בלי פקקים, אבל בשבת אחר הצהריים העומס צפונה להרים באוגוסט גדול, אז לחשב כשעתיים וחצי."
+     "en": "Pick up the car at Henri Coandă Airport with 2 child seats at about 20:15 (allow 45 min; confirm the rovinieta road vignette is included). Desk hours differ by source: some list Sixt and Hertz as open around the clock, while Avis/Budget are listed 8:00–21:00 and Hertz 8:00–22:00 on a broker page – a 20:15 pick-up is inside all of them, but confirm the desk closing time in writing and book the car for the flight arrival time.",
+     "he": "איסוף הרכב בשדה התעופה הנרי קואנדה עם 2 מושבי ילדים בסביבות 20:15 (להקצות 45 דקות; לוודא שהרובינייטה, מדבקת הכביש, כלולה). שעות הדלפקים משתנות לפי המקור: בחלק מהמקורות Sixt ו-Hertz פתוחות 24 שעות, ואילו Avis/Budget מופיעות 8:00–21:00 ו-Hertz 8:00–22:00 בעמוד של ברוקר – איסוף ב-20:15 נכנס בכולם, אבל לאשר בכתב את שעת הסגירה של הדלפק ולהזמין את הרכב לפי שעת הנחיתה."
     },
     {
-     "en": "Kid stop in Sinaia (30–45 min): the Sinaia Monastery courtyard and a walk in the Peleș park/lower castle grounds (the castle interior closes 16:15 – only worth it if you land by about 11:00, otherwise do it on Day 2).",
-     "he": "עצירת ילדים בסינאיה (30–45 דקות): חצר מנזר סינאיה והליכה בפארק פלש/בשטח התחתון של הטירה (פנים הטירה נסגר ב-16:15 – שווה רק אם נוחתים עד כ-11:00, אחרת ביום 2)."
-    },
-    {
-     "en": "3 min to the hotel (4-star, centre of Sinaia), check in, a swim in the indoor pool of the free spa, dinner in the hotel restaurant, early night.",
-     "he": "3 דקות למלון (4 כוכבים, במרכז סינאיה), צ'ק-אין, שחייה בבריכה המקורה של הספא החופשי, ארוחת ערב במסעדת המלון ולישון מוקדם."
+     "en": "Drive 108 km / about 1h45 on DN1 (Ploiești – Câmpina – Comarnic – Sinaia), leaving the airport at about 21:00 and arriving about 23:00. Thursday night the road is quiet; the kids sleep in the car. Tell the hotel your ETA – the front desk is open 24 hours. Check in at Hotel Carpathia (Bd. Carol I 46) and straight to bed – the hotel is yours for 5 nights.",
+     "he": "נסיעה של 108 ק\"מ / כשעה ו-45 דקות בכביש DN1 (פלואשט – קמפינה – קומרניק – סינאיה), יוצאים מהשדה בסביבות 21:00 ומגיעים בסביבות 23:00. בלילה של יום חמישי הכביש שקט; הילדים ישנים ברכב. לעדכן את המלון בשעת ההגעה – הקבלה פתוחה 24 שעות. צ'ק-אין במלון Carpathia (שד' קרול הראשון 46) ומיד למיטה – המלון שלכם ל-5 לילות."
     }
    ],
-   "attractions": [
-    "sinaia_monastery"
-   ],
+   "attractions": [],
    "route": {
-    "km": 110.7,
-    "minutes": 109,
+    "km": 108.3,
+    "minutes": 104,
     "legs": [
      {
       "from": "Bucharest Henri Coandă Airport (OTP) – car pick-up",
-      "to": "Sinaia Monastery / Peleș park",
-      "km": 109.4,
-      "min": 106
-     },
-     {
-      "from": "Sinaia Monastery / Peleș park",
       "to": "Hotel Carpathia, Sinaia",
-      "km": 1.2,
-      "min": 3
+      "km": 108.3,
+      "min": 104
      }
     ],
     "points": [
@@ -2147,11 +2548,6 @@
       "name": "Bucharest Henri Coandă Airport (OTP) – car pick-up",
       "lat": 44.5711,
       "lng": 26.0858
-     },
-     {
-      "name": "Sinaia Monastery / Peleș park",
-      "lat": 45.35535,
-      "lng": 25.54907
      },
      {
       "name": "Hotel Carpathia, Sinaia",
@@ -2222,20 +2618,16 @@
        45.187646
       ],
       [
-       25.638836,
-       45.227578
+       25.638852,
+       45.227544
       ],
       [
        25.619081,
        45.285368
       ],
       [
-       25.569016,
-       45.312025
-      ],
-      [
-       25.549426,
-       45.355328
+       25.57351,
+       45.307991
       ],
       [
        25.546889,
@@ -2244,15 +2636,15 @@
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=44.5711,26.0858&destination=45.346357,25.546826&travelmode=driving&waypoints=45.35535%2C25.54907"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=44.5711,26.0858&destination=45.346357,25.546826&travelmode=driving"
    }
   },
   {
    "day": 2,
-   "date": "2027-08-15",
+   "date": "2027-08-20",
    "weekday": {
-    "en": "Sun",
-    "he": "א'"
+    "en": "Fri",
+    "he": "ו'"
    },
    "title": {
     "en": "Peleș Castle (first slot), pool afternoon",
@@ -2266,12 +2658,12 @@
      "he": "ארוחת בוקר בבופה במלון, מוכנים ליציאה בסביבות 8:45."
     },
     {
-     "en": "Peleș Castle is a 5-minute drive. Sunday is the busiest day, so book the first slot (about 9:15) online. Guided tour (about 45–60 min), then the terraces and gardens; park at the lower car park and walk up the wide path.",
-     "he": "טירת פלש במרחק 5 דקות נסיעה. יום ראשון הוא היום העמוס ביותר, אז להזמין באינטרנט את השעה הראשונה (בערך 9:15). סיור מודרך (כ-45–60 דקות), ואז המרפסות והגנים; חונים בחניון התחתון ועולים בשביל הרחב."
+     "en": "Peleș Castle is a 5-minute drive. Friday is open from 9:15 and still before the weekend crowds (the castle is closed on Mondays), so book the first slot online. Guided tour (about 45–60 min), then the terraces and gardens; park at the lower car park and walk up the wide path.",
+     "he": "טירת פלש במרחק 5 דקות נסיעה. ביום שישי היא פתוחה מ-9:15 ועוד לפני עומס סוף השבוע (ביום שני היא סגורה), אז להזמין באינטרנט את השעה הראשונה. סיור מודרך (כ-45–60 דקות), ואז המרפסות והגנים; חונים בחניון התחתון ועולים בשביל הרחב."
     },
     {
-     "en": "Lunch in Sinaia, then afternoon rest and the pool/sauna.",
-     "he": "ארוחת צהריים בסינאיה, ואחר כך מנוחה ובריכה/סאונה אחר הצהריים."
+     "en": "Lunch in Sinaia, then afternoon rest and the pool/sauna of the free spa. Fill the tank and shop for snacks: tomorrow starts early.",
+     "he": "ארוחת צהריים בסינאיה, ואחר כך מנוחה ובריכה/סאונה בספא החינמי. מתדלקים וקונים חטיפים: מחר מתחילים מוקדם."
     }
    ],
    "attractions": [
@@ -2557,341 +2949,10 @@
   },
   {
    "day": 3,
-   "date": "2027-08-16",
+   "date": "2027-08-21",
    "weekday": {
-    "en": "Mon",
-    "he": "ב'"
-   },
-   "title": {
-    "en": "Brașov old town, cable car and Bran Castle",
-    "he": "העיר העתיקה של ברשוב, רכבל וטירת בראן"
-   },
-   "trail": "blue",
-   "overnight": "hotel_carpathia",
-   "plan": [
-    {
-     "en": "Leave at 8:30, 1h00 to Brașov (Monday morning, northbound traffic is fine). Council Square, Rope Street, the Black Church (opens about 10:00) and ice cream. On Mondays the Tâmpa cable car opens at 12:00: ride up around 12:00 (about 1 h).",
-     "he": "יוצאים ב-8:30, שעה לברשוב (בוקר של יום שני, התנועה צפונה סבירה). כיכר המועצה, רחוב החבל, הכנסייה השחורה (נפתחת בסביבות 10:00) וגלידה. בימי שני רכבל טמפה נפתח ב-12:00: עולים בסביבות 12:00 (כשעה)."
-    },
-    {
-     "en": "Quick lunch, then 35 min to Bran Castle for about 14:30 (booked online; on Mondays it opens at 12:00); visit 1.5–2 h.",
-     "he": "ארוחת צהריים מהירה, ואז 35 דקות לטירת בראן בסביבות 14:30 (הוזמן באינטרנט; בימי שני היא נפתחת ב-12:00); ביקור של שעה וחצי–שעתיים."
-    },
-    {
-     "en": "1h04 back to Sinaia, about 18:30. A long day (2h39 of driving in total): drop the Tâmpa cable car or swap Bran for the Brașov Adventure Park or the Prejmer fortified church (20 min from Brașov) if the kids are tired.",
-     "he": "שעה ו-4 דקות חזרה לסינאיה, בסביבות 18:30. יום ארוך (בסך הכול 2:39 שעות נסיעה): אפשר לוותר על רכבל טמפה או להחליף את בראן בפארק ההרפתקאות בברשוב או בכנסייה המבוצרת בפרז'מר (20 דקות מברשוב) אם הילדים עייפים."
-    }
-   ],
-   "attractions": [
-    "brasov_old",
-    "tampa",
-    "bran",
-    "adventure",
-    "prejmer"
-   ],
-   "route": {
-    "km": 127.5,
-    "minutes": 159,
-    "legs": [
-     {
-      "from": "Hotel Carpathia, Sinaia",
-      "to": "Brașov Council Square",
-      "km": 46.9,
-      "min": 60
-     },
-     {
-      "from": "Brașov Council Square",
-      "to": "Bran Castle",
-      "km": 30.8,
-      "min": 35
-     },
-     {
-      "from": "Bran Castle",
-      "to": "Hotel Carpathia, Sinaia",
-      "km": 49.8,
-      "min": 64
-     }
-    ],
-    "points": [
-     {
-      "name": "Hotel Carpathia, Sinaia",
-      "lat": 45.346357,
-      "lng": 25.546826
-     },
-     {
-      "name": "Brașov Council Square",
-      "lat": 45.64213,
-      "lng": 25.58918
-     },
-     {
-      "name": "Bran Castle",
-      "lat": 45.5149,
-      "lng": 25.36716
-     },
-     {
-      "name": "Hotel Carpathia, Sinaia",
-      "lat": 45.346357,
-      "lng": 25.546826
-     }
-    ],
-    "geometry": {
-     "coordinates": [
-      [
-       25.546889,
-       45.346495
-      ],
-      [
-       25.555727,
-       45.356088
-      ],
-      [
-       25.542153,
-       45.369417
-      ],
-      [
-       25.534472,
-       45.412548
-      ],
-      [
-       25.552607,
-       45.424671
-      ],
-      [
-       25.55013,
-       45.439037
-      ],
-      [
-       25.567803,
-       45.459417
-      ],
-      [
-       25.560741,
-       45.469279
-      ],
-      [
-       25.574067,
-       45.500387
-      ],
-      [
-       25.571313,
-       45.513413
-      ],
-      [
-       25.577023,
-       45.511179
-      ],
-      [
-       25.579695,
-       45.517772
-      ],
-      [
-       25.573034,
-       45.518807
-      ],
-      [
-       25.570569,
-       45.524098
-      ],
-      [
-       25.588206,
-       45.537936
-      ],
-      [
-       25.591778,
-       45.555049
-      ],
-      [
-       25.658896,
-       45.610735
-      ],
-      [
-       25.632955,
-       45.633569
-      ],
-      [
-       25.628992,
-       45.631652
-      ],
-      [
-       25.620217,
-       45.638247
-      ],
-      [
-       25.617488,
-       45.63631
-      ],
-      [
-       25.597538,
-       45.643321
-      ],
-      [
-       25.586864,
-       45.636851
-      ],
-      [
-       25.588503,
-       45.642311
-      ],
-      [
-       25.580855,
-       45.664245
-      ],
-      [
-       25.573626,
-       45.66563
-      ],
-      [
-       25.497172,
-       45.635597
-      ],
-      [
-       25.480897,
-       45.639527
-      ],
-      [
-       25.461356,
-       45.637695
-      ],
-      [
-       25.449584,
-       45.611041
-      ],
-      [
-       25.444383,
-       45.577337
-      ],
-      [
-       25.41903,
-       45.571406
-      ],
-      [
-       25.39435,
-       45.557191
-      ],
-      [
-       25.378154,
-       45.540218
-      ],
-      [
-       25.370655,
-       45.522283
-      ],
-      [
-       25.366213,
-       45.52244
-      ],
-      [
-       25.366447,
-       45.514484
-      ],
-      [
-       25.366213,
-       45.52244
-      ],
-      [
-       25.370655,
-       45.522283
-      ],
-      [
-       25.378154,
-       45.540218
-      ],
-      [
-       25.394558,
-       45.557358
-      ],
-      [
-       25.41903,
-       45.571406
-      ],
-      [
-       25.449044,
-       45.579233
-      ],
-      [
-       25.456202,
-       45.576491
-      ],
-      [
-       25.46021,
-       45.563634
-      ],
-      [
-       25.496144,
-       45.54755
-      ],
-      [
-       25.499654,
-       45.527851
-      ],
-      [
-       25.508616,
-       45.518906
-      ],
-      [
-       25.500158,
-       45.518724
-      ],
-      [
-       25.509971,
-       45.511885
-      ],
-      [
-       25.507438,
-       45.507464
-      ],
-      [
-       25.513422,
-       45.500596
-      ],
-      [
-       25.565654,
-       45.487103
-      ],
-      [
-       25.560694,
-       45.467672
-      ],
-      [
-       25.566466,
-       45.45615
-      ],
-      [
-       25.55013,
-       45.439037
-      ],
-      [
-       25.552607,
-       45.424671
-      ],
-      [
-       25.534472,
-       45.412548
-      ],
-      [
-       25.542153,
-       45.369417
-      ],
-      [
-       25.555727,
-       45.356088
-      ],
-      [
-       25.546889,
-       45.346495
-      ]
-     ],
-     "type": "LineString"
-    },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.64213%2C25.58918%7C45.5149%2C25.36716"
-   }
-  },
-  {
-   "day": 4,
-   "date": "2027-08-17",
-   "weekday": {
-    "en": "Tue",
-    "he": "ג'"
+    "en": "Sat",
+    "he": "ש'"
    },
    "title": {
     "en": "Bears and dinosaurs",
@@ -2901,16 +2962,16 @@
    "overnight": "hotel_carpathia",
    "plan": [
     {
-     "en": "Leave at 7:45 (Tuesday morning traffic towards the mountains is normal) – 1h03 to the Libearty Bear Sanctuary at Zărnești for the 9:45 guided tour (book ahead).",
-     "he": "יוצאים ב-7:45 (בוקר של יום שלישי, התנועה להרים רגילה) – שעה ו-3 דקות למקלט הדובים ליברטי בזרנשט לסיור המודרך של 9:45 (להזמין מראש)."
+     "en": "Leave at 7:15 (Saturday: the DN1 northbound queues build up from about 8:30, so leave early) – 1h03 to the Libearty Bear Sanctuary at Zărnești for the 9:45 guided tour (open Saturday; book ahead, weekend slots fill up).",
+     "he": "יוצאים ב-7:15 (שבת: התורים צפונה ב-DN1 גדלים מסביבות 8:30, ולכן יוצאים מוקדם) – שעה ו-3 דקות למקלט הדובים ליברטי בזרנשט לסיור המודרך של 9:45 (פתוח בשבת; להזמין מראש, מקומות בסוף שבוע מתמלאים)."
     },
     {
-     "en": "16 min to Dino Parc Râșnov: dinosaurs, playground and lunch; 2.5–3 h. Optional: the Râșnov Citadel next door (check that it is open).",
-     "he": "16 דקות לדינו פארק ראשנוב: דינוזאורים, מגרש משחקים וארוחת צהריים; 2.5–3 שעות. אופציונלי: מצודת ראשנוב שלידו (לבדוק שפתוחה)."
+     "en": "17 min to Dino Parc Râșnov (open Saturday 10:00–19:00): dinosaurs, playground and lunch; 2.5–3 h. Optional: the Râșnov Citadel next door (check that it is open).",
+     "he": "17 דקות לדינו פארק ראשנוב (פתוח בשבת 10:00–19:00): דינוזאורים, מגרש משחקים וארוחת צהריים; 2.5–3 שעות. אופציונלי: מצודת ראשנוב שלידו (לבדוק שפתוחה)."
     },
     {
-     "en": "0h52 back to Sinaia, about 17:00 (southbound traffic is normal on a Tuesday afternoon). Evening in the pool.",
-     "he": "52 דקות חזרה לסינאיה, בסביבות 17:00 (ביום שלישי אחר הצהריים התנועה דרומה רגילה). ערב בבריכה."
+     "en": "0h52 back to Sinaia, about 17:00 (southbound traffic is normal on a Saturday afternoon; the big southbound jam is on Sunday). Evening in the pool. 2h12 of driving in total.",
+     "he": "52 דקות חזרה לסינאיה, בסביבות 17:00 (בשבת אחר הצהריים התנועה דרומה רגילה; הפקק הגדול דרומה הוא ביום ראשון). ערב בבריכה. בסך הכול 2:12 שעות נסיעה."
     }
    ],
    "attractions": [
@@ -2925,14 +2986,14 @@
      {
       "from": "Hotel Carpathia, Sinaia",
       "to": "Libearty Bear Sanctuary, Zărnești",
-      "km": 47.5,
+      "km": 47.4,
       "min": 63
      },
      {
       "from": "Libearty Bear Sanctuary, Zărnești",
       "to": "Dino Parc Râșnov",
-      "km": 9.9,
-      "min": 16
+      "km": 10.0,
+      "min": 17
      },
      {
       "from": "Dino Parc Râșnov",
@@ -3328,11 +3389,11 @@
    }
   },
   {
-   "day": 5,
-   "date": "2027-08-18",
+   "day": 4,
+   "date": "2027-08-22",
    "weekday": {
-    "en": "Wed",
-    "he": "ד'"
+    "en": "Sun",
+    "he": "א'"
    },
    "title": {
     "en": "Cable car to the Bucegi plateau, pool afternoon",
@@ -3342,16 +3403,16 @@
    "overnight": "hotel_carpathia",
    "plan": [
     {
-     "en": "Wednesday: be at the Bușteni cable car for the first ascent (about 8:30 on the 2026 winter timetable, so check the summer times; 11 min from Sinaia) – queues build up later; ride up to Babele, easy 10–15 min walk to the Sphinx and the rocks, jackets for the kids.",
-     "he": "יום רביעי: להיות ברכבל בושטני לעלייה הראשונה (בערך 8:30 לפי לוח החורף של 2026, לבדוק את שעות הקיץ; 11 דקות מסינאיה) – התורים גדלים מאוחר יותר; עולים לבבלה, הליכה קלה של 10–15 דקות לספינקס ולסלעים, ג'קטים לילדים."
+     "en": "Sunday: be at the Bușteni cable car for the 8:00 opening (11 min from Sinaia) – queues and traffic on DN1 build up later; ride up to Babele, easy 10–15 min walk to the Sphinx and the rocks, jackets for the kids. A short local day on purpose: Sunday afternoon DN1 is jammed.",
+     "he": "יום ראשון: להיות ברכבל בושטני בפתיחה ב-8:00 (11 דקות מסינאיה) – התורים והפקקים ב-DN1 גדלים מאוחר יותר; עולים לבבלה, הליכה קלה של 10–15 דקות לספינקס ולסלעים, ג'קטים לילדים. יום מקומי קצר בכוונה: ביום ראשון אחר הצהריים DN1 חסום."
     },
     {
-     "en": "Down by about 11:30, lunch in Bușteni or Sinaia (back before the afternoon crowds).",
-     "he": "יורדים בסביבות 11:30, ארוחת צהריים בבושטני או בסינאיה (חוזרים לפני ההמונים של אחר הצהריים)."
+     "en": "Down by about 11:30, lunch in Bușteni or Sinaia (back before the weekend traffic).",
+     "he": "יורדים בסביבות 11:30, ארוחת צהריים בבושטני או בסינאיה (חוזרים לפני תנועת סוף השבוע)."
     },
     {
-     "en": "Afternoon: the hotel's indoor pool, saunas and hot tub (free spa access); pack. Fill the tank for tomorrow.",
-     "he": "אחר הצהריים: הבריכה המקורה, הסאונות והג'קוזי של המלון (ספא חינם); אורזים. מתדלקים לקראת מחר."
+     "en": "Afternoon: the hotel's indoor pool, saunas and hot tub (free spa access); pack a little for the Brașov day tomorrow.",
+     "he": "אחר הצהריים: הבריכה המקורה, הסאונות והג'קוזי של המלון (ספא חינם); מכינים תיק קטן ליום ברשוב מחר."
     }
    ],
    "attractions": [
@@ -3511,7 +3572,7 @@
       ],
       [
        25.535259,
-       45.409016
+       45.40906
       ],
       [
        25.534654,
@@ -3592,11 +3653,342 @@
    }
   },
   {
-   "day": 6,
-   "date": "2027-08-19",
+   "day": 5,
+   "date": "2027-08-23",
    "weekday": {
-    "en": "Thu",
-    "he": "ה'"
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Brașov old town, cable car and Bran Castle",
+    "he": "העיר העתיקה של ברשוב, רכבל וטירת בראן"
+   },
+   "trail": "blue",
+   "overnight": "hotel_carpathia",
+   "plan": [
+    {
+     "en": "Leave at 8:30, 1h00 to Brașov (Monday morning, northbound traffic is fine). Council Square, Rope Street, the Black Church (opens about 10:00) and ice cream. On Mondays the Tâmpa cable car opens at 12:00: ride up around 12:00 (about 1 h).",
+     "he": "יוצאים ב-8:30, שעה לברשוב (בוקר של יום שני, התנועה צפונה סבירה). כיכר המועצה, רחוב החבל, הכנסייה השחורה (נפתחת בסביבות 10:00) וגלידה. בימי שני רכבל טמפה נפתח ב-12:00: עולים בסביבות 12:00 (כשעה)."
+    },
+    {
+     "en": "Quick lunch, then 35 min to Bran Castle for about 14:30 (booked online; on Mondays it opens at 12:00); visit 1.5–2 h.",
+     "he": "ארוחת צהריים מהירה, ואז 35 דקות לטירת בראן בסביבות 14:30 (הוזמן באינטרנט; בימי שני היא נפתחת ב-12:00); ביקור של שעה וחצי–שעתיים."
+    },
+    {
+     "en": "1h04 back to Sinaia, about 18:30. A long day (2h39 of driving in total): drop the Tâmpa cable car or swap Bran for the Brașov Adventure Park or the Prejmer fortified church (20 min from Brașov) if the kids are tired. Pack tonight: the car goes back tomorrow.",
+     "he": "שעה ו-4 דקות חזרה לסינאיה, בסביבות 18:30. יום ארוך (בסך הכול 2:39 שעות נסיעה): אפשר לוותר על רכבל טמפה או להחליף את בראן בפארק ההרפתקאות בברשוב או בכנסייה המבוצרת בפרז'מר (20 דקות מברשוב) אם הילדים עייפים. אורזים הערב: מחר מחזירים את הרכב."
+    }
+   ],
+   "attractions": [
+    "brasov_old",
+    "tampa",
+    "bran",
+    "adventure",
+    "prejmer"
+   ],
+   "route": {
+    "km": 127.5,
+    "minutes": 159,
+    "legs": [
+     {
+      "from": "Hotel Carpathia, Sinaia",
+      "to": "Brașov Council Square",
+      "km": 46.9,
+      "min": 60
+     },
+     {
+      "from": "Brașov Council Square",
+      "to": "Bran Castle",
+      "km": 30.8,
+      "min": 35
+     },
+     {
+      "from": "Bran Castle",
+      "to": "Hotel Carpathia, Sinaia",
+      "km": 49.8,
+      "min": 64
+     }
+    ],
+    "points": [
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     },
+     {
+      "name": "Brașov Council Square",
+      "lat": 45.64213,
+      "lng": 25.58918
+     },
+     {
+      "name": "Bran Castle",
+      "lat": 45.5149,
+      "lng": 25.36716
+     },
+     {
+      "name": "Hotel Carpathia, Sinaia",
+      "lat": 45.346357,
+      "lng": 25.546826
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       25.546889,
+       45.346495
+      ],
+      [
+       25.555727,
+       45.356088
+      ],
+      [
+       25.542153,
+       45.369417
+      ],
+      [
+       25.534472,
+       45.412548
+      ],
+      [
+       25.552607,
+       45.424671
+      ],
+      [
+       25.55013,
+       45.439037
+      ],
+      [
+       25.567803,
+       45.459417
+      ],
+      [
+       25.560741,
+       45.469279
+      ],
+      [
+       25.574067,
+       45.500387
+      ],
+      [
+       25.571313,
+       45.513413
+      ],
+      [
+       25.577072,
+       45.511203
+      ],
+      [
+       25.579695,
+       45.517772
+      ],
+      [
+       25.573034,
+       45.518807
+      ],
+      [
+       25.570569,
+       45.524098
+      ],
+      [
+       25.588206,
+       45.537936
+      ],
+      [
+       25.591778,
+       45.555049
+      ],
+      [
+       25.658896,
+       45.610735
+      ],
+      [
+       25.632955,
+       45.633569
+      ],
+      [
+       25.628992,
+       45.631652
+      ],
+      [
+       25.620217,
+       45.638247
+      ],
+      [
+       25.617488,
+       45.63631
+      ],
+      [
+       25.597538,
+       45.643321
+      ],
+      [
+       25.586864,
+       45.636851
+      ],
+      [
+       25.588503,
+       45.642311
+      ],
+      [
+       25.580855,
+       45.664245
+      ],
+      [
+       25.573626,
+       45.66563
+      ],
+      [
+       25.497172,
+       45.635597
+      ],
+      [
+       25.480897,
+       45.639527
+      ],
+      [
+       25.461356,
+       45.637695
+      ],
+      [
+       25.449584,
+       45.611041
+      ],
+      [
+       25.444383,
+       45.577337
+      ],
+      [
+       25.41903,
+       45.571406
+      ],
+      [
+       25.39435,
+       45.557191
+      ],
+      [
+       25.378154,
+       45.540218
+      ],
+      [
+       25.370655,
+       45.522283
+      ],
+      [
+       25.366213,
+       45.52244
+      ],
+      [
+       25.366447,
+       45.514484
+      ],
+      [
+       25.366213,
+       45.52244
+      ],
+      [
+       25.370655,
+       45.522283
+      ],
+      [
+       25.378154,
+       45.540218
+      ],
+      [
+       25.394558,
+       45.557358
+      ],
+      [
+       25.41903,
+       45.571406
+      ],
+      [
+       25.449044,
+       45.579233
+      ],
+      [
+       25.456202,
+       45.576491
+      ],
+      [
+       25.46021,
+       45.563634
+      ],
+      [
+       25.496144,
+       45.54755
+      ],
+      [
+       25.499654,
+       45.527851
+      ],
+      [
+       25.508616,
+       45.518906
+      ],
+      [
+       25.500158,
+       45.518724
+      ],
+      [
+       25.509971,
+       45.511885
+      ],
+      [
+       25.507438,
+       45.507464
+      ],
+      [
+       25.513422,
+       45.500596
+      ],
+      [
+       25.565654,
+       45.487103
+      ],
+      [
+       25.560694,
+       45.467672
+      ],
+      [
+       25.566466,
+       45.45615
+      ],
+      [
+       25.55013,
+       45.439037
+      ],
+      [
+       25.552607,
+       45.424671
+      ],
+      [
+       25.534472,
+       45.412548
+      ],
+      [
+       25.542153,
+       45.369417
+      ],
+      [
+       25.555727,
+       45.356088
+      ],
+      [
+       25.546889,
+       45.346495
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=45.346357,25.546826&destination=45.346357,25.546826&travelmode=driving&waypoints=45.64213%2C25.58918%7C45.5149%2C25.36716"
+   }
+  },
+  {
+   "day": 6,
+   "date": "2027-08-24",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Back to Bucharest, return the car, Cișmigiu Gardens",
@@ -3606,8 +3998,8 @@
    "overnight": "hotel_maison",
    "plan": [
     {
-     "en": "Check out and leave Sinaia by 8:30 – Thursday morning DN1 towards Bucharest is fine. 1h46 to the airport (108 km); return the car (5 rental days) before 11:00–12:00.",
-     "he": "צ'ק-אאוט ויציאה מסינאיה עד 8:30 – בבוקר של יום חמישי DN1 לכיוון בוקרשט פנוי. שעה ו-46 דקות לשדה (108 ק\"מ); מחזירים את הרכב (5 ימי השכרה) לפני 11:00–12:00."
+     "en": "Check out and leave Sinaia by 8:30 – Tuesday morning DN1 towards Bucharest is fine. 1h46 to the airport (108 km); return the car (5 rental days: Thu 19 evening – Tue 24, before the 20:15 pick-up hour) before 11:00–12:00.",
+     "he": "צ'ק-אאוט ויציאה מסינאיה עד 8:30 – בבוקר של יום שלישי DN1 לכיוון בוקרשט פנוי. שעה ו-46 דקות לשדה (108 ק\"מ); מחזירים את הרכב (5 ימי השכרה: ה' 19 בערב עד ג' 24, לפני שעת האיסוף 20:15) לפני 11:00–12:00."
     },
     {
      "en": "Taxi to the apartment (32 min, about €20; ask for 2 child seats or use a booked airport taxi). Self check-in from 15:00 – ask the host for early check-in or bag storage; lunch nearby.",
@@ -3769,39 +4161,10 @@
   },
   {
    "day": 7,
-   "date": "2027-08-20",
+   "date": "2027-08-25",
    "weekday": {
-    "en": "Fri",
-    "he": "ו'"
-   },
-   "title": {
-    "en": "Therme water park",
-    "he": "פארק המים תרמה"
-   },
-   "trail": "yellow",
-   "overnight": "hotel_maison",
-   "plan": [
-    {
-     "en": "Taxi to Therme București (35–45 min, about €15 each way; ask for child seats or book a taxi with seats). Weekday One Day Holiday tickets are the cheapest.",
-     "he": "מונית לתרמה בוקרשט (35–45 דקות, כ-15 € לכל כיוון; לבקש מושבי ילדים או להזמין מונית עם מושבים). כרטיסי One Day Holiday בימי חול הם הזולים ביותר."
-    },
-    {
-     "en": "10:30 – 16:30 in the Galaxy zone: wave pool, slides, kids' area, lunch inside. Back to the apartment for a quiet evening.",
-     "he": "10:30 – 16:30 באזור הגלקסי: בריכת גלים, מגלשות, אזור ילדים וארוחת צהריים בפנים. חוזרים לדירה לערב רגוע."
-    }
-   ],
-   "attractions": [
-    "therme"
-   ],
-   "route": null,
-   "no_drive_key": "no_drive_city"
-  },
-  {
-   "day": 8,
-   "date": "2027-08-21",
-   "weekday": {
-    "en": "Sat",
-    "he": "ש'"
+    "en": "Wed",
+    "he": "ד'"
    },
    "title": {
     "en": "Natural history museum and the Old Town",
@@ -3811,8 +4174,8 @@
    "overnight": "hotel_maison",
    "plan": [
     {
-     "en": "Taxi (10 min) or metro to the Antipa Museum (open Saturday; closed Monday): dinosaurs, the giant skeleton, the butterfly greenhouse; 2–3 h and lunch nearby.",
-     "he": "מונית (10 דקות) או מטרו למוזיאון אנטיפה (פתוח בשבת; סגור בשני): דינוזאורים, השלד הענק וחממת הפרפרים; 2–3 שעות וארוחת צהריים בסביבה."
+     "en": "Taxi (10 min) or metro to the Antipa Museum (open Wednesday; closed Monday): dinosaurs, the giant skeleton, the butterfly greenhouse; 2–3 h and lunch nearby.",
+     "he": "מונית (10 דקות) או מטרו למוזיאון אנטיפה (פתוח ברביעי; סגור בשני): דינוזאורים, השלד הענק וחממת הפרפרים; 2–3 שעות וארוחת צהריים בסביבה."
     },
     {
      "en": "Rest at the apartment, then a short evening walk in the Old Town (Lipscani) with ice cream and the Stavropoleos courtyard.",
@@ -3832,11 +4195,40 @@
    "no_drive_key": "no_drive_city"
   },
   {
-   "day": 9,
-   "date": "2027-08-22",
+   "day": 8,
+   "date": "2027-08-26",
    "weekday": {
-    "en": "Sun",
-    "he": "א'"
+    "en": "Thu",
+    "he": "ה'"
+   },
+   "title": {
+    "en": "Therme water park",
+    "he": "פארק המים תרמה"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_maison",
+   "plan": [
+    {
+     "en": "Taxi to Therme București (35–45 min, about €15 each way; ask for child seats or book a taxi with seats). Thursday uses the cheaper Mon–Thu One Day Holiday price (Fri–Sun is +10 RON per ticket).",
+     "he": "מונית לתרמה בוקרשט (35–45 דקות, כ-15 € לכל כיוון; לבקש מושבי ילדים או להזמין מונית עם מושבים). ביום חמישי חל מחיר One Day Holiday הזול של ב'–ה' (ו'–א' +10 לי\"י לכרטיס)."
+    },
+    {
+     "en": "10:30 – 16:30 in the Galaxy zone: wave pool, slides, kids' area, lunch inside. Back to the apartment for a quiet evening.",
+     "he": "10:30 – 16:30 באזור הגלקסי: בריכת גלים, מגלשות, אזור ילדים וארוחת צהריים בפנים. חוזרים לדירה לערב רגוע."
+    }
+   ],
+   "attractions": [
+    "therme"
+   ],
+   "route": null,
+   "no_drive_key": "no_drive_city"
+  },
+  {
+   "day": 9,
+   "date": "2027-08-27",
+   "weekday": {
+    "en": "Fri",
+    "he": "ו'"
    },
    "title": {
     "en": "Village Museum and Herăstrău Park",
@@ -3846,16 +4238,16 @@
    "overnight": "hotel_maison",
    "plan": [
     {
-     "en": "Taxi (about 20 min, €5–8) to the Village Museum (open Sunday): old houses, windmills and the wooden church, 9:30 – 11:30.",
-     "he": "מונית (כ-20 דקות, 5–8 €) למוזיאון הכפר (פתוח ביום ראשון): בתים עתיקים, טחנות רוח וכנסיית העץ, 9:30 – 11:30."
+     "en": "Taxi (about 20 min, €5–8) to the Village Museum (open Friday): old houses, windmills and the wooden church, 9:30 – 11:30.",
+     "he": "מונית (כ-20 דקות, 5–8 €) למוזיאון הכפר (פתוח ביום שישי): בתים עתיקים, טחנות רוח וכנסיית העץ, 9:30 – 11:30."
     },
     {
      "en": "Walk into Herăstrău Park: playground, ice cream, the small passenger boat or two rowing boats on the lake.",
      "he": "הליכה לפארק הרשטרו: מגרש משחקים, גלידה, הסירה המסיירת הקטנה או שתי סירות משוטים באגם."
     },
     {
-     "en": "Back by taxi for a rest; last dinner out and packing.",
-     "he": "חוזרים במונית למנוחה; ארוחת ערב אחרונה בחוץ ואריזות."
+     "en": "Back by taxi for a rest; last dinner out and packing (the flight home is tomorrow evening, so no early start).",
+     "he": "חוזרים במונית למנוחה; ארוחת ערב אחרונה בחוץ ואריזות (הטיסה הביתה מחר בערב, אז בלי התחלה מוקדמת)."
     }
    ],
    "attractions": [
@@ -3867,25 +4259,30 @@
   },
   {
    "day": 10,
-   "date": "2027-08-23",
+   "date": "2027-08-28",
    "weekday": {
-    "en": "Mon",
-    "he": "ב'"
+    "en": "Sat",
+    "he": "ש'"
    },
    "title": {
-    "en": "Fly home",
-    "he": "טיסה הביתה"
+    "en": "Last morning in Bucharest, fly home in the evening",
+    "he": "בוקר אחרון בבוקרשט וטיסה הביתה בערב"
    },
    "trail": "green",
    "overnight": null,
    "plan": [
     {
      "en": "TAROM RO 155 departs 20:45 and lands in TLV at 23:20.",
-     "he": "טארום RO 155 ממריאה ב-20:45 ונוחתת בנתב\"ג ב-23:20."
+     "he": "טארום RO 155 ממריאה ב-20:45 ונוחתת בנתב\"ג ב-23:20.",
+     "flight": "back"
     },
     {
-     "en": "Self check-out, taxi to Henri Coandă Airport (25 min, about €20) about 3 hours before departure (morning traffic around Piața Victoriei and DN1 can be slow).",
-     "he": "צ'ק-אאוט עצמי, מונית לשדה התעופה הנרי קואנדה (25 דקות, כ-20 €) כשלוש שעות לפני ההמראה (תנועת הבוקר סביב כיכר ויקטוריה וב-DN1 יכולה להיות איטית)."
+     "en": "Slow morning and packing; check out by 11:00 and leave the bags with the host. A last easy outing near the apartment (Cișmigiu Gardens, a 7-minute walk: playground, lake) and an early lunch.",
+     "he": "בוקר איטי ואריזות; צ'ק-אאוט עד 11:00 ומשאירים את המזוודות אצל המארח. טיול קל אחרון ליד הדירה (גני צ'ישמיג'יו, 7 דקות הליכה: מגרש משחקים ואגם) וארוחת צהריים מוקדמת."
+    },
+    {
+     "en": "Collect the bags and take a taxi to Henri Coandă Airport (25 min, about €20) about 3 hours before departure (Saturday evening traffic towards the airport can be slow).",
+     "he": "אוספים את המזוודות ולוקחים מונית לשדה התעופה הנרי קואנדה (25 דקות, כ-20 €) כשלוש שעות לפני ההמראה (בשבת בערב התנועה לכיוון השדה יכולה להיות איטית)."
     }
    ],
    "attractions": [],
@@ -3994,18 +4391,18 @@
   }
  ],
  "routes_total": {
-  "km": 505.3,
-  "minutes": 596
+  "km": 502.9,
+  "minutes": 591
  },
  "budget": {
   "lines": [
    {
     "key": "flights",
-    "eur": 1261,
+    "eur": 1524,
     "status": "live",
     "label": {
-     "en": "Flights – Wizz Air W4 3252 + TAROM RO 155, 4 passengers",
-     "he": "טיסות – וויז אייר W4 3252 + טארום RO 155, 4 נוסעים"
+     "en": "Flights – Wizz Air W4 3254 + TAROM RO 155, 4 passengers",
+     "he": "טיסות – וויז אייר W4 3254 + טארום RO 155, 4 נוסעים"
     }
    },
    {
@@ -4067,8 +4464,8 @@
     "eur": 62,
     "status": "estimate",
     "label": {
-     "en": "Fuel – ≈ 505 km",
-     "he": "דלק – כ-505 ק\"מ"
+     "en": "Fuel – ≈ 503 km",
+     "he": "דלק – כ-503 ק\"מ"
     }
    },
    {
@@ -4082,7 +4479,7 @@
    },
    {
     "key": "hotels",
-    "eur": 1420.88,
+    "eur": 1241.1,
     "status": "live",
     "label": {
      "en": "Hotels – 2 stays, 9 nights, free cancellation",
@@ -4091,24 +4488,24 @@
    },
    {
     "key": "att",
-    "eur": 541,
+    "eur": 534,
     "status": "mixed",
     "label": {
-     "en": "Attractions & Bucharest public transport (2,897 RON)",
-     "he": "אטרקציות ותחבורה ציבורית בבוקרשט (2,897 RON)"
+     "en": "Attractions & Bucharest public transport (2,857 RON)",
+     "he": "אטרקציות ותחבורה ציבורית בבוקרשט (2,857 RON)"
     }
    }
   ],
-  "total_eur": 4024.88,
-  "live_part_eur": 2681.88,
-  "attractions_local": 2897,
-  "fuel_km": 505
+  "total_eur": 4101.1,
+  "live_part_eur": 2765.1,
+  "attractions_local": 2857,
+  "fuel_km": 503
  },
  "ui": {
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Romania v2 research · air-conditioning check 21 Oct 2026 · awaiting your approval",
+   "eyebrow": "Romania v3 research · prices checked 9 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -4174,7 +4571,7 @@
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Romania v2 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Romania v3 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Sinaia",
@@ -4201,7 +4598,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "רומניה גרסה 2 · בדיקת מיזוג אוויר 21.10.2026 · ממתין לאישורך",
+   "eyebrow": "רומניה גרסה 3 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -4267,7 +4664,7 @@
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "רומניה גרסה 2 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "רומניה גרסה 3 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "סינאיה",
@@ -4293,8 +4690,8 @@
   }
  },
  "approved": {
-  "version": "ro v2",
-  "approved_on": "2026-10-21",
+  "version": "ro v3",
+  "approved_on": "2026-11-09",
   "by": "traveller"
  },
  "map": {

@@ -25,11 +25,11 @@
  },
  "variant": "eve",
  "version": {
-  "id": "v1",
-  "date": "2026-10-21",
+  "id": "v2",
+  "date": "2026-11-09",
   "label": {
-   "en": "Georgia v1",
-   "he": "גאורגיה גרסה 1"
+   "en": "Georgia v2",
+   "he": "גאורגיה גרסה 2"
   }
  },
  "taxi_days": [
@@ -38,20 +38,24 @@
  "car_km": 424.8,
  "changes": [
   {
-   "en": "Dates Tue 17 – Thu 26 Aug 2027 (evening arrival, late drive to the base): the cheapest of 11 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,773).",
-   "he": "תאריכים ג' 17 – ה' 26 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס): הזול מבין 11 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-3,773 €)."
+   "en": "What changed in v2: flights and hotels were re-checked live on 9 Nov 2026 and the cheapest dates moved from Tue 17 – Thu 26 Aug to Sun 15 – Tue 24 Aug 2027 (Israir out, Aegean back at 04:35). The day order was rebuilt for the new weekdays (the ethnography museum only works on Sunday; Mtatsminda falls on a crowded Sunday evening).",
+   "he": "מה השתנה בגרסה 2: טיסות ומלונות נבדקו שוב חי ב-9.11.2026 והתאריכים הזולים ביותר עברו מ-ג' 17 – ה' 26 באוגוסט ל-א' 15 – ג' 24 באוגוסט 2027 (ישראייר הלוך, אגיאן חזור ב-04:35). סדר הימים נבנה מחדש לפי הימים החדשים בשבוע (מוזיאון האתנוגרפיה אפשרי רק ביום ראשון; מצטמינדה נופלת על ערב יום ראשון עמוס)."
   },
   {
-   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Israir Airlines 6H 893 19:40→23:15; back: Aegean A3 897 + A3 924 04:35→12:50.",
-   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: ישראייר 6H 893 19:40←23:15; חזור: אגיאן A3 897 + A3 924 04:35←12:50."
+   "en": "Dates Sun 15 – Tue 24 Aug 2027 (evening arrival, late drive to the base): the cheapest of 12 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,747).",
+   "he": "תאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס): הזול מבין 12 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-3,747 €)."
   },
   {
-   "en": "Next best: Sun 15 – Tue 24 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €3,785 (+€12); back Aegean 04:35→12:50.",
-   "he": "הבא בתור: א' 15 – ג' 24 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-3,785 € (+12 €); חזור אגיאן 04:35←12:50."
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Israir Airlines 6H 891 19:40→23:15; back: Aegean A3 897 + A3 924 04:35→12:50.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: ישראייר 6H 891 19:40←23:15; חזור: אגיאן A3 897 + A3 924 04:35←12:50."
   },
   {
-   "en": "Next best: Sun 15 – Tue 24 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €3,864 (+€91); back Aegean 04:35→12:50.",
-   "he": "הבא בתור: א' 15 – ג' 24 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-3,864 € (+91 €); חזור אגיאן 04:35←12:50."
+   "en": "Next best: Tue 17 – Thu 26 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €3,805 (+€58); back Aegean 04:35→12:50.",
+   "he": "הבא בתור: ג' 17 – ה' 26 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-3,805 € (+58 €); חזור אגיאן 04:35←12:50."
+  },
+  {
+   "en": "Next best: Wed 18 – Fri 27 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €3,822 (+€74); back Israir Airlines 02:05→03:45.",
+   "he": "הבא בתור: ד' 18 – ו' 27 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-3,822 € (+74 €); חזור ישראייר 02:05←03:45."
   },
   {
    "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
@@ -60,8 +64,8 @@
  ],
  "trip": {
   "dates": {
-   "start": "2027-08-17",
-   "end": "2027-08-26",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
    "days": 10,
    "nights": 9
   },
@@ -70,43 +74,502 @@
    "he": "טיול משפחתי בגאורגיה: טביליסי, פארק היער של בורג'ומי ואוויר הרים"
   },
   "lede": {
-   "en": "Tue 17 – Thu 26 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. Night 1 in an air-conditioned Tbilisi hotel, then a rental car for 4 days and 4 nights in cool, shady Borjomi (mineral-spring park with cable car and Ferris wheel, Bakuriani mountain lifts, Rabati Castle, Likani park), then 4 nights back in Tbilisi without a car (Narikala cable car, Mtatsminda amusement park, Mtskheta, open-air museum, Gino water park) (the flight home leaves at 04:35, so the last night is short: taxi at about 01:30) – every hotel has A/C and a pool or cool park nearby, because August in Tbilisi is hot (typically 33–36 °C). Israel's National Security Council currently advises against non-essential travel to Georgia – read the safety note before booking.",
-   "he": "שלישי 17 – חמישי 26 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה ראשון במלון ממוזג בטביליסי, אחר כך רכב שכור ל-4 ימים ו-4 לילות בבורג'ומי הקרירה והמוצלת (פארק מעיינות עם רכבל וגלגל ענק, מעליות ההר בבקוריאני, מבצר רבאטי, פארק ליקני), ואז 4 לילות חזרה בטביליסי בלי רכב (רכבל נריקלה, לונה פארק מצמינדה, מצחטה, מוזיאון פתוח, פארק המים ג'ינו) (הטיסה הביתה ב-04:35, ולכן הלילה האחרון קצר: מונית בסביבות 01:30) – בכל המלונות יש מיזוג ובריכה או פארק קריר בסביבה, כי אוגוסט בטביליסי חם (בדרך כלל 33–36 מעלות). המועצה לביטחון לאומי בישראל ממליצה כרגע להימנע מנסיעות לא חיוניות לגאורגיה – כדאי לקרוא את הערת הבטיחות לפני ההזמנה."
+   "en": "Sun 15 – Tue 24 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. Night 1 in an air-conditioned Tbilisi hotel, then a rental car for 4 days and 4 nights in cool, shady Borjomi (mineral-spring park with cable car and Ferris wheel, Bakuriani mountain lifts, Rabati Castle, Likani park), then 4 nights back in Tbilisi without a car (Narikala cable car, Mtatsminda amusement park, Mtskheta, open-air museum, Gino water park) (the flight home leaves at 04:35, so the last night is short: taxi at about 01:30) – every hotel has A/C and a pool or cool park nearby, because August in Tbilisi is hot (typically 33–36 °C). Israel's National Security Council currently advises against non-essential travel to Georgia – read the safety note before booking.",
+   "he": "ראשון 15 – שלישי 24 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה ראשון במלון ממוזג בטביליסי, אחר כך רכב שכור ל-4 ימים ו-4 לילות בבורג'ומי הקרירה והמוצלת (פארק מעיינות עם רכבל וגלגל ענק, מעליות ההר בבקוריאני, מבצר רבאטי, פארק ליקני), ואז 4 לילות חזרה בטביליסי בלי רכב (רכבל נריקלה, לונה פארק מצמינדה, מצחטה, מוזיאון פתוח, פארק המים ג'ינו) (הטיסה הביתה ב-04:35, ולכן הלילה האחרון קצר: מונית בסביבות 01:30) – בכל המלונות יש מיזוג ובריכה או פארק קריר בסביבה, כי אוגוסט בטביליסי חם (בדרך כלל 33–36 מעלות). המועצה לביטחון לאומי בישראל ממליצה כרגע להימנע מנסיעות לא חיוניות לגאורגיה – כדאי לקרוא את הערת הבטיחות לפני ההזמנה."
   }
  },
  "currency": "EUR",
  "local_per_eur": 3.03,
  "local_currency": "GEL",
  "flights": {
+  "choices": {
+   "out": [
+    {
+     "id": "6H 895@21:30",
+     "fn": "6H 895",
+     "airline": "Israir Airlines",
+     "airline_he": "ישראייר",
+     "dep": "21:30",
+     "arr": "01:05",
+     "duration": "2h 35m",
+     "stops": 0,
+     "via": "",
+     "next_day": true,
+     "price_eur": 815,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "A3 927 + A3 896@19:55",
+     "fn": "A3 927 + A3 896",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "19:55",
+     "arr": "03:45",
+     "duration": "6h 50m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 815,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "OS 82 + OS 907@18:40",
+     "fn": "OS 82 + OS 907",
+     "airline": "Austrian",
+     "airline_he": "אוסטריאן",
+     "dep": "18:40",
+     "arr": "03:55",
+     "duration": "8h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 868,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "6H 891@19:40",
+     "fn": "6H 891",
+     "airline": "Israir Airlines",
+     "airline_he": "ישראייר",
+     "dep": "19:40",
+     "arr": "23:15",
+     "duration": "2h 35m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 876,
+     "bags_eur": 160,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "LH 681 + LH 2558@17:05",
+     "fn": "LH 681 + LH 2558",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "17:05",
+     "arr": "03:55",
+     "duration": "9h 50m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 977,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 683 + LH 2558@07:00",
+     "fn": "LH 683 + LH 2558",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "07:00",
+     "arr": "03:55",
+     "duration": "19h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1100,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "3F 3874 + 3F 3583@10:40",
+     "fn": "3F 3874 + 3F 3583",
+     "airline": "FLYONE Armenia",
+     "airline_he": "FLYONE Armenia",
+     "dep": "10:40",
+     "arr": "17:40",
+     "duration": "6h",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1206,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "5F 5510 + 5F 5581@19:30",
+     "fn": "5F 5510 + 5F 5581",
+     "airline": "FLYONE",
+     "airline_he": "FLYONE",
+     "dep": "19:30",
+     "arr": "01:10",
+     "duration": "28h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1279,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "A3 929 + A3 896@05:00",
+     "fn": "A3 929 + A3 896",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "05:00",
+     "arr": "03:45",
+     "duration": "21h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1358,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "J2 270 + J2 409@14:40",
+     "fn": "J2 270 + J2 409",
+     "airline": "Azerbaijan Airlines",
+     "airline_he": "Azerbaijan Airlines",
+     "dep": "14:40",
+     "arr": "01:00",
+     "duration": "9h 20m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1370,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "J2 270 + J2 403@14:40",
+     "fn": "J2 270 + J2 403",
+     "airline": "Azerbaijan Airlines",
+     "airline_he": "Azerbaijan Airlines",
+     "dep": "14:40",
+     "arr": "20:20",
+     "duration": "28h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1418,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LY 5109@20:50",
+     "fn": "LY 5109",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "20:50",
+     "arr": "00:25",
+     "duration": "2h 35m",
+     "stops": 0,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1481,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "@05:30",
+     "fn": "",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "05:30",
+     "arr": "09:05",
+     "duration": "2h 35m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1481,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "@13:50",
+     "fn": "",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "13:50",
+     "arr": "03:45",
+     "duration": "12h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1491,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    }
+   ],
+   "back": [
+    {
+     "id": "A3 897 + A3 924@04:35",
+     "fn": "A3 897 + A3 924",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "04:35",
+     "arr": "12:50",
+     "duration": "9h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 794,
+     "bags_eur": 160,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "6H 898@00:20",
+     "fn": "6H 898",
+     "airline": "Israir Airlines",
+     "airline_he": "ישראייר",
+     "dep": "00:20",
+     "arr": "02:00",
+     "duration": "2h 40m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 940,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "A3 897 + A3 926@04:35",
+     "fn": "A3 897 + A3 926",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "04:35",
+     "arr": "19:00",
+     "duration": "15h 25m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 977,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "5F 5582 + 5F 5509@02:10",
+     "fn": "5F 5582 + 5F 5509",
+     "airline": "FLYONE",
+     "airline_he": "FLYONE",
+     "dep": "02:10",
+     "arr": "16:40",
+     "duration": "15h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1253,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "GQ 785 + GQ 720@03:45",
+     "fn": "GQ 785 + GQ 720",
+     "airline": "SKY express",
+     "airline_he": "SKY express",
+     "dep": "03:45",
+     "arr": "22:30",
+     "duration": "19h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1348,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "3F 3584 + 3F 3873@10:40",
+     "fn": "3F 3584 + 3F 3873",
+     "airline": "FLYONE Armenia",
+     "airline_he": "FLYONE Armenia",
+     "dep": "10:40",
+     "arr": "09:40",
+     "duration": "24h",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1440,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LY 5110@01:30",
+     "fn": "LY 5110",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "01:30",
+     "arr": "03:10",
+     "duration": "2h 40m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1507,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LY 5108@10:10",
+     "fn": "LY 5108",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "10:10",
+     "arr": "11:50",
+     "duration": "2h 40m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1507,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "A3 897 + A3 928@04:35",
+     "fn": "A3 897 + A3 928",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "04:35",
+     "arr": "02:45",
+     "duration": "23h 10m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1596,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "J2 410 + J2 269@02:00",
+     "fn": "J2 410 + J2 269",
+     "airline": "Azerbaijan Airlines",
+     "airline_he": "Azerbaijan Airlines",
+     "dep": "02:00",
+     "arr": "13:40",
+     "duration": "12h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 2360,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "J2 406 + J2 269@09:40",
+     "fn": "J2 406 + J2 269",
+     "airline": "Azerbaijan Airlines",
+     "airline_he": "Azerbaijan Airlines",
+     "dep": "09:40",
+     "arr": "11:55",
+     "duration": "27h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 2360,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "J2 402 + J2 269@11:40",
+     "fn": "J2 402 + J2 269",
+     "airline": "Azerbaijan Airlines",
+     "airline_he": "Azerbaijan Airlines",
+     "dep": "11:40",
+     "arr": "11:55",
+     "duration": "25h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 2360,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "J2 408 + J2 269@16:40",
+     "fn": "J2 408 + J2 269",
+     "airline": "Azerbaijan Airlines",
+     "airline_he": "Azerbaijan Airlines",
+     "dep": "16:40",
+     "arr": "11:55",
+     "duration": "20h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 2360,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "J2 404 + J2 269@21:20",
+     "fn": "J2 404 + J2 269",
+     "airline": "Azerbaijan Airlines",
+     "airline_he": "Azerbaijan Airlines",
+     "dep": "21:20",
+     "arr": "11:55",
+     "duration": "15h 35m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 2360,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    }
+   ],
+   "variant": "eve",
+   "note": {
+    "en": "Default = the cheapest flight that fits the plan (flights + bags). Pick another one to see the total change; the day-by-day text keeps the chosen plan's timing.",
+    "he": "ברירת המחדל = הטיסה הזולה ביותר שמתאימה לתוכנית (טיסה + כבודה). בחירה בטיסה אחרת משנה את הסכום הכולל; הטקסט היומי נשאר לפי התוכנית שנבחרה."
+   }
+  },
   "chosen": [
    {
     "dir": {
      "en": "Outbound",
      "he": "הלוך"
     },
-    "date": "2027-08-17",
+    "date": "2027-08-15",
     "wd": {
-     "en": "Tue",
-     "he": "ג'"
+     "en": "Sun",
+     "he": "א'"
     },
-    "flight": "6H 893",
+    "flight": "6H 891",
     "airline": "Israir Airlines",
     "from": "TLV",
     "to": "TBS",
     "dep": "19:40",
     "arr": "23:15",
     "duration": "2h 35m",
-    "price_eur": 958
+    "price_eur": 876
    },
    {
     "dir": {
      "en": "Return",
      "he": "חזור"
     },
-    "date": "2027-08-26",
+    "date": "2027-08-24",
     "wd": {
-     "en": "Thu",
-     "he": "ה'"
+     "en": "Tue",
+     "he": "ג'"
     },
     "flight": "A3 897 + A3 924",
     "airline": "Aegean",
@@ -115,20 +578,20 @@
     "dep": "04:35",
     "arr": "12:50",
     "duration": "9h 15m",
-    "price_eur": 787
+    "price_eur": 794
    }
   ],
   "evening_outbound_options": [
    {
     "what": {
-     "en": "Israir Airlines 6H 893 · 19:40 → 23:15 · nonstop",
-     "he": "ישראייר 6H 893 · 19:40 → 23:15 · ישירה"
+     "en": "Israir Airlines 6H 891 · 19:40 → 23:15 · nonstop",
+     "he": "ישראייר 6H 891 · 19:40 → 23:15 · ישירה"
     },
     "when": {
-     "en": "Tue 17 Aug",
-     "he": "ג' 17 באוגוסט"
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
     },
-    "price_eur": 958,
+    "price_eur": 876,
     "note": {
      "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
      "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
@@ -137,17 +600,17 @@
    },
    {
     "what": {
-     "en": "El Al LY 5107 · 05:30 → 09:05 · nonstop",
-     "he": "אל על LY 5107 · 05:30 → 09:05 · ישירה"
+     "en": "Israir Airlines 6H 895 · 21:30 → 01:05 (+1) · nonstop",
+     "he": "ישראייר 6H 895 · 21:30 → 01:05 (+1) · ישירה"
     },
     "when": {
-     "en": "Tue 17 Aug",
-     "he": "ג' 17 באוגוסט"
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
     },
-    "price_eur": 1548,
+    "price_eur": 815,
     "note": {
-     "en": "€590 more.",
-     "he": "יקרה ב-590 €."
+     "en": "€61 cheaper; arrives the next day.",
+     "he": "זולה ב-61 €; נוחתת למחרת."
     },
     "best": false
    },
@@ -157,29 +620,29 @@
      "he": "אל על LY 5109 · 20:50 → 00:25 (+1) · ישירה"
     },
     "when": {
-     "en": "Tue 17 Aug",
-     "he": "ג' 17 באוגוסט"
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
     },
-    "price_eur": 1548,
+    "price_eur": 1481,
     "note": {
-     "en": "€590 more; arrives the next day.",
-     "he": "יקרה ב-590 €; נוחתת למחרת."
+     "en": "€605 more; arrives the next day.",
+     "he": "יקרה ב-605 €; נוחתת למחרת."
     },
     "best": false
    },
    {
     "what": {
-     "en": "SWISS and Edelweiss Air LX 253 + WK 170 · 18:15 → 05:00 (+1) · 1 stop ",
-     "he": "SWISS and Edelweiss Air LX 253 + WK 170 · 18:15 → 05:00 (+1) · עצירה ב"
+     "en": "El Al  · 05:30 → 09:05 · nonstop",
+     "he": "אל על  · 05:30 → 09:05 · ישירה"
     },
     "when": {
-     "en": "Tue 17 Aug",
-     "he": "ג' 17 באוגוסט"
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
     },
-    "price_eur": 699,
+    "price_eur": 1481,
     "note": {
-     "en": "€259 cheaper; 9 hr 45 min with a connection; arrives the next day.",
-     "he": "זולה ב-259 €; 9 שע׳ 45 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€605 more.",
+     "he": "יקרה ב-605 €."
     },
     "best": false
    },
@@ -189,13 +652,29 @@
      "he": "אגיאן A3 927 + A3 896 · 19:55 → 03:45 (+1) · עצירה ב"
     },
     "when": {
-     "en": "Tue 17 Aug",
-     "he": "ג' 17 באוגוסט"
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
     },
-    "price_eur": 812,
+    "price_eur": 815,
     "note": {
-     "en": "€146 cheaper; 6 hr 50 min with a connection; arrives the next day.",
-     "he": "זולה ב-146 €; 6 שע׳ 50 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€61 cheaper; 6 hr 50 min with a connection; arrives the next day.",
+     "he": "זולה ב-61 €; 6 שע׳ 50 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Austrian OS 82 + OS 907 · 18:40 → 03:55 (+1) · 1 stop ",
+     "he": "אוסטריאן OS 82 + OS 907 · 18:40 → 03:55 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
+    },
+    "price_eur": 868,
+    "note": {
+     "en": "€8 cheaper; 8 hr 15 min with a connection; arrives the next day.",
+     "he": "זולה ב-8 €; 8 שע׳ 15 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    }
@@ -207,10 +686,10 @@
      "he": "אגיאן A3 897 + A3 924 · 04:35 → 12:50 · עצירה ב"
     },
     "when": {
-     "en": "Thu 26 Aug",
-     "he": "ה' 26 באוגוסט"
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 787,
+    "price_eur": 794,
     "note": {
      "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
      "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
@@ -219,17 +698,33 @@
    },
    {
     "what": {
+     "en": "Israir Airlines 6H 898 · 00:20 → 02:00 · nonstop",
+     "he": "ישראייר 6H 898 · 00:20 → 02:00 · ישירה"
+    },
+    "when": {
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
+    },
+    "price_eur": 940,
+    "note": {
+     "en": "€146 more.",
+     "he": "יקרה ב-146 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
      "en": "El Al LY 5110 · 01:30 → 03:10 · nonstop",
      "he": "אל על LY 5110 · 01:30 → 03:10 · ישירה"
     },
     "when": {
-     "en": "Thu 26 Aug",
-     "he": "ה' 26 באוגוסט"
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 1670,
+    "price_eur": 1507,
     "note": {
-     "en": "€883 more.",
-     "he": "יקרה ב-883 €."
+     "en": "€713 more.",
+     "he": "יקרה ב-713 €."
     },
     "best": false
    },
@@ -239,29 +734,45 @@
      "he": "אל על LY 5108 · 10:10 → 11:50 · ישירה"
     },
     "when": {
-     "en": "Thu 26 Aug",
-     "he": "ה' 26 באוגוסט"
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 1670,
+    "price_eur": 1507,
     "note": {
-     "en": "€883 more.",
-     "he": "יקרה ב-883 €."
+     "en": "€713 more.",
+     "he": "יקרה ב-713 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Aegean  · 04:35 → 19:00 · 1 stop ",
-     "he": "אגיאן  · 04:35 → 19:00 · עצירה ב"
+     "en": "Aegean A3 897 + A3 926 · 04:35 → 19:00 · 1 stop ",
+     "he": "אגיאן A3 897 + A3 926 · 04:35 → 19:00 · עצירה ב"
     },
     "when": {
-     "en": "Thu 26 Aug",
-     "he": "ה' 26 באוגוסט"
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 1165,
+    "price_eur": 977,
     "note": {
-     "en": "€378 more; 15 hr 25 min with a connection.",
-     "he": "יקרה ב-378 €; 15 שע׳ 25 דק׳ עם קונקשן."
+     "en": "€183 more; 15 hr 25 min with a connection.",
+     "he": "יקרה ב-183 €; 15 שע׳ 25 דק׳ עם קונקשן."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "FLYONE 5F 5582 + 5F 5509 · 02:10 → 16:40 · 1 stop ",
+     "he": "FLYONE 5F 5582 + 5F 5509 · 02:10 → 16:40 · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
+    },
+    "price_eur": 1253,
+    "note": {
+     "en": "€459 more; 15 hr 30 min with a connection.",
+     "he": "יקרה ב-459 €; 15 שע׳ 30 דק׳ עם קונקשן."
     },
     "best": false
    }
@@ -278,37 +789,12 @@
  },
  "date_options": [
   {
-   "total_eur": 3773.08,
-   "plan": "eve",
-   "start": "2027-08-17",
-   "end": "2027-08-26",
-   "out": {
-    "eur": 958,
-    "bags_eur": 160,
-    "airline": "Israir Airlines",
-    "flight": "6H 893",
-    "dep": "19:40",
-    "arr": "23:15"
-   },
-   "back": {
-    "eur": 787,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 897 + A3 924",
-    "dep": "04:35",
-    "arr": "12:50"
-   },
-   "hotels_eur": 1388.08,
-   "car_eur": 320,
-   "chosen": true
-  },
-  {
-   "total_eur": 3785.43,
+   "total_eur": 3747.13,
    "plan": "eve",
    "start": "2027-08-15",
    "end": "2027-08-24",
    "out": {
-    "eur": 941,
+    "eur": 876,
     "bags_eur": 160,
     "airline": "Israir Airlines",
     "flight": "6H 891",
@@ -316,49 +802,74 @@
     "arr": "23:15"
    },
    "back": {
-    "eur": 787,
+    "eur": 794,
     "bags_eur": 160,
     "airline": "Aegean",
     "flight": "A3 897 + A3 924",
     "dep": "04:35",
     "arr": "12:50"
    },
-   "hotels_eur": 1417.43,
+   "hotels_eur": 1437.13,
    "car_eur": 320,
-   "chosen": false
+   "chosen": true
   },
   {
-   "total_eur": 3864.43,
-   "plan": "day",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
+   "total_eur": 3805.32,
+   "plan": "eve",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
    "out": {
-    "eur": 1020,
+    "eur": 962,
     "bags_eur": 160,
-    "airline": "Arkia",
-    "flight": "IZ 417",
-    "dep": "05:55",
-    "arr": "09:30"
+    "airline": "Israir Airlines",
+    "flight": "6H 893",
+    "dep": "19:40",
+    "arr": "23:15"
    },
    "back": {
-    "eur": 787,
+    "eur": 794,
     "bags_eur": 160,
     "airline": "Aegean",
     "flight": "A3 897 + A3 924",
     "dep": "04:35",
     "arr": "12:50"
    },
-   "hotels_eur": 1417.43,
+   "hotels_eur": 1409.32,
    "car_eur": 320,
    "chosen": false
   },
   {
-   "total_eur": 3883.98,
+   "total_eur": 3821.55,
+   "plan": "eve",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 912,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 891",
+    "dep": "19:40",
+    "arr": "23:15"
+   },
+   "back": {
+    "eur": 862,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 896",
+    "dep": "02:05",
+    "arr": "03:45"
+   },
+   "hotels_eur": 1407.55,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 3860.35,
    "plan": "eve",
    "start": "2027-08-16",
    "end": "2027-08-25",
    "out": {
-    "eur": 877,
+    "eur": 944,
     "bags_eur": 160,
     "airline": "Israir Airlines",
     "flight": "6H 897",
@@ -366,24 +877,24 @@
     "arr": "23:15"
    },
    "back": {
-    "eur": 970,
+    "eur": 858,
     "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 897 + A3 926",
-    "dep": "04:35",
-    "arr": "19:00"
+    "airline": "Israir Airlines",
+    "flight": "6H 894",
+    "dep": "00:20",
+    "arr": "02:00"
    },
-   "hotels_eur": 1396.98,
+   "hotels_eur": 1418.35,
    "car_eur": 320,
    "chosen": false
   },
   {
-   "total_eur": 4232.87,
+   "total_eur": 4111.25,
    "plan": "eve",
    "start": "2027-08-20",
    "end": "2027-08-29",
    "out": {
-    "eur": 1233,
+    "eur": 1238,
     "bags_eur": 160,
     "airline": "Lufthansa",
     "flight": "LH 683 + LH 2696",
@@ -391,24 +902,49 @@
     "arr": "17:10"
    },
    "back": {
-    "eur": 970,
+    "eur": 822,
     "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 897 + A3 924",
-    "dep": "04:35",
-    "arr": "12:50"
+    "airline": "Israir Airlines",
+    "flight": "6H 894",
+    "dep": "03:35",
+    "arr": "05:15"
    },
-   "hotels_eur": 1389.87,
+   "hotels_eur": 1411.25,
    "car_eur": 320,
    "chosen": false
   },
   {
-   "total_eur": 4363.08,
+   "total_eur": 4205.32,
+   "plan": "eve",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 833,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 891",
+    "dep": "19:40",
+    "arr": "23:15"
+   },
+   "back": {
+    "eur": 1322,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 928",
+    "dep": "04:35",
+    "arr": "02:45"
+   },
+   "hotels_eur": 1410.32,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 4303.08,
    "plan": "day",
    "start": "2027-08-17",
    "end": "2027-08-26",
    "out": {
-    "eur": 1548,
+    "eur": 1481,
     "bags_eur": 160,
     "airline": "El Al",
     "flight": "LY 5107",
@@ -416,7 +952,7 @@
     "arr": "09:05"
    },
    "back": {
-    "eur": 787,
+    "eur": 794,
     "bags_eur": 160,
     "airline": "Aegean",
     "flight": "A3 897 + A3 924",
@@ -428,62 +964,12 @@
    "chosen": false
   },
   {
-   "total_eur": 4363.31,
-   "plan": "eve",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 1367,
-    "bags_eur": 160,
-    "airline": "Azerbaijan Airlines",
-    "flight": "J2 270 + J2 403",
-    "dep": "13:10",
-    "arr": "20:20"
-   },
-   "back": {
-    "eur": 970,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 897 + A3 924",
-    "dep": "04:35",
-    "arr": "12:50"
-   },
-   "hotels_eur": 1386.31,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 4544.31,
-   "plan": "day",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 1548,
-    "bags_eur": 160,
-    "airline": "El Al",
-    "flight": "LY 5107",
-    "dep": "05:30",
-    "arr": "09:05"
-   },
-   "back": {
-    "eur": 970,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 897 + A3 924",
-    "dep": "04:35",
-    "arr": "12:50"
-   },
-   "hotels_eur": 1386.31,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 4547.87,
+   "total_eur": 4332.87,
    "plan": "day",
    "start": "2027-08-20",
    "end": "2027-08-29",
    "out": {
-    "eur": 1548,
+    "eur": 1481,
     "bags_eur": 160,
     "airline": "El Al",
     "flight": "LY 5107",
@@ -491,24 +977,24 @@
     "arr": "09:05"
    },
    "back": {
-    "eur": 970,
+    "eur": 822,
     "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 897 + A3 924",
-    "dep": "04:35",
-    "arr": "12:50"
+    "airline": "Israir Airlines",
+    "flight": "6H 894",
+    "dep": "03:35",
+    "arr": "05:15"
    },
    "hotels_eur": 1389.87,
    "car_eur": 320,
    "chosen": false
   },
   {
-   "total_eur": 4555.98,
+   "total_eur": 4352.13,
    "plan": "day",
-   "start": "2027-08-16",
-   "end": "2027-08-25",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
    "out": {
-    "eur": 1549,
+    "eur": 1481,
     "bags_eur": 160,
     "airline": "El Al",
     "flight": "",
@@ -516,24 +1002,24 @@
     "arr": "09:05"
    },
    "back": {
-    "eur": 970,
+    "eur": 794,
     "bags_eur": 160,
     "airline": "Aegean",
-    "flight": "A3 897 + A3 926",
+    "flight": "A3 897 + A3 924",
     "dep": "04:35",
-    "arr": "19:00"
+    "arr": "12:50"
    },
-   "hotels_eur": 1396.98,
+   "hotels_eur": 1437.13,
    "car_eur": 320,
    "chosen": false
   },
   {
-   "total_eur": 5991.98,
+   "total_eur": 4369.31,
    "plan": "day",
-   "start": "2027-08-19",
-   "end": "2027-08-28",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
    "out": {
-    "eur": 1548,
+    "eur": 1481,
     "bags_eur": 160,
     "airline": "El Al",
     "flight": "LY 5107",
@@ -541,12 +1027,62 @@
     "arr": "09:05"
    },
    "back": {
-    "eur": 2415,
+    "eur": 862,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 896",
+    "dep": "02:05",
+    "arr": "03:45"
+   },
+   "hotels_eur": 1386.31,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 4375.98,
+   "plan": "day",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 1481,
+    "bags_eur": 160,
+    "airline": "El Al",
+    "flight": "LY 5107",
+    "dep": "05:30",
+    "arr": "09:05"
+   },
+   "back": {
+    "eur": 858,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 894",
+    "dep": "00:20",
+    "arr": "02:00"
+   },
+   "hotels_eur": 1396.98,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 4831.98,
+   "plan": "day",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 1481,
+    "bags_eur": 160,
+    "airline": "El Al",
+    "flight": "LY 5107",
+    "dep": "05:30",
+    "arr": "09:05"
+   },
+   "back": {
+    "eur": 1322,
     "bags_eur": 160,
     "airline": "Aegean",
-    "flight": "A3 897 + A3 926",
+    "flight": "A3 897 + A3 928",
     "dep": "04:35",
-    "arr": "19:00"
+    "arr": "02:45"
    },
    "hotels_eur": 1388.98,
    "car_eur": 320,
@@ -639,8 +1175,8 @@
   "lines": [
    [
     {
-     "en": "Compact SUV/estate, automatic, full insurance (CDW), 4 days (≈ €70/day all-in), Wed 18 – Sun 22 Aug",
-     "he": "קרוסאובר/סטיישן קומפקטי אוטומטי, ביטוח מלא (CDW), 4 ימים (כ-70 € ליום הכול כלול), ד' 18 – א' 22 באוגוסט"
+     "en": "Compact SUV/estate, automatic, full insurance (CDW), 4 days (≈ €70/day all-in), Mon 16 – Fri 20 Aug",
+     "he": "קרוסאובר/סטיישן קומפקטי אוטומטי, ביטוח מלא (CDW), 4 ימים (כ-70 € ליום הכול כלול), ב' 16 – ו' 20 באוגוסט"
     },
     280,
     true
@@ -687,21 +1223,21 @@
    ]
   ],
   "text": {
-   "en": "Pick-up at the Ramada Old City (delivery) on Wed 18 Aug about 09:30 and return there on Sun 22 Aug about 14:30 = 4 rental days. Rental or driver? A car is worth it for Borjomi (parks, Bakuriani, Rabati and Likani are 5–50 km apart, public transport is thin) – roughly €280 for 4 days against about €80–100 for a one-way private driver (estimate, unverified) plus local taxis; Georgian drivers can be fast and chaotic, so if you prefer not to drive, take a driver for Tbilisi–Borjomi and Borjomi–Tbilisi and use Bolt locally. PRICES ARE ESTIMATES: a 2026 Tbilisi guide quotes economy cars at ₾120–150 a day in June–August (₾80–100 off-season), SUVs for the mountains at ₾280–400, collision cover ₾30–60 a day on top and a deposit hold of ₾500–1,500; I assumed ≈ €70/day all-in for a compact SUV or estate (≈ ₾210). Child seats are an add-on at Localrent, Go Drive and Naniko (price not found). A Georgian rental quote for August 2027 was not available.",
-   "he": "איסוף ברמדה העיר העתיקה (משלוח) ביום ד' 18 באוגוסט בסביבות 09:30 והחזרה שם ביום א' 22 באוגוסט בסביבות 14:30 = 4 ימי השכרה. רכב או נהג? רכב משתלם בבורג'ומי (הפארקים, בקוריאני, רבאטי וליקני במרחק 5–50 ק\"מ, והתחבורה הציבורית דלילה) – בערך 280 € ל-4 ימים לעומת כ-80–100 € לנהג פרטי לכיוון אחד (הערכה, לא אומת) ועוד מוניות מקומיות; נהגים בגאורגיה יכולים להיות מהירים וכאוטיים, ולכן אם אתם מעדיפים לא לנהוג – נהג לנסיעות טביליסי–בורג'ומי ובחזרה, ו-Bolt מקומית. המחירים הם הערכה: מדריך טביליסי מ-2026 מציין מכוניות אקונומי ב-120–150 לארי ליום ביוני–אוגוסט (80–100 מחוץ לעונה), רכבי שטח להרים ב-280–400 לארי, כיסוי נזק של 30–60 לארי ליום בנוסף ותפיסת ערבון של 500–1,500 לארי; הנחתי כ-70 € ליום הכול כלול לקרוסאובר או סטיישן קומפקטי (כ-210 לארי). מושבי ילדים הם תוספת ב-Localrent, Go Drive ו-Naniko (מחיר לא נמצא). הצעת מחיר לאוגוסט 2027 מחברת השכרה בגאורגיה לא הייתה זמינה."
+   "en": "Pick-up at the Ramada Old City (delivery) on Mon 16 Aug about 09:30 and return there on Fri 20 Aug about 14:30 = 4 rental days. Rental or driver? A car is worth it for Borjomi (parks, Bakuriani, Rabati and Likani are 5–50 km apart, public transport is thin) – roughly €280 for 4 days against about €80–100 for a one-way private driver (estimate, unverified) plus local taxis; Georgian drivers can be fast and chaotic, so if you prefer not to drive, take a driver for Tbilisi–Borjomi and Borjomi–Tbilisi and use Bolt locally. PRICES ARE ESTIMATES: a 2026 Tbilisi guide quotes economy cars at ₾120–150 a day in June–August (₾80–100 off-season), SUVs for the mountains at ₾280–400, collision cover ₾30–60 a day on top and a deposit hold of ₾500–1,500; I assumed ≈ €70/day all-in for a compact SUV or estate (≈ ₾210). Child seats are an add-on at Localrent, Go Drive and Naniko (price not found). A Georgian rental quote for August 2027 was not available.",
+   "he": "איסוף ברמדה העיר העתיקה (משלוח) ביום ב' 16 באוגוסט בסביבות 09:30 והחזרה שם ביום ו' 20 באוגוסט בסביבות 14:30 = 4 ימי השכרה. רכב או נהג? רכב משתלם בבורג'ומי (הפארקים, בקוריאני, רבאטי וליקני במרחק 5–50 ק\"מ, והתחבורה הציבורית דלילה) – בערך 280 € ל-4 ימים לעומת כ-80–100 € לנהג פרטי לכיוון אחד (הערכה, לא אומת) ועוד מוניות מקומיות; נהגים בגאורגיה יכולים להיות מהירים וכאוטיים, ולכן אם אתם מעדיפים לא לנהוג – נהג לנסיעות טביליסי–בורג'ומי ובחזרה, ו-Bolt מקומית. המחירים הם הערכה: מדריך טביליסי מ-2026 מציין מכוניות אקונומי ב-120–150 לארי ליום ביוני–אוגוסט (80–100 מחוץ לעונה), רכבי שטח להרים ב-280–400 לארי, כיסוי נזק של 30–60 לארי ליום בנוסף ותפיסת ערבון של 500–1,500 לארי; הנחתי כ-70 € ליום הכול כלול לקרוסאובר או סטיישן קומפקטי (כ-210 לארי). מושבי ילדים הם תוספת ב-Localrent, Go Drive ו-Naniko (מחיר לא נמצא). הצעת מחיר לאוגוסט 2027 מחברת השכרה בגאורגיה לא הייתה זמינה."
   },
   "pickup": {
    "place": "Tbilisi Shota Rustaveli International Airport",
    "lat": 41.6692,
    "lng": 44.9547,
-   "when": "2027-08-17T00:05",
+   "when": "2027-08-16T10:00",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.669200,44.954700&travelmode=driving"
   },
   "dropoff": {
    "place": "Tbilisi Shota Rustaveli International Airport",
    "lat": 41.6692,
    "lng": 44.9547,
-   "when": "2027-08-22T12:00",
+   "when": "2027-08-20T12:00",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.669200,44.954700&travelmode=driving"
   }
  },
@@ -740,24 +1276,24 @@
     "en": "Tbilisi, Avlabari, 14 Aleksandre Tsurtsumia St (above the Old Town, ≈ 1.5 km / 4 min by taxi to Rike Park and the cable car; 15 km / 20 min from TBS)",
     "he": "טביליסי, אבלבארי, רחוב אלכסנדר צורצומיה 14 (מעל העיר העתיקה, כ-1.5 ק\"מ / 4 דקות במונית לפארק ריקה ולרכבל; 15 ק\"מ / 20 דקות משדה התעופה TBS)"
    },
-   "checkin": "2027-08-17",
-   "checkout": "2027-08-18",
+   "checkin": "2027-08-15",
+   "checkout": "2027-08-16",
    "nights": 1,
-   "total_eur": 151.17,
+   "total_eur": 161.49,
    "booking_score": 8.4,
-   "booking_reviews": 2105,
-   "booking_url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_reviews": 2086,
+   "booking_url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-15&checkout=2027-08-16&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
-    "en": "Family room for 4 (king bed + two twin beds), fridge, free parking, 24-hour front desk, kid-friendly buffet; free cancellation. Arrival night only: tell the front desk your landing time (24-hour desk) and ask for a quiet room; next morning you carry all the bags to the rental car for Borjomi.",
-    "he": "חדר משפחה ל-4 (מיטת קינג + שתי מיטות יחיד), מקרר, חניה חינם, דלפק קבלה 24 שעות, ארוחת בוקר ידידותית לילדים; ביטול חינם. לילה אחד אחרי הנחיתה בלבד: לעדכן את הקבלה (פתוחה 24 שעות) בשעת הנחיתה ולבקש חדר שקט; למחרת לוקחים את כל המזוודות לרכב השכור לבורג'ומי."
+    "en": "Family room for 4 (king bed + two twin beds), fridge, free parking, 24-hour front desk, kid-friendly buffet; free cancellation. Arrival night only: tell the front desk your landing time (24-hour desk) and ask for a quiet room; next morning (Mon 16 Aug) the rental car is delivered here and you load all the bags for Borjomi. You land at 23:15 on Sun 15 Aug and reach the hotel about 00:15: tell the front desk (24-hour) your landing time.",
+    "he": "חדר משפחה ל-4 (מיטת קינג + שתי מיטות יחיד), מקרר, חניה חינם, דלפק קבלה 24 שעות, ארוחת בוקר ידידותית לילדים; ביטול חינם. לילה אחד אחרי הנחיתה בלבד: לעדכן את הקבלה (פתוחה 24 שעות) בשעת הנחיתה ולבקש חדר שקט; למחרת בבוקר (יום ב' 16 באוגוסט) הרכב השכור מגיע לכאן וטוענים את כל המזוודות לבורג'ומי. נוחתים ב-23:15 ביום א' 15 באוגוסט ומגיעים למלון בסביבות 00:15: לעדכן את הקבלה (פתוחה 24 שעות) בשעת הנחיתה."
    },
    "ac": {
     "en": "Air conditioning confirmed (Booking facility list with the A/C filter, and Booking property Q&A, 21 Oct 2026): the family room (king bed + two twin beds) is air-conditioned and the A/C is free of charge; each room has a fridge. Indoor pool (all year) and outdoor pool (seasonal; Booking says open in August, children allowed with an adult) – the pools are the daytime heat relief.",
     "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking עם מסנן המיזוג, ושאלות ותשובות על הנכס, 21.10.2026): חדר המשפחה (מיטת קינג + שתי מיטות יחיד) ממוזג והמיזוג חינם; בכל חדר מקרר. בריכה מקורה (כל השנה) ובריכה חיצונית (עונתית; לפי Booking פתוחה באוגוסט, ילדים מותרים עם מבוגר) – הבריכות הן ההקלה מהחום ביום."
    },
    "alt": {
-    "en": "Alternatives for Tbilisi (Booking, live, 19–23 Aug, 4 nights, free cancellation, A/C in the facility list; family room A/C confirmed free by Booking Q&A): Kindli Boutique Hotel €494.98 (9.0, 987 reviews; 3★, shared kitchen, near Rustaveli, no pool). ibis Styles Tbilisi Center €665.15 (8.8, 1,490 reviews; Sololaki, indoor play area, no pool). Iris Hotel €761.83 (9.1, 1,171 reviews; Avlabari, indoor pool open to children, two connected rooms for a family). Night-1 prices for these were not checked. (Alternative prices were checked for 19–23 Aug; other dates may differ.)",
-    "he": "חלופות בטביליסי (Booking, חי, 19–23 באוגוסט, 4 לילות, ביטול חינם, מיזוג ברשימת המתקנים; מיזוג בחדר משפחה אושר כחינם בשאלות ותשובות של Booking): Kindli Boutique Hotel ב-494.98 € (9.0, 987 ביקורות; 3 כוכבים, מטבח משותף, ליד רוסתאווילי, בלי בריכה). ibis Styles Tbilisi Center ב-665.15 € (8.8, 1,490 ביקורות; סולולאקי, פינת משחקים מקורה, בלי בריכה). Iris Hotel ב-761.83 € (9.1, 1,171 ביקורות; אבלבארי, בריכה מקורה פתוחה לילדים, שני חדרים מחוברים למשפחה). מחירי לילה ראשון לחלופות לא נבדקו. (מחירי החלופות נבדקו ל-19–23 באוגוסט; בתאריכים אחרים ייתכן הבדל.)"
+    "en": "Alternatives for night 1 in Tbilisi (Booking, live 9 Nov 2026, 15–16 Aug, 1 night, free cancellation, A/C): Kindli Boutique Hotel €126.93 (9.0, 984 reviews; 3★, shared kitchen, no pool). ibis Styles Tbilisi Center €178.54 (8.8, 1,494 reviews; Sololaki, indoor play area, no pool). Iris Hotel €192.07 (9.1, 1,198 reviews; Avlabari, indoor pool). Booking Q&A confirmed free family-room A/C for all three. (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
+    "he": "חלופות ללילה הראשון בטביליסי (Booking, חי ב-9.11.2026, 15–16 באוגוסט, לילה אחד, ביטול חינם, מיזוג): Kindli Boutique Hotel ב-126.93 € (9.0, 984 ביקורות; 3 כוכבים, מטבח משותף, בלי בריכה). ibis Styles Tbilisi Center ב-178.54 € (8.8, 1,494 ביקורות; סולולאקי, פינת משחקים מקורה, בלי בריכה). Iris Hotel ב-192.07 € (9.1, 1,198 ביקורות; אבלאבארי, בריכה מקורה). שאלות ותשובות ב-Booking אישרו מיזוג חינם בחדר משפחה בשלושתם. (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
    },
    "google_note": {
     "en": "Google: 4.0 from 1,057 reviews; Booking.com 8.4 from 2,105 reviews (the lowest score of the options, chosen for the two pools and the walking distance to the Old Town).",
@@ -791,14 +1327,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 151.17,
+   "price_per_night_eur": 161.49,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 8.4,
      "out_of": 10,
-     "reviews": 2105,
-     "url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 2086,
+     "url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-15&checkout=2027-08-16&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -817,13 +1353,13 @@
     "en": "Borjomi, Rustaveli St 107 E (town centre, short walk / 2.6 km by car to Borjomi Central Park; 159 km / 2h14 from Tbilisi)",
     "he": "בורג'ומי, רחוב רוסתאווילי 107 E (מרכז העיירה, הליכה קצרה / 2.6 ק\"מ ברכב לפארק המרכזי של בורג'ומי; 159 ק\"מ / 2:14 שעות מטביליסי)"
    },
-   "checkin": "2027-08-18",
-   "checkout": "2027-08-22",
+   "checkin": "2027-08-16",
+   "checkout": "2027-08-20",
    "nights": 4,
-   "total_eur": 653.57,
+   "total_eur": 660.17,
    "booking_score": 9.7,
-   "booking_reviews": 533,
-   "booking_url": "https://www.booking.com/hotel/ge/steeltower-borjomi.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_reviews": 568,
+   "booking_url": "https://www.booking.com/hotel/ge/steeltower-borjomi.html?checkin=2027-08-16&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Quadruple room (one king bed + two sofa beds; mountain view or balcony), fridge in the room, free private parking, lift, kid-friendly buffet and kids' meals, board games and badminton equipment; free cancellation. No pool: the cool forest air and the mineral-spring park are the heat answer; for a pool see the Borjomi Palace alternative.",
     "he": "חדר ל-4 (מיטת קינג + שתי ספות נפתחות; נוף להרים או מרפסת), מקרר בחדר, חניה פרטית חינם, מעלית, ארוחת בוקר ותפריט ילדים, משחקי קופסה וציוד בדמינטון; ביטול חינם. אין בריכה: האוויר הקריר של היער ופארק המעיינות הם התשובה לחום; לבריכה – החלופה Borjomi Palace."
@@ -833,8 +1369,8 @@
     "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking עם מסנן המיזוג, ושאלות ותשובות על הנכס, 21.10.2026): חדר המשפחה / החדר ל-4 ממוזג והמיזוג כלול בלי תוספת. בבורג'ומי קריר יותר מבטביליסי, ולכן המיזוג בעיקר למנוחת אחר הצהריים."
    },
    "alt": {
-    "en": "Alternatives in Borjomi (Booking, live, 15–19 Aug, 4 nights, free cancellation, A/C in the facility list): Polifonia Inn Borjomi €479.56 (9.4, 1,135 reviews; guest house, family room with king + bunk bed, A/C confirmed, shared kitchen, no pool). Borjomi Bridge Hotel €576.50 (9.2, 1,395 reviews; family room A/C confirmed, no pool). Borjomi Palace Health & Spa €858.07 (8.1, 335 reviews; A/C confirmed free, outdoor pool (open in August) + indoor pool, kids' outdoor play equipment – the pool option). (Alternative prices were checked for 15–19 Aug; other dates may differ.)",
-    "he": "חלופות בבורג'ומי (Booking, חי, 15–19 באוגוסט, 4 לילות, ביטול חינם, מיזוג ברשימת המתקנים): Polifonia Inn Borjomi ב-479.56 € (9.4, 1,135 ביקורות; בית הארחה, חדר משפחה עם מיטת קינג + מיטת קומותיים, מיזוג מאושר, מטבח משותף, בלי בריכה). Borjomi Bridge Hotel ב-576.50 € (9.2, 1,395 ביקורות; מיזוג בחדר משפחה מאושר, בלי בריכה). Borjomi Palace Health & Spa ב-858.07 € (8.1, 335 ביקורות; מיזוג מאושר וחינם, בריכה חיצונית (פתוחה באוגוסט) + בריכה מקורה, ציוד משחקים חיצוני לילדים – אפשרות הבריכה). (מחירי החלופות נבדקו ל-15–19 באוגוסט; בתאריכים אחרים ייתכן הבדל.)"
+    "en": "Alternatives in Borjomi (Booking, live, 16–20 Aug, 4 nights, free cancellation, A/C in the facility list): Polifonia Inn Borjomi €484.40 (9.4, 1,135 reviews; guest house, family room with king + bunk bed, A/C confirmed, shared kitchen, no pool). Borjomi Bridge Hotel €582.32 (9.2, 1,409 reviews; family room A/C confirmed, no pool). Borjomi Palace Health & Spa €866.73 (8.2, 336 reviews; A/C confirmed free, outdoor pool (open in August) + indoor pool, kids' outdoor play equipment – the pool option). (Alternative prices were checked for 16–20 Aug; other dates may differ.) (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
+    "he": "חלופות בבורג'ומי (Booking, חי, 16–20 באוגוסט, 4 לילות, ביטול חינם, מיזוג ברשימת המתקנים): Polifonia Inn Borjomi ב-484.40 € (9.4, 1,135 ביקורות; בית הארחה, חדר משפחה עם מיטת קינג + מיטת קומותיים, מיזוג מאושר, מטבח משותף, בלי בריכה). Borjomi Bridge Hotel ב-582.32 € (9.2, 1,409 ביקורות; מיזוג בחדר משפחה מאושר, בלי בריכה). Borjomi Palace Health & Spa ב-866.73 € (8.2, 336 ביקורות; מיזוג מאושר וחינם, בריכה חיצונית (פתוחה באוגוסט) + בריכה מקורה, ציוד משחקים חיצוני לילדים – אפשרות הבריכה). (מחירי החלופות נבדקו ל-16–20 באוגוסט; בתאריכים אחרים ייתכן הבדל.) (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
    },
    "google_note": {
     "en": "Google: 5.0 from 187 reviews; Booking.com 9.7 from 533 reviews.",
@@ -868,14 +1404,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 163.39,
+   "price_per_night_eur": 165.04,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 9.7,
      "out_of": 10,
-     "reviews": 533,
-     "url": "https://www.booking.com/hotel/ge/steeltower-borjomi.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 568,
+     "url": "https://www.booking.com/hotel/ge/steeltower-borjomi.html?checkin=2027-08-16&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -894,24 +1430,24 @@
     "en": "Tbilisi, Avlabari, 14 Aleksandre Tsurtsumia St (same hotel as night 1; ≈ 1.5 km / 4 min by taxi to Rike Park and the cable car)",
     "he": "טביליסי, אבלבארי, רחוב אלכסנדר צורצומיה 14 (אותו מלון כמו בלילה הראשון; כ-1.5 ק\"מ / 4 דקות במונית לפארק ריקה ולרכבל)"
    },
-   "checkin": "2027-08-22",
-   "checkout": "2027-08-26",
+   "checkin": "2027-08-20",
+   "checkout": "2027-08-24",
    "nights": 4,
-   "total_eur": 583.34,
+   "total_eur": 615.47,
    "booking_score": 8.4,
-   "booking_reviews": 2105,
-   "booking_url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_reviews": 2086,
+   "booking_url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
-    "en": "Family room for 4 (king bed + two twin beds), fridge, indoor pool (all year) + outdoor pool (seasonal), sauna, free parking, 24-hour front desk, kid-friendly buffet; free cancellation. No kitchen (my A/C-filtered, free-cancellation search of central Tbilisi returned only hotels, no apartments); lots of cheap cafés nearby. Hotel pool for the hot afternoons (13:00–17:00). You leave about 01:30 on Thu 26 Aug for a 04:35 flight: tell the front desk, settle the bill the evening before and ask for a packed breakfast; check-out is formally on the 26th.",
-    "he": "חדר משפחה ל-4 (מיטת קינג + שתי מיטות יחיד), מקרר, בריכה מקורה (כל השנה) + בריכה חיצונית (עונתית), סאונה, חניה חינם, דלפק קבלה 24 שעות, ארוחת בוקר ידידותית לילדים; ביטול חינם. אין מטבח (בחיפוש שלי במרכז טביליסי עם מסנן מיזוג וביטול חינם הוחזרו רק מלונות, בלי דירות); הרבה בתי קפה זולים בסביבה. בריכת המלון לשעות החמות אחר הצהריים (13:00–17:00). יוצאים בסביבות 01:30 ביום ה' 26 באוגוסט לטיסה ב-04:35: לעדכן את הקבלה, להסדיר את החשבון בערב הקודם ולבקש ארוחת בוקר ארוזה; הצ'ק-אאוט הרשמי ב-26."
+    "en": "Family room for 4 (king bed + two twin beds), fridge, indoor pool (all year) + outdoor pool (seasonal), sauna, free parking, 24-hour front desk, kid-friendly buffet; free cancellation. No kitchen (my A/C-filtered, free-cancellation search of central Tbilisi returned only hotels, no apartments); lots of cheap cafés nearby. Hotel pool for the hot afternoons (13:00–17:00). You leave about 01:30 on Tue 24 Aug for a 04:35 flight: tell the front desk, settle the bill the evening before and ask for a packed breakfast; check-out is formally on the 24th.",
+    "he": "חדר משפחה ל-4 (מיטת קינג + שתי מיטות יחיד), מקרר, בריכה מקורה (כל השנה) + בריכה חיצונית (עונתית), סאונה, חניה חינם, דלפק קבלה 24 שעות, ארוחת בוקר ידידותית לילדים; ביטול חינם. אין מטבח (בחיפוש שלי במרכז טביליסי עם מסנן מיזוג וביטול חינם הוחזרו רק מלונות, בלי דירות); הרבה בתי קפה זולים בסביבה. בריכת המלון לשעות החמות אחר הצהריים (13:00–17:00). יוצאים בסביבות 01:30 ביום ג' 24 באוגוסט לטיסה ב-04:35: לעדכן את הקבלה, להסדיר את החשבון בערב הקודם ולבקש ארוחת בוקר ארוזה; הצ'ק-אאוט הרשמי ב-24."
    },
    "ac": {
     "en": "Air conditioning confirmed (Booking facility list with the A/C filter, and Booking property Q&A, 21 Oct 2026): the family room (king bed + two twin beds) is air-conditioned and the A/C is free of charge; each room has a fridge. Indoor pool (all year) and outdoor pool (seasonal; Booking says open in August, children allowed with an adult) – the pools are the daytime heat relief.",
     "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking עם מסנן המיזוג, ושאלות ותשובות על הנכס, 21.10.2026): חדר המשפחה (מיטת קינג + שתי מיטות יחיד) ממוזג והמיזוג חינם; בכל חדר מקרר. בריכה מקורה (כל השנה) ובריכה חיצונית (עונתית; לפי Booking פתוחה באוגוסט, ילדים מותרים עם מבוגר) – הבריכות הן ההקלה מהחום ביום."
    },
    "alt": {
-    "en": "Alternatives for Tbilisi (Booking, live, 19–23 Aug, 4 nights, free cancellation, A/C in the facility list; family room A/C confirmed free by Booking Q&A): Kindli Boutique Hotel €494.98 (9.0, 987 reviews; 3★, shared kitchen, no pool). ibis Styles Tbilisi Center €665.15 (8.8, 1,490 reviews; Sololaki, indoor play area, no pool). Iris Hotel €761.83 (9.1, 1,171 reviews; Avlabari, indoor pool open to children). (Alternative prices were checked for 19–23 Aug; other dates may differ.)",
-    "he": "חלופות בטביליסי (Booking, חי, 19–23 באוגוסט, 4 לילות, ביטול חינם, מיזוג ברשימת המתקנים; מיזוג בחדר משפחה אושר כחינם בשאלות ותשובות של Booking): Kindli Boutique Hotel ב-494.98 € (9.0, 987 ביקורות; 3 כוכבים, מטבח משותף, בלי בריכה). ibis Styles Tbilisi Center ב-665.15 € (8.8, 1,490 ביקורות; סולולאקי, פינת משחקים מקורה, בלי בריכה). Iris Hotel ב-761.83 € (9.1, 1,171 ביקורות; אבלבארי, בריכה מקורה פתוחה לילדים). (מחירי החלופות נבדקו ל-19–23 באוגוסט; בתאריכים אחרים ייתכן הבדל.)"
+    "en": "Alternatives for Tbilisi (Booking, live, 20–24 Aug, 4 nights, free cancellation, A/C in the facility list; family room A/C confirmed free by Booking Q&A): Kindli Boutique Hotel €499.97 (9.0, 984 reviews; 3★, shared kitchen, no pool). ibis Styles Tbilisi Center €714.16 (8.8, 1,494 reviews; Sololaki, indoor play area, no pool). Iris Hotel €768.26 (9.1, 1,198 reviews; Avlabari, indoor pool open to children). (Alternative prices were checked for 20–24 Aug; other dates may differ.) (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
+    "he": "חלופות בטביליסי (Booking, חי, 20–24 באוגוסט, 4 לילות, ביטול חינם, מיזוג ברשימת המתקנים; מיזוג בחדר משפחה אושר כחינם בשאלות ותשובות של Booking): Kindli Boutique Hotel ב-499.97 € (9.0, 984 ביקורות; 3 כוכבים, מטבח משותף, בלי בריכה). ibis Styles Tbilisi Center ב-714.16 € (8.8, 1,494 ביקורות; סולולאקי, פינת משחקים מקורה, בלי בריכה). Iris Hotel ב-768.26 € (9.1, 1,198 ביקורות; אבלבארי, בריכה מקורה פתוחה לילדים). (מחירי החלופות נבדקו ל-20–24 באוגוסט; בתאריכים אחרים ייתכן הבדל.) (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
    },
    "google_note": {
     "en": "Google: 4.0 from 1,057 reviews; Booking.com 8.4 from 2,105 reviews.",
@@ -945,14 +1481,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 145.84,
+   "price_per_night_eur": 153.87,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 8.4,
      "out_of": 10,
-     "reviews": 2105,
-     "url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 2086,
+     "url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -972,8 +1508,8 @@
     "he": "פארק ריקה, הרכבל ומבצר נריקלה"
    },
    "hours": {
-    "en": "Cable car: about 10:00/11:00 to 22:00–23:00 daily (guides disagree; closes in strong wind or storms). Rike Park and Narikala Fortress: open all day (Google: Rike Park open 24 h). Mon 23 Aug: morning visit.",
-    "he": "רכבל: בערך 10:00/11:00 עד 22:00–23:00 מדי יום (המדריכים לא מסכימים; נסגר ברוח חזקה או סערה). פארק ריקה ומבצר נריקלה: פתוחים כל היום (בגוגל: פארק ריקה פתוח 24 שעות). יום ב' 23 באוגוסט: ביקור בבוקר."
+    "en": "Cable car: about 10:00/11:00 to 22:00–23:00 daily (guides disagree; closes in strong wind or storms). Rike Park and Narikala Fortress: open all day (Google: Rike Park open 24 h). Mon 23 Aug: morning visit (a weekday: shorter queues than at the weekend).",
+    "he": "רכבל: בערך 10:00/11:00 עד 22:00–23:00 מדי יום (המדריכים לא מסכימים; נסגר ברוח חזקה או סערה). פארק ריקה ומבצר נריקלה: פתוחים כל היום (בגוגל: פארק ריקה פתוח 24 שעות). יום ב' 23 באוגוסט: ביקור בבוקר (יום חול: תורים קצרים יותר מאשר בסוף השבוע)."
    },
    "price_text": {
     "en": "≈ 25 GEL (≈ €8): cable car 2.5 GEL per person one way = 4 × 2 × 2.5 = 20 GEL, plus a 2 GEL Metromoney card (estimate: guides disagree on whether bank cards or children's fares apply). Narikala, the Mother of Georgia statue and Rike Park are free.",
@@ -1035,8 +1571,8 @@
     "he": "פארק מצמינדה: פוניקולר ומתקני שעשועים"
    },
    "hours": {
-    "en": "Google: daily 11:30–23:00 (park.ge; other listings say 10:00–24:00; hours vary by season). Funicular daily to about midnight. Mon 23 Aug evening (a weekday: shorter queues than at the weekend).",
-    "he": "גוגל: מדי יום 11:30–23:00 (park.ge; רשימות אחרות מציינות 10:00–24:00; השעות משתנות לפי עונה). הפוניקולר פועל מדי יום עד כחצות. יום ב' 23 באוגוסט, בערב (יום חול: תורים קצרים יותר מאשר בסוף השבוע)."
+    "en": "Google: daily 11:30–23:00 (park.ge; other listings say 10:00–24:00; hours vary by season). Funicular daily to about midnight. Sun 22 Aug evening (weekend: expect longer queues, so arrive by about 18:00, before the evening crowd).",
+    "he": "גוגל: מדי יום 11:30–23:00 (park.ge; רשימות אחרות מציינות 10:00–24:00; השעות משתנות לפי עונה). הפוניקולר פועל מדי יום עד כחצות. יום א' 22 באוגוסט, בערב (סוף שבוע: צפויים תורים ארוכים יותר, ולכן להגיע עד כ-18:00, לפני קהל הערב)."
    },
    "price_text": {
     "en": "≈ 120 GEL (≈ €40), estimate: park entry is free; a 2 GEL park card (shareable) plus funicular ≈ 10–12 GEL one way per person (guide price check 3 Oct 2026; children's fare not found) ≈ 80 GEL return for four if you ride both ways (a taxi up and the funicular down is cheaper), plus single rides at about 1–5 GEL each (older listing) ≈ 40 GEL. Ride prices are not published officially.",
@@ -1102,8 +1638,8 @@
     "he": "מצחטה: מנזר ג'וורי וקתדרלת סבטיצחובלי"
    },
    "hours": {
-    "en": "Google: Svetitskhoveli Mon 9:00–19:00, Tue–Fri and Sun 8:00–19:00 (Sat 8:00–16:45); Jvari daily 9:30–17:30. Tue 24 Aug: both open all day; go in the morning anyway for the heat (services may restrict tourists for a short time).",
-    "he": "גוגל: סבטיצחובלי ב' 9:00–19:00, ג'–ו' וא' 8:00–19:00 (ש' 8:00–16:45); ג'וורי מדי יום 9:30–17:30. יום ג' 24 באוגוסט: שניהם פתוחים כל היום; בכל זאת לבוא בבוקר בגלל החום (בזמן תפילות ייתכן שהכניסה לתיירים מוגבלת לזמן קצר)."
+    "en": "Google: Svetitskhoveli Mon 9:00–19:00, Tue–Fri and Sun 8:00–19:00 (Sat 8:00–16:45); Jvari daily 9:30–17:30. Sat 21 Aug: go in the morning (the cathedral closes at 16:45 on Saturdays and weekend pilgrims and weddings make it busier; services may restrict tourists for a short time).",
+    "he": "גוגל: סבטיצחובלי ב' 9:00–19:00, ג'–ו' וא' 8:00–19:00 (ש' 8:00–16:45); ג'וורי מדי יום 9:30–17:30. יום ש' 21 באוגוסט: לבוא בבוקר (הקתדרלה נסגרת ב-16:45 בשבתות, ועולי רגל וחתונות בסוף השבוע מעמיסים; בזמן תפילות ייתכן שהכניסה לתיירים מוגבלת לזמן קצר)."
    },
    "price_text": {
     "en": "Free (both are working churches; donations welcome). Cost = the driver: round trip with waiting ≈ 140 GEL (≈ €45, estimate, included in the transfers budget, not here).",
@@ -1165,8 +1701,8 @@
     "he": "אמבטיות הגופרית באבנוטובני: חדר פרטי (קצר ופושר)"
    },
    "hours": {
-    "en": "Chreli Abano (Orbeliani Baths), Google: daily 9:00–23:00; book a private room in advance (online booking needs card pre-payment). Tue 24 Aug, early evening (a quiet weekday: easier to get a private room).",
-    "he": "Chreli Abano (אמבטיות אורבליאני), גוגל: מדי יום 9:00–23:00; להזמין חדר פרטי מראש (הזמנה אונליין דורשת תשלום מראש בכרטיס). יום ג' 24 באוגוסט, בערב מוקדם (יום חול שקט: קל יותר להשיג חדר פרטי)."
+    "en": "Chreli Abano (Orbeliani Baths), Google: daily 9:00–23:00; book a private room in advance (online booking needs card pre-payment). Sat 21 Aug, early evening (Saturday evening is busy: book the private room in advance).",
+    "he": "Chreli Abano (אמבטיות אורבליאני), גוגל: מדי יום 9:00–23:00; להזמין חדר פרטי מראש (הזמנה אונליין דורשת תשלום מראש בכרטיס). יום ש' 21 באוגוסט, בערב מוקדם (ערב שבת עמוס: להזמין חדר פרטי מראש)."
    },
    "price_text": {
     "en": "≈ 200 GEL (≈ €66) for a private room for 1 hour (a 2026 guide quoting the official site: from 200 GEL/h per room; other sources 150–200); scrub/massage extra ≈ 30 GEL each. Estimate.",
@@ -1228,8 +1764,8 @@
     "he": "מוזיאון האתנוגרפיה הפתוח (בתים מסורתיים מכל חלקי המדינה)"
    },
    "hours": {
-    "en": "Google: Tue–Sun 10:00–18:00, closed Monday. Wed 25 Aug: morning visit (open Wednesday; do NOT go on Mon 23 Aug).",
-    "he": "גוגל: ג'–א' 10:00–18:00, סגור ביום שני. יום ד' 25 באוגוסט: ביקור בבוקר (פתוח ביום רביעי; לא ללכת ביום ב' 23 באוגוסט)."
+    "en": "Google: Tue–Sun 10:00–18:00, closed Monday. Sun 22 Aug: morning visit (open Sunday; closed Mondays, so do NOT go on Mon 23 Aug; arrive at 10:00, before the weekend families).",
+    "he": "גוגל: ג'–א' 10:00–18:00, סגור ביום שני. יום א' 22 באוגוסט: ביקור בבוקר (פתוח ביום ראשון; סגור בימי שני, ולכן לא ללכת ביום ב' 23 באוגוסט; להגיע ב-10:00, לפני משפחות סוף השבוע)."
    },
    "price_text": {
     "en": "≈ 40 GEL (≈ €13), estimate: one guide lists 15 GEL adults, 5 GEL children 6–17, under 6 free (= 35 GEL); another lists a 25 GEL tourist ticket, so allow up to ≈ 55 GEL.",
@@ -1295,8 +1831,8 @@
     "he": "אגם הצבים (קוס טבה) עם רכבל ואקה"
    },
    "hours": {
-    "en": "Park and lake open all day; the Vake–Turtle Lake cable car runs daily (hours not found; a guide says it is part of the city cable cars at up to 2.5 GEL). Wed 25 Aug, late morning right after the museum (the museum is a 10–15 min walk away).",
-    "he": "הפארק והאגם פתוחים כל היום; רכבל ואקה–אגם הצבים פועל מדי יום (השעות לא נמצאו; מדריך אומר שהוא חלק מרכבלי העיר במחיר עד 2.5 לארי). יום ד' 25 באוגוסט, סוף הבוקר מיד אחרי המוזיאון (המוזיאון במרחק הליכה 10–15 דקות)."
+    "en": "Park and lake open all day; the Vake–Turtle Lake cable car runs daily (hours not found; a guide says it is part of the city cable cars at up to 2.5 GEL). Sun 22 Aug, late morning right after the museum (the museum is a 10–15 min walk away).",
+    "he": "הפארק והאגם פתוחים כל היום; רכבל ואקה–אגם הצבים פועל מדי יום (השעות לא נמצאו; מדריך אומר שהוא חלק מרכבלי העיר במחיר עד 2.5 לארי). יום א' 22 באוגוסט, סוף הבוקר מיד אחרי המוזיאון (המוזיאון במרחק הליכה 10–15 דקות)."
    },
    "price_text": {
     "en": "≈ 20 GEL (≈ €7), estimate: cable car 4 × 2.5 GEL one way (children's fare unverified); the lake is free.",
@@ -1358,8 +1894,8 @@
     "he": "פארק המים Gino Paradise (בריכות מקורות ופתוחות, מגלשות)"
    },
    "hours": {
-    "en": "Google: daily 12:00–22:00 (tour-operator pages say 10:00–22:00; the official site is www.ginoaquapark.ge, confirm before going). Wed 25 Aug, afternoon (a weekday: tickets cost less than at weekends; book online in advance, tickets are non-refundable).",
-    "he": "גוגל: מדי יום 12:00–22:00 (אתרי מפעילי תיירות כותבים 10:00–22:00; האתר הרשמי www.ginoaquapark.ge, לאשר לפני ההגעה). יום ד' 25 באוגוסט, אחר הצהריים (יום חול: הכרטיסים זולים יותר מאשר בסוף שבוע; להזמין אונליין מראש, הכרטיסים לא ניתנים להחזר)."
+    "en": "Google: daily 12:00–22:00 (tour-operator pages say 10:00–22:00; the official site is www.ginoaquapark.ge, confirm before going). Mon 23 Aug, afternoon (a weekday: tickets cost less and it is far less crowded than at weekends; book online in advance, tickets are non-refundable).",
+    "he": "גוגל: מדי יום 12:00–22:00 (אתרי מפעילי תיירות כותבים 10:00–22:00; האתר הרשמי www.ginoaquapark.ge, לאשר לפני ההגעה). יום ב' 23 באוגוסט, אחר הצהריים (יום חול: הכרטיסים זולים יותר והפארק פחות עמוס מאשר בסוף שבוע; להזמין אונליין מראש, הכרטיסים לא ניתנים להחזר)."
    },
    "price_text": {
     "en": "≈ 200 GEL (≈ €66): ESTIMATE – the official price list was not found; a 2026 guide says children up to and including 5 enter free (birth certificate), prices depend on weekday and entry time (weekends cost more). I assumed ≈ 80 GEL per adult and ≈ 40 GEL for the 7-year-old.",
@@ -1421,8 +1957,8 @@
     "he": "הפארק המרכזי של בורג'ומי: מעיין מינרלי, רכבל וגלגל ענק"
    },
    "hours": {
-    "en": "Google: daily 9:00–20:00. Cafés, funfair, cable car and Ferris wheel mostly run late June to early September (cable car about 10:00–20:00; one 2025 visitor found the cable car closed, so confirm it is running). Thu 19 Aug.",
-    "he": "גוגל: מדי יום 9:00–20:00. בתי הקפה, לונה פארק, הרכבל והגלגל הענק פועלים בעיקר מסוף יוני עד תחילת ספטמבר (רכבל בערך 10:00–20:00; מבקר אחד ב-2025 מצא את הרכבל סגור, לכן לוודא שהוא פועל). יום ה' 19 באוגוסט."
+    "en": "Google: daily 9:00–20:00. Cafés, funfair, cable car and Ferris wheel mostly run late June to early September (cable car about 10:00–20:00; one 2025 visitor found the cable car closed, so confirm it is running). Tue 17 Aug (a quiet weekday); a short first walk there on Mon 16 Aug.",
+    "he": "גוגל: מדי יום 9:00–20:00. בתי הקפה, לונה פארק, הרכבל והגלגל הענק פועלים בעיקר מסוף יוני עד תחילת ספטמבר (רכבל בערך 10:00–20:00; מבקר אחד ב-2025 מצא את הרכבל סגור, לכן לוודא שהוא פועל). יום ג' 17 באוגוסט (יום חול שקט); הליכה ראשונה קצרה שם ביום ב' 16 באוגוסט."
    },
    "price_text": {
     "en": "≈ 100 GEL (≈ €33), estimate: entry about 5 GEL per person (guides say 2–5 GEL) = 20 GEL, cable car 15 GEL one way per person (walk down for free) = 60 GEL, Ferris wheel ≈ 20 GEL (price not found). The mineral-water spring is free.",
@@ -1488,8 +2024,8 @@
     "he": "בריכות הגופרית של בורג'ומי (בריכות חיצוניות ביער, בריכת ילדים)"
    },
    "hours": {
-    "en": "Google: daily 6:00–20:00 (one guide: 7:00–20:00). Thu 19 Aug, late afternoon (or Fri 20 Aug after Bakuriani).",
-    "he": "גוגל: מדי יום 6:00–20:00 (מדריך אחד: 7:00–20:00). יום ה' 19 באוגוסט, אחר הצהריים מאוחר (או יום ו' 20 באוגוסט אחרי בקוריאני)."
+    "en": "Google: daily 6:00–20:00 (one guide: 7:00–20:00). Tue 17 Aug, late afternoon (or Wed 18 Aug after Bakuriani).",
+    "he": "גוגל: מדי יום 6:00–20:00 (מדריך אחד: 7:00–20:00). יום ג' 17 באוגוסט, אחר הצהריים מאוחר (או יום ד' 18 באוגוסט אחרי בקוריאני)."
    },
    "price_text": {
     "en": "≈ 20 GEL (≈ €7), estimate: 5 GEL per person per a guide (a Wanderlog reviewer mentions an extra 15 GEL access fee: confirm on site).",
@@ -1551,8 +2087,8 @@
     "he": "בקוריאני: מעליות ההר של דידוולי (1,700 מ', אוויר קריר)"
    },
    "hours": {
-    "en": "Summer season (guide, unconfirmed): about 28 June–31 Aug; older reports give lifts 11:00–18:00 daily, with an alpine toboggan and a kids' park. Check status on Status.MTA.Ski or at the ticket office. Fri 20 Aug (weekend visitors arrive from the afternoon: go up early).",
-    "he": "עונת הקיץ (מדריך, לא מאושר): כ-28 ביוני–31 באוגוסט; דיווחים ישנים מציינים מעליות 11:00–18:00 מדי יום, עם מגלשת הרים וגן משחקים לילדים. לבדוק מצב ב-Status.MTA.Ski או בקופה. יום ו' 20 באוגוסט (מבקרי סוף שבוע מגיעים מאחר הצהריים: לעלות מוקדם)."
+    "en": "Summer season (guide, unconfirmed): about 28 June–31 Aug; older reports give lifts 11:00–18:00 daily, with an alpine toboggan and a kids' park. Check status on Status.MTA.Ski or at the ticket office. Wed 18 Aug (a weekday: shorter lift queues than at the weekend).",
+    "he": "עונת הקיץ (מדריך, לא מאושר): כ-28 ביוני–31 באוגוסט; דיווחים ישנים מציינים מעליות 11:00–18:00 מדי יום, עם מגלשת הרים וגן משחקים לילדים. לבדוק מצב ב-Status.MTA.Ski או בקופה. יום ד' 18 באוגוסט (יום חול: תורים קצרים יותר למעליות מאשר בסוף השבוע)."
    },
    "price_text": {
     "en": "≈ 100 GEL (≈ €33): ESTIMATE – no summer price list found (winter day pass for reference: 55 GEL adult, 28 GEL child 6–12, under 6 free). Budget for a chairlift ride up and down for 2 adults + the 7-year-old, plus a toboggan ride.",
@@ -1618,8 +2154,8 @@
     "he": "מבצר רבאטי באחלציחה (מבצר משוחזר עם מסגד ומגדל)"
    },
    "hours": {
-    "en": "Google: daily 9:00–20:00 (a guide says 9:00–18:00 with longer summer evenings); the history museum inside is Tue–Sun 10:00–18:00 (closed Monday). Sat 21 Aug: castle and museum both open (the museum is closed only on Monday); Saturday is busier, so arrive at 9:00.",
-    "he": "גוגל: מדי יום 9:00–20:00 (מדריך אומר 9:00–18:00 עם ערבי קיץ ארוכים יותר); מוזיאון ההיסטוריה בפנים ג'–א' 10:00–18:00 (סגור ביום שני). יום ש' 21 באוגוסט: המבצר והמוזיאון פתוחים (המוזיאון סגור רק בימי שני); בשבת עמוס יותר, ולכן להגיע ב-9:00."
+    "en": "Google: daily 9:00–20:00 (a guide says 9:00–18:00 with longer summer evenings); the history museum inside is Tue–Sun 10:00–18:00 (closed Monday). Thu 19 Aug: castle and museum both open (the museum is closed only on Monday); a weekday, so quieter than the weekend; still arrive at 9:00 for the cool hours.",
+    "he": "גוגל: מדי יום 9:00–20:00 (מדריך אומר 9:00–18:00 עם ערבי קיץ ארוכים יותר); מוזיאון ההיסטוריה בפנים ג'–א' 10:00–18:00 (סגור ביום שני). יום ה' 19 באוגוסט: המבצר והמוזיאון פתוחים (המוזיאון סגור רק בימי שני); יום חול ולכן שקט יותר מסוף השבוע; בכל זאת להגיע ב-9:00 בשעות הקרירות."
    },
    "price_text": {
     "en": "≈ 50 GEL (≈ €17), estimate: a guide says 20 GEL per adult, children under 6 free (= 40 GEL; I added about 10 GEL for the 7-year-old). Lower terraces, restaurant grounds and the viewing tower are free; the museum costs 15 GEL extra.",
@@ -1685,8 +2221,8 @@
     "he": "פארק ליקני וארמון הרומנובים (הליכה ביער אורנים)"
    },
    "hours": {
-    "en": "The park is open all day; the palace is a museum with visits by prior arrangement (Google lists no hours). Sat 21 Aug, late afternoon on the way back from Rabati (5 km / 13 min from the hotel).",
-    "he": "הפארק פתוח כל היום; הארמון הוא מוזיאון עם ביקורים בתיאום מראש (בגוגל אין שעות). יום ש' 21 באוגוסט, אחר הצהריים בדרך חזרה מרבאטי (5 ק\"מ / 13 דקות מהמלון)."
+    "en": "The park is open all day; the palace is a museum with visits by prior arrangement (Google lists no hours). Thu 19 Aug, late afternoon on the way back from Rabati (5 km / 13 min from the hotel).",
+    "he": "הפארק פתוח כל היום; הארמון הוא מוזיאון עם ביקורים בתיאום מראש (בגוגל אין שעות). יום ה' 19 באוגוסט, אחר הצהריים בדרך חזרה מרבאטי (5 ק\"מ / 13 דקות מהמלון)."
    },
    "price_text": {
     "en": "Park free (palace interior not priced here: ask at the gate; Google rating 3.8 from 303 reviews, so the exterior and the park are the point).",
@@ -1748,8 +2284,8 @@
     "he": "הפארק הלאומי בורג'ומי-חרגאולי: מרכז המבקרים וחלקו הראשון של שביל המידע"
    },
    "hours": {
-    "en": "Visitor centre at 23 Meskheti St, Borjomi (park open March–November per one source; registration at the centre is required). Alternative for Sat 21 Aug or the morning of Thu 19 Aug (weekend opening hours of the centre not found: call ahead).",
-    "he": "מרכז המבקרים ברחוב מסחתי 23, בורג'ומי (הפארק פתוח מרץ–נובמבר לפי מקור אחד; חובה להירשם במרכז). חלופה ליום ש' 21 באוגוסט או לבוקר של יום ה' 19 באוגוסט (שעות פתיחה בסוף שבוע לא נמצאו: להתקשר מראש)."
+    "en": "Visitor centre at 23 Meskheti St, Borjomi (park open March–November per one source; registration at the centre is required). Alternative for Thu 19 Aug or the morning of Tue 17 Aug (opening hours by weekday not found: call ahead).",
+    "he": "מרכז המבקרים ברחוב מסחתי 23, בורג'ומי (הפארק פתוח מרץ–נובמבר לפי מקור אחד; חובה להירשם במרכז). חלופה ליום ה' 19 באוגוסט או לבוקר של יום ג' 17 באוגוסט (שעות הפתיחה לפי ימים לא נמצאו: להתקשר מראש)."
    },
    "price_text": {
     "en": "≈ 12 GEL (≈ €4), estimate: one guide lists 5 GEL per adult and 2 GEL per child 6–15; another says entry is free (registration mandatory). Fee not verified for 2027.",
@@ -1815,8 +2351,8 @@
     "he": "אופליסציחה: עיר מערות בת 3,000 שנה חצובה בסלע"
    },
    "hours": {
-    "en": "Summer (16 April–30 Sept) 10:00–19:00 daily per one source (other sources say closed on Monday or 10:00–17:00: confirm). Sun 22 Aug (a Sunday: open), on the way from Borjomi to Tbilisi.",
-    "he": "קיץ (16 באפריל–30 בספטמבר) 10:00–19:00 מדי יום לפי מקור אחד (מקורות אחרים: סגור ביום שני או 10:00–17:00: לאשר). יום א' 22 באוגוסט (יום ראשון: פתוח), בדרך מבורג'ומי לטביליסי."
+    "en": "Summer (16 April–30 Sept) 10:00–19:00 daily per one source (other sources say closed on Monday or 10:00–17:00: confirm). Fri 20 Aug (a Friday: open), on the way from Borjomi to Tbilisi.",
+    "he": "קיץ (16 באפריל–30 בספטמבר) 10:00–19:00 מדי יום לפי מקור אחד (מקורות אחרים: סגור ביום שני או 10:00–17:00: לאשר). יום ו' 20 באוגוסט (יום שישי: פתוח), בדרך מבורג'ומי לטביליסי."
    },
    "price_text": {
     "en": "≈ 31 GEL (≈ €10): adult 15 GEL, schoolchildren 1 GEL, under 6 free (consistent across guides, no 2027 price); audio guide 15 GEL extra.",
@@ -1879,10 +2415,10 @@
  "days": [
   {
    "day": 1,
-   "date": "2027-08-17",
+   "date": "2027-08-15",
    "weekday": {
-    "en": "Tue",
-    "he": "ג'"
+    "en": "Sun",
+    "he": "א'"
    },
    "title": {
     "en": "Evening flight, taxi to Tbilisi",
@@ -1892,8 +2428,9 @@
    "overnight": "hotel_tb1",
    "plan": [
     {
-     "en": "19:40 Israir Airlines 6H 893 from TLV, landing at TBS 23:15.",
-     "he": "19:40 ישראייר 6H 893 מנתב\"ג, נחיתה בטביליסי ב-23:15."
+     "en": "19:40 Israir Airlines 6H 891 from TLV, landing at TBS 23:15.",
+     "he": "19:40 ישראייר 6H 891 מנתב\"ג, נחיתה בטביליסי ב-23:15.",
+     "flight": "out"
     },
     {
      "en": "At the airport order a Bolt/Yandex taxi or use the hotel's pre-booked transfer (15 km / 20 min; about 35–45 GEL / €12–15, estimate; a child-seat request is rarely honoured by app taxis, so keep the kids belted in the back). Tell the hotel your landing time: the front desk is open 24 hours.",
@@ -2030,10 +2567,10 @@
   },
   {
    "day": 2,
-   "date": "2027-08-18",
+   "date": "2027-08-16",
    "weekday": {
-    "en": "Wed",
-    "he": "ד'"
+    "en": "Mon",
+    "he": "ב'"
    },
    "title": {
     "en": "Rental car, drive to Borjomi (2h14) and the first walk in the park",
@@ -2043,8 +2580,8 @@
    "overnight": "hotel_bj",
    "plan": [
     {
-     "en": "Breakfast at the hotel. About 09:30 (Wednesday morning) the rental company delivers the pre-booked car to the hotel (ask for delivery at booking; 2 child seats, an automatic compact SUV/estate, full insurance); check the car, the deposit hold and your international driving permit.",
-     "he": "ארוחת בוקר במלון. בסביבות 09:30 (בוקר יום רביעי) חברת ההשכרה מביאה למלון את הרכב שהוזמן מראש (לבקש משלוח בהזמנה; 2 מושבי ילדים, קרוסאובר/סטיישן קומפקטי אוטומטי, ביטוח מלא); לבדוק את הרכב, את תפיסת הערבון ואת רישיון הנהיגה הבינלאומי."
+     "en": "Breakfast at the hotel. About 09:30 (Monday morning) the rental company delivers the pre-booked car to the hotel (ask for delivery at booking; 2 child seats, an automatic compact SUV/estate, full insurance); check the car, the deposit hold and your international driving permit.",
+     "he": "ארוחת בוקר במלון. בסביבות 09:30 (בוקר יום שני) חברת ההשכרה מביאה למלון את הרכב שהוזמן מראש (לבקש משלוח בהזמנה; 2 מושבי ילדים, קרוסאובר/סטיישן קומפקטי אוטומטי, ביטוח מלא); לבדוק את הרכב, את תפיסת הערבון ואת רישיון הנהיגה הבינלאומי."
     },
     {
      "en": "Drive 159 km / 2h14 on the E60: Tbilisi – Gori – Khashuri – Borjomi (take a 20–30 min kids' break at a roadside café near Gori or Khashuri). Stay on the E60 and do not follow a navigation app onto side roads towards Tskhinvali / South Ossetia (administrative boundary line near Gori).",
@@ -2216,10 +2753,10 @@
   },
   {
    "day": 3,
-   "date": "2027-08-19",
+   "date": "2027-08-17",
    "weekday": {
-    "en": "Thu",
-    "he": "ה'"
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Borjomi Central Park: cable car, Ferris wheel and forest pools",
@@ -2237,8 +2774,8 @@
      "he": "ארוחת צהריים בבית קפה ליד הנהר, ואז מנוחה בחדר הממוזג 13:30–16:00 (בבורג'ומי קריר יותר מבטביליסי, בדרך כלל 26–29 מעלות)."
     },
     {
-     "en": "Optional late afternoon: the sulfur pools (drive about 3 km beyond the park entrance; lukewarm outdoor pools with a small kids' pool).",
-     "he": "אופציונלי בשעות אחר הצהריים המאוחרות: בריכות הגופרית (נסיעה של כ-3 ק\"מ אחרי כניסת הפארק; בריכות חיצוניות פושרות עם בריכת ילדים קטנה)."
+     "en": "Optional late afternoon: the sulfur pools (drive about 3 km beyond the park entrance; lukewarm outdoor pools with a small kids' pool). A Tuesday: quiet.",
+     "he": "אופציונלי בשעות אחר הצהריים המאוחרות: בריכות הגופרית (נסיעה של כ-3 ק\"מ אחרי כניסת הפארק; בריכות חיצוניות פושרות עם בריכת ילדים קטנה). יום שלישי: שקט."
     }
    ],
    "attractions": [
@@ -2513,10 +3050,10 @@
   },
   {
    "day": 4,
-   "date": "2027-08-20",
+   "date": "2027-08-18",
    "weekday": {
-    "en": "Fri",
-    "he": "ו'"
+    "en": "Wed",
+    "he": "ד'"
    },
    "title": {
     "en": "Bakuriani: mountain air, lifts and a toboggan (1,700 m)",
@@ -2526,8 +3063,8 @@
    "overnight": "hotel_bj",
    "plan": [
     {
-     "en": "Drive 31 km / 37 min up to Bakuriani (winding mountain road; start about 10:00). Check the lift status online (Status.MTA.Ski) or at the hotel desk before you go.",
-     "he": "נסיעה של 31 ק\"מ / 37 דקות במעלה הדרך לבקוריאני (כביש הרים מתפתל; לצאת בסביבות 10:00). לבדוק את מצב המעליות באינטרנט (Status.MTA.Ski) או בקבלה לפני היציאה."
+     "en": "Drive 31 km / 37 min up to Bakuriani (winding mountain road; start about 10:00; a Wednesday, so the road and the lifts are calmer than at the weekend). Check the lift status online (Status.MTA.Ski) or at the hotel desk before you go.",
+     "he": "נסיעה של 31 ק\"מ / 37 דקות במעלה הדרך לבקוריאני (כביש הרים מתפתל; לצאת בסביבות 10:00; יום רביעי, ולכן הכביש והמעליות רגועים יותר מאשר בסוף השבוע). לבדוק את מצב המעליות באינטרנט (Status.MTA.Ski) או בקבלה לפני היציאה."
     },
     {
      "en": "Didveli lifts and alpine toboggan / kids' park (summer lifts reportedly 11:00–18:00; no hiking – a chairlift ride and a short meadow stroll). Picnic or lunch in the village: it is 8–10 °C cooler than Borjomi.",
@@ -3122,10 +3659,10 @@
   },
   {
    "day": 5,
-   "date": "2027-08-21",
+   "date": "2027-08-19",
    "weekday": {
-    "en": "Sat",
-    "he": "ש'"
+    "en": "Thu",
+    "he": "ה'"
    },
    "title": {
     "en": "Rabati Castle in the morning, Likani pine park in the afternoon",
@@ -3135,8 +3672,8 @@
    "overnight": "hotel_bj",
    "plan": [
     {
-     "en": "Leave at 08:45 for Rabati Castle in Akhaltsikhe (50 km / 57 min; Saturday: expect more visitors); arrive at opening (9:00) while it is still cool: towers, ramparts and the mosque courtyard; lunch at the castle restaurant in the shade.",
-     "he": "יציאה ב-08:45 למבצר רבאטי באחלציחה (50 ק\"מ / 57 דקות; בשבת צפוי יותר קהל); להגיע בשעת הפתיחה (9:00) כשעוד קריר: מגדלים, חומות וחצר המסגד; ארוחת צהריים במסעדת המבצר בצל."
+     "en": "Leave at 08:45 for Rabati Castle in Akhaltsikhe (50 km / 57 min; a Thursday: quieter than the weekend); arrive at opening (9:00) while it is still cool: towers, ramparts and the mosque courtyard; lunch at the castle restaurant in the shade.",
+     "he": "יציאה ב-08:45 למבצר רבאטי באחלציחה (50 ק\"מ / 57 דקות; יום חמישי: שקט יותר מסוף השבוע); להגיע בשעת הפתיחה (9:00) כשעוד קריר: מגדלים, חומות וחצר המסגד; ארוחת צהריים במסעדת המבצר בצל."
     },
     {
      "en": "Drive back (48 km / 59 min) and stop at Likani Park (the Romanov palace and a flat 1.5 km loop under pines), then the hotel by 15:30 (5 km / 13 min).",
@@ -3587,10 +4124,10 @@
   },
   {
    "day": 6,
-   "date": "2027-08-22",
+   "date": "2027-08-20",
    "weekday": {
-    "en": "Sun",
-    "he": "א'"
+    "en": "Fri",
+    "he": "ו'"
    },
    "title": {
     "en": "Uplistsikhe cave town, drive to Tbilisi and car return",
@@ -3608,8 +4145,8 @@
      "he": "עיר המערות 10:00–11:30 (כק\"מ בשבילי סלע). אם הילדים עייפים – לדלג ולנסוע ישר לטביליסי (2:14 שעות)."
     },
     {
-     "en": "Drive 87 km / 1h13 to Tbilisi (total driving 2h31 with the detour), lunch, and return the car at the hotel by about 14:30 (agree the return place and the fuel level in the contract).",
-     "he": "נסיעה של 87 ק\"מ / 1:13 שעות לטביליסי (סה\"כ נהיגה 2:31 שעות עם העקיפה), ארוחת צהריים, והחזרת הרכב במלון עד כ-14:30 (לסכם בחוזה את מקום ההחזרה ואת רמת הדלק)."
+     "en": "Drive 87 km / 1h13 to Tbilisi (total driving 2h31 with the detour), lunch, and return the car at the hotel by about 14:30 (agree the return place and the fuel level in the contract). It is Friday: afternoon traffic into Tbilisi is heavier, so do not leave Uplistsikhe later than about 11:30.",
+     "he": "נסיעה של 87 ק\"מ / 1:13 שעות לטביליסי (סה\"כ נהיגה 2:31 שעות עם העקיפה), ארוחת צהריים, והחזרת הרכב במלון עד כ-14:30 (לסכם בחוזה את מקום ההחזרה ואת רמת הדלק). זה יום שישי: תנועה כבדה יותר לטביליסי אחר הצהריים, ולכן לא לצאת מאופליסציחה אחרי כ-11:30."
     },
     {
      "en": "Check in at the Ramada Old City, afternoon in the hotel pools (outdoor/indoor) and an easy evening: the car is gone, the next four days are by taxi/Bolt and on foot.",
@@ -3775,44 +4312,10 @@
   },
   {
    "day": 7,
-   "date": "2027-08-23",
+   "date": "2027-08-21",
    "weekday": {
-    "en": "Mon",
-    "he": "ב'"
-   },
-   "title": {
-    "en": "Cable car and Narikala in the morning, pool at noon, Mtatsminda at dusk",
-    "he": "רכבל ונריקלה בבוקר, בריכה בצהריים ומצמינדה בשקיעה"
-   },
-   "trail": "yellow",
-   "overnight": "hotel_tb2",
-   "plan": [
-    {
-     "en": "08:45 taxi (4 min) to Rike Park: playground and the glass Bridge of Peace, then the cable car (3 min) up to Narikala by 10:00 and a short flat walk to the Mother of Georgia statue; walk or cable car back down.",
-     "he": "08:45 מונית (4 דקות) לפארק ריקה: מגרש משחקים וגשר השלום מזכוכית, ואז הרכבל (3 דקות) לנריקלה עד 10:00 והליכה קצרה ושטוחה לפסל 'אם גאורגיה'; יורדים ברגל או ברכבל."
-    },
-    {
-     "en": "Lunch, then 13:00–17:00 off the heat: hotel pool and the air-conditioned room (Tbilisi typically 33–36 °C in the afternoon).",
-     "he": "ארוחת צהריים, ואז 13:00–17:00 הרחק מהחום: בריכת המלון והחדר הממוזג (בטביליסי בדרך כלל 33–36 מעלות אחר הצהריים)."
-    },
-    {
-     "en": "About 18:00 a taxi (22 min) to Mtatsminda Park: funicular, Ferris wheel and kids' rides in the cooler evening, dinner with a view, taxi back by 21:30.",
-     "he": "בסביבות 18:00 מונית (22 דקות) לפארק מצמינדה: פוניקולר, גלגל ענק ומתקני ילדים בערב הקריר יותר, ארוחת ערב עם נוף, מונית חזרה עד 21:30."
-    }
-   ],
-   "attractions": [
-    "cable",
-    "mtatsminda"
-   ],
-   "route": null,
-   "no_drive_key": "no_drive_city"
-  },
-  {
-   "day": 8,
-   "date": "2027-08-24",
-   "weekday": {
-    "en": "Tue",
-    "he": "ג'"
+    "en": "Sat",
+    "he": "ש'"
    },
    "title": {
     "en": "Mtskheta, the old capital, with a hired driver",
@@ -3822,20 +4325,20 @@
    "overnight": "hotel_tb2",
    "plan": [
     {
-     "en": "08:45 pick-up by a pre-booked driver or a Bolt taxi with a return arrangement (25 km / 30 min; roughly 140 GEL return with waiting, estimate; ask for child seats if the driver has them).",
-     "he": "08:45 איסוף על ידי נהג שהוזמן מראש או מונית Bolt עם הסדר חזרה (25 ק\"מ / 30 דקות; כ-140 לארי הלוך-חזור כולל המתנה, הערכה; לבקש מושבי ילדים אם יש לנהג)."
+     "en": "08:45 pick-up by a pre-booked driver or a Bolt taxi with a return arrangement (25 km / 30 min; roughly 140 GEL return with waiting, estimate; ask for child seats if the driver has them). Saturday: the cathedral closes at 16:45 and the weekend brings pilgrims and weddings, so go early.",
+     "he": "08:45 איסוף על ידי נהג שהוזמן מראש או מונית Bolt עם הסדר חזרה (25 ק\"מ / 30 דקות; כ-140 לארי הלוך-חזור כולל המתנה, הערכה; לבקש מושבי ילדים אם יש לנהג). שבת: הקתדרלה נסגרת ב-16:45 ובסוף השבוע יש עולי רגל וחתונות, ולכן לצאת מוקדם."
     },
     {
-     "en": "Jvari Monastery on its hilltop (short steps, a view of two rivers meeting), then Svetitskhoveli Cathedral and a cobbled lane of cafés (open all day on Tuesdays; covered shoulders and knees).",
-     "he": "מנזר ג'וורי על הגבעה (מדרגות קצרות, נוף למפגש שני נהרות), ואז קתדרלת סבטיצחובלי וסמטה מרוצפת של בתי קפה (פתוחה כל היום בימי שלישי; כתפיים וברכיים מכוסות)."
+     "en": "Jvari Monastery on its hilltop (short steps, a view of two rivers meeting), then Svetitskhoveli Cathedral and a cobbled lane of cafés (covered shoulders and knees).",
+     "he": "מנזר ג'וורי על הגבעה (מדרגות קצרות, נוף למפגש שני נהרות), ואז קתדרלת סבטיצחובלי וסמטה מרוצפת של בתי קפה (כתפיים וברכיים מכוסות)."
     },
     {
      "en": "Back at the hotel by 13:00 for lunch and the pool during the heat of the day.",
      "he": "חזרה למלון עד 13:00 לארוחת צהריים ובריכה בשעות החום."
     },
     {
-     "en": "Optional evening (Tuesday): a stroll through the Abanotubani bath district; a short private sulfur bath only if the kids want it (check the age rules when you book).",
-     "he": "ערב אופציונלי (יום שלישי): הליכה בשכונת המרחצאות באבנוטובני; אמבטיית גופרית פרטית קצרה רק אם הילדים רוצים (לבדוק את הגבלות הגיל בהזמנה)."
+     "en": "Optional evening (Saturday, busy: book a private room in advance): a stroll through the Abanotubani bath district; a short private sulfur bath only if the kids want it (check the age rules when you book).",
+     "he": "ערב אופציונלי (שבת, עמוס: להזמין חדר פרטי מראש): הליכה בשכונת המרחצאות באבנוטובני; אמבטיית גופרית פרטית קצרה רק אם הילדים רוצים (לבדוק את הגבלות הגיל בהזמנה)."
     }
    ],
    "attractions": [
@@ -3846,30 +4349,69 @@
    "no_drive_key": "no_drive_city"
   },
   {
-   "day": 9,
-   "date": "2027-08-25",
+   "day": 8,
+   "date": "2027-08-22",
    "weekday": {
-    "en": "Wed",
-    "he": "ד'"
+    "en": "Sun",
+    "he": "א'"
    },
    "title": {
-    "en": "Open-air museum and Turtle Lake in the morning, Gino water park in the afternoon",
-    "he": "מוזיאון פתוח ואגם הצבים בבוקר, פארק המים ג'ינו אחר הצהריים"
+    "en": "Open-air museum and Turtle Lake in the morning, Mtatsminda at dusk",
+    "he": "מוזיאון פתוח ואגם הצבים בבוקר, מצמינדה בשקיעה"
    },
    "trail": "yellow",
    "overnight": "hotel_tb2",
    "plan": [
     {
-     "en": "09:45 taxi (16 min) to the Open Air Museum of Ethnography (open 10:00; closed on Mondays, so Wednesday works): shaded paths and wooden houses, about 1.5 km of easy walking.",
-     "he": "09:45 מונית (16 דקות) למוזיאון האתנוגרפיה הפתוח (נפתח ב-10:00; סגור בימי שני, ולכן יום רביעי מתאים): שבילים מוצלים ובתי עץ, כ-1.5 ק\"מ הליכה קלה."
+     "en": "09:45 taxi (16 min) to the Open Air Museum of Ethnography (open 10:00; closed on Mondays, so Sunday works): shaded paths and wooden houses, about 1.5 km of easy walking; arrive at opening, before the weekend families.",
+     "he": "09:45 מונית (16 דקות) למוזיאון האתנוגרפיה הפתוח (נפתח ב-10:00; סגור בימי שני, ולכן יום ראשון מתאים): שבילים מוצלים ובתי עץ, כ-1.5 ק\"מ הליכה קלה; להגיע בפתיחה, לפני משפחות סוף השבוע."
     },
     {
-     "en": "12:00 Turtle Lake: a short flat shore walk and the Vake cable car, then a light lunch nearby.",
-     "he": "12:00 אגם הצבים: הליכה קצרה ושטוחה לאורך החוף ורכבל ואקה, ואז ארוחת צהריים קלה בסביבה."
+     "en": "12:00 Turtle Lake: a short flat shore walk and the Vake cable car (busier on a Sunday), then a light lunch nearby.",
+     "he": "12:00 אגם הצבים: הליכה קצרה ושטוחה לאורך החוף ורכבל ואקה (עמוס יותר ביום ראשון), ואז ארוחת צהריים קלה בסביבה."
     },
     {
-     "en": "14:30 taxi (24 min) to Gino Paradise Aquapark (a weekday; book tickets online in advance): slides, pools and a kids' water area for 3–4 hours; taxi back to the hotel by about 19:00 (18 min).",
-     "he": "14:30 מונית (24 דקות) לפארק המים Gino Paradise (יום חול; להזמין כרטיסים אונליין מראש): מגלשות, בריכות ואזור מים לילדים ל-3–4 שעות; מונית חזרה למלון עד כ-19:00 (18 דקות)."
+     "en": "13:30–17:00 off the heat: hotel pool and the air-conditioned room (Tbilisi typically 33–36 °C in the afternoon).",
+     "he": "13:30–17:00 הרחק מהחום: בריכת המלון והחדר הממוזג (בטביליסי בדרך כלל 33–36 מעלות אחר הצהריים)."
+    },
+    {
+     "en": "About 17:45 a taxi (22 min) to Mtatsminda Park: funicular, Ferris wheel and kids' rides in the cooler evening (Sunday: expect longer queues, so arrive by about 18:00), dinner with a view, taxi back by 21:30.",
+     "he": "בסביבות 17:45 מונית (22 דקות) לפארק מצמינדה: פוניקולר, גלגל ענק ומתקני ילדים בערב הקריר יותר (יום ראשון: צפויים תורים ארוכים יותר, ולכן להגיע עד כ-18:00), ארוחת ערב עם נוף, מונית חזרה עד 21:30."
+    }
+   ],
+   "attractions": [
+    "ethno",
+    "turtle",
+    "mtatsminda"
+   ],
+   "route": null,
+   "no_drive_key": "no_drive_city"
+  },
+  {
+   "day": 9,
+   "date": "2027-08-23",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Cable car and Narikala in the morning, Gino water park in the afternoon",
+    "he": "רכבל ונריקלה בבוקר, פארק המים ג'ינו אחר הצהריים"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_tb2",
+   "plan": [
+    {
+     "en": "08:45 taxi (4 min) to Rike Park: playground and the glass Bridge of Peace, then the cable car (3 min) up to Narikala by 10:00 (a Monday: short queues) and a short flat walk to the Mother of Georgia statue; walk or cable car back down. The ethnography museum is closed on Mondays, so it was done on Sunday.",
+     "he": "08:45 מונית (4 דקות) לפארק ריקה: מגרש משחקים וגשר השלום מזכוכית, ואז הרכבל (3 דקות) לנריקלה עד 10:00 (יום שני: תורים קצרים) והליכה קצרה ושטוחה לפסל 'אם גאורגיה'; יורדים ברגל או ברכבל. מוזיאון האתנוגרפיה סגור בימי שני, ולכן בוצע ביום ראשון."
+    },
+    {
+     "en": "Lunch, then a rest in the air-conditioned room until about 14:00.",
+     "he": "ארוחת צהריים, ואז מנוחה בחדר הממוזג עד כ-14:00."
+    },
+    {
+     "en": "14:30 taxi (24 min) to Gino Paradise Aquapark (a weekday: tickets cost less and it is less crowded; book tickets online in advance): slides, pools and a kids' water area for 3–4 hours; taxi back to the hotel by about 19:00 (18 min).",
+     "he": "14:30 מונית (24 דקות) לפארק המים Gino Paradise (יום חול: הכרטיסים זולים יותר והפארק פחות עמוס; להזמין כרטיסים אונליין מראש): מגלשות, בריכות ואזור מים לילדים ל-3–4 שעות; מונית חזרה למלון עד כ-19:00 (18 דקות)."
     },
     {
      "en": "Early dinner and an early night: tonight is short, the taxi to the airport leaves at about 01:30 (the kids sleep in the room from about 20:00; pack everything and settle the bill beforehand).",
@@ -3877,8 +4419,7 @@
     }
    ],
    "attractions": [
-    "ethno",
-    "turtle",
+    "cable",
     "gino"
    ],
    "route": null,
@@ -3886,10 +4427,10 @@
   },
   {
    "day": 10,
-   "date": "2027-08-26",
+   "date": "2027-08-24",
    "weekday": {
-    "en": "Thu",
-    "he": "ה'"
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Night taxi at 01:30 and the early flight home",
@@ -3900,11 +4441,12 @@
    "plan": [
     {
      "en": "Aegean A3 897 + A3 924 departs 04:35 and lands in TLV at 12:50.",
-     "he": "אגיאן A3 897 + A3 924 ממריאה ב-04:35 ונוחתת בנתב\"ג ב-12:50."
+     "he": "אגיאן A3 897 + A3 924 ממריאה ב-04:35 ונוחתת בנתב\"ג ב-12:50.",
+     "flight": "back"
     },
     {
-     "en": "About 01:30 a pre-booked taxi (book it a day ahead and confirm by message in the evening; Bolt/Yandex are scarce at night) takes you to Tbilisi Airport (TBS): 14 km / 20 min on empty roads, to arrive about 02:00–02:30 for the 04:35 departure; the kids sleep in the taxi. Check-out was settled the evening before.",
-     "he": "בסביבות 01:30 מונית שהוזמנה מראש (להזמין יום קודם ולאשר בהודעה בערב; ב-Bolt/Yandex יש מעט נהגים בלילה) לוקחת אתכם לשדה התעופה של טביליסי (TBS): 14 ק\"מ / 20 דקות בכבישים ריקים, כדי להגיע בסביבות 02:00–02:30 לטיסה ב-04:35; הילדים ישנים במונית. הצ'ק-אאוט הוסדר בערב הקודם."
+     "en": "About 01:30 on Tue 24 Aug (the night of Mon 23 → Tue 24) a pre-booked taxi (book it a day ahead and confirm by message in the evening; Bolt/Yandex are scarce at night) takes you to Tbilisi Airport (TBS): 14 km / 20 min on empty roads, to arrive about 02:00–02:30 for the 04:35 departure; the kids sleep in the taxi. Check-out was settled the evening before.",
+     "he": "בסביבות 01:30 ביום ג' 24 באוגוסט (בלילה שבין יום ב' 23 ליום ג' 24) מונית שהוזמנה מראש (להזמין יום קודם ולאשר בהודעה בערב; ב-Bolt/Yandex יש מעט נהגים בלילה) לוקחת אתכם לשדה התעופה של טביליסי (TBS): 14 ק\"מ / 20 דקות בכבישים ריקים, כדי להגיע בסביבות 02:00–02:30 לטיסה ב-04:35; הילדים ישנים במונית. הצ'ק-אאוט הוסדר בערב הקודם."
     }
    ],
    "attractions": [],
@@ -4060,11 +4602,11 @@
   "lines": [
    {
     "key": "flights",
-    "eur": 1745,
+    "eur": 1670,
     "status": "live",
     "label": {
-     "en": "Flights – Israir Airlines 6H 893 + Aegean A3 897 + A3 924, 4 passengers",
-     "he": "טיסות – ישראייר 6H 893 + אגיאן A3 897 + A3 924, 4 נוסעים"
+     "en": "Flights – Israir Airlines 6H 891 + Aegean A3 897 + A3 924, 4 passengers",
+     "he": "טיסות – ישראייר 6H 891 + אגיאן A3 897 + A3 924, 4 נוסעים"
     }
    },
    {
@@ -4141,7 +4683,7 @@
    },
    {
     "key": "hotels",
-    "eur": 1388.08,
+    "eur": 1437.13,
     "status": "live",
     "label": {
      "en": "Hotels – 3 stays, 9 nights, free cancellation",
@@ -4158,8 +4700,8 @@
     }
    }
   ],
-  "total_eur": 4144.08,
-  "live_part_eur": 3133.08,
+  "total_eur": 4118.13,
+  "live_part_eur": 3107.13,
   "attractions_local": 626,
   "fuel_km": 459
  },
@@ -4167,7 +4709,7 @@
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Georgia v1 research · prices checked 17–21 Oct 2026 · awaiting your approval",
+   "eyebrow": "Georgia v2 research · prices checked 9 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -4233,7 +4775,7 @@
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Georgia v1 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Georgia v2 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Borjomi",
@@ -4260,7 +4802,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "גאורגיה גרסה 1 · מחירים נבדקו 17–21.10.2026 · ממתין לאישורך",
+   "eyebrow": "גאורגיה גרסה 2 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -4326,7 +4868,7 @@
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "גאורגיה גרסה 1 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "גאורגיה גרסה 2 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "בורג'ומי",
@@ -4352,8 +4894,8 @@
   }
  },
  "approved": {
-  "version": "ge v1",
-  "approved_on": "2026-10-21",
+  "version": "ge v2",
+  "approved_on": "2026-11-09",
   "by": "traveller"
  },
  "map": {

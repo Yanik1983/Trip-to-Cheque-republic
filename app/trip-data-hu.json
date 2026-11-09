@@ -25,11 +25,11 @@
  },
  "variant": "eve",
  "version": {
-  "id": "v2",
-  "date": "2026-10-21",
+  "id": "v3",
+  "date": "2026-11-09",
   "label": {
-   "en": "Hungary v2",
-   "he": "הונגריה גרסה 2"
+   "en": "Hungary v3",
+   "he": "הונגריה גרסה 3"
   }
  },
  "taxi_days": [
@@ -38,24 +38,24 @@
  "car_km": 446.7,
  "changes": [
   {
-   "en": "What changed in v2: air conditioning is now a must in every hotel. All three hotels were checked on Booking.com and have free air conditioning in the family room or apartment, so the plan, dates, flights and prices are unchanged (about €4,306). What changed: the lists of alternative hotels now contain only air-conditioned options (Goldcentral Apartments was dropped), and every hotel shows an air-conditioning line.",
-   "he": "מה השתנה בגרסה 2: מיזוג אוויר הוא עכשיו חובה בכל מלון. שלושת המלונות נבדקו ב-Booking.com ובכולם יש מיזוג אוויר חינם בחדר המשפחתי או בדירה, ולכן התוכנית, התאריכים, הטיסות והמחירים לא השתנו (כ-4,306 €). מה שהשתנה: רשימות המלונות החלופיים כוללות עכשיו רק אפשרויות עם מיזוג אוויר (Goldcentral Apartments הוסר), ולכל מלון מופיעה שורת מיזוג אוויר."
+   "en": "What changed in v3: flight prices were re-checked on 9 Nov 2026 and went up (the v2 return flight alone: €688 → €1,244), so the cheapest dates moved from Mon 16 – Wed 25 Aug to Tue 17 – Thu 26 Aug 2027. Same plan, same three hotels (re-priced live, free cancellation, air-conditioned).",
+   "he": "מה השתנה בגרסה 3: מחירי הטיסות נבדקו שוב ב-9.11.2026 ועלו (רק טיסת החזור של גרסה 2: 688 € ← 1,244 €), ולכן התאריכים הזולים ביותר עברו מ-ב' 16 – ד' 25 באוגוסט ל-ג' 17 – ה' 26 באוגוסט 2027. אותה תוכנית, אותם שלושה מלונות (תומחרו מחדש, ביטול חינם, עם מיזוג)."
   },
   {
-   "en": "Dates Mon 16 – Wed 25 Aug 2027 (evening arrival + airport night): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,670).",
-   "he": "תאריכים ב' 16 – ד' 25 באוגוסט 2027 (נחיתה בערב + לילה בשדה): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-3,670 €)."
+   "en": "Dates Tue 17 – Thu 26 Aug 2027 (evening arrival + airport night): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,808).",
+   "he": "תאריכים ג' 17 – ה' 26 באוגוסט 2027 (נחיתה בערב + לילה בשדה): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-3,808 €)."
   },
   {
-   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Wizz Air W6 2304 18:50→21:20; back: TAROM RO 232 + RO 155 09:15→23:20.",
-   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: וויז אייר W6 2304 18:50←21:20; חזור: טארום RO 232 + RO 155 09:15←23:20."
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Wizz Air W6 2306 20:55→23:25; back: Israir Airlines 6H 728 11:40→15:50.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: וויז אייר W6 2306 20:55←23:25; חזור: ישראייר 6H 728 11:40←15:50."
   },
   {
-   "en": "Next best: Sat 14 – Mon 23 Aug (evening arrival + airport night), flights + bags + hotels + car ≈ €3,722 (+€52); back TAROM 13:30→23:20.",
-   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה בערב + לילה בשדה), טיסות + כבודה + מלונות + רכב כ-3,722 € (+52 €); חזור טארום 13:30←23:20."
+   "en": "Next best: Fri 20 – Sun 29 Aug (evening arrival + airport night), flights + bags + hotels + car ≈ €3,731 (+€-76); back Aegean 19:15→02:45.",
+   "he": "הבא בתור: ו' 20 – א' 29 באוגוסט (נחיתה בערב + לילה בשדה), טיסות + כבודה + מלונות + רכב כ-3,731 € (+-76 €); חזור אגיאן 19:15←02:45."
   },
   {
-   "en": "Next best: Sun 15 – Tue 24 Aug (evening arrival + airport night), flights + bags + hotels + car ≈ €3,860 (+€190); back TAROM 09:15→23:20.",
-   "he": "הבא בתור: א' 15 – ג' 24 באוגוסט (נחיתה בערב + לילה בשדה), טיסות + כבודה + מלונות + רכב כ-3,860 € (+190 €); חזור טארום 09:15←23:20."
+   "en": "Next best: Mon 16 – Wed 25 Aug (evening arrival + airport night), flights + bags + hotels + car ≈ €3,879 (+€72); back Israir Airlines 11:40→15:50.",
+   "he": "הבא בתור: ב' 16 – ד' 25 באוגוסט (נחיתה בערב + לילה בשדה), טיסות + כבודה + מלונות + רכב כ-3,879 € (+72 €); חזור ישראייר 11:40←15:50."
   },
   {
    "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
@@ -64,8 +64,8 @@
  ],
  "trip": {
   "dates": {
-   "start": "2027-08-16",
-   "end": "2027-08-25",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
    "days": 10,
    "nights": 9
   },
@@ -74,31 +74,490 @@
    "he": "טיול משפחתי בהונגריה: אגם בלטון ובודפשט"
   },
   "lede": {
-   "en": "Mon 16 – Wed 25 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night next to Budapest Airport, then a rental car to Veszprém Zoo and 4 nights at Lake Balaton (apartment with a pool, beaches, a ferry, an aquapark and a boat ride inside a cave), and finally 4 nights in a Budapest apartment without a car (zoo, Margaret Island pools, the Children's Railway, a chairlift and a Danube cruise).",
-   "he": "ב' 16 – ד' 25 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד צמוד לשדה התעופה של בודפשט, אחר כך רכב שכור לגן החיות של וספרם ו-4 לילות באגם בלטון (דירה עם בריכה, חופים, מעבורת, פארק מים ושיט בסירה בתוך מערה), ולסיום 4 לילות בדירה בבודפשט בלי רכב (גן חיות, הבריכות באי מרגיט, רכבת הילדים, רכבל כיסאות ושיט בדנובה)."
+   "en": "Tue 17 – Thu 26 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night next to Budapest Airport, then a rental car to Veszprém Zoo and 4 nights at Lake Balaton (apartment with a pool, beaches, a ferry, an aquapark and a boat ride inside a cave), and finally 4 nights in a Budapest apartment without a car (zoo, Margaret Island pools, the Children's Railway, a chairlift and a Danube cruise).",
+   "he": "ג' 17 – ה' 26 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד צמוד לשדה התעופה של בודפשט, אחר כך רכב שכור לגן החיות של וספרם ו-4 לילות באגם בלטון (דירה עם בריכה, חופים, מעבורת, פארק מים ושיט בסירה בתוך מערה), ולסיום 4 לילות בדירה בבודפשט בלי רכב (גן חיות, הבריכות באי מרגיט, רכבת הילדים, רכבל כיסאות ושיט בדנובה)."
   }
  },
  "currency": "EUR",
  "local_per_eur": 363,
  "local_currency": "HUF",
  "flights": {
+  "choices": {
+   "out": [
+    {
+     "id": "W6 2306@20:55",
+     "fn": "W6 2306",
+     "airline": "Wizz Air",
+     "airline_he": "וויז אייר",
+     "dep": "20:55",
+     "arr": "23:25",
+     "duration": "3h 30m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 520,
+     "bags_eur": 200,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "W6 2302@10:10",
+     "fn": "W6 2302",
+     "airline": "Wizz Air",
+     "airline_he": "וויז אייר",
+     "dep": "10:10",
+     "arr": "12:40",
+     "duration": "3h 30m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 600,
+     "bags_eur": 200,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "W6 2304@18:50",
+     "fn": "W6 2304",
+     "airline": "Wizz Air",
+     "airline_he": "וויז אייר",
+     "dep": "18:50",
+     "arr": "21:20",
+     "duration": "3h 30m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 600,
+     "bags_eur": 200,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "A3 929 + A3 878@05:00",
+     "fn": "A3 929 + A3 878",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "05:00",
+     "arr": "18:20",
+     "duration": "14h 20m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 845,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "A3 925 + A3 878@13:50",
+     "fn": "A3 925 + A3 878",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "13:50",
+     "arr": "18:20",
+     "duration": "5h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 845,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "IB 1874 + IB 871@05:30",
+     "fn": "IB 1874 + IB 871",
+     "airline": "Iberia",
+     "airline_he": "Iberia",
+     "dep": "05:30",
+     "arr": "14:55",
+     "duration": "10h 25m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 971,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 681 + LH 1682@17:05",
+     "fn": "LH 681 + LH 1682",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "17:05",
+     "arr": "23:30",
+     "duration": "7h 25m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 973,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "RO 156 + RO 231@00:20",
+     "fn": "RO 156 + RO 231",
+     "airline": "TAROM",
+     "airline_he": "טארום",
+     "dep": "00:20",
+     "arr": "08:45",
+     "duration": "9h 25m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 996,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "6H 723@11:15",
+     "fn": "6H 723",
+     "airline": "Israir Airlines",
+     "airline_he": "ישראייר",
+     "dep": "11:15",
+     "arr": "13:45",
+     "duration": "3h 30m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1001,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 695 + LH 1338@08:00",
+     "fn": "LH 695 + LH 1338",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "08:00",
+     "arr": "18:00",
+     "duration": "11h",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1015,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 687 + LH 1340@16:30",
+     "fn": "LH 687 + LH 1340",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "16:30",
+     "arr": "23:50",
+     "duration": "8h 20m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1015,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "6H 727@08:10",
+     "fn": "6H 727",
+     "airline": "Israir Airlines",
+     "airline_he": "ישראייר",
+     "dep": "08:10",
+     "arr": "10:40",
+     "duration": "3h 30m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1054,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LY 2367@19:40",
+     "fn": "LY 2367",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "19:40",
+     "arr": "22:05",
+     "duration": "3h 25m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1075,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "RO 156 + RO 237@00:20",
+     "fn": "RO 156 + RO 237",
+     "airline": "TAROM",
+     "airline_he": "טארום",
+     "dep": "00:20",
+     "arr": "17:50",
+     "duration": "18h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1090,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    }
+   ],
+   "back": [
+    {
+     "id": "A3 879 + A3 928@19:40",
+     "fn": "A3 879 + A3 928",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "19:40",
+     "arr": "02:45",
+     "duration": "6h 5m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 885,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "6H 728@11:40",
+     "fn": "6H 728",
+     "airline": "Israir Airlines",
+     "airline_he": "ישראייר",
+     "dep": "11:40",
+     "arr": "15:50",
+     "duration": "3h 10m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 929,
+     "bags_eur": 160,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "SN 2826 + SN 3293@18:00",
+     "fn": "SN 2826 + SN 3293",
+     "airline": "Brussels Airlines",
+     "airline_he": "בריסל איירליינס",
+     "dep": "18:00",
+     "arr": "02:40",
+     "duration": "7h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1004,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "SN 2826 + SN 3289@18:00",
+     "fn": "SN 2826 + SN 3289",
+     "airline": "Brussels Airlines",
+     "airline_he": "בריסל איירליינס",
+     "dep": "18:00",
+     "arr": "15:15",
+     "duration": "20h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1049,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "W6 2301@05:00",
+     "fn": "W6 2301",
+     "airline": "Wizz Air",
+     "airline_he": "וויז אייר",
+     "dep": "05:00",
+     "arr": "09:15",
+     "duration": "3h 15m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1057,
+     "bags_eur": 200,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "6H 726@19:30",
+     "fn": "6H 726",
+     "airline": "Israir Airlines",
+     "airline_he": "ישראייר",
+     "dep": "19:30",
+     "arr": "23:40",
+     "duration": "3h 10m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1119,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "A3 879 + A3 924@19:40",
+     "fn": "A3 879 + A3 924",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "19:40",
+     "arr": "12:50",
+     "duration": "16h 10m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1177,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "IB 872 + IB 1871@15:35",
+     "fn": "IB 872 + IB 1871",
+     "airline": "Iberia",
+     "airline_he": "Iberia",
+     "dep": "15:35",
+     "arr": "17:35",
+     "duration": "25h",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1189,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LY 2366@09:10",
+     "fn": "LY 2366",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "09:10",
+     "arr": "13:15",
+     "duration": "3h 5m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1258,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "BT 492 + BT 771@19:40",
+     "fn": "BT 492 + BT 771",
+     "airline": "Air Baltic",
+     "airline_he": "Air Baltic",
+     "dep": "19:40",
+     "arr": "04:55",
+     "duration": "8h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1274,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "A3 879 + A3 928@19:40",
+     "fn": "A3 879 + A3 928",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "19:40",
+     "arr": "02:45",
+     "duration": "30h 5m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1277,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 1341 + LH 686@05:55",
+     "fn": "LH 1341 + LH 686",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "05:55",
+     "arr": "15:25",
+     "duration": "8h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1280,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 1335 + LH 690@11:45",
+     "fn": "LH 1335 + LH 690",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "11:45",
+     "arr": "23:15",
+     "duration": "10h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1280,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 1337 + LH 690@14:25",
+     "fn": "LH 1337 + LH 690",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "14:25",
+     "arr": "23:15",
+     "duration": "7h 50m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1280,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    }
+   ],
+   "variant": "eve",
+   "note": {
+    "en": "Default = the cheapest flight that fits the plan (flights + bags). Pick another one to see the total change; the day-by-day text keeps the chosen plan's timing.",
+    "he": "ברירת המחדל = הטיסה הזולה ביותר שמתאימה לתוכנית (טיסה + כבודה). בחירה בטיסה אחרת משנה את הסכום הכולל; הטקסט היומי נשאר לפי התוכנית שנבחרה."
+   }
+  },
   "chosen": [
    {
     "dir": {
      "en": "Outbound",
      "he": "הלוך"
     },
-    "date": "2027-08-16",
+    "date": "2027-08-17",
     "wd": {
-     "en": "Mon",
-     "he": "ב'"
+     "en": "Tue",
+     "he": "ג'"
     },
-    "flight": "W6 2304",
+    "flight": "W6 2306",
     "airline": "Wizz Air",
     "from": "TLV",
     "to": "BUD",
-    "dep": "18:50",
-    "arr": "21:20",
+    "dep": "20:55",
+    "arr": "23:25",
     "duration": "3h 30m",
     "price_eur": 520
    },
@@ -107,30 +566,30 @@
      "en": "Return",
      "he": "חזור"
     },
-    "date": "2027-08-25",
+    "date": "2027-08-26",
     "wd": {
-     "en": "Wed",
-     "he": "ד'"
+     "en": "Thu",
+     "he": "ה'"
     },
-    "flight": "RO 232 + RO 155",
-    "airline": "TAROM",
+    "flight": "6H 728",
+    "airline": "Israir Airlines",
     "from": "BUD",
     "to": "TLV",
-    "dep": "09:15",
-    "arr": "23:20",
-    "duration": "13h 5m",
-    "price_eur": 688
+    "dep": "11:40",
+    "arr": "15:50",
+    "duration": "3h 10m",
+    "price_eur": 929
    }
   ],
   "evening_outbound_options": [
    {
     "what": {
-     "en": "Wizz Air W6 2304 · 18:50 → 21:20 · nonstop",
-     "he": "וויז אייר W6 2304 · 18:50 → 21:20 · ישירה"
+     "en": "Wizz Air W6 2306 · 20:55 → 23:25 · nonstop",
+     "he": "וויז אייר W6 2306 · 20:55 → 23:25 · ישירה"
     },
     "when": {
-     "en": "Mon 16 Aug",
-     "he": "ב' 16 באוגוסט"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
     "price_eur": 520,
     "note": {
@@ -141,81 +600,81 @@
    },
    {
     "what": {
-     "en": "Wizz Air W6 2306 · 20:55 → 23:25 · nonstop",
-     "he": "וויז אייר W6 2306 · 20:55 → 23:25 · ישירה"
-    },
-    "when": {
-     "en": "Mon 16 Aug",
-     "he": "ב' 16 באוגוסט"
-    },
-    "price_eur": 520,
-    "note": {
-     "en": "Same price.",
-     "he": "אותו מחיר."
-    },
-    "best": false
-   },
-   {
-    "what": {
      "en": "Wizz Air W6 2302 · 10:10 → 12:40 · nonstop",
      "he": "וויז אייר W6 2302 · 10:10 → 12:40 · ישירה"
     },
     "when": {
-     "en": "Mon 16 Aug",
-     "he": "ב' 16 באוגוסט"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
-    "price_eur": 720,
+    "price_eur": 600,
     "note": {
-     "en": "€200 more.",
-     "he": "יקרה ב-200 €."
+     "en": "€80 more.",
+     "he": "יקרה ב-80 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "El Al LY 2367 · 19:40 → 22:05 · nonstop",
-     "he": "אל על LY 2367 · 19:40 → 22:05 · ישירה"
+     "en": "Wizz Air W6 2304 · 18:50 → 21:20 · nonstop",
+     "he": "וויז אייר W6 2304 · 18:50 → 21:20 · ישירה"
     },
     "when": {
-     "en": "Mon 16 Aug",
-     "he": "ב' 16 באוגוסט"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
-    "price_eur": 761,
+    "price_eur": 600,
     "note": {
-     "en": "€241 more.",
-     "he": "יקרה ב-241 €."
+     "en": "€80 more.",
+     "he": "יקרה ב-80 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Aegean A3 927 + A3 878 · 19:55 → 18:20 (+1) · 1 stop ",
-     "he": "אגיאן A3 927 + A3 878 · 19:55 → 18:20 (+1) · עצירה ב"
+     "en": "Israir Airlines 6H 723 · 11:15 → 13:45 · nonstop",
+     "he": "ישראייר 6H 723 · 11:15 → 13:45 · ישירה"
     },
     "when": {
-     "en": "Mon 16 Aug",
-     "he": "ב' 16 באוגוסט"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
-    "price_eur": 774,
+    "price_eur": 1001,
     "note": {
-     "en": "€254 more; 23 hr 25 min with a connection; arrives the next day.",
-     "he": "יקרה ב-254 €; 23 שע׳ 25 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€481 more.",
+     "he": "יקרה ב-481 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "SWISS LX 253 + LX 2250 · 18:15 → 08:55 (+1) · 1 stop ",
-     "he": "סוויס LX 253 + LX 2250 · 18:15 → 08:55 (+1) · עצירה ב"
+     "en": "Aegean A3 929 + A3 878 · 05:00 → 18:20 · 1 stop ",
+     "he": "אגיאן A3 929 + A3 878 · 05:00 → 18:20 · עצירה ב"
     },
     "when": {
-     "en": "Mon 16 Aug",
-     "he": "ב' 16 באוגוסט"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
-    "price_eur": 850,
+    "price_eur": 845,
     "note": {
-     "en": "€330 more; 15 hr 40 min with a connection; arrives the next day.",
-     "he": "יקרה ב-330 €; 15 שע׳ 40 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€325 more; 14 hr 20 min with a connection.",
+     "he": "יקרה ב-325 €; 14 שע׳ 20 דק׳ עם קונקשן."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 925 + A3 878 · 13:50 → 18:20 · 1 stop ",
+     "he": "אגיאן A3 925 + A3 878 · 13:50 → 18:20 · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 845,
+    "note": {
+     "en": "€325 more; 5 hr 30 min with a connection.",
+     "he": "יקרה ב-325 €; 5 שע׳ 30 דק׳ עם קונקשן."
     },
     "best": false
    }
@@ -223,14 +682,14 @@
   "return_options": [
    {
     "what": {
-     "en": "TAROM RO 232 + RO 155 · 09:15 → 23:20 · 1 stop ",
-     "he": "טארום RO 232 + RO 155 · 09:15 → 23:20 · עצירה ב"
+     "en": "Israir Airlines 6H 728 · 11:40 → 15:50 · nonstop",
+     "he": "ישראייר 6H 728 · 11:40 → 15:50 · ישירה"
     },
     "when": {
-     "en": "Wed 25 Aug",
-     "he": "ד' 25 באוגוסט"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
-    "price_eur": 688,
+    "price_eur": 929,
     "note": {
      "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
      "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
@@ -243,29 +702,29 @@
      "he": "וויז אייר W6 2301 · 05:00 → 09:15 · ישירה"
     },
     "when": {
-     "en": "Wed 25 Aug",
-     "he": "ד' 25 באוגוסט"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
-    "price_eur": 951,
+    "price_eur": 1057,
     "note": {
-     "en": "€263 more.",
-     "he": "יקרה ב-263 €."
+     "en": "€128 more.",
+     "he": "יקרה ב-128 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "El Al LY 2368 · 23:15 → 03:20 (+1) · nonstop",
-     "he": "אל על LY 2368 · 23:15 → 03:20 (+1) · ישירה"
+     "en": "Israir Airlines 6H 726 · 19:30 → 23:40 · nonstop",
+     "he": "ישראייר 6H 726 · 19:30 → 23:40 · ישירה"
     },
     "when": {
-     "en": "Wed 25 Aug",
-     "he": "ד' 25 באוגוסט"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
-    "price_eur": 1127,
+    "price_eur": 1119,
     "note": {
-     "en": "€439 more; arrives the next day.",
-     "he": "יקרה ב-439 €; נוחתת למחרת."
+     "en": "€190 more.",
+     "he": "יקרה ב-190 €."
     },
     "best": false
    },
@@ -275,13 +734,29 @@
      "he": "אל על LY 2366 · 09:10 → 13:15 · ישירה"
     },
     "when": {
-     "en": "Wed 25 Aug",
-     "he": "ד' 25 באוגוסט"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
     "price_eur": 1258,
     "note": {
-     "en": "€570 more.",
-     "he": "יקרה ב-570 €."
+     "en": "€329 more.",
+     "he": "יקרה ב-329 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 879 + A3 928 · 19:40 → 02:45 (+1) · 1 stop ",
+     "he": "אגיאן A3 879 + A3 928 · 19:40 → 02:45 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
+    },
+    "price_eur": 885,
+    "note": {
+     "en": "€44 cheaper; 6 hr 5 min with a connection; arrives the next day.",
+     "he": "זולה ב-44 €; 6 שע׳ 5 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    },
@@ -291,29 +766,13 @@
      "he": "בריסל איירליינס SN 2826 + SN 3293 · 18:00 → 02:40 (+1) · עצירה ב"
     },
     "when": {
-     "en": "Wed 25 Aug",
-     "he": "ד' 25 באוגוסט"
-    },
-    "price_eur": 965,
-    "note": {
-     "en": "€277 more; 7 hr 40 min with a connection; arrives the next day.",
-     "he": "יקרה ב-277 €; 7 שע׳ 40 דק׳ עם קונקשן; נוחתת למחרת."
-    },
-    "best": false
-   },
-   {
-    "what": {
-     "en": "SWISS LX 2251 + LX 256 · 09:45 → 03:35 (+1) · 1 stop ",
-     "he": "סוויס LX 2251 + LX 256 · 09:45 → 03:35 (+1) · עצירה ב"
-    },
-    "when": {
-     "en": "Wed 25 Aug",
-     "he": "ד' 25 באוגוסט"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
     "price_eur": 1004,
     "note": {
-     "en": "€316 more; 16 hr 50 min with a connection; arrives the next day.",
-     "he": "יקרה ב-316 €; 16 שע׳ 50 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€75 more; 7 hr 40 min with a connection; arrives the next day.",
+     "he": "יקרה ב-75 €; 7 שע׳ 40 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    }
@@ -330,107 +789,7 @@
  },
  "date_options": [
   {
-   "total_eur": 3670.2,
-   "plan": "eve",
-   "start": "2027-08-16",
-   "end": "2027-08-25",
-   "out": {
-    "eur": 520,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W6 2304",
-    "dep": "18:50",
-    "arr": "21:20"
-   },
-   "back": {
-    "eur": 688,
-    "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 232 + RO 155",
-    "dep": "09:15",
-    "arr": "23:20"
-   },
-   "hotels_eur": 1810.2,
-   "car_eur": 292,
-   "chosen": true
-  },
-  {
-   "total_eur": 3722.41,
-   "plan": "eve",
-   "start": "2027-08-14",
-   "end": "2027-08-23",
-   "out": {
-    "eur": 600,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W6 2304",
-    "dep": "18:50",
-    "arr": "21:20"
-   },
-   "back": {
-    "eur": 611,
-    "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 232 + RO 155",
-    "dep": "13:30",
-    "arr": "23:20"
-   },
-   "hotels_eur": 1859.41,
-   "car_eur": 292,
-   "chosen": false
-  },
-  {
-   "total_eur": 3859.89,
-   "plan": "eve",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
-   "out": {
-    "eur": 660,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W6 2306",
-    "dep": "20:55",
-    "arr": "23:25"
-   },
-   "back": {
-    "eur": 688,
-    "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 232 + RO 155",
-    "dep": "09:15",
-    "arr": "23:20"
-   },
-   "hotels_eur": 1859.89,
-   "car_eur": 292,
-   "chosen": false
-  },
-  {
-   "total_eur": 3920.6,
-   "plan": "day",
-   "start": "2027-08-16",
-   "end": "2027-08-25",
-   "out": {
-    "eur": 720,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W6 2302",
-    "dep": "10:10",
-    "arr": "12:40"
-   },
-   "back": {
-    "eur": 688,
-    "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 232 + RO 155",
-    "dep": "09:15",
-    "arr": "23:20"
-   },
-   "hotels_eur": 1787.6,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 3974.41,
+   "total_eur": 3731.41,
    "plan": "eve",
    "start": "2027-08-20",
    "end": "2027-08-29",
@@ -443,44 +802,19 @@
     "arr": "23:25"
    },
    "back": {
-    "eur": 1012,
+    "eur": 769,
     "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 632 + OS 81",
-    "dep": "11:15",
-    "arr": "17:45"
+    "airline": "Aegean",
+    "flight": "A3 879 + A3 928",
+    "dep": "19:15",
+    "arr": "02:45"
    },
    "hotels_eur": 1870.41,
    "car_eur": 292,
    "chosen": false
   },
   {
-   "total_eur": 4008.81,
-   "plan": "day",
-   "start": "2027-08-14",
-   "end": "2027-08-23",
-   "out": {
-    "eur": 850,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257 + LX 2254",
-    "dep": "04:50",
-    "arr": "14:00"
-   },
-   "back": {
-    "eur": 611,
-    "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 232 + RO 155",
-    "dep": "13:30",
-    "arr": "23:20"
-   },
-   "hotels_eur": 1862.81,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4018.5,
+   "total_eur": 3807.5,
    "plan": "eve",
    "start": "2027-08-17",
    "end": "2027-08-26",
@@ -493,19 +827,69 @@
     "arr": "23:25"
    },
    "back": {
-    "eur": 1056,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W6 2301",
-    "dep": "05:00",
-    "arr": "09:15"
+    "eur": 885,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 879 + A3 928",
+    "dep": "19:40",
+    "arr": "02:45"
    },
    "hotels_eur": 1750.5,
+   "car_eur": 292,
+   "chosen": true
+  },
+  {
+   "total_eur": 3879.2,
+   "plan": "eve",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 520,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2306",
+    "dep": "20:55",
+    "arr": "23:25"
+   },
+   "back": {
+    "eur": 897,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 728",
+    "dep": "11:40",
+    "arr": "15:50"
+   },
+   "hotels_eur": 1810.2,
    "car_eur": 292,
    "chosen": false
   },
   {
-   "total_eur": 4148.9,
+   "total_eur": 3926.41,
+   "plan": "eve",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 600,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2304",
+    "dep": "18:50",
+    "arr": "21:20"
+   },
+   "back": {
+    "eur": 815,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 879 + A3 924",
+    "dep": "19:15",
+    "arr": "12:50"
+   },
+   "hotels_eur": 1859.41,
+   "car_eur": 292,
+   "chosen": false
+  },
+  {
+   "total_eur": 3937.9,
    "plan": "day",
    "start": "2027-08-17",
    "end": "2027-08-26",
@@ -518,19 +902,19 @@
     "arr": "12:40"
    },
    "back": {
-    "eur": 1056,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W6 2301",
-    "dep": "05:00",
-    "arr": "09:15"
+    "eur": 885,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 879 + A3 928",
+    "dep": "19:40",
+    "arr": "02:45"
    },
    "hotels_eur": 1727.9,
    "car_eur": 365,
    "chosen": false
   },
   {
-   "total_eur": 4160.02,
+   "total_eur": 3942.02,
    "plan": "eve",
    "start": "2027-08-18",
    "end": "2027-08-27",
@@ -543,19 +927,19 @@
     "arr": "21:20"
    },
    "back": {
-    "eur": 1222,
+    "eur": 1004,
     "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 640 + OS 81",
-    "dep": "06:45",
-    "arr": "17:45"
+    "airline": "Brussels Airlines",
+    "flight": "SN 2826 + SN 3293",
+    "dep": "18:00",
+    "arr": "02:40"
    },
    "hotels_eur": 1766.02,
    "car_eur": 292,
    "chosen": false
   },
   {
-   "total_eur": 4259.71,
+   "total_eur": 4097.71,
    "plan": "eve",
    "start": "2027-08-19",
    "end": "2027-08-28",
@@ -568,69 +952,94 @@
     "arr": "21:20"
    },
    "back": {
-    "eur": 1222,
+    "eur": 1060,
     "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 632 + OS 81",
-    "dep": "11:15",
-    "arr": "17:45"
+    "airline": "Israir Airlines",
+    "flight": "6H 718",
+    "dep": "11:40",
+    "arr": "15:50"
    },
    "hotels_eur": 1825.71,
    "car_eur": 292,
    "chosen": false
   },
   {
-   "total_eur": 4310.29,
-   "plan": "day",
+   "total_eur": 4130.89,
+   "plan": "eve",
    "start": "2027-08-15",
    "end": "2027-08-24",
    "out": {
-    "eur": 1090,
-    "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 84 + OS 631",
-    "dep": "06:00",
-    "arr": "10:35"
+    "eur": 660,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2306",
+    "dep": "20:55",
+    "arr": "23:25"
    },
    "back": {
-    "eur": 688,
+    "eur": 959,
     "bags_eur": 160,
-    "airline": "TAROM",
-    "flight": "RO 232 + RO 155",
-    "dep": "09:15",
-    "arr": "23:20"
+    "airline": "Israir Airlines",
+    "flight": "6H 728",
+    "dep": "11:40",
+    "arr": "15:50"
    },
-   "hotels_eur": 1847.29,
+   "hotels_eur": 1859.89,
+   "car_eur": 292,
+   "chosen": false
+  },
+  {
+   "total_eur": 4209.6,
+   "plan": "day",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 800,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 2302",
+    "dep": "10:10",
+    "arr": "12:40"
+   },
+   "back": {
+    "eur": 897,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 728",
+    "dep": "11:40",
+    "arr": "15:50"
+   },
+   "hotels_eur": 1787.6,
    "car_eur": 365,
    "chosen": false
   },
   {
-   "total_eur": 4409.81,
+   "total_eur": 4222.81,
    "plan": "day",
    "start": "2027-08-20",
    "end": "2027-08-29",
    "out": {
-    "eur": 850,
+    "eur": 906,
     "bags_eur": 160,
-    "airline": "El Al",
-    "flight": "LY 2365",
-    "dep": "05:35",
-    "arr": "08:00"
+    "airline": "KLM",
+    "flight": "KL 462 + KL 1365",
+    "dep": "04:45",
+    "arr": "13:25"
    },
    "back": {
-    "eur": 1012,
+    "eur": 769,
     "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 632 + OS 81",
-    "dep": "11:15",
-    "arr": "17:45"
+    "airline": "Aegean",
+    "flight": "A3 879 + A3 928",
+    "dep": "19:15",
+    "arr": "02:45"
    },
    "hotels_eur": 1862.81,
    "car_eur": 365,
    "chosen": false
   },
   {
-   "total_eur": 4490.42,
+   "total_eur": 4272.42,
    "plan": "day",
    "start": "2027-08-18",
    "end": "2027-08-27",
@@ -643,19 +1052,69 @@
     "arr": "12:40"
    },
    "back": {
-    "eur": 1222,
+    "eur": 1004,
     "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 640 + OS 81",
-    "dep": "06:45",
-    "arr": "17:45"
+    "airline": "Brussels Airlines",
+    "flight": "SN 2826 + SN 3293",
+    "dep": "18:00",
+    "arr": "02:40"
    },
    "hotels_eur": 1743.42,
    "car_eur": 365,
    "chosen": false
   },
   {
-   "total_eur": 4650.11,
+   "total_eur": 4377.81,
+   "plan": "day",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 1015,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 691 + LH 1336",
+    "dep": "04:45",
+    "arr": "13:40"
+   },
+   "back": {
+    "eur": 815,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 879 + A3 924",
+    "dep": "19:15",
+    "arr": "12:50"
+   },
+   "hotels_eur": 1862.81,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4485.29,
+   "plan": "day",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 994,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 727",
+    "dep": "08:10",
+    "arr": "10:40"
+   },
+   "back": {
+    "eur": 959,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 728",
+    "dep": "11:40",
+    "arr": "15:50"
+   },
+   "hotels_eur": 1847.29,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4488.11,
    "plan": "day",
    "start": "2027-08-19",
    "end": "2027-08-28",
@@ -668,12 +1127,12 @@
     "arr": "12:40"
    },
    "back": {
-    "eur": 1222,
+    "eur": 1060,
     "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 632 + OS 81",
-    "dep": "11:15",
-    "arr": "17:45"
+    "airline": "Israir Airlines",
+    "flight": "6H 718",
+    "dep": "11:40",
+    "arr": "15:50"
    },
    "hotels_eur": 1803.11,
    "car_eur": 365,
@@ -738,8 +1197,8 @@
   "lines": [
    [
     {
-     "en": "Estate car, automatic, 4 days (≈ €60/day), Tue 17 – Sat 21 Aug",
-     "he": "רכב סטיישן אוטומטי, 4 ימים (כ-60 € ליום), ג' 17 – ש' 21 באוגוסט"
+     "en": "Estate car, automatic, 4 days (≈ €60/day), Wed 18 – Sun 22 Aug",
+     "he": "רכב סטיישן אוטומטי, 4 ימים (כ-60 € ליום), ד' 18 – א' 22 באוגוסט"
     },
     240,
     true
@@ -778,21 +1237,21 @@
    ]
   ],
   "text": {
-   "en": "Pick-up Budapest Airport (Terminal 2) Tue 17 Aug 11:00, return Sat 21 Aug by 11:00 (4 days; check the grace period). Category: intermediate/standard estate, e.g. Škoda Octavia Combi automatic – 2 large suitcases + 2 trolleys in the boot, 2 high-back boosters on the rear seat. The price is an estimate (August averages for BUD are about $59/day for all classes; an automatic estate costs more). Confirm the e-vignette (e-matrica) is included.",
-   "he": "איסוף בשדה התעופה של בודפשט (טרמינל 2) ב-ג' 17 באוגוסט ב-11:00, החזרה ב-ש' 21 באוגוסט עד 11:00 (4 ימים; לבדוק את זמן החסד). קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית – 2 מזוודות גדולות ו-2 טרולים בתא המטען, 2 בוסטרים עם גב במושב האחורי. המחיר הוא הערכה (הממוצע באוגוסט בשדה של בודפשט כ-59 $ ליום לכל הקטגוריות; סטיישן אוטומטי יקר יותר). לוודא שמדבקת הכביש המהיר (e-matrica) כלולה."
+   "en": "Pick-up Budapest Airport (Terminal 2) Wed 18 Aug 11:00, return Sun 22 Aug by 11:00 (4 days; check the grace period). Category: intermediate/standard estate, e.g. Škoda Octavia Combi automatic – 2 large suitcases + 2 trolleys in the boot, 2 high-back boosters on the rear seat. The price is an estimate (August averages for BUD are about $59/day for all classes; an automatic estate costs more). Confirm the e-vignette (e-matrica) is included.",
+   "he": "איסוף בשדה התעופה של בודפשט (טרמינל 2) ב-ד' 18 באוגוסט ב-11:00, החזרה ב-א' 22 באוגוסט עד 11:00 (4 ימים; לבדוק את זמן החסד). קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית – 2 מזוודות גדולות ו-2 טרולים בתא המטען, 2 בוסטרים עם גב במושב האחורי. המחיר הוא הערכה (הממוצע באוגוסט בשדה של בודפשט כ-59 $ ליום לכל הקטגוריות; סטיישן אוטומטי יקר יותר). לוודא שמדבקת הכביש המהיר (e-matrica) כלולה."
   },
   "pickup": {
    "place": "Budapest Ferenc Liszt International Airport",
    "lat": 47.433,
    "lng": 19.2617,
-   "when": "2027-08-17T11:00",
+   "when": "2027-08-18T11:00",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.433000,19.261700&travelmode=driving"
   },
   "dropoff": {
    "place": "Budapest Ferenc Liszt International Airport",
    "lat": 47.433,
    "lng": 19.2617,
-   "when": "2027-08-21T11:00",
+   "when": "2027-08-22T11:00",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=47.433000,19.261700&travelmode=driving"
   }
  },
@@ -827,20 +1286,20 @@
     "en": "Budapest Airport, Terminal 2 (about 3 min walk to arrivals)",
     "he": "שדה התעופה של בודפשט, טרמינל 2 (כ-3 דקות הליכה מהנחיתות)"
    },
-   "checkin": "2027-08-16",
-   "checkout": "2027-08-17",
+   "checkin": "2027-08-17",
+   "checkout": "2027-08-18",
    "nights": 1,
    "total_eur": 234.8,
    "booking_score": 8.5,
-   "booking_reviews": 9908,
-   "booking_url": "https://www.booking.com/hotel/hu/ibis-styles-budapest-airport.html?checkin=2027-08-16&checkout=2027-08-17&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_reviews": 9877,
+   "booking_url": "https://www.booking.com/hotel/hu/ibis-styles-budapest-airport.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Suite with a double bed and a sofa bed for 2 adults + 2 children, free cancellation. Breakfast included (per Booking.com Q&A). 24-hour reception, so the late landing is fine; the hotel is at Terminal 2, a few minutes on foot. Indoor play area. Confirm the sofa bed for 2 kids when booking.",
     "he": "סוויטה עם מיטה זוגית וספה נפתחת ל-2 מבוגרים ו-2 ילדים, ביטול חינם. ארוחת בוקר כלולה (לפי Booking.com). קבלה 24 שעות, כך שנחיתה מאוחרת אינה בעיה; המלון בטרמינל 2, כמה דקות הליכה. יש פינת משחקים מקורה. כדאי לוודא בהזמנה שהספה מתאימה לשני הילדים."
    },
    "alt": {
-    "en": "Only options with air conditioning. Same building: TRIBE Budapest Airport €242 (Booking 9.0, 3,937 reviews; 'Tribe Max' room for 4, breakfast €22 per person extra). Budapest Airport Hotel Stáció €210.80 (Booking 9.2, 1,600 reviews; free 24/7 shuttle, indoor pool, breakfast included; about 5 min by shuttle). Cheapest: Vecsési Panzió €90.01 (Booking 9.1, 2,555 reviews), but a taxi is needed. (Alternative prices were checked for 17–26 Aug.)",
-    "he": "רק אפשרויות עם מיזוג אוויר. באותו בניין: TRIBE Budapest Airport ב-242 € (Booking 9.0, 3,937 ביקורות; חדר 'Tribe Max' ל-4, ארוחת בוקר 22 € לאדם בתוספת). Budapest Airport Hotel Stáció ב-210.80 € (Booking 9.2, 1,600 ביקורות; שאטל חינם 24/7, בריכה מקורה, ארוחת בוקר כלולה; כ-5 דקות בשאטל). הזול ביותר: Vecsési Panzió ב-90.01 € (Booking 9.1, 2,555 ביקורות), אבל צריך מונית. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "Only options with air conditioning. Same building: TRIBE Budapest Airport €244 (Booking 9.0, 3,937 reviews; 'Tribe Max' room for 4, breakfast €22 per person extra). Budapest Airport Hotel Stáció €210.80 (Booking 9.2, 1,600 reviews; free 24/7 shuttle, indoor pool, breakfast included; about 5 min by shuttle). Cheapest: Vecsési Panzió €90.01 (Booking 9.1, 2,555 reviews), but a taxi is needed.",
+    "he": "רק אפשרויות עם מיזוג אוויר. באותו בניין: TRIBE Budapest Airport ב-244 € (Booking 9.0, 3,937 ביקורות; חדר 'Tribe Max' ל-4, ארוחת בוקר 22 € לאדם בתוספת). Budapest Airport Hotel Stáció ב-210.80 € (Booking 9.2, 1,600 ביקורות; שאטל חינם 24/7, בריכה מקורה, ארוחת בוקר כלולה; כ-5 דקות בשאטל). הזול ביותר: Vecsési Panzió ב-90.01 € (Booking 9.1, 2,555 ביקורות), אבל צריך מונית."
    },
    "google": {
     "name": "ibis Styles Budapest Airport",
@@ -880,8 +1339,8 @@
      "source": "Booking.com",
      "score": 8.5,
      "out_of": 10,
-     "reviews": 9908,
-     "url": "https://www.booking.com/hotel/hu/ibis-styles-budapest-airport.html?checkin=2027-08-16&checkout=2027-08-17&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 9877,
+     "url": "https://www.booking.com/hotel/hu/ibis-styles-budapest-airport.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -900,20 +1359,20 @@
     "en": "Balatonfüred, north shore of Lake Balaton (2.4 km to Esterházy Beach, 15 min to Tihany, 22 min to Veszprém Zoo)",
     "he": "בלטונפירד, החוף הצפוני של אגם בלטון (2.4 ק\"מ לחוף אסטרהאזי, 15 דקות לטיהאני, 22 דקות לגן החיות של וספרם)"
    },
-   "checkin": "2027-08-17",
-   "checkout": "2027-08-21",
+   "checkin": "2027-08-18",
+   "checkout": "2027-08-22",
    "nights": 4,
    "total_eur": 918.8,
    "booking_score": 9.0,
    "booking_reviews": 43,
-   "booking_url": "https://www.booking.com/hotel/hu/landhaus-forra-s.html?checkin=2027-08-17&checkout=2027-08-21&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_url": "https://www.booking.com/hotel/hu/landhaus-forra-s.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Two-bedroom apartment (sleeps up to 5) with a full kitchen (dishwasher, microwave), free cancellation. Seasonal outdoor pool in the garden under a retractable cover, garden with BBQ, free private parking. Check-in from 15:00, check-out by 10:00. The pool is not very big; the lake beaches are a 5–10 min drive.",
     "he": "דירת 2 חדרי שינה (עד 5) עם מטבח מלא (מדיח, מיקרוגל), ביטול חינם. בריכה חיצונית עונתית בגינה עם כיסוי נפתח, גינה עם מנגל, חניה פרטית חינם. צ'ק-אין מ-15:00, צ'ק-אאוט עד 10:00. הבריכה לא גדולה; החופים של האגם במרחק 5–10 דקות נסיעה."
    },
    "alt": {
-    "en": "Only options with air conditioning. South shore (very shallow water), with a pool: Happy Apartments, Balatonlelle, €909.64 (Booking 9.1, 124 reviews). Cheaper, no pool: Robinson szigete, Balatonfüred, €513.68 (Booking 9.2, 322 reviews, playground). Indoor pool and kids' play equipment: Balazs Villa, Balatonfüred, €1,057.42 (Booking 8.7, 173 reviews). (Alternative prices were checked for 17–26 Aug.)",
-    "he": "רק אפשרויות עם מיזוג אוויר. החוף הדרומי (מים רדודים מאוד), עם בריכה: Happy Apartments, בלטונלה, ב-909.64 € (Booking 9.1, 124 ביקורות). זול יותר, בלי בריכה: Robinson szigete, בלטונפיורד, ב-513.68 € (Booking 9.2, 322 ביקורות, מגרש משחקים). בריכה מקורה וציוד משחקים לילדים: Balazs Villa, בלטונפיורד, ב-1,057.42 € (Booking 8.7, 173 ביקורות). (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "Only options with air conditioning. South shore (very shallow water), with a pool: Happy Apartments, Balatonlelle, €909.92 (Booking 9.1, 124 reviews). Cheaper, no pool: Robinson szigete, Balatonfüred, €513.68 (Booking 9.2, 322 reviews, playground). Indoor pool and kids' play equipment: Balazs Villa, Balatonfüred, €1,032.85 (Booking 8.7, 173 reviews).",
+    "he": "רק אפשרויות עם מיזוג אוויר. החוף הדרומי (מים רדודים מאוד), עם בריכה: Happy Apartments, בלטונלה, ב-909.92 € (Booking 9.1, 124 ביקורות). זול יותר, בלי בריכה: Robinson szigete, בלטונפיורד, ב-513.68 € (Booking 9.2, 322 ביקורות, מגרש משחקים). בריכה מקורה וציוד משחקים לילדים: Balazs Villa, בלטונפיורד, ב-1,032.85 € (Booking 8.7, 173 ביקורות)."
    },
    "google_note": {
     "en": "Only 43 Booking.com and 23 Google reviews, but all very good.",
@@ -958,7 +1417,7 @@
      "score": 9.0,
      "out_of": 10,
      "reviews": 43,
-     "url": "https://www.booking.com/hotel/hu/landhaus-forra-s.html?checkin=2027-08-17&checkout=2027-08-21&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "url": "https://www.booking.com/hotel/hu/landhaus-forra-s.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -977,20 +1436,20 @@
     "en": "Budapest District XIII, Szabolcs utca (quiet side street; Lehel tér metro M3 about 900 m, City Park and the zoo about 1.8 km, Margaret Island about 1.5 km)",
     "he": "בודפשט רובע 13, רחוב סבולץ' (רחוב צדדי שקט; מטרו M3 בתחנת להל טר כ-900 מ', הפארק העירוני וגן החיות כ-1.8 ק\"מ, האי מרגיט כ-1.5 ק\"מ)"
    },
-   "checkin": "2027-08-21",
-   "checkout": "2027-08-25",
+   "checkin": "2027-08-22",
+   "checkout": "2027-08-26",
    "nights": 4,
-   "total_eur": 656.6,
+   "total_eur": 596.9,
    "booking_score": 9.2,
-   "booking_reviews": 1134,
-   "booking_url": "https://www.booking.com/hotel/hu/westside-garden-by-urbanrent-budapest.html?checkin=2027-08-21&checkout=2027-08-25&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_reviews": 1185,
+   "booking_url": "https://www.booking.com/hotel/hu/westside-garden-by-urbanrent-budapest.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "One-bedroom apartment for 4: queen bed in the bedroom + sofa bed in the living room, fully equipped kitchenette, air conditioning, lift, garden courtyard, free cancellation. Self check-in with a key safe (from 15:00); you arrive around 12:30, so leave the bags at the FirstHost reception (Dob utca 34–36) or ask for an early check-in.",
     "he": "דירת חדר שינה אחד ל-4: מיטת קווין בחדר + ספה נפתחת בסלון, מטבחון מאובזר, מיזוג, מעלית, חצר עם גינה, ביטול חינם. צ'ק-אין עצמי עם כספת מפתחות (מ-15:00); מגיעים בסביבות 12:30, אז אפשר להשאיר מזוודות בקבלה של FirstHost (רחוב דוב 34–36) או לבקש צ'ק-אין מוקדם."
    },
    "alt": {
-    "en": "Only options with air conditioning. Near Deák tér (3 metro lines), with an indoor play area: Budapest Center Residence €762.11 (Booking 9.1, 1,508 reviews; lively nightlife street). With 24-hour reception: Florin Apart Hotel €981 (Booking 9.1, 6,927 reviews). Dropped for having no confirmed air conditioning: Goldcentral Apartments. (Alternative prices were checked for 17–26 Aug.)",
-    "he": "רק אפשרויות עם מיזוג אוויר. ליד כיכר דאק (3 קווי מטרו), עם פינת משחקים מקורה: Budapest Center Residence ב-762.11 € (Booking 9.1, 1,508 ביקורות; רחוב עם חיי לילה). עם קבלה 24 שעות: Florin Apart Hotel ב-981 € (Booking 9.1, 6,927 ביקורות). הוסר כי אין אישור למיזוג אוויר: Goldcentral Apartments. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "Only options with air conditioning. Near Deák tér (3 metro lines), with an indoor play area: Budapest Center Residence €885.25 (Booking 9.1, 1,508 reviews; lively nightlife street). With 24-hour reception: Florin Apart Hotel €1,006.95 (Booking 9.1, 6,927 reviews). Dropped for having no confirmed air conditioning: Goldcentral Apartments.",
+    "he": "רק אפשרויות עם מיזוג אוויר. ליד כיכר דאק (3 קווי מטרו), עם פינת משחקים מקורה: Budapest Center Residence ב-885.25 € (Booking 9.1, 1,508 ביקורות; רחוב עם חיי לילה). עם קבלה 24 שעות: Florin Apart Hotel ב-1,006.95 € (Booking 9.1, 6,927 ביקורות). הוסר כי אין אישור למיזוג אוויר: Goldcentral Apartments."
    },
    "google": {
     "name": "WestSide Garden Apartments by FirstHost",
@@ -1024,14 +1483,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 164.15,
+   "price_per_night_eur": 149.22,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 9.2,
      "out_of": 10,
-     "reviews": 1134,
-     "url": "https://www.booking.com/hotel/hu/westside-garden-by-urbanrent-budapest.html?checkin=2027-08-21&checkout=2027-08-25&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 1185,
+     "url": "https://www.booking.com/hotel/hu/westside-garden-by-urbanrent-budapest.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -2143,10 +2602,10 @@
  "days": [
   {
    "day": 1,
-   "date": "2027-08-16",
+   "date": "2027-08-17",
    "weekday": {
-    "en": "Mon",
-    "he": "ב'"
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Evening flight, night at the airport",
@@ -2156,8 +2615,9 @@
    "overnight": "hotel_ibisair",
    "plan": [
     {
-     "en": "18:50 Wizz Air W6 2304 from TLV, landing at BUD 21:20.",
-     "he": "18:50 וויז אייר W6 2304 מנתב\"ג, נחיתה בבודפשט ב-21:20."
+     "en": "20:55 Wizz Air W6 2306 from TLV, landing at BUD 23:25.",
+     "he": "20:55 וויז אייר W6 2306 מנתב\"ג, נחיתה בבודפשט ב-23:25.",
+     "flight": "out"
     },
     {
      "en": "Walk about 3 minutes from Terminal 2 arrivals to the ibis Styles Budapest Airport. Kids to bed.",
@@ -2170,10 +2630,10 @@
   },
   {
    "day": 2,
-   "date": "2027-08-17",
+   "date": "2027-08-18",
    "weekday": {
-    "en": "Tue",
-    "he": "ג'"
+    "en": "Wed",
+    "he": "ד'"
    },
    "title": {
     "en": "Car pick-up, Veszprém Zoo, on to Balatonfüred",
@@ -2402,10 +2862,10 @@
   },
   {
    "day": 3,
-   "date": "2027-08-18",
+   "date": "2027-08-19",
    "weekday": {
-    "en": "Wed",
-    "he": "ד'"
+    "en": "Thu",
+    "he": "ה'"
    },
    "title": {
     "en": "Ferry to the shallow south-shore beach, then Tihany",
@@ -2635,10 +3095,10 @@
   },
   {
    "day": 4,
-   "date": "2027-08-19",
+   "date": "2027-08-20",
    "weekday": {
-    "en": "Thu",
-    "he": "ה'"
+    "en": "Fri",
+    "he": "ו'"
    },
    "title": {
     "en": "Aquapark day + lake boat",
@@ -2915,10 +3375,10 @@
   },
   {
    "day": 5,
-   "date": "2027-08-20",
+   "date": "2027-08-21",
    "weekday": {
-    "en": "Fri",
-    "he": "ו'"
+    "en": "Sat",
+    "he": "ש'"
    },
    "title": {
     "en": "Boat ride inside a cave, then the beach",
@@ -3319,10 +3779,10 @@
   },
   {
    "day": 6,
-   "date": "2027-08-21",
+   "date": "2027-08-22",
    "weekday": {
-    "en": "Sat",
-    "he": "ש'"
+    "en": "Sun",
+    "he": "א'"
    },
    "title": {
     "en": "Back to Budapest, return the car, Margaret Island",
@@ -3575,10 +4035,10 @@
   },
   {
    "day": 7,
-   "date": "2027-08-22",
+   "date": "2027-08-23",
    "weekday": {
-    "en": "Sun",
-    "he": "א'"
+    "en": "Mon",
+    "he": "ב'"
    },
    "title": {
     "en": "Budapest Zoo",
@@ -3604,10 +4064,10 @@
   },
   {
    "day": 8,
-   "date": "2027-08-23",
+   "date": "2027-08-24",
    "weekday": {
-    "en": "Mon",
-    "he": "ב'"
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Palatinus pools + Danube cruise",
@@ -3640,10 +4100,10 @@
   },
   {
    "day": 9,
-   "date": "2027-08-24",
+   "date": "2027-08-25",
    "weekday": {
-    "en": "Tue",
-    "he": "ג'"
+    "en": "Wed",
+    "he": "ד'"
    },
    "title": {
     "en": "Children's Railway + chairlift in the Buda Hills",
@@ -3675,10 +4135,10 @@
   },
   {
    "day": 10,
-   "date": "2027-08-25",
+   "date": "2027-08-26",
    "weekday": {
-    "en": "Wed",
-    "he": "ד'"
+    "en": "Thu",
+    "he": "ה'"
    },
    "title": {
     "en": "Fly home",
@@ -3688,8 +4148,9 @@
    "overnight": null,
    "plan": [
     {
-     "en": "TAROM RO 232 + RO 155 departs 09:15 and lands in TLV at 23:20.",
-     "he": "טארום RO 232 + RO 155 ממריאה ב-09:15 ונוחתת בנתב\"ג ב-23:20."
+     "en": "Israir Airlines 6H 728 departs 11:40 and lands in TLV at 15:50.",
+     "he": "ישראייר 6H 728 ממריאה ב-11:40 ונוחתת בנתב\"ג ב-15:50.",
+     "flight": "back"
     },
     {
      "en": "Relaxed breakfast, taxi to the airport (32 min, ≈ €35) about 2.5 hours before departure.",
@@ -3837,11 +4298,11 @@
   "lines": [
    {
     "key": "flights",
-    "eur": 1208,
+    "eur": 1449,
     "status": "live",
     "label": {
-     "en": "Flights – Wizz Air W6 2304 + TAROM RO 232 + RO 155, 4 passengers",
-     "he": "טיסות – וויז אייר W6 2304 + טארום RO 232 + RO 155, 4 נוסעים"
+     "en": "Flights – Wizz Air W6 2306 + Israir Airlines 6H 728, 4 passengers",
+     "he": "טיסות – וויז אייר W6 2306 + ישראייר 6H 728, 4 נוסעים"
     }
    },
    {
@@ -3918,7 +4379,7 @@
    },
    {
     "key": "hotels",
-    "eur": 1810.2,
+    "eur": 1750.5,
     "status": "live",
     "label": {
      "en": "Hotels – 3 stays, 9 nights, free cancellation",
@@ -3935,8 +4396,8 @@
     }
    }
   ],
-  "total_eur": 4306.2,
-  "live_part_eur": 3018.2,
+  "total_eur": 4487.5,
+  "live_part_eur": 3199.5,
   "attractions_local": 174650,
   "fuel_km": 482
  },
@@ -3944,7 +4405,7 @@
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Hungary v2 research · air-conditioning check 21 Oct 2026 · awaiting your approval",
+   "eyebrow": "Hungary v3 research · prices checked 9 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -3997,7 +4458,7 @@
    "gmaps": "Google Maps",
    "open_route": "Open route in Google Maps",
    "overnight": "Overnight",
-   "home": "Home: TLV 23:20",
+   "home": "Home: TLV 15:50",
    "optional": "OPTIONAL",
    "live": "LIVE",
    "est": "EST",
@@ -4010,7 +4471,7 @@
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Hungary v2 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Hungary v3 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Lake Balaton",
@@ -4037,7 +4498,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "הונגריה גרסה 2 · בדיקת מיזוג אוויר 21.10.2026 · ממתין לאישורך",
+   "eyebrow": "הונגריה גרסה 3 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -4090,7 +4551,7 @@
    "gmaps": "Google Maps",
    "open_route": "פתח מסלול ב-Google Maps",
    "overnight": "לינה",
-   "home": "בבית: נתב\"ג 23:20",
+   "home": "בבית: נתב\"ג 15:50",
    "optional": "אופציונלי",
    "live": "חי",
    "est": "הערכה",
@@ -4103,7 +4564,7 @@
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "הונגריה גרסה 2 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "הונגריה גרסה 3 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "אגם בלטון",
@@ -4129,8 +4590,8 @@
   }
  },
  "approved": {
-  "version": "hu v2",
-  "approved_on": "2026-10-21",
+  "version": "hu v3",
+  "approved_on": "2026-11-09",
   "by": "traveller"
  },
  "map": {

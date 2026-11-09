@@ -711,6 +711,9 @@ h1,h2,h3{line-height:1.25;margin:0}
 .topbar{flex-wrap:wrap}
 .dsel{flex-basis:100%;display:flex;gap:6px;overflow-x:auto}
 .ac-line{color:var(--accent);margin:4px 0}
+.fpick{display:grid;gap:10px}.fsel{display:grid;gap:4px;font-weight:700}.fsel select{width:100%;min-height:44px;padding:8px;border-radius:10px;border:1px solid var(--border);background:var(--surface);color:var(--text);font:inherit;font-weight:500;font-size:14px;text-align:start}
+.fwarn{background:#fff4e0;color:#5a3b00;border-radius:10px;padding:8px 10px;font-size:13.5px}@media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .fwarn{background:#3a2a0a;color:#ffe3b0}}
+.fdelta{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .ils{color:var(--muted);font-weight:500;font-size:.85em;margin-inline-start:6px;white-space:nowrap}
 td.num .ils{display:block;margin:0}
 .ilsv{font-size:.6em;font-weight:600;color:var(--muted);margin-top:2px}
@@ -845,15 +848,43 @@ footer .links a{font-weight:600}
 (function(){
 'use strict';
 var DATA=null, OUTLINE=null, lang='he', tab='overview', selDay=1, mapSel='all', dest='cz';
-var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data.json',total:4146.52,outline:'czechia.geojson',report:'../v6/index.html'},
- {id:'hu',he:'הונגריה',en:'Hungary',data:'trip-data-hu.json',total:4306.2,outline:'hungary.geojson',report:'../hu/v2/index.html'},
- {id:'pl',he:'פולין',en:'Poland',data:'trip-data-pl.json',total:5048.43,outline:'poland.geojson',report:'../pl/v3/index.html'},
- {id:'ro',he:'רומניה',en:'Romania',data:'trip-data-ro.json',total:4024.88,outline:'romania.geojson',report:'../ro/v2/index.html'},
- {id:'si',he:'סלובניה',en:'Slovenia',data:'trip-data-si.json',total:4872.3,outline:'slovenia.geojson',report:'../si/v1/index.html'},
- {id:'ge',he:'גאורגיה',en:'Georgia',data:'trip-data-ge.json',total:4144.08,outline:'georgia.geojson',report:'../ge/v1/index.html'},
+var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data-cz.json',total:4140.93,outline:'czechia.geojson',report:'../cz/v7/index.html'},
+ {id:'hu',he:'הונגריה',en:'Hungary',data:'trip-data-hu.json',total:4487.5,outline:'hungary.geojson',report:'../hu/v3/index.html'},
+ {id:'pl',he:'פולין',en:'Poland',data:'trip-data-pl.json',total:5053.08,outline:'poland.geojson',report:'../pl/v4/index.html'},
+ {id:'ro',he:'רומניה',en:'Romania',data:'trip-data-ro.json',total:4101.1,outline:'romania.geojson',report:'../ro/v3/index.html'},
+ {id:'si',he:'סלובניה',en:'Slovenia',data:'trip-data-si.json',total:5029.3,outline:'slovenia.geojson',report:'../si/v2/index.html'},
+ {id:'ge',he:'גאורגיה',en:'Georgia',data:'trip-data-ge.json',total:4118.13,outline:'georgia.geojson',report:'../ge/v2/index.html'},
  {id:'de',he:'היער השחור',en:'Black Forest',data:'trip-data-de.json',total:5613.35,outline:'germany.geojson',report:'../de/v1/index.html'}];
 var CACHE={};
 var FX={rate:null,date:null,live:false};
+var DATA0=null;
+function cloneJ(x){return JSON.parse(JSON.stringify(x))}
+function fchoices(){return DATA0&&DATA0.flights&&DATA0.flights.choices&&DATA0.flights.choices.out&&DATA0.flights.choices.out.length?DATA0.flights.choices:null}
+function defaultSel(){var C=fchoices();if(!C)return null;var o=C.out.filter(function(x){return x.default})[0]||C.out[0],b=C.back.filter(function(x){return x.default})[0]||C.back[0];return {out:o.id,back:b.id}}
+function loadSel(){var C=fchoices();if(!C)return null;var s=null;try{s=JSON.parse(localStorage.getItem('trip-flights-'+dest)||'null')}catch(e){}
+  if(s&&C.out.some(function(x){return x.id===s.out})&&C.back.some(function(x){return x.id===s.back}))return s;return defaultSel()}
+function saveSel(s){try{if(s&&JSON.stringify(s)!==JSON.stringify(defaultSel()))localStorage.setItem('trip-flights-'+dest,JSON.stringify(s));else localStorage.removeItem('trip-flights-'+dest)}catch(e){}}
+function pickC(list,id){return list.filter(function(x){return x.id===id})[0]}
+function flightLineText(kind,c,L){
+  var ap=DATA0.country.airport.code,city=DATA0.country.city;
+  if(kind==='out')return L==='he'?c.dep+' '+(c.airline_he||c.airline)+' '+c.fn+' מנתב"ג, נחיתה ב'+city.he+' ב-'+c.arr+'.':c.dep+' '+c.airline+' '+c.fn+' from TLV, landing at '+ap+' '+c.arr+'.';
+  return L==='he'?(c.airline_he||c.airline)+' '+c.fn+' ממריאה ב-'+c.dep+' ונוחתת בנתב"ג ב-'+c.arr+'.':c.airline+' '+c.fn+' departs '+c.dep+' and lands in TLV at '+c.arr+'.';
+}
+/* rebuild DATA from the pristine copy with the selected flights applied (budget, totals, flight cards, day lines) */
+function applySel(){
+  DATA=cloneJ(DATA0);var C=fchoices();if(!C){return}
+  var sel=SEL=loadSel(),o=pickC(C.out,sel.out),b=pickC(C.back,sel.back),o0=pickC(C.out,defaultSel().out),b0=pickC(C.back,defaultSel().back);
+  var fl=DATA.flights.chosen;
+  [[0,o,'out'],[1,b,'back']].forEach(function(t){var f=fl[t[0]],c=t[1];f.flight=c.fn;f.airline=c.airline;f.dep=c.dep;f.arr=c.arr;f.duration=c.duration;f.price_eur=c.price_eur;f.next_day=c.next_day});
+  var dFl=(o.price_eur+b.price_eur)-(o0.price_eur+b0.price_eur),dBag=(o.bags_eur+b.bags_eur)-(o0.bags_eur+b0.bags_eur),B=DATA.budget;
+  B.lines.forEach(function(l){if(l.key==='flights')l.eur=Math.round((l.eur+dFl)*100)/100;if(l.key==='bags')l.eur=Math.round((l.eur+dBag)*100)/100});
+  B.total_eur=Math.round((B.total_eur+dFl+dBag)*100)/100;B.live_part_eur=Math.round((B.live_part_eur+dFl)*100)/100;
+  if(DATA.flights.baggage_eur!=null)DATA.flights.baggage_eur=Math.round((DATA.flights.baggage_eur+dBag)*100)/100;
+  DATA.days.forEach(function(d){d.plan=d.plan.map(function(p){if(!p.flight)return p;var c=p.flight==='out'?o:b;return {en:flightLineText(p.flight,c,'en'),he:flightLineText(p.flight,c,'he'),flight:p.flight}})});
+  var dd=DESTS.filter(function(x){return x.id===dest})[0];if(dd)dd.total=B.total_eur;
+  DATA._sel={dFl:dFl,dBag:dBag,o:o,b:b,o0:o0,b0:b0};
+}
+var SEL=null;
 (function(){try{var c=JSON.parse(localStorage.getItem('trip-fx-ils')||'null');if(c&&c.rate>0){FX.rate=c.rate;FX.date=c.date}}catch(e){}})();
 function loadFx(){
   var srcs=[['https://api.frankfurter.dev/v1/latest?base=EUR&symbols=ILS',function(j){return [j.rates&&j.rates.ILS,j.date]}],
@@ -875,19 +906,19 @@ var DAYCOL=['#e6194b','#f58231','#b58900','#2e9e44','#0f8b8d','#2a7de1','#5a4fcf
 var S={
  he:{tabs:{overview:'סקירה',map:'מפה',days:'ימים',flights:'טיסות',hotels:'מלונות',car:'רכב',budget:'תקציב'},
   attractions:'אטרקציות',hotel:'מלון',arr_dep:'נחיתה והמראה',pickup:'איסוף רכב',dropoff:'החזרת רכב',
-  kids:'לילדים',fx_line:'שער חי: 1 € = ₪{x}',fx_live:'בנק אירופי (ECB), מתעדכן בפתיחה',fx_cached:'שער שמור (אין חיבור)',book_total:'סה"כ',checkin:'צ\'ק-אין',checkout:'צ\'ק-אאוט',room:'החדר',alt:'חלופות',map_all:'הכל',
+  kids:'לילדים',fl_pick:'בחירת טיסות',fl_out:'טיסת הלוך',fl_back:'טיסת חזור',fl_cheapest:'הזולה ביותר',fl_reset:'חזרה לזולה ביותר',fl_nonstop:'ישירה',fl_stop:'עצירה',fl_nofit:'לא מתאימה לתוכנית',fl_timewarn:'הטיסה נוחתת ב-{x}; התוכנית היומית מניחה נחיתה ב-{y}, אז כדאי להתאים את היום הראשון.',fl_back_warn:'הטיסה ממריאה ב-{x}; בתוכנית היומית היציאה לשדה מתוכננת לטיסה ב-{y}.',fl_delta:'שינוי בסכום הכולל',fl_note_default:'ברירת המחדל היא הטיסה הזולה ביותר שמתאימה לתוכנית (טיסה + כבודה).',fx_line:'שער חי: 1 € = ₪{x}',fx_live:'בנק אירופי (ECB), מתעדכן בפתיחה',fx_cached:'שער שמור (אין חיבור)',book_total:'סה"כ',checkin:'צ\'ק-אין',checkout:'צ\'ק-אאוט',room:'החדר',alt:'חלופות',map_all:'הכל',
   flightsel:'הטיסות שנבחרו',price:'מחיר',duration:'משך',baggage_fee:'עלות כבודה',lines:'פריטים',
   notes_driving:'הערות נהיגה',map_fail:'ספריית המפה לא נטענה.',
   err_t:'לא ניתן לטעון את נתוני הטיול',err_d:'הקובץ trip-data.json לא נטען. בדקו את החיבור, ופתחו את האפליקציה דרך שרת אינטרנט (לא ישירות כקובץ).',
-  report:'דוח מחקר גרסה 5',report4:'גרסה 4',report6:'תוכנית גרסה 6',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',plan_page:'דף התוכנית',dates_cmp:'השוואת תאריכים וטיסות',
+  report:'דוח מחקר גרסה 5',report4:'גרסה 4',report6:'תוכנית גרסה 6',report7:'תוכנית גרסה 7',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',plan_page:'דף התוכנית',dates_cmp:'השוואת תאריכים וטיסות',
   lang:'EN',overview_flights:'סיכום טיסות',total_car:'סה"כ רכב',sources:'מקורות'},
  en:{tabs:{overview:'Overview',map:'Map',days:'Days',flights:'Flights',hotels:'Hotels',car:'Car',budget:'Budget'},
   attractions:'Attractions',hotel:'Hotel',arr_dep:'Arrival & departure',pickup:'Car pick-up',dropoff:'Car return',
-  fx_line:'Live rate: €1 = ₪{x}',fx_live:'ECB reference rate, updated on open',fx_cached:'saved rate (offline)',kids:'Kids',book_total:'Total',checkin:'Check-in',checkout:'Check-out',room:'Room',alt:'Alternatives',map_all:'All',
+  fx_line:'Live rate: €1 = ₪{x}',fx_live:'ECB reference rate, updated on open',fx_cached:'saved rate (offline)',fl_pick:'Choose flights',fl_out:'Outbound flight',fl_back:'Return flight',fl_cheapest:'cheapest',fl_reset:'Back to the cheapest',fl_nonstop:'nonstop',fl_stop:'stop',fl_nofit:'does not fit the plan',fl_timewarn:'This flight lands at {x}; the day-by-day plan assumes landing at {y}, so adjust Day 1.',fl_back_warn:'This flight departs at {x}; the plan is timed for the {y} flight.',fl_delta:'Change in the total',fl_note_default:'The default is the cheapest flight that fits the plan (flight + bags).',kids:'Kids',book_total:'Total',checkin:'Check-in',checkout:'Check-out',room:'Room',alt:'Alternatives',map_all:'All',
   flightsel:'Chosen flights',price:'Price',duration:'Duration',baggage_fee:'Baggage fee',lines:'Items',
   notes_driving:'Driving notes',map_fail:'The map library did not load.',
   err_t:'Could not load the trip data',err_d:'The file trip-data.json did not load. Check your connection and open the app through a web server (not directly as a file).',
-  report:'Research report v5',report4:'v4',report6:'Plan v6',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',plan_page:'plan page',dates_cmp:'Dates and flights compared',
+  report:'Research report v5',report4:'v4',report6:'Plan v6',report7:'Plan v7',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',plan_page:'plan page',dates_cmp:'Dates and flights compared',
   lang:'עב',overview_flights:'Flights summary',total_car:'Car total',sources:'Sources'}
 };
 var ICON={
@@ -931,7 +962,7 @@ function renderTabbar(){
   }).join('');
 }
 function renderFooter(){
-  var r=dest==='cz'?'<a href="../v6/index.html">'+esc(ST('report6'))+'</a> · <a href="../v5/index.html">'+esc(ST('report'))+'</a> · <a href="../v4/index.html">'+esc(ST('report4'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a>'
+  var r=dest==='cz'?'<a href="../cz/v7/index.html">'+esc(ST('report7'))+'</a> · <a href="../v6/index.html">'+esc(ST('report6'))+'</a> · <a href="../v5/index.html">'+esc(ST('report'))+'</a> · <a href="../v4/index.html">'+esc(ST('report4'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a>'
     :'<a href="'+DST().report+'">'+esc(T(DATA.version.label))+' – '+esc(ST('plan_page'))+'</a>';
   $('#foot').innerHTML='<div class="links">'+r+'</div><p>'+esc(ST('credits'))+'</p>';
 }
@@ -970,8 +1001,23 @@ function optTable(rows){
   return tableWrap('<table><thead><tr><th>'+esc(U('option'))+'</th><th>'+esc(U('when'))+'</th><th class="num">'+esc(U('price4'))+'</th><th>'+esc(U('notes'))+'</th></tr></thead><tbody>'+
    rows.map(function(r){return '<tr'+(r.best?' class="best"':'')+'><td>'+esc(T(r.what))+(r.best?' '+badge('best','★'):'')+'</td><td>'+esc(T(r.when))+'</td><td class="num">'+eur(r.price_eur)+'</td><td>'+esc(T(r.note))+'</td></tr>'}).join('')+'</tbody></table>');
 }
+function fOptLabel(c){
+  var tot=c.price_eur+c.bags_eur,st=c.stops?(ST('fl_stop')+(c.via?' '+c.via:'')):ST('fl_nonstop');
+  return (c.default?'★ ':c.fit===false?'⚠ ':'')+'€'+Math.round(c.price_eur)+'+'+Math.round(c.bags_eur)+' · '+(lang==='he'?(c.airline_he||c.airline):c.airline)+' '+c.fn+' · '+c.dep+'→'+c.arr+(c.next_day?' (+1)':'')+' · '+st;
+}
+function flightPicker(){
+  var C=fchoices();if(!C||!DATA._sel)return '';var S=DATA._sel,sel=SEL,def=defaultSel();
+  function sel_(kind,list,cur){return '<label class="fsel"><span>'+esc(ST(kind==='out'?'fl_out':'fl_back'))+'</span><select data-fsel="'+kind+'" dir="ltr">'+list.map(function(c){return '<option value="'+esc(c.id)+'"'+(c.id===cur?' selected':'')+'>'+esc(fOptLabel(c))+'</option>'}).join('')+'</select></label>'}
+  var warn='';
+  if(S.o.arr!==S.o0.arr||S.o.fit===false)warn+='<div class="fwarn">⚠ '+esc(fill(ST('fl_timewarn').replace('{y}',S.o0.arr),S.o.arr))+(S.o.fit===false?' ('+esc(ST('fl_nofit'))+')':'')+'</div>';
+  if(S.b.dep!==S.b0.dep)warn+='<div class="fwarn">⚠ '+esc(fill(ST('fl_back_warn').replace('{y}',S.b0.dep),S.b.dep))+'</div>';
+  var d=S.dFl+S.dBag,changed=sel.out!==def.out||sel.back!==def.back;
+  return '<div class="card fpick"><h3>'+esc(ST('fl_pick'))+'</h3>'+sel_('out',C.out,sel.out)+sel_('back',C.back,sel.back)+
+    '<div class="muted">'+esc(ST('fl_note_default'))+' <span dir="ltr">€ = '+esc(U('price4'))+' + '+esc(U('bags'))+'</span></div>'+warn+
+    (changed?'<div class="fdelta">'+esc(ST('fl_delta'))+': <b>'+(d>0?'+':d<0?'−':'±')+eur(Math.abs(d))+'</b> <button type="button" class="btn small" data-freset="1">'+esc(ST('fl_reset'))+'</button></div>':'')+'</div>';
+}
 function vFlights(){
-  var F=DATA.flights,h='<h2 class="sec-title">'+esc(ST('flightsel'))+'</h2>'+F.chosen.map(function(f){return '<div class="card">'+flightHtml(f)+'</div>'}).join('');
+  var F=DATA.flights,h='<h2 class="sec-title">'+esc(ST('flightsel'))+'</h2>'+flightPicker()+F.chosen.map(function(f){return '<div class="card">'+flightHtml(f)+'</div>'}).join('');
   h+='<div class="card"><h3>'+esc(U('bags'))+'</h3><p>'+esc(T(F.baggage_text))+'</p><div><b>'+esc(ST('baggage_fee'))+':</b> '+eur(F.baggage_eur)+' '+statusBadge('estimate')+'</div></div>';
   h+='<h2 class="sec-title">'+esc(U('sec_flights'))+'</h2>'+alts(U('out_opts'),optTable(F.evening_outbound_options));
   h+=alts(U('ret_opts'),optTable(F.return_options));
@@ -1251,7 +1297,12 @@ function initLang(){
   lang=(l==='en'||l==='he')?l:'he';
 }
 
+document.addEventListener('change',function(e){
+  var t=e.target;if(!t||!t.matches||!t.matches('select[data-fsel]'))return;
+  var s=loadSel()||defaultSel();s[t.getAttribute('data-fsel')]=t.value;saveSel(s);var y=window.scrollY;applySel();renderAll();window.scrollTo(0,y);
+});
 document.addEventListener('click',function(e){
+  if(e.target&&e.target.closest&&e.target.closest('[data-freset]')){saveSel(null);var y0=window.scrollY;applySel();renderAll();window.scrollTo(0,y0);return}
   var t=e.target.closest&&e.target.closest('[data-tab],[data-day],[data-msel],[data-goto],[data-dest],#langBtn');
   if(!t||!DATA)return;
   if(t.id==='langBtn'){setLang(lang==='he'?'en':'he');return}
@@ -1287,7 +1338,7 @@ function loadDest(id){
   var p=CACHE[d.id]||Promise.all([getJson(d.data),getJson(d.outline).catch(function(){return null})]);
   CACHE[d.id]=p;
   return p.then(function(r){
-    dest=d.id;DATA=r[0];OUTLINE=r[1];selDay=1;mapSel='all';
+    dest=d.id;DATA0=r[0];DATA=cloneJ(DATA0);OUTLINE=r[1];selDay=1;mapSel='all';applySel();
     try{localStorage.setItem('trip-dest',dest)}catch(e){}
     try{var u=new URL(location.href);u.searchParams.set('d',dest);history.replaceState(null,'',u.pathname+u.search+u.hash)}catch(e){}
     renderAll();window.scrollTo(0,0);

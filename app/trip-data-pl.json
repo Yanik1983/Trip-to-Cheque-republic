@@ -25,11 +25,11 @@
  },
  "variant": "eve",
  "version": {
-  "id": "v3",
-  "date": "2026-10-21",
+  "id": "v4",
+  "date": "2026-11-09",
   "label": {
-   "en": "Poland v3",
-   "he": "פולין גרסה 3"
+   "en": "Poland v4",
+   "he": "פולין גרסה 4"
   }
  },
  "taxi_days": [
@@ -41,28 +41,24 @@
  "car_km": 379.5,
  "changes": [
   {
-   "en": "What changed in v3: air conditioning is now a must in every hotel. All three hotels (Hampton Kraków Airport, Góralski Resort, PlayRoom Aparthotel) were checked on Booking.com and have free air conditioning in the family room or apartment, so the plan, dates and flights are unchanged. The airport hotel Hampton was re-priced (€311.97 for the night of 18 Aug, up from €262.60), so the total is about €5,048 instead of €4,999 (+€49).",
-   "he": "מה השתנה בגרסה 3: מיזוג אוויר הוא עכשיו חובה בכל מלון. שלושת המלונות (Hampton קרקוב שדה התעופה, Góralski Resort, PlayRoom Aparthotel) נבדקו ב-Booking.com ובכולם יש מיזוג אוויר חינם בחדר המשפחתי או בדירה, ולכן התוכנית, התאריכים והטיסות לא השתנו. מלון שדה התעופה Hampton תומחר מחדש (311.97 € ללילה של 18 באוגוסט, במקום 262.60 €), ולכן הסכום הכולל כ-5,048 € במקום 4,999 € (+49 €)."
+   "en": "What changed in v4: flights were re-checked on 9 Nov 2026; the cheapest dates are now Tue 17 – Thu 26 Aug 2027 (one day earlier than v3), Lufthansa both ways. Same plan and hotels, re-priced live.",
+   "he": "מה השתנה בגרסה 4: הטיסות נבדקו שוב ב-9.11.2026; התאריכים הזולים ביותר הם עכשיו ג' 17 – ה' 26 באוגוסט 2027 (יום אחד לפני גרסה 3), לופטהנזה בשני הכיוונים. אותה תוכנית ואותם מלונות, תומחרו מחדש."
   },
   {
-   "en": "The lists of alternative hotels now contain only air-conditioned options (KRK stop near airport, Apartamenty Bujaś Resort, Aparthotel Royal Resort SPA and Calliope Apartments were dropped). The option of a daytime arrival (Austrian 06:00 departure) is about €31 cheaper, but we kept the easier evening flight.",
-   "he": "רשימות המלונות החלופיים כוללות עכשיו רק אפשרויות עם מיזוג אוויר (KRK stop near airport, Apartamenty Bujaś Resort, Aparthotel Royal Resort SPA ו-Calliope Apartments הוסרו). אפשרות של נחיתה ביום (יציאה ב-06:00 באוסטריאן) זולה בכ-31 €, אבל השארנו את טיסת הערב הנוחה יותר."
+   "en": "Dates Tue 17 – Thu 26 Aug 2027 (evening arrival + airport night): the cheapest of 10 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €4,036).",
+   "he": "תאריכים ג' 17 – ה' 26 באוגוסט 2027 (נחיתה בערב + לילה בשדה): הזול מבין 10 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-4,036 €)."
   },
   {
-   "en": "Dates Wed 18 – Fri 27 Aug 2027 (evening arrival + airport night): the cheapest of 10 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €4,031).",
-   "he": "תאריכים ד' 18 – ו' 27 באוגוסט 2027 (נחיתה בערב + לילה בשדה): הזול מבין 10 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-4,031 €)."
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Lufthansa LH 681 + LH 1626 17:05→23:30; back: Lufthansa LH 1363 + LH 690 11:10→23:15.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: לופטהנזה LH 681 + LH 1626 17:05←23:30; חזור: לופטהנזה LH 1363 + LH 690 11:10←23:15."
   },
   {
-   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Lufthansa LH 681 + LH 1626 17:05→23:30; back: Lufthansa LH 1363 + LH 694 11:10→19:10.",
-   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: לופטהנזה LH 681 + LH 1626 17:05←23:30; חזור: לופטהנזה LH 1363 + LH 694 11:10←19:10."
+   "en": "Next best: Wed 18 – Fri 27 Aug (evening arrival + airport night), flights + bags + hotels + car ≈ €3,835 (+€-201); back Brussels Airlines 16:25→02:40.",
+   "he": "הבא בתור: ד' 18 – ו' 27 באוגוסט (נחיתה בערב + לילה בשדה), טיסות + כבודה + מלונות + רכב כ-3,835 € (+-201 €); חזור בריסל איירליינס 16:25←02:40."
   },
   {
-   "en": "Next best: Wed 18 – Fri 27 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €4,000 (+€-31); back Lufthansa 11:10→19:10.",
-   "he": "הבא בתור: ד' 18 – ו' 27 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-4,000 € (+-31 €); חזור לופטהנזה 11:10←19:10."
-  },
-  {
-   "en": "Next best: Sun 15 – Tue 24 Aug (evening arrival + airport night), flights + bags + hotels + car ≈ €4,101 (+€69); back Lufthansa 11:10→23:15.",
-   "he": "הבא בתור: א' 15 – ג' 24 באוגוסט (נחיתה בערב + לילה בשדה), טיסות + כבודה + מלונות + רכב כ-4,101 € (+69 €); חזור לופטהנזה 11:10←23:15."
+   "en": "Next best: Wed 18 – Fri 27 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €3,875 (+€-161); back Brussels Airlines 16:25→02:40.",
+   "he": "הבא בתור: ד' 18 – ו' 27 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-3,875 € (+-161 €); חזור בריסל איירליינס 16:25←02:40."
   },
   {
    "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
@@ -71,8 +67,8 @@
  ],
  "trip": {
   "dates": {
-   "start": "2027-08-18",
-   "end": "2027-08-27",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
    "days": 10,
    "nights": 9
   },
@@ -81,24 +77,483 @@
    "he": "טיול משפחתי בפולין – הרי הטטרה וקרקוב"
   },
   "lede": {
-   "en": "Wed 18 – Fri 27 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at Kraków airport, a rental car to Rabkoland and 4 nights in an apartment with a pool in the quiet mountain village of Białka Tatrzańska (thermal water park, funicular, wooden-raft river trip, castle), then 4 nights in a Kraków apartment without a car (salt mine, dragon, zoo, Energylandia).",
-   "he": "ד' 18 – ו' 27 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה של קרקוב, רכב שכור לפארק השעשועים רבקולנד ו-4 לילות בדירה עם בריכה בכפר ההררי השקט ביאלקה טטשאנסקה (פארק מים תרמי, רכבל, שיט ברפסודות עץ, טירה), ולסיום 4 לילות בדירה בקרקוב בלי רכב (מכרה המלח, הדרקון, גן החיות ואנרג'ילנדיה)."
+   "en": "Tue 17 – Thu 26 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at Kraków airport, a rental car to Rabkoland and 4 nights in an apartment with a pool in the quiet mountain village of Białka Tatrzańska (thermal water park, funicular, wooden-raft river trip, castle), then 4 nights in a Kraków apartment without a car (salt mine, dragon, zoo, Energylandia).",
+   "he": "ג' 17 – ה' 26 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה של קרקוב, רכב שכור לפארק השעשועים רבקולנד ו-4 לילות בדירה עם בריכה בכפר ההררי השקט ביאלקה טטשאנסקה (פארק מים תרמי, רכבל, שיט ברפסודות עץ, טירה), ולסיום 4 לילות בדירה בקרקוב בלי רכב (מכרה המלח, הדרקון, גן החיות ואנרג'ילנדיה)."
   }
  },
  "currency": "EUR",
  "local_per_eur": 4.37,
  "local_currency": "PLN",
  "flights": {
+  "choices": {
+   "out": [
+    {
+     "id": "LH 681 + LH 1626@17:05",
+     "fn": "LH 681 + LH 1626",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "17:05",
+     "arr": "23:30",
+     "duration": "7h 25m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 868,
+     "bags_eur": 160,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "LH 695 + LH 1370@08:00",
+     "fn": "LH 695 + LH 1370",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "08:00",
+     "arr": "22:05",
+     "duration": "15h 5m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 910,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "W6 1998@20:35",
+     "fn": "W6 1998",
+     "airline": "Wizz Air",
+     "airline_he": "וויז אייר",
+     "dep": "20:35",
+     "arr": "23:20",
+     "duration": "3h 45m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 900,
+     "bags_eur": 200,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 683 + LH 1626@07:00",
+     "fn": "LH 683 + LH 1626",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "07:00",
+     "arr": "23:30",
+     "duration": "17h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 973,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 691 + LH 1364@04:45",
+     "fn": "LH 691 + LH 1364",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "04:45",
+     "arr": "12:00",
+     "duration": "8h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1015,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 691 + LH 1368@04:45",
+     "fn": "LH 691 + LH 1368",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "04:45",
+     "arr": "18:45",
+     "duration": "15h",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1015,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 695 + LH 1368@08:00",
+     "fn": "LH 695 + LH 1368",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "08:00",
+     "arr": "18:45",
+     "duration": "11h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1015,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 687 + LH 1362@16:30",
+     "fn": "LH 687 + LH 1362",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "16:30",
+     "arr": "10:25",
+     "duration": "18h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1019,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 691 + LH 1370@04:45",
+     "fn": "LH 691 + LH 1370",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "04:45",
+     "arr": "22:05",
+     "duration": "18h 20m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1068,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "@07:00",
+     "fn": "",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "07:00",
+     "arr": "12:40",
+     "duration": "6h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1097,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "@05:00",
+     "fn": "",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "05:00",
+     "arr": "17:40",
+     "duration": "13h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1120,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "@17:05",
+     "fn": "",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "17:05",
+     "arr": "08:45",
+     "duration": "16h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1172,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "@04:50",
+     "fn": "",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "04:50",
+     "arr": "19:00",
+     "duration": "15h 10m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1220,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "@18:15",
+     "fn": "",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "18:15",
+     "arr": "08:45",
+     "duration": "15h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1220,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    }
+   ],
+   "back": [
+    {
+     "id": "LH 1363 + LH 690@11:10",
+     "fn": "LH 1363 + LH 690",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "11:10",
+     "arr": "23:15",
+     "duration": "11h 5m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 938,
+     "bags_eur": 160,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "LH 1363 + LH 694@11:10",
+     "fn": "LH 1363 + LH 694",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "11:10",
+     "arr": "19:10",
+     "duration": "7h",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1049,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 1371 + LH 690@06:00",
+     "fn": "LH 1371 + LH 690",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "06:00",
+     "arr": "23:15",
+     "duration": "16h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1049,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 1365 + LH 690@12:45",
+     "fn": "LH 1365 + LH 690",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "12:45",
+     "arr": "23:15",
+     "duration": "9h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1049,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 1371 + LH 686@06:00",
+     "fn": "LH 1371 + LH 686",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "06:00",
+     "arr": "15:25",
+     "duration": "8h 25m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1182,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "KL 1328 + KL 461@17:30",
+     "fn": "KL 1328 + KL 461",
+     "airline": "KLM",
+     "airline_he": "KLM",
+     "dep": "17:30",
+     "arr": "02:35",
+     "duration": "8h 5m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1267,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "KL 1324 + KL 461@11:50",
+     "fn": "KL 1324 + KL 461",
+     "airline": "KLM",
+     "airline_he": "KLM",
+     "dep": "11:50",
+     "arr": "02:35",
+     "duration": "13h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1267,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 1365 + LH 686@12:45",
+     "fn": "LH 1365 + LH 686",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "12:45",
+     "arr": "15:25",
+     "duration": "25h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1413,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 1369 + LH 686@19:30",
+     "fn": "LH 1369 + LH 686",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "19:30",
+     "arr": "15:25",
+     "duration": "18h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1413,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 1627 + LH 680@06:00",
+     "fn": "LH 1627 + LH 680",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "06:00",
+     "arr": "16:00",
+     "duration": "9h",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1485,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "@09:35",
+     "fn": "",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "09:35",
+     "arr": "00:35",
+     "duration": "14h",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1485,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "@16:55",
+     "fn": "",
+     "airline": "Air Dolomiti and Lufthansa",
+     "airline_he": "Air Dolomiti and Lufthansa",
+     "dep": "16:55",
+     "arr": "00:35",
+     "duration": "6h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1485,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "@13:25",
+     "fn": "",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "13:25",
+     "arr": "16:00",
+     "duration": "25h 35m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1557,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "@14:50",
+     "fn": "",
+     "airline": "Austrian",
+     "airline_he": "אוסטריאן",
+     "dep": "14:50",
+     "arr": "17:45",
+     "duration": "25h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1602,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    }
+   ],
+   "variant": "eve",
+   "note": {
+    "en": "Default = the cheapest flight that fits the plan (flights + bags). Pick another one to see the total change; the day-by-day text keeps the chosen plan's timing.",
+    "he": "ברירת המחדל = הטיסה הזולה ביותר שמתאימה לתוכנית (טיסה + כבודה). בחירה בטיסה אחרת משנה את הסכום הכולל; הטקסט היומי נשאר לפי התוכנית שנבחרה."
+   }
+  },
   "chosen": [
    {
     "dir": {
      "en": "Outbound",
      "he": "הלוך"
     },
-    "date": "2027-08-18",
+    "date": "2027-08-17",
     "wd": {
-     "en": "Wed",
-     "he": "ד'"
+     "en": "Tue",
+     "he": "ג'"
     },
     "flight": "LH 681 + LH 1626",
     "airline": "Lufthansa",
@@ -107,26 +562,26 @@
     "dep": "17:05",
     "arr": "23:30",
     "duration": "7h 25m",
-    "price_eur": 866
+    "price_eur": 868
    },
    {
     "dir": {
      "en": "Return",
      "he": "חזור"
     },
-    "date": "2027-08-27",
+    "date": "2027-08-26",
     "wd": {
-     "en": "Fri",
-     "he": "ו'"
+     "en": "Thu",
+     "he": "ה'"
     },
-    "flight": "LH 1363 + LH 694",
+    "flight": "LH 1363 + LH 690",
     "airline": "Lufthansa",
     "from": "KRK",
     "to": "TLV",
     "dep": "11:10",
-    "arr": "19:10",
-    "duration": "7h",
-    "price_eur": 897
+    "arr": "23:15",
+    "duration": "11h 5m",
+    "price_eur": 938
    }
   ],
   "evening_outbound_options": [
@@ -136,10 +591,10 @@
      "he": "לופטהנזה LH 681 + LH 1626 · 17:05 → 23:30 · עצירה ב"
     },
     "when": {
-     "en": "Wed 18 Aug",
-     "he": "ד' 18 באוגוסט"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
-    "price_eur": 866,
+    "price_eur": 868,
     "note": {
      "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
      "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
@@ -148,49 +603,81 @@
    },
    {
     "what": {
+     "en": "Wizz Air W6 1998 · 20:35 → 23:20 · nonstop",
+     "he": "וויז אייר W6 1998 · 20:35 → 23:20 · ישירה"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 900,
+    "note": {
+     "en": "€32 more.",
+     "he": "יקרה ב-32 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
      "en": "Wizz Air W6 1996 · 11:05 → 13:50 · nonstop",
      "he": "וויז אייר W6 1996 · 11:05 → 13:50 · ישירה"
     },
     "when": {
-     "en": "Wed 18 Aug",
-     "he": "ד' 18 באוגוסט"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
-    "price_eur": 1000,
+    "price_eur": 1200,
     "note": {
-     "en": "€134 more.",
-     "he": "יקרה ב-134 €."
+     "en": "€332 more.",
+     "he": "יקרה ב-332 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Austrian OS 84 + OS 679 · 06:00 → 14:05 · 1 stop ",
-     "he": "אוסטריאן OS 84 + OS 679 · 06:00 → 14:05 · עצירה ב"
+     "en": "El Al LY 5419 · 18:15 → 21:05 · nonstop",
+     "he": "אל על LY 5419 · 18:15 → 21:05 · ישירה"
     },
     "when": {
-     "en": "Wed 18 Aug",
-     "he": "ד' 18 באוגוסט"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
-    "price_eur": 864,
+    "price_eur": 1296,
     "note": {
-     "en": "€2 cheaper; 9 hr 5 min with a connection.",
-     "he": "זולה ב-2 €; 9 שע׳ 5 דק׳ עם קונקשן."
+     "en": "€428 more.",
+     "he": "יקרה ב-428 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Lufthansa LH 687 + LH 1370 · 16:30 → 23:50 · 1 stop ",
-     "he": "לופטהנזה LH 687 + LH 1370 · 16:30 → 23:50 · עצירה ב"
+     "en": "Lufthansa LH 695 + LH 1370 · 08:00 → 22:05 · 1 stop ",
+     "he": "לופטהנזה LH 695 + LH 1370 · 08:00 → 22:05 · עצירה ב"
     },
     "when": {
-     "en": "Wed 18 Aug",
-     "he": "ד' 18 באוגוסט"
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
     },
-    "price_eur": 907,
+    "price_eur": 910,
     "note": {
-     "en": "€41 more; 8 hr 20 min with a connection.",
-     "he": "יקרה ב-41 €; 8 שע׳ 20 דק׳ עם קונקשן."
+     "en": "€42 more; 15 hr 5 min with a connection.",
+     "he": "יקרה ב-42 €; 15 שע׳ 5 דק׳ עם קונקשן."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Lufthansa LH 683 + LH 1626 · 07:00 → 23:30 · 1 stop ",
+     "he": "לופטהנזה LH 683 + LH 1626 · 07:00 → 23:30 · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 973,
+    "note": {
+     "en": "€105 more; 17 hr 30 min with a connection.",
+     "he": "יקרה ב-105 €; 17 שע׳ 30 דק׳ עם קונקשן."
     },
     "best": false
    }
@@ -198,14 +685,14 @@
   "return_options": [
    {
     "what": {
-     "en": "Lufthansa LH 1363 + LH 694 · 11:10 → 19:10 · 1 stop ",
-     "he": "לופטהנזה LH 1363 + LH 694 · 11:10 → 19:10 · עצירה ב"
+     "en": "Lufthansa LH 1363 + LH 690 · 11:10 → 23:15 · 1 stop ",
+     "he": "לופטהנזה LH 1363 + LH 690 · 11:10 → 23:15 · עצירה ב"
     },
     "when": {
-     "en": "Fri 27 Aug",
-     "he": "ו' 27 באוגוסט"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
-    "price_eur": 897,
+    "price_eur": 938,
     "note": {
      "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
      "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
@@ -218,61 +705,61 @@
      "he": "וויז אייר W6 1995 · 05:40 → 10:10 · ישירה"
     },
     "when": {
-     "en": "Fri 27 Aug",
-     "he": "ו' 27 באוגוסט"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
-    "price_eur": 1263,
+    "price_eur": 1687,
     "note": {
-     "en": "€366 more.",
-     "he": "יקרה ב-366 €."
+     "en": "€749 more.",
+     "he": "יקרה ב-749 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "El Al LY 5420 · 09:55 → 14:20 · nonstop",
-     "he": "אל על LY 5420 · 09:55 → 14:20 · ישירה"
+     "en": "LOT LO 2111 · 23:55 → 04:25 (+1) · nonstop",
+     "he": "LOT LO 2111 · 23:55 → 04:25 (+1) · ישירה"
     },
     "when": {
-     "en": "Fri 27 Aug",
-     "he": "ו' 27 באוגוסט"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
-    "price_eur": 1690,
+    "price_eur": 2286,
     "note": {
-     "en": "€793 more.",
-     "he": "יקרה ב-793 €."
+     "en": "€1348 more; arrives the next day.",
+     "he": "יקרה ב-1348 €; נוחתת למחרת."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Brussels Airlines SN 2548 + SN 3293 · 15:25 → 02:40 (+1) · 1 stop ",
-     "he": "בריסל איירליינס SN 2548 + SN 3293 · 15:25 → 02:40 (+1) · עצירה ב"
+     "en": "Lufthansa LH 1363 + LH 694 · 11:10 → 19:10 · 1 stop ",
+     "he": "לופטהנזה LH 1363 + LH 694 · 11:10 → 19:10 · עצירה ב"
     },
     "when": {
-     "en": "Fri 27 Aug",
-     "he": "ו' 27 באוגוסט"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
-    "price_eur": 623,
+    "price_eur": 1049,
     "note": {
-     "en": "€274 cheaper; 10 hr 15 min with a connection; arrives the next day.",
-     "he": "זולה ב-274 €; 10 שע׳ 15 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€111 more; 7 hr with a connection.",
+     "he": "יקרה ב-111 €; 7 שע׳ עם קונקשן."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Brussels Airlines SN 2548 + SN 3289 · 15:25 → 15:15 (+1) · 1 stop ",
-     "he": "בריסל איירליינס SN 2548 + SN 3289 · 15:25 → 15:15 (+1) · עצירה ב"
+     "en": "Lufthansa LH 1371 + LH 690 · 06:00 → 23:15 · 1 stop ",
+     "he": "לופטהנזה LH 1371 + LH 690 · 06:00 → 23:15 · עצירה ב"
     },
     "when": {
-     "en": "Fri 27 Aug",
-     "he": "ו' 27 באוגוסט"
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
     },
-    "price_eur": 668,
+    "price_eur": 1049,
     "note": {
-     "en": "€229 cheaper; 22 hr 50 min with a connection; arrives the next day.",
-     "he": "זולה ב-229 €; 22 שע׳ 50 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€111 more; 16 hr 15 min with a connection.",
+     "he": "יקרה ב-111 €; 16 שע׳ 15 דק׳ עם קונקשן."
     },
     "best": false
    }
@@ -289,37 +776,62 @@
  },
  "date_options": [
   {
-   "total_eur": 4000.27,
+   "total_eur": 3834.83,
+   "plan": "eve",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 972,
+    "bags_eur": 160,
+    "airline": "Brussels Airlines",
+    "flight": "SN 3294 + SN 2547",
+    "dep": "04:50",
+    "arr": "17:20"
+   },
+   "back": {
+    "eur": 663,
+    "bags_eur": 160,
+    "airline": "Brussels Airlines",
+    "flight": "SN 2548 + SN 3293",
+    "dep": "16:25",
+    "arr": "02:40"
+   },
+   "hotels_eur": 1595.83,
+   "car_eur": 284,
+   "chosen": false
+  },
+  {
+   "total_eur": 3875.27,
    "plan": "day",
    "start": "2027-08-18",
    "end": "2027-08-27",
    "out": {
-    "eur": 864,
-    "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 84 + OS 679",
-    "dep": "06:00",
-    "arr": "14:05"
-   },
-   "back": {
-    "eur": 897,
+    "eur": 973,
     "bags_eur": 160,
     "airline": "Lufthansa",
-    "flight": "LH 1363 + LH 694",
-    "dep": "11:10",
-    "arr": "19:10"
+    "flight": "LH 683 + LH 1622",
+    "dep": "07:00",
+    "arr": "12:40"
+   },
+   "back": {
+    "eur": 663,
+    "bags_eur": 160,
+    "airline": "Brussels Airlines",
+    "flight": "SN 2548 + SN 3293",
+    "dep": "16:25",
+    "arr": "02:40"
    },
    "hotels_eur": 1564.27,
    "car_eur": 355,
    "chosen": false
   },
   {
-   "total_eur": 4031.43,
+   "total_eur": 4008.98,
    "plan": "eve",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
    "out": {
-    "eur": 866,
+    "eur": 973,
     "bags_eur": 160,
     "airline": "Lufthansa",
     "flight": "LH 681 + LH 1626",
@@ -327,61 +839,136 @@
     "arr": "23:30"
    },
    "back": {
-    "eur": 897,
+    "eur": 801,
     "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 1363 + LH 694",
-    "dep": "11:10",
-    "arr": "19:10"
+    "airline": "SWISS",
+    "flight": "LX 1375 + LX 256",
+    "dep": "19:45",
+    "arr": "03:35"
    },
-   "hotels_eur": 1664.43,
+   "hotels_eur": 1630.98,
    "car_eur": 284,
-   "chosen": true
+   "chosen": false
   },
   {
-   "total_eur": 4100.75,
+   "total_eur": 4024.3,
    "plan": "eve",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
    "out": {
-    "eur": 905,
+    "eur": 910,
     "bags_eur": 160,
     "airline": "Lufthansa",
-    "flight": "LH 695 + LH 1368",
+    "flight": "LH 695 + LH 1370",
     "dep": "08:00",
-    "arr": "18:25"
+    "arr": "22:05"
    },
    "back": {
     "eur": 897,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 1375 + LX 256",
+    "dep": "19:45",
+    "arr": "03:35"
+   },
+   "hotels_eur": 1613.3,
+   "car_eur": 284,
+   "chosen": false
+  },
+  {
+   "total_eur": 4036.08,
+   "plan": "eve",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 868,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 681 + LH 1626",
+    "dep": "17:05",
+    "arr": "23:30"
+   },
+   "back": {
+    "eur": 938,
     "bags_eur": 160,
     "airline": "Lufthansa",
     "flight": "LH 1363 + LH 690",
     "dep": "11:10",
     "arr": "23:15"
    },
-   "hotels_eur": 1694.75,
+   "hotels_eur": 1626.08,
+   "car_eur": 284,
+   "chosen": true
+  },
+  {
+   "total_eur": 4112.52,
+   "plan": "day",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 1015,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 691 + LH 1366",
+    "dep": "04:45",
+    "arr": "13:15"
+   },
+   "back": {
+    "eur": 801,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 1375 + LX 256",
+    "dep": "19:45",
+    "arr": "03:35"
+   },
+   "hotels_eur": 1621.52,
+   "car_eur": 355,
+   "chosen": false
+  },
+  {
+   "total_eur": 4155.07,
+   "plan": "eve",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 868,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 681 + LH 1626",
+    "dep": "17:05",
+    "arr": "23:30"
+   },
+   "back": {
+    "eur": 1152,
+    "bags_eur": 160,
+    "airline": "Brussels Airlines",
+    "flight": "SN 2548 + SN 3293",
+    "dep": "18:10",
+    "arr": "02:40"
+   },
+   "hotels_eur": 1531.07,
    "car_eur": 284,
    "chosen": false
   },
   {
-   "total_eur": 4132.52,
+   "total_eur": 4213.52,
    "plan": "day",
    "start": "2027-08-17",
    "end": "2027-08-26",
    "out": {
-    "eur": 864,
-    "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 84 + OS 679",
-    "dep": "06:00",
-    "arr": "14:05"
-   },
-   "back": {
-    "eur": 1008,
+    "eur": 1015,
     "bags_eur": 160,
     "airline": "Lufthansa",
-    "flight": "LH 1371 + LH 690",
-    "dep": "06:00",
+    "flight": "LH 691 + LH 1364",
+    "dep": "04:45",
+    "arr": "12:00"
+   },
+   "back": {
+    "eur": 938,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1363 + LH 690",
+    "dep": "11:10",
     "arr": "23:15"
    },
    "hotels_eur": 1585.52,
@@ -389,150 +976,50 @@
    "chosen": false
   },
   {
-   "total_eur": 4148.68,
-   "plan": "eve",
-   "start": "2027-08-17",
-   "end": "2027-08-26",
+   "total_eur": 4219.47,
+   "plan": "day",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
    "out": {
-    "eur": 851,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257 + LX 1374",
-    "dep": "04:50",
-    "arr": "19:00"
-   },
-   "back": {
-    "eur": 1008,
+    "eur": 973,
     "bags_eur": 160,
     "airline": "Lufthansa",
-    "flight": "LH 1371 + LH 690",
-    "dep": "06:00",
-    "arr": "23:15"
-   },
-   "hotels_eur": 1685.68,
-   "car_eur": 284,
-   "chosen": false
-  },
-  {
-   "total_eur": 4162.52,
-   "plan": "day",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
-   "out": {
-    "eur": 969,
-    "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 84 + OS 679",
-    "dep": "06:00",
-    "arr": "14:05"
+    "flight": "LH 683 + LH 1622",
+    "dep": "07:00",
+    "arr": "12:40"
    },
    "back": {
     "eur": 897,
     "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 1363 + LH 690",
-    "dep": "11:10",
-    "arr": "23:15"
-   },
-   "hotels_eur": 1621.52,
-   "car_eur": 355,
-   "chosen": false
-  },
-  {
-   "total_eur": 4233.84,
-   "plan": "eve",
-   "start": "2027-08-14",
-   "end": "2027-08-23",
-   "out": {
-    "eur": 864,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 681 + LH 1626",
-    "dep": "17:05",
-    "arr": "23:30"
-   },
-   "back": {
-    "eur": 1053,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W6 1995",
-    "dep": "05:40",
-    "arr": "10:10"
-   },
-   "hotels_eur": 1672.84,
-   "car_eur": 284,
-   "chosen": false
-  },
-  {
-   "total_eur": 4304.47,
-   "plan": "day",
-   "start": "2027-08-14",
-   "end": "2027-08-23",
-   "out": {
-    "eur": 862,
-    "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 84 + OS 679",
-    "dep": "06:00",
-    "arr": "14:05"
-   },
-   "back": {
-    "eur": 1053,
-    "bags_eur": 200,
-    "airline": "Wizz Air",
-    "flight": "W6 1995",
-    "dep": "05:40",
-    "arr": "10:10"
+    "airline": "SWISS",
+    "flight": "LX 1375 + LX 256",
+    "dep": "19:45",
+    "arr": "03:35"
    },
    "hotels_eur": 1674.47,
    "car_eur": 355,
    "chosen": false
   },
   {
-   "total_eur": 4350.26,
-   "plan": "eve",
-   "start": "2027-08-20",
-   "end": "2027-08-29",
-   "out": {
-    "eur": 864,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 681 + LH 1626",
-    "dep": "17:05",
-    "arr": "23:30"
-   },
-   "back": {
-    "eur": 1299,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 1371 + LH 686",
-    "dep": "06:00",
-    "arr": "15:25"
-   },
-   "hotels_eur": 1583.26,
-   "car_eur": 284,
-   "chosen": false
-  },
-  {
-   "total_eur": 4415.01,
+   "total_eur": 4421.01,
    "plan": "day",
    "start": "2027-08-20",
    "end": "2027-08-29",
    "out": {
-    "eur": 862,
-    "bags_eur": 160,
-    "airline": "Austrian",
-    "flight": "OS 84 + OS 679",
-    "dep": "06:00",
-    "arr": "14:05"
-   },
-   "back": {
-    "eur": 1299,
+    "eur": 1015,
     "bags_eur": 160,
     "airline": "Lufthansa",
-    "flight": "LH 1371 + LH 686",
-    "dep": "06:00",
-    "arr": "15:25"
+    "flight": "LH 691 + LH 1364",
+    "dep": "04:45",
+    "arr": "12:00"
+   },
+   "back": {
+    "eur": 1152,
+    "bags_eur": 160,
+    "airline": "Brussels Airlines",
+    "flight": "SN 2548 + SN 3293",
+    "dep": "18:10",
+    "arr": "02:40"
    },
    "hotels_eur": 1579.01,
    "car_eur": 355,
@@ -597,8 +1084,8 @@
   "lines": [
    [
     {
-     "en": "Estate car, automatic, 4 days (≈ €55/day), Thu 19 – Mon 23 Aug",
-     "he": "רכב סטיישן אוטומטי, 4 ימים (כ-55 € ליום), ה' 19 – ב' 23 באוגוסט"
+     "en": "Estate car, automatic, 4 days (≈ €55/day), Wed 18 – Sun 22 Aug",
+     "he": "רכב סטיישן אוטומטי, 4 ימים (כ-55 € ליום), ד' 18 – א' 22 באוגוסט"
     },
     220,
     true
@@ -637,21 +1124,21 @@
    ]
   ],
   "text": {
-   "en": "Pick-up Kraków Airport Thu 19 Aug 11:00, return Mon 23 Aug by 11:00 (4 days; check the grace period). Category: intermediate/standard estate, e.g. Škoda Octavia Combi automatic – 2 large suitcases + 2 trolleys fit with 2 high-back boosters. The rate is an estimate: live August quotes were not available (online snapshots show roughly $47–90/day for an Octavia at KRK). Automatics are scarcer in Poland – book early.",
-   "he": "איסוף בשדה התעופה של קרקוב ב-ה' 19 באוגוסט ב-11:00, החזרה ב-ב' 23 באוגוסט עד 11:00 (4 ימים; לבדוק את זמן החסד). קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית – 2 מזוודות גדולות ו-2 טרולים נכנסים עם 2 בוסטרים עם גב. המחיר הוא הערכה: לא היו הצעות חיות לאוגוסט (צילומי מצב ברשת מראים בערך 47–90 $ ליום לאוקטביה בשדה). רכבים אוטומטיים נדירים יותר בפולין – להזמין מוקדם."
+   "en": "Pick-up Kraków Airport Wed 18 Aug 11:00, return Sun 22 Aug by 11:00 (4 days; check the grace period). Category: intermediate/standard estate, e.g. Škoda Octavia Combi automatic – 2 large suitcases + 2 trolleys fit with 2 high-back boosters. The rate is an estimate: live August quotes were not available (online snapshots show roughly $47–90/day for an Octavia at KRK). Automatics are scarcer in Poland – book early.",
+   "he": "איסוף בשדה התעופה של קרקוב ב-ד' 18 באוגוסט ב-11:00, החזרה ב-א' 22 באוגוסט עד 11:00 (4 ימים; לבדוק את זמן החסד). קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית – 2 מזוודות גדולות ו-2 טרולים נכנסים עם 2 בוסטרים עם גב. המחיר הוא הערכה: לא היו הצעות חיות לאוגוסט (צילומי מצב ברשת מראים בערך 47–90 $ ליום לאוקטביה בשדה). רכבים אוטומטיים נדירים יותר בפולין – להזמין מוקדם."
   },
   "pickup": {
    "place": "Kraków John Paul II Airport (Balice)",
    "lat": 50.0777,
    "lng": 19.7848,
-   "when": "2027-08-19T11:00",
+   "when": "2027-08-18T11:00",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.077700,19.784800&travelmode=driving"
   },
   "dropoff": {
    "place": "Kraków John Paul II Airport (Balice)",
    "lat": 50.0777,
    "lng": 19.7848,
-   "when": "2027-08-23T11:00",
+   "when": "2027-08-22T11:00",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.077700,19.784800&travelmode=driving"
   }
  },
@@ -686,20 +1173,20 @@
     "en": "Balice, next to Kraków Airport (≈ 700 m / 10-min walk to the terminal, or hotel shuttle)",
     "he": "באליצה, ליד שדה התעופה של קרקוב (כ-700 מ' / 10 דקות הליכה לטרמינל, או שאטל המלון)"
    },
-   "checkin": "2027-08-18",
-   "checkout": "2027-08-19",
+   "checkin": "2027-08-17",
+   "checkout": "2027-08-18",
    "nights": 1,
-   "total_eur": 311.97,
+   "total_eur": 260.96,
    "booking_score": 9.1,
-   "booking_reviews": 17014,
-   "booking_url": "https://www.booking.com/hotel/pl/hampton-inn-krakow-poland.html?checkin=2027-08-18&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_reviews": 16848,
+   "booking_url": "https://www.booking.com/hotel/pl/hampton-inn-krakow-poland.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Family connecting rooms for 4 (super-king bed + 2 single beds), free cancellation. Per Booking.com Q&A: breakfast included, 24-hour reception (the late arrival is fine), shuttle to the terminal about 10 PLN per person, or a 10-minute walk. Confirm beds for 4 when booking.",
     "he": "חדרים מחוברים למשפחה של 4 (מיטה זוגית ענקית + 2 מיטות יחיד), ביטול חינם. לפי Booking.com: ארוחת בוקר כלולה, קבלה 24 שעות (ההגעה המאוחרת אינה בעיה), שאטל לטרמינל כ-10 זלוטי לאדם, או 10 דקות הליכה. לוודא בהזמנה שיש מיטות ל-4."
    },
    "alt": {
-    "en": "Only options with air conditioning. Closest to the terminal: Hilton Garden Inn Krakow Airport €373.67 (Booking 9.1, 8,117 reviews; Booking says its family room sleeps 3, so you may need 2 rooms). Balice Apartamenty Premium €218.76 (Booking 8.6, 31 reviews). Dropped for having no confirmed air conditioning: KRK stop near airport. (Alternative prices were checked for 17–26 Aug.)",
-    "he": "רק אפשרויות עם מיזוג אוויר. הקרוב ביותר לטרמינל: Hilton Garden Inn Krakow Airport ב-373.67 € (Booking 9.1, 8,117 ביקורות; לפי Booking חדר המשפחה שלו ל-3, אז אולי צריך 2 חדרים). Balice Apartamenty Premium ב-218.76 € (Booking 8.6, 31 ביקורות). הוסר כי אין אישור למיזוג אוויר: KRK stop near airport. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "Only options with air conditioning. Closest to the terminal: Hilton Garden Inn Krakow Airport €363.52 (Booking 9.1, 8,117 reviews; Booking says its family room sleeps 3, so you may need 2 rooms). Balice Apartamenty Premium €217.40 (Booking 8.8, 35 reviews). Dropped for having no confirmed air conditioning: KRK stop near airport.",
+    "he": "רק אפשרויות עם מיזוג אוויר. הקרוב ביותר לטרמינל: Hilton Garden Inn Krakow Airport ב-363.52 € (Booking 9.1, 8,117 ביקורות; לפי Booking חדר המשפחה שלו ל-3, אז אולי צריך 2 חדרים). Balice Apartamenty Premium ב-217.40 € (Booking 8.8, 35 ביקורות). הוסר כי אין אישור למיזוג אוויר: KRK stop near airport."
    },
    "google": {
     "name": "Hampton by Hilton Krakow Airport",
@@ -733,14 +1220,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 311.97,
+   "price_per_night_eur": 260.96,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 9.1,
      "out_of": 10,
-     "reviews": 17014,
-     "url": "https://www.booking.com/hotel/pl/hampton-inn-krakow-poland.html?checkin=2027-08-18&checkout=2027-08-19&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 16848,
+     "url": "https://www.booking.com/hotel/pl/hampton-inn-krakow-poland.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -759,20 +1246,20 @@
     "en": "Białka Tatrzańska, Środkowa St. (14-min walk to Terma Bania; Zakopane 37 min, Dunajec rafting 50 min)",
     "he": "ביאלקה טטשאנסקה, רחוב שרודקובה (14 דקות הליכה לטרמה באניה; זקופנה 37 דקות, רפטינג בדונאייץ 50 דקות)"
    },
-   "checkin": "2027-08-19",
-   "checkout": "2027-08-23",
+   "checkin": "2027-08-18",
+   "checkout": "2027-08-22",
    "nights": 4,
-   "total_eur": 847.22,
+   "total_eur": 863.04,
    "booking_score": 9.0,
-   "booking_reviews": 1776,
-   "booking_url": "https://www.booking.com/hotel/pl/goralski-resort-amp-spa.html?checkin=2027-08-19&checkout=2027-08-23&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_reviews": 1766,
+   "booking_url": "https://www.booking.com/hotel/pl/goralski-resort-amp-spa.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Apartment with kitchenette (1-bedroom premium with sofa bed for 4, or 2-bedroom for up to 6 – choose the 2-bedroom if offered at a similar price), free cancellation. Heated indoor pool included (about 130 cm deep, so the kids need armbands), children's playground, free parking, restaurant. Check-in from 16:00. Breakfast is probably not included – check the rate.",
     "he": "דירה עם מטבחון (חדר שינה אחד פרימיום עם ספה נפתחת ל-4, או 2 חדרי שינה עד 6 – עדיף 2 חדרים אם המחיר דומה), ביטול חינם. בריכה מקורה מחוממת כלולה (עומק כ-130 ס\"מ, כך שהילדים צריכים מצופים), מגרש משחקים, חניה חינם ומסעדה. צ'ק-אין מ-16:00. כנראה בלי ארוחת בוקר – לבדוק בתעריף."
    },
    "alt": {
-    "en": "Only options with air conditioning. Next door, same owner: Góralski Resort 2 z Basenem €763.30 (Booking 9.2, 261 reviews; pool open only 16:00–22:00). Dropped for having no confirmed air conditioning: Apartamenty Bujaś Resort and Aparthotel Royal Resort SPA. (Alternative prices were checked for 17–26 Aug.)",
-    "he": "רק אפשרויות עם מיזוג אוויר. ליד, אותו בעלים: Góralski Resort 2 z Basenem ב-763.30 € (Booking 9.2, 261 ביקורות; הבריכה פתוחה רק 16:00–22:00). הוסרו כי אין אישור למיזוג אוויר: Apartamenty Bujaś Resort ו-Aparthotel Royal Resort SPA. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "Only options with air conditioning. Next door, same owner: Góralski Resort 2 z Basenem €799.86 (Booking 9.2, 261 reviews; pool open only 16:00–22:00). Dropped for having no confirmed air conditioning: Apartamenty Bujaś Resort and Aparthotel Royal Resort SPA.",
+    "he": "רק אפשרויות עם מיזוג אוויר. ליד, אותו בעלים: Góralski Resort 2 z Basenem ב-799.86 € (Booking 9.2, 261 ביקורות; הבריכה פתוחה רק 16:00–22:00). הוסרו כי אין אישור למיזוג אוויר: Apartamenty Bujaś Resort ו-Aparthotel Royal Resort SPA."
    },
    "google_note": {
     "en": "Google rating is for the whole Góralski Resort complex.",
@@ -810,14 +1297,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 211.81,
+   "price_per_night_eur": 215.76,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 9.0,
      "out_of": 10,
-     "reviews": 1776,
-     "url": "https://www.booking.com/hotel/pl/goralski-resort-amp-spa.html?checkin=2027-08-19&checkout=2027-08-23&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 1766,
+     "url": "https://www.booking.com/hotel/pl/goralski-resort-amp-spa.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -836,20 +1323,20 @@
     "en": "Kraków – Kazimierz, Dietla 55 (≈ 10-min walk to the Wawel dragon and the river, ≈ 20 min to the Main Square)",
     "he": "קרקוב – קאז'ימייז', רחוב דיֶטלה 55 (כ-10 דקות הליכה לדרקון של ואוול ולנהר, כ-20 דקות לכיכר המרכזית)"
    },
-   "checkin": "2027-08-23",
-   "checkout": "2027-08-27",
+   "checkin": "2027-08-22",
+   "checkout": "2027-08-26",
    "nights": 4,
-   "total_eur": 505.24,
+   "total_eur": 502.08,
    "booking_score": 9.1,
-   "booking_reviews": 1604,
-   "booking_url": "https://www.booking.com/hotel/pl/playroom-apartament.html?checkin=2027-08-23&checkout=2027-08-27&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "booking_reviews": 1618,
+   "booking_url": "https://www.booking.com/hotel/pl/playroom-apartament.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "2-bedroom apartment (up to 6) with kitchenette and air conditioning, free cancellation. Self check-in with instructions; luggage storage, so you can drop bags around noon. Some apartments are in a historic building without a lift – ask for the newer building with the lift. No breakfast. Despite the name, Booking lists no kids' playroom.",
     "he": "דירת 2 חדרי שינה (עד 6) עם מטבחון ומיזוג, ביטול חינם. צ'ק-אין עצמי עם הוראות; יש שמירת מזוודות, כך שאפשר להשאיר תיקים בצהריים. חלק מהדירות בבניין היסטורי בלי מעלית – לבקש את הבניין החדש עם המעלית. בלי ארוחת בוקר. למרות השם, לפי Booking אין חדר משחקים לילדים."
    },
    "alt": {
-    "en": "Only options with air conditioning. Old Town: Relaks Apartamenty, Długa St., €586.31 (Booking 9.6, 1,008 reviews). With spa and 24-hour desk: Ventus Rosa Boutique Aparthotel €674.72 (Booking 9.0, 2,926 reviews). Dropped for having no confirmed air conditioning: Calliope Apartments. (Alternative prices were checked for 17–26 Aug.)",
-    "he": "רק אפשרויות עם מיזוג אוויר. העיר העתיקה: Relaks Apartamenty, רחוב Długa, ב-586.31 € (Booking 9.6, 1,008 ביקורות). עם ספא וקבלה 24 שעות: Ventus Rosa Boutique Aparthotel ב-674.72 € (Booking 9.0, 2,926 ביקורות). הוסר כי אין אישור למיזוג אוויר: Calliope Apartments. (מחירי החלופות נבדקו ל-17–26 באוגוסט.)"
+    "en": "Only options with air conditioning. Old Town: Relaks Apartamenty, Długa St., €582.65 (Booking 9.6, 1,008 reviews). With spa and 24-hour desk: Ventus Rosa Boutique Aparthotel €678.01 (Booking 9.0, 2,926 reviews). Dropped for having no confirmed air conditioning: Calliope Apartments.",
+    "he": "רק אפשרויות עם מיזוג אוויר. העיר העתיקה: Relaks Apartamenty, רחוב Długa, ב-582.65 € (Booking 9.6, 1,008 ביקורות). עם ספא וקבלה 24 שעות: Ventus Rosa Boutique Aparthotel ב-678.01 € (Booking 9.0, 2,926 ביקורות). הוסר כי אין אישור למיזוג אוויר: Calliope Apartments."
    },
    "google": {
     "name": "PlayRoom Aparthotel",
@@ -883,14 +1370,14 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 126.31,
+   "price_per_night_eur": 125.52,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 9.1,
      "out_of": 10,
-     "reviews": 1604,
-     "url": "https://www.booking.com/hotel/pl/playroom-apartament.html?checkin=2027-08-23&checkout=2027-08-27&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+     "reviews": 1618,
+     "url": "https://www.booking.com/hotel/pl/playroom-apartament.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
      "source": "Google Maps",
@@ -1919,10 +2406,10 @@
  "days": [
   {
    "day": 1,
-   "date": "2027-08-18",
+   "date": "2027-08-17",
    "weekday": {
-    "en": "Wed",
-    "he": "ד'"
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Evening flight, night at Kraków airport",
@@ -1933,7 +2420,8 @@
    "plan": [
     {
      "en": "17:05 Lufthansa LH 681 + LH 1626 from TLV, landing at KRK 23:30.",
-     "he": "17:05 לופטהנזה LH 681 + LH 1626 מנתב\"ג, נחיתה בקרקוב ב-23:30."
+     "he": "17:05 לופטהנזה LH 681 + LH 1626 מנתב\"ג, נחיתה בקרקוב ב-23:30.",
+     "flight": "out"
     },
     {
      "en": "Walk 700 m (≈ 10 min) or take the hotel shuttle (≈ 10 PLN per person) to Hampton by Hilton Krakow Airport. Kids to bed.",
@@ -1946,10 +2434,10 @@
   },
   {
    "day": 2,
-   "date": "2027-08-19",
+   "date": "2027-08-18",
    "weekday": {
-    "en": "Thu",
-    "he": "ה'"
+    "en": "Wed",
+    "he": "ד'"
    },
    "title": {
     "en": "Car pick-up, Rabkoland, on to Białka",
@@ -2150,10 +2638,10 @@
   },
   {
    "day": 3,
-   "date": "2027-08-20",
+   "date": "2027-08-19",
    "weekday": {
-    "en": "Fri",
-    "he": "ו'"
+    "en": "Thu",
+    "he": "ה'"
    },
    "title": {
     "en": "Zakopane: Gubałówka funicular + Krupówki",
@@ -2533,10 +3021,10 @@
   },
   {
    "day": 4,
-   "date": "2027-08-21",
+   "date": "2027-08-20",
    "weekday": {
-    "en": "Sat",
-    "he": "ש'"
+    "en": "Fri",
+    "he": "ו'"
    },
    "title": {
     "en": "Wooden rafts on the Dunajec",
@@ -3089,10 +3577,10 @@
   },
   {
    "day": 5,
-   "date": "2027-08-22",
+   "date": "2027-08-21",
    "weekday": {
-    "en": "Sun",
-    "he": "א'"
+    "en": "Sat",
+    "he": "ש'"
    },
    "title": {
     "en": "Niedzica Castle + Terma Bania",
@@ -3458,10 +3946,10 @@
   },
   {
    "day": 6,
-   "date": "2027-08-23",
+   "date": "2027-08-22",
    "weekday": {
-    "en": "Mon",
-    "he": "ב'"
+    "en": "Sun",
+    "he": "א'"
    },
    "title": {
     "en": "Back to Kraków, return the car, the Wawel dragon",
@@ -3686,10 +4174,10 @@
   },
   {
    "day": 7,
-   "date": "2027-08-24",
+   "date": "2027-08-23",
    "weekday": {
-    "en": "Tue",
-    "he": "ג'"
+    "en": "Mon",
+    "he": "ב'"
    },
    "title": {
     "en": "Wieliczka Salt Mine + the Main Square",
@@ -3855,10 +4343,10 @@
   },
   {
    "day": 8,
-   "date": "2027-08-25",
+   "date": "2027-08-24",
    "weekday": {
-    "en": "Wed",
-    "he": "ד'"
+    "en": "Tue",
+    "he": "ג'"
    },
    "title": {
     "en": "Energylandia day (no car)",
@@ -4291,10 +4779,10 @@
   },
   {
    "day": 9,
-   "date": "2027-08-26",
+   "date": "2027-08-25",
    "weekday": {
-    "en": "Thu",
-    "he": "ה'"
+    "en": "Wed",
+    "he": "ד'"
    },
    "title": {
     "en": "Zoo + river boat",
@@ -4598,10 +5086,10 @@
   },
   {
    "day": 10,
-   "date": "2027-08-27",
+   "date": "2027-08-26",
    "weekday": {
-    "en": "Fri",
-    "he": "ו'"
+    "en": "Thu",
+    "he": "ה'"
    },
    "title": {
     "en": "Fly home",
@@ -4611,8 +5099,9 @@
    "overnight": null,
    "plan": [
     {
-     "en": "Lufthansa LH 1363 + LH 694 departs 11:10 and lands in TLV at 19:10.",
-     "he": "לופטהנזה LH 1363 + LH 694 ממריאה ב-11:10 ונוחתת בנתב\"ג ב-19:10."
+     "en": "Lufthansa LH 1363 + LH 690 departs 11:10 and lands in TLV at 23:15.",
+     "he": "לופטהנזה LH 1363 + LH 690 ממריאה ב-11:10 ונוחתת בנתב\"ג ב-23:15.",
+     "flight": "back"
     },
     {
      "en": "Breakfast, pack, taxi to KRK (≈ 25 min, ≈ €25); leave about 2.5 h before departure.",
@@ -4812,11 +5301,11 @@
   "lines": [
    {
     "key": "flights",
-    "eur": 1763,
+    "eur": 1806,
     "status": "live",
     "label": {
-     "en": "Flights – Lufthansa LH 681 + LH 1626 + Lufthansa LH 1363 + LH 694, 4 passengers",
-     "he": "טיסות – לופטהנזה LH 681 + LH 1626 + לופטהנזה LH 1363 + LH 694, 4 נוסעים"
+     "en": "Flights – Lufthansa LH 681 + LH 1626 + Lufthansa LH 1363 + LH 690, 4 passengers",
+     "he": "טיסות – לופטהנזה LH 681 + LH 1626 + לופטהנזה LH 1363 + LH 690, 4 נוסעים"
     }
    },
    {
@@ -4893,7 +5382,7 @@
    },
    {
     "key": "hotels",
-    "eur": 1664.43,
+    "eur": 1626.08,
     "status": "live",
     "label": {
      "en": "Hotels – 3 stays, 9 nights, free cancellation",
@@ -4910,8 +5399,8 @@
     }
    }
   ],
-  "total_eur": 5048.43,
-  "live_part_eur": 3427.43,
+  "total_eur": 5053.08,
+  "live_part_eur": 3432.08,
   "attractions_local": 3388,
   "fuel_km": 410
  },
@@ -4919,7 +5408,7 @@
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Poland v3 research · air-conditioning check 21 Oct 2026 · awaiting your approval",
+   "eyebrow": "Poland v4 research · prices checked 9 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -4972,7 +5461,7 @@
    "gmaps": "Google Maps",
    "open_route": "Open route in Google Maps",
    "overnight": "Overnight",
-   "home": "Home: TLV 19:10",
+   "home": "Home: TLV 23:15",
    "optional": "OPTIONAL",
    "live": "LIVE",
    "est": "EST",
@@ -4985,7 +5474,7 @@
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Poland v3 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Poland v4 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Białka Tatrzańska",
@@ -5012,7 +5501,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "פולין גרסה 3 · בדיקת מיזוג אוויר 21.10.2026 · ממתין לאישורך",
+   "eyebrow": "פולין גרסה 4 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -5065,7 +5554,7 @@
    "gmaps": "Google Maps",
    "open_route": "פתח מסלול ב-Google Maps",
    "overnight": "לינה",
-   "home": "בבית: נתב\"ג 19:10",
+   "home": "בבית: נתב\"ג 23:15",
    "optional": "אופציונלי",
    "live": "חי",
    "est": "הערכה",
@@ -5078,7 +5567,7 @@
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "פולין גרסה 3 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "פולין גרסה 4 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "ביאלקה טטשאנסקה",
@@ -5104,8 +5593,8 @@
   }
  },
  "approved": {
-  "version": "pl v3",
-  "approved_on": "2026-10-21",
+  "version": "pl v4",
+  "approved_on": "2026-11-09",
   "by": "traveller"
  },
  "map": {

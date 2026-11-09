@@ -23,35 +23,39 @@
    "he": "אגם בלד (האלפים היוליאניים)"
   }
  },
- "variant": "day",
+ "variant": "eve",
  "version": {
-  "id": "v1",
-  "date": "2026-10-21",
+  "id": "v2",
+  "date": "2026-11-09",
   "label": {
-   "en": "Slovenia v1",
-   "he": "סלובניה גרסה 1"
+   "en": "Slovenia v2",
+   "he": "סלובניה גרסה 2"
   }
  },
  "taxi_days": [
   "D10"
  ],
- "car_km": 410.8,
+ "car_km": 410.2,
  "changes": [
   {
-   "en": "Dates Sun 15 – Tue 24 Aug 2027 (daytime arrival, straight to the base): the cheapest of 13 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €4,166).",
-   "he": "תאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה ביום, ישר לבסיס): הזול מבין 13 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-4,166 €)."
+   "en": "What changed in v2: on 9 Nov 2026 the SWISS daytime flight of v1 rose from €958 to €1,937. The cheapest option is now the Lufthansa flight that lands at 21:50 on Sun 15 Aug (same dates, Sun 15 – Tue 24 Aug): flights + bags + hotels + car ≈ €4,293 (+€50 for an out-of-hours car pick-up), €372 cheaper than v1 at today's prices. Sun 15 Aug is a public holiday and car-rental desks at Ljubljana Airport close around 22:00 (Enterprise offers an out-of-hours pick-up for about €50 with a flight number): book a pick-up confirmed in writing against your flight, or use the fallback in the Day 1 text. The Apartment Muznik price was re-checked live (€900).",
+   "he": "מה השתנה בגרסה 2: ב-9.11.2026 טיסת היום של SWISS מגרסה 1 עלתה מ-958 € ל-1,937 €. האפשרות הזולה ביותר עכשיו היא טיסת לופטהנזה שנוחתת ב-21:50 ביום א' 15 באוגוסט (אותם תאריכים, א' 15 – ג' 24 באוגוסט): טיסות + כבודה + מלונות + רכב כ-4,293 € (+50 € לאיסוף רכב מחוץ לשעות), זול ב-372 € מגרסה 1 במחירי היום. 15 באוגוסט הוא חג ציבורי ודלפקי ההשכרה בנמל התעופה של לובליאנה נסגרים בסביבות 22:00 (Enterprise מציעה איסוף מחוץ לשעות בכ-50 € עם מספר טיסה): להזמין איסוף שמאושר בכתב מול הטיסה, או להשתמש באפשרות הגיבוי בטקסט של היום הראשון. מחיר Apartment Muznik נבדק שוב חי (900 €)."
   },
   {
-   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: SWISS LX 257 + LX 2274 04:50→14:00; back: Aegean A3 791 + A3 926 09:20→19:00.",
-   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: סוויס LX 257 + LX 2274 04:50←14:00; חזור: אגיאן A3 791 + A3 926 09:20←19:00."
+   "en": "Dates Sun 15 – Tue 24 Aug 2027 (evening arrival, late drive to the base): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €4,293).",
+   "he": "תאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-4,293 €)."
   },
   {
-   "en": "Next best: Sat 14 – Mon 23 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €4,226 (+€60); back SWISS 06:15→17:00.",
-   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-4,226 € (+60 €); חזור סוויס 06:15←17:00."
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Lufthansa LH 695 + LH 1462 08:00→21:50; back: Aegean A3 791 + A3 926 09:20→19:00.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: לופטהנזה LH 695 + LH 1462 08:00←21:50; חזור: אגיאן A3 791 + A3 926 09:20←19:00."
   },
   {
-   "en": "Next best: Tue 17 – Thu 26 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €4,259 (+€93); back Lufthansa 10:10→23:15.",
-   "he": "הבא בתור: ג' 17 – ה' 26 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-4,259 € (+93 €); חזור לופטהנזה 10:10←23:15."
+   "en": "Next best: Fri 20 – Sun 29 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €4,156 (+€-137); back Aegean 09:20→02:45.",
+   "he": "הבא בתור: ו' 20 – א' 29 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-4,156 € (+-137 €); חזור אגיאן 09:20←02:45."
+  },
+  {
+   "en": "Next best: Sat 14 – Mon 23 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €4,167 (+€-126); back KLM 12:40→02:35.",
+   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-4,167 € (+-126 €); חזור KLM 12:40←02:35."
   },
   {
    "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
@@ -78,6 +82,465 @@
  "local_per_eur": 1,
  "local_currency": "EUR",
  "flights": {
+  "choices": {
+   "out": [
+    {
+     "id": "LH 695 + LH 1462@08:00",
+     "fn": "LH 695 + LH 1462",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "08:00",
+     "arr": "21:50",
+     "duration": "14h 50m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1015,
+     "bags_eur": 160,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "SN 3294 + SN 3343@06:30",
+     "fn": "SN 3294 + SN 3343",
+     "airline": "Brussels Airlines",
+     "airline_he": "בריסל איירליינס",
+     "dep": "06:30",
+     "arr": "14:10",
+     "duration": "8h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1387,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 683 + LH 1698@07:00",
+     "fn": "LH 683 + LH 1698",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "07:00",
+     "arr": "19:20",
+     "duration": "13h 20m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1390,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 691 + LH 1460@04:45",
+     "fn": "LH 691 + LH 1460",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "04:45",
+     "arr": "13:40",
+     "duration": "9h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1432,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LX 257 + LX 2274@04:50",
+     "fn": "LX 257 + LX 2274",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "04:50",
+     "arr": "14:00",
+     "duration": "10h 10m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1937,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "BA 405 + BA 792@06:00",
+     "fn": "BA 405 + BA 792",
+     "airline": "British Airways",
+     "airline_he": "British Airways",
+     "dep": "06:00",
+     "arr": "16:15",
+     "duration": "11h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 2196,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "BT 772 + BT 477@06:10",
+     "fn": "BT 772 + BT 477",
+     "airline": "Air Baltic",
+     "airline_he": "Air Baltic",
+     "dep": "06:10",
+     "arr": "12:55",
+     "duration": "7h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 2492,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LO 152 + LO 615@05:05",
+     "fn": "LO 152 + LO 615",
+     "airline": "LOT",
+     "airline_he": "LOT",
+     "dep": "05:05",
+     "arr": "12:45",
+     "duration": "8h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 2522,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LY 343 + LX 2278@16:35",
+     "fn": "LY 343 + LX 2278",
+     "airline": "El Al and SWISS",
+     "airline_he": "El Al and SWISS",
+     "dep": "16:35",
+     "arr": "23:05",
+     "duration": "7h 30m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 2817,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LY 323 + AF 1236@10:00",
+     "fn": "LY 323 + AF 1236",
+     "airline": "El Al and Air France",
+     "airline_he": "El Al and Air France",
+     "dep": "10:00",
+     "arr": "18:15",
+     "duration": "9h 15m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 2940,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "KL 462 + KL 1989@04:45",
+     "fn": "KL 462 + KL 1989",
+     "airline": "KLM",
+     "airline_he": "KLM",
+     "dep": "04:45",
+     "arr": "12:05",
+     "duration": "8h 20m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 3126,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LY 221 + AF 1236@07:30",
+     "fn": "LY 221 + AF 1236",
+     "airline": "El Al and Air France",
+     "airline_he": "El Al and Air France",
+     "dep": "07:30",
+     "arr": "18:15",
+     "duration": "11h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 3728,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LY 319 + AF 1236@05:40",
+     "fn": "LY 319 + AF 1236",
+     "airline": "El Al and Air France",
+     "airline_he": "El Al and Air France",
+     "dep": "05:40",
+     "arr": "18:15",
+     "duration": "13h 35m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 4623,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LY 347@08:00",
+     "fn": "LY 347",
+     "airline": "El Al and SWISS",
+     "airline_he": "El Al and SWISS",
+     "dep": "08:00",
+     "arr": "14:00",
+     "duration": "7h",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 5023,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    }
+   ],
+   "back": [
+    {
+     "id": "A3 791 + A3 926@09:20",
+     "fn": "A3 791 + A3 926",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "09:20",
+     "arr": "19:00",
+     "duration": "8h 40m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 984,
+     "bags_eur": 160,
+     "fit": true,
+     "default": true
+    },
+    {
+     "id": "KL 1990 + KL 461@12:40",
+     "fn": "KL 1990 + KL 461",
+     "airline": "KLM",
+     "airline_he": "KLM",
+     "dep": "12:40",
+     "arr": "02:35",
+     "duration": "12h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1008,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "A3 791 + A3 928@09:20",
+     "fn": "A3 791 + A3 928",
+     "airline": "Aegean",
+     "airline_he": "אגיאן",
+     "dep": "09:20",
+     "arr": "02:45",
+     "duration": "16h 25m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1104,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "SN 3344 + SN 3293@13:50",
+     "fn": "SN 3344 + SN 3293",
+     "airline": "Brussels Airlines",
+     "airline_he": "בריסל איירליינס",
+     "dep": "13:50",
+     "arr": "01:55",
+     "duration": "11h 5m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1374,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LX 2275 + LX 256@14:50",
+     "fn": "LX 2275 + LX 256",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "14:50",
+     "arr": "03:35",
+     "duration": "11h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1378,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 1459 + LH 694@10:10",
+     "fn": "LH 1459 + LH 694",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "10:10",
+     "arr": "19:10",
+     "duration": "8h",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1439,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 1463 + LH 694@06:25",
+     "fn": "LH 1463 + LH 694",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "06:25",
+     "arr": "19:10",
+     "duration": "11h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1439,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LH 1461 + LH 690@14:20",
+     "fn": "LH 1461 + LH 690",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "14:20",
+     "arr": "23:15",
+     "duration": "7h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1551,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "6H 752@21:45",
+     "fn": "6H 752",
+     "airline": "Israir Airlines",
+     "airline_he": "ישראייר",
+     "dep": "21:45",
+     "arr": "02:00",
+     "duration": "3h 15m",
+     "stops": 0,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1579,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 1697 + LH 682@09:40",
+     "fn": "LH 1697 + LH 682",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "09:40",
+     "arr": "00:35",
+     "duration": "13h 55m",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 1626,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 1463 + LH 686@06:25",
+     "fn": "LH 1463 + LH 686",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "06:25",
+     "arr": "15:25",
+     "duration": "8h",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1665,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LX 2279 + LX 252@06:15",
+     "fn": "LX 2279 + LX 252",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "06:15",
+     "arr": "17:00",
+     "duration": "9h 45m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1970,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "AF 1037 + LY 324@12:05",
+     "fn": "AF 1037 + LY 324",
+     "airline": "Air France and El Al",
+     "airline_he": "Air France and El Al",
+     "dep": "12:05",
+     "arr": "20:55",
+     "duration": "7h 50m",
+     "stops": 1,
+     "via": "",
+     "next_day": false,
+     "price_eur": 2078,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "BA 795 + BA 404@17:05",
+     "fn": "BA 795 + BA 404",
+     "airline": "British Airways",
+     "airline_he": "British Airways",
+     "dep": "17:05",
+     "arr": "04:05",
+     "duration": "10h",
+     "stops": 1,
+     "via": "",
+     "next_day": true,
+     "price_eur": 2298,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    }
+   ],
+   "variant": "eve",
+   "note": {
+    "en": "Default = the cheapest flight that fits the plan (flights + bags). Pick another one to see the total change; the day-by-day text keeps the chosen plan's timing.",
+    "he": "ברירת המחדל = הטיסה הזולה ביותר שמתאימה לתוכנית (טיסה + כבודה). בחירה בטיסה אחרת משנה את הסכום הכולל; הטקסט היומי נשאר לפי התוכנית שנבחרה."
+   }
+  },
   "chosen": [
    {
     "dir": {
@@ -89,14 +552,14 @@
      "en": "Sun",
      "he": "א'"
     },
-    "flight": "LX 257 + LX 2274",
-    "airline": "SWISS",
+    "flight": "LH 695 + LH 1462",
+    "airline": "Lufthansa",
     "from": "TLV",
     "to": "LJU",
-    "dep": "04:50",
-    "arr": "14:00",
-    "duration": "10h 10m",
-    "price_eur": 958
+    "dep": "08:00",
+    "arr": "21:50",
+    "duration": "14h 50m",
+    "price_eur": 1015
    },
    {
     "dir": {
@@ -115,26 +578,10 @@
     "dep": "09:20",
     "arr": "19:00",
     "duration": "8h 40m",
-    "price_eur": 864
+    "price_eur": 984
    }
   ],
   "evening_outbound_options": [
-   {
-    "what": {
-     "en": "SWISS LX 257 + LX 2274 · 04:50 → 14:00 · 1 stop ",
-     "he": "סוויס LX 257 + LX 2274 · 04:50 → 14:00 · עצירה ב"
-    },
-    "when": {
-     "en": "Sun 15 Aug",
-     "he": "א' 15 באוגוסט"
-    },
-    "price_eur": 958,
-    "note": {
-     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
-     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
-    },
-    "best": true
-   },
    {
     "what": {
      "en": "Lufthansa LH 695 + LH 1462 · 08:00 → 21:50 · 1 stop ",
@@ -144,10 +591,26 @@
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 907,
+    "price_eur": 1015,
     "note": {
-     "en": "€51 cheaper; 14 hr 50 min with a connection.",
-     "he": "זולה ב-51 €; 14 שע׳ 50 דק׳ עם קונקשן."
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "Brussels Airlines SN 3294 + SN 3343 · 06:30 → 14:10 · 1 stop ",
+     "he": "בריסל איירליינס SN 3294 + SN 3343 · 06:30 → 14:10 · עצירה ב"
+    },
+    "when": {
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
+    },
+    "price_eur": 1387,
+    "note": {
+     "en": "€372 more; 8 hr 40 min with a connection.",
+     "he": "יקרה ב-372 €; 8 שע׳ 40 דק׳ עם קונקשן."
     },
     "best": false
    },
@@ -160,10 +623,10 @@
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 1231,
+    "price_eur": 1390,
     "note": {
-     "en": "€273 more; 13 hr 20 min with a connection.",
-     "he": "יקרה ב-273 €; 13 שע׳ 20 דק׳ עם קונקשן."
+     "en": "€375 more; 13 hr 20 min with a connection.",
+     "he": "יקרה ב-375 €; 13 שע׳ 20 דק׳ עם קונקשן."
     },
     "best": false
    }
@@ -178,7 +641,7 @@
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 864,
+    "price_eur": 984,
     "note": {
      "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
      "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
@@ -187,17 +650,17 @@
    },
    {
     "what": {
-     "en": "Aegean A3 791 + A3 928 · 09:20 → 02:45 (+1) · 1 stop ",
-     "he": "אגיאן A3 791 + A3 928 · 09:20 → 02:45 (+1) · עצירה ב"
+     "en": "Israir Airlines 6H 752 · 21:45 → 02:00 (+1) · nonstop",
+     "he": "ישראייר 6H 752 · 21:45 → 02:00 (+1) · ישירה"
     },
     "when": {
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 996,
+    "price_eur": 1579,
     "note": {
-     "en": "€132 more; 16 hr 25 min with a connection; arrives the next day.",
-     "he": "יקרה ב-132 €; 16 שע׳ 25 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€595 more; arrives the next day.",
+     "he": "יקרה ב-595 €; נוחתת למחרת."
     },
     "best": false
    },
@@ -210,10 +673,26 @@
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 1009,
+    "price_eur": 1008,
     "note": {
-     "en": "€145 more; 12 hr 55 min with a connection; arrives the next day.",
-     "he": "יקרה ב-145 €; 12 שע׳ 55 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€24 more; 12 hr 55 min with a connection; arrives the next day.",
+     "he": "יקרה ב-24 €; 12 שע׳ 55 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 791 + A3 928 · 09:20 → 02:45 (+1) · 1 stop ",
+     "he": "אגיאן A3 791 + A3 928 · 09:20 → 02:45 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
+    },
+    "price_eur": 1104,
+    "note": {
+     "en": "€120 more; 16 hr 25 min with a connection; arrives the next day.",
+     "he": "יקרה ב-120 €; 16 שע׳ 25 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    }
@@ -230,312 +709,12 @@
  },
  "date_options": [
   {
-   "total_eur": 4166.3,
-   "plan": "day",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
-   "out": {
-    "eur": 958,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257 + LX 2274",
-    "dep": "04:50",
-    "arr": "14:00"
-   },
-   "back": {
-    "eur": 864,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 791 + A3 926",
-    "dep": "09:20",
-    "arr": "19:00"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": true
-  },
-  {
-   "total_eur": 4226.3,
-   "plan": "day",
-   "start": "2027-08-14",
-   "end": "2027-08-23",
-   "out": {
-    "eur": 637,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257 + LX 2274",
-    "dep": "04:50",
-    "arr": "14:00"
-   },
-   "back": {
-    "eur": 1245,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 2279 + LX 252",
-    "dep": "06:15",
-    "arr": "17:00"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4259.3,
-   "plan": "day",
-   "start": "2027-08-17",
-   "end": "2027-08-26",
-   "out": {
-    "eur": 700,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "",
-    "dep": "04:50",
-    "arr": "14:00"
-   },
-   "back": {
-    "eur": 1215,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 1459 + LH 690",
-    "dep": "10:10",
-    "arr": "23:15"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4265.3,
-   "plan": "day",
-   "start": "2027-08-19",
-   "end": "2027-08-28",
-   "out": {
-    "eur": 766,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257 + LX 2274",
-    "dep": "04:50",
-    "arr": "14:00"
-   },
-   "back": {
-    "eur": 1155,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 2279 + LX 252",
-    "dep": "06:15",
-    "arr": "17:00"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4326.3,
-   "plan": "day",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 767,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257 + LX 2274",
-    "dep": "04:50",
-    "arr": "14:00"
-   },
-   "back": {
-    "eur": 1215,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 1463 + LH 686",
-    "dep": "06:25",
-    "arr": "15:25"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4410.3,
-   "plan": "day",
-   "start": "2027-08-16",
-   "end": "2027-08-25",
-   "out": {
-    "eur": 851,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257 + LX 2274",
-    "dep": "04:50",
-    "arr": "14:00"
-   },
-   "back": {
-    "eur": 1215,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 1463 + LH 686",
-    "dep": "06:25",
-    "arr": "15:25"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4452.3,
-   "plan": "eve",
-   "start": "2027-08-14",
-   "end": "2027-08-23",
-   "out": {
-    "eur": 863,
-    "bags_eur": 160,
-    "airline": "Brussels Airlines",
-    "flight": "SN 3294 + SN 3343",
-    "dep": "04:50",
-    "arr": "18:25"
-   },
-   "back": {
-    "eur": 1245,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 2279 + LX 252",
-    "dep": "06:15",
-    "arr": "17:00"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4466.3,
-   "plan": "eve",
-   "start": "2027-08-16",
-   "end": "2027-08-25",
-   "out": {
-    "eur": 907,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 695 + LH 1462",
-    "dep": "08:00",
-    "arr": "21:50"
-   },
-   "back": {
-    "eur": 1215,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 1463 + LH 686",
-    "dep": "06:25",
-    "arr": "15:25"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4466.3,
-   "plan": "eve",
-   "start": "2027-08-17",
-   "end": "2027-08-26",
-   "out": {
-    "eur": 907,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "",
-    "dep": "08:00",
-    "arr": "21:50"
-   },
-   "back": {
-    "eur": 1215,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 1459 + LH 690",
-    "dep": "10:10",
-    "arr": "23:15"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4510.3,
-   "plan": "eve",
-   "start": "2027-08-19",
-   "end": "2027-08-28",
-   "out": {
-    "eur": 1011,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 695 + LH 1462",
-    "dep": "08:00",
-    "arr": "21:50"
-   },
-   "back": {
-    "eur": 1155,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 2279 + LX 252",
-    "dep": "06:15",
-    "arr": "17:00"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4571.3,
-   "plan": "eve",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 1012,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 695 + LH 1462",
-    "dep": "08:00",
-    "arr": "21:50"
-   },
-   "back": {
-    "eur": 1215,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 1463 + LH 686",
-    "dep": "06:25",
-    "arr": "15:25"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4682.3,
-   "plan": "day",
-   "start": "2027-08-20",
-   "end": "2027-08-29",
-   "out": {
-    "eur": 850,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257 + LX 2274",
-    "dep": "04:50",
-    "arr": "14:00"
-   },
-   "back": {
-    "eur": 1488,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 791 + A3 926",
-    "dep": "09:20",
-    "arr": "19:00"
-   },
-   "hotels_eur": 1659.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4695.3,
+   "total_eur": 4156.3,
    "plan": "eve",
    "start": "2027-08-20",
    "end": "2027-08-29",
    "out": {
-    "eur": 863,
+    "eur": 866,
     "bags_eur": 160,
     "airline": "Aegean",
     "flight": "A3 929 + A3 790",
@@ -543,14 +722,339 @@
     "arr": "17:50"
    },
    "back": {
-    "eur": 1488,
+    "eur": 996,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 791 + A3 928",
+    "dep": "09:20",
+    "arr": "02:45"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4167.3,
+   "plan": "eve",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 865,
+    "bags_eur": 160,
+    "airline": "Brussels Airlines",
+    "flight": "SN 3294 + SN 3343",
+    "dep": "04:50",
+    "arr": "18:25"
+   },
+   "back": {
+    "eur": 1008,
+    "bags_eur": 160,
+    "airline": "KLM",
+    "flight": "KL 1990 + KL 461",
+    "dep": "12:40",
+    "arr": "02:35"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4188.3,
+   "plan": "eve",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 910,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 695 + LH 1462",
+    "dep": "08:00",
+    "arr": "21:50"
+   },
+   "back": {
+    "eur": 984,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 791 + A3 928",
+    "dep": "18:40",
+    "arr": "02:45"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4212.3,
+   "plan": "eve",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 910,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 695 + LH 1462",
+    "dep": "08:00",
+    "arr": "21:50"
+   },
+   "back": {
+    "eur": 1008,
+    "bags_eur": 160,
+    "airline": "KLM",
+    "flight": "KL 1990 + KL 461",
+    "dep": "12:40",
+    "arr": "02:35"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4212.3,
+   "plan": "eve",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 910,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 695 + LH 1462",
+    "dep": "08:00",
+    "arr": "21:50"
+   },
+   "back": {
+    "eur": 1008,
+    "bags_eur": 160,
+    "airline": "KLM",
+    "flight": "KL 1990 + KL 461",
+    "dep": "12:40",
+    "arr": "02:35"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4251.3,
+   "plan": "day",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 973,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 683 + LH 1696",
+    "dep": "07:00",
+    "arr": "13:15"
+   },
+   "back": {
+    "eur": 984,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 791 + A3 928",
+    "dep": "18:40",
+    "arr": "02:45"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4274.3,
+   "plan": "day",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 972,
+    "bags_eur": 160,
+    "airline": "Brussels Airlines",
+    "flight": "SN 3294 + SN 3343",
+    "dep": "05:10",
+    "arr": "13:00"
+   },
+   "back": {
+    "eur": 1008,
+    "bags_eur": 160,
+    "airline": "KLM",
+    "flight": "",
+    "dep": "12:40",
+    "arr": "02:35"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4293.3,
+   "plan": "eve",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 1015,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 695 + LH 1462",
+    "dep": "08:00",
+    "arr": "21:50"
+   },
+   "back": {
+    "eur": 984,
     "bags_eur": 160,
     "airline": "Aegean",
     "flight": "A3 791 + A3 926",
     "dep": "09:20",
     "arr": "19:00"
    },
-   "hotels_eur": 1659.3,
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": true
+  },
+  {
+   "total_eur": 4396.3,
+   "plan": "day",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 1094,
+    "bags_eur": 160,
+    "airline": "Brussels Airlines",
+    "flight": "SN 3294 + SN 3343",
+    "dep": "05:50",
+    "arr": "13:00"
+   },
+   "back": {
+    "eur": 1008,
+    "bags_eur": 160,
+    "airline": "KLM",
+    "flight": "KL 1990 + KL 461",
+    "dep": "12:40",
+    "arr": "02:35"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4399.3,
+   "plan": "day",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 1097,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 683 + LH 1696",
+    "dep": "07:00",
+    "arr": "12:40"
+   },
+   "back": {
+    "eur": 1008,
+    "bags_eur": 160,
+    "airline": "KLM",
+    "flight": "KL 1990 + KL 461",
+    "dep": "12:40",
+    "arr": "02:35"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4441.3,
+   "plan": "eve",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 1139,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 695 + LH 1462",
+    "dep": "08:00",
+    "arr": "21:50"
+   },
+   "back": {
+    "eur": 1008,
+    "bags_eur": 160,
+    "airline": "KLM",
+    "flight": "",
+    "dep": "12:40",
+    "arr": "02:35"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4521.3,
+   "plan": "day",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 1231,
+    "bags_eur": 160,
+    "airline": "Brussels Airlines",
+    "flight": "SN 3294 + SN 3343",
+    "dep": "04:50",
+    "arr": "13:00"
+   },
+   "back": {
+    "eur": 996,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 791 + A3 928",
+    "dep": "09:20",
+    "arr": "02:45"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4522.3,
+   "plan": "day",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 1220,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257 + LX 2274",
+    "dep": "04:50",
+    "arr": "14:00"
+   },
+   "back": {
+    "eur": 1008,
+    "bags_eur": 160,
+    "airline": "KLM",
+    "flight": "KL 1990 + KL 461",
+    "dep": "12:40",
+    "arr": "02:35"
+   },
+   "hotels_eur": 1609.3,
+   "car_eur": 365,
+   "chosen": false
+  },
+  {
+   "total_eur": 4665.3,
+   "plan": "day",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 1387,
+    "bags_eur": 160,
+    "airline": "Brussels Airlines",
+    "flight": "SN 3294 + SN 3343",
+    "dep": "06:30",
+    "arr": "14:10"
+   },
+   "back": {
+    "eur": 984,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 791 + A3 926",
+    "dep": "09:20",
+    "arr": "19:00"
+   },
+   "hotels_eur": 1609.3,
    "car_eur": 365,
    "chosen": false
   }
@@ -633,8 +1137,8 @@
   "lines": [
    [
     {
-     "en": "Estate/compact SUV, automatic, 5 days (≈ €65/day), Sun 15 (afternoon pick-up) – Fri 20 Aug (return by about 12:00)",
-     "he": "רכב סטיישן/קרוסאובר אוטומטי, 5 ימים (כ-65 € ליום), א' 15 (איסוף אחר הצהריים) – ו' 20 באוגוסט (החזרה עד כ-12:00)"
+     "en": "Estate/compact SUV, automatic, 5 days (≈ €65/day), Sun 15 (night pick-up) – Fri 20 Aug (return by about 12:00)",
+     "he": "רכב סטיישן/קרוסאובר אוטומטי, 5 ימים (כ-65 € ליום), א' 15 (איסוף בלילה) – ו' 20 באוגוסט (החזרה עד כ-12:00)"
     },
     325,
     true
@@ -649,10 +1153,10 @@
    ],
    [
     {
-     "en": "Slovenia e-vignette, passenger car 7 days €16 (DARS 2026 price; normally already valid on a rental car, then €0)",
-     "he": "וינייטה אלקטרונית לסלובניה, רכב פרטי 7 ימים 16 € (מחיר DARS 2026; בדרך כלל כבר בתוקף ברכב שכור, ואז 0 €)"
+     "en": "Out-of-hours car pick-up (about €50, Enterprise) + Slovenia e-vignette €16 (often already on the rental car)",
+     "he": "איסוף רכב מחוץ לשעות (כ-50 €, Enterprise) + וינייטה אלקטרונית לסלובניה 16 € (לרוב כבר על הרכב השכור)"
     },
-    16,
+    66,
     true
    ],
    [
@@ -673,14 +1177,14 @@
    ]
   ],
   "text": {
-   "en": "Pick-up at Ljubljana Airport (LJU) after a daytime landing on Sun 15 Aug; return Fri 20 Aug at the airport by about 12:00 = 5 rental days. Sunday 15 Aug is a public holiday and Enterprise lists only 07:00–20:00 on Sundays: with a daytime landing before about 15:00 the desks are open. Category: compact estate or small SUV – 2 large suitcases + 2 trolleys in the boot, 2 boosters on the rear seat. The car price is an estimate (aggregator pages show about €33–150 a day).",
-   "he": "איסוף בשדה התעופה של לובליאנה (LJU) עם הנחיתה ביום א' 15 באוגוסט; החזרה ביום ו' 20 באוגוסט בשדה לפני אותה שעה של האיסוף = 5 ימי השכרה. ראשון 15 באוגוסט הוא חג ציבורי ו-Enterprise מציינת רק 07:00–20:00 בימי ראשון: בנחיתת יום לפני כ-15:00 הדלפקים פתוחים. קטגוריה: סטיישן קומפקטי או קרוסאובר קטן – 2 מזוודות גדולות ו-2 טרולי בתא המטען, 2 בוסטרים במושב האחורי. מחיר הרכב הוא הערכה (דפי השוואה מציגים כ-33–150 € ליום)."
+   "en": "Pick-up at Ljubljana Airport (LJU) right after the 21:50 landing on Sun 15 Aug (about 22:30); return Fri 20 Aug at the airport by about 12:00 = 5 rental days (22:30 Sunday to 22:30 Friday, so a noon return is still 5 days). VERDICT ON THE LATE PICK-UP: not safe to assume. Sixt lists LJU desk hours of 08:00–22:00; Enterprise lists 07:00–23:00 Mon–Sat but 07:00–20:00 on Sundays and offers out-of-hours pick-up for about €50 with a flight number; no hours were found for Europcar, Avis or Hertz, and 15 Aug is a public holiday. Book a supplier that confirms in writing a pick-up at about 22:30 against your flight number (expect the €50 fee). If none confirms: take a taxi or shared shuttle to Bled the first night (about €60–80, estimate; ask for child seats), spend Day 2 at the lake on foot (everything is within 3 km, no car needed), and pick the car up at the airport on Day 3 morning by taxi/shuttle (another ≈ €60–80 and ~2 h round trip, estimate) – the rental is then 3.5 days and the car is still returned Fri 20 Aug. Category: compact estate or small SUV (e.g. Škoda Octavia Combi automatic) – 2 large suitcases + 2 trolleys in the boot, 2 boosters on the rear seat. The car price is an estimate: aggregator pages for LJU show anything from about €33 to €150 a day depending on class and date, and August is peak season.",
+   "he": "איסוף בשדה התעופה של לובליאנה (LJU) מיד אחרי הנחיתה ב-21:50 ביום א' 15 באוגוסט (בסביבות 22:30); החזרה ביום ו' 20 באוגוסט בשדה עד כ-12:00 = 5 ימי השכרה (22:30 ביום ראשון עד 22:30 ביום שישי, ולכן החזרה בצהריים עדיין 5 ימים). פסק דין על האיסוף המאוחר: אסור להניח שזה בטוח. Sixt מציינת שעות דלפק ב-LJU של 08:00–22:00; Enterprise מציינת 07:00–23:00 בימים ב'–ש' אבל 07:00–20:00 בימי ראשון ומציעה איסוף מחוץ לשעות בכ-50 € עם מספר טיסה; לא נמצאו שעות של Europcar, Avis או Hertz, ו-15 באוגוסט הוא חג ציבורי. להזמין ספק שמאשר בכתב איסוף בסביבות 22:30 מול מספר הטיסה (לצפות לתוספת של 50 €). אם אף אחד לא מאשר: מונית או שאטל משותף לבלד בלילה הראשון (כ-60–80 €, הערכה; לבקש מושבי ילדים), יום 2 באגם ברגל (הכול בתוך 3 ק\"מ, בלי רכב), ואיסוף הרכב בשדה בבוקר של יום 3 במונית/שאטל (עוד כ-60–80 € וכ-2 שעות הלוך-חזור, הערכה) – ההשכרה אז 3.5 ימים והרכב עדיין מוחזר ביום ו' 20 באוגוסט. קטגוריה: סטיישן קומפקטי או קרוסאובר קטן (למשל שקודה אוקטביה קומבי אוטומטית) – 2 מזוודות גדולות ו-2 טרולי בתא המטען, 2 בוסטרים במושב האחורי. מחיר הרכב הוא הערכה: דפי השוואה ל-LJU מציגים כל דבר בין כ-33 € ל-150 € ליום לפי קטגוריה ותאריך, ואוגוסט הוא עונת שיא."
   },
   "pickup": {
    "place": "Ljubljana Jože Pučnik Airport",
    "lat": 46.2237,
    "lng": 14.4576,
-   "when": "2027-08-15T14:50",
+   "when": "2027-08-15T22:40",
    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=46.223700,14.457600&travelmode=driving"
   },
   "dropoff": {
@@ -729,9 +1233,9 @@
    "checkin": "2027-08-15",
    "checkout": "2027-08-20",
    "nights": 5,
-   "total_eur": 950.0,
+   "total_eur": 900.0,
    "booking_score": 8.9,
-   "booking_reviews": 665,
+   "booking_reviews": 659,
    "booking_url": "https://www.booking.com/hotel/si/apartment-muznik.html?checkin=2027-08-15&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Apartment for up to 5 with a fully equipped kitchen, free parking, terrace/garden and BBQ; free cancellation. Check-in from 15:00 (check-out until 10:00), private (key) check-in with no reception. You land at 21:50 and arrive after about 23:00: Booking's Q&A says to tell the property your arrival time in advance and to ask about any late-arrival fee, but it does not say whether a key box or code is used – get the late self check-in instructions in writing before you fly. No pool: the lake is the pool (swimming spots 300 m away).",
@@ -742,8 +1246,8 @@
     "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking ושאלות ותשובות על הנכס, 21.10.2026): הדירה ממוזגת והמיזוג חינם. בתמונת החדר נראית יחידה תלויה על הקיר."
    },
    "alt": {
-    "en": "ININ Apartments €889.13 (Booking 9.6, 209 reviews; A/C free, kitchenette, sleeps up to 8, about 3 km / 25 min walk from the lake, no pool). Apartmaji Sparakel €889.13 (Booking 8.8, 107 reviews; A/C free, kitchenette, sleeps 4, 1.1 km from the lake). Pr Anzl €1,614.13 (Booking 9.6, 1,038 reviews; kids' outdoor play equipment, water park/sauna listed, A/C in Booking's facility list – confirm the room type). (Alternative prices were checked for 14–23 Aug.)",
-    "he": "ININ Apartments ב-889.13 € (Booking 9.6, 209 ביקורות; מיזוג חינם, מטבחון, עד 8 אנשים, כ-3 ק\"מ / 25 דקות הליכה מהאגם, בלי בריכה). Apartmaji Sparakel ב-889.13 € (Booking 8.8, 107 ביקורות; מיזוג חינם, מטבחון, 4 אנשים, 1.1 ק\"מ מהאגם). Pr Anzl ב-1,614.13 € (Booking 9.6, 1,038 ביקורות; ציוד משחקים חיצוני לילדים, פארק מים/סאונה ברשימה, מיזוג ברשימת המתקנים של Booking – לוודא את סוג החדר). (מחירי החלופות נבדקו ל-14–23 באוגוסט.)"
+    "en": "Re-checked 9 Nov 2026 for 15–20 Aug (A/C, free cancellation): Apartmaji Sparakel €889.13 (Booking 8.9, 108 reviews; A/C free, kitchenette, sleeps 4, 1.1 km from the lake). ININ Apartments and Pr Anzl (the earlier alternatives) are no longer available with free cancellation on these dates. (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
+    "he": "נבדק שוב ב-9.11.2026 ל-15–20 באוגוסט (מיזוג, ביטול חינם): Apartmaji Sparakel ב-889.13 € (Booking 8.9, 108 ביקורות; מיזוג חינם, מטבחון, 4 אנשים, 1.1 ק\"מ מהאגם). ININ Apartments ו-Pr Anzl (החלופות הקודמות) כבר לא זמינים עם ביטול חינם בתאריכים האלה. (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
    },
    "google_note": {
     "en": "Google: 4.9 from 45 reviews; Booking.com 8.9 from 665 reviews.",
@@ -777,13 +1281,13 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 190.0,
+   "price_per_night_eur": 180.0,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 8.9,
      "out_of": 10,
-     "reviews": 665,
+     "reviews": 659,
      "url": "https://www.booking.com/hotel/si/apartment-muznik.html?checkin=2027-08-15&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
@@ -807,8 +1311,8 @@
    "checkout": "2027-08-24",
    "nights": 4,
    "total_eur": 709.3,
-   "booking_score": 9.0,
-   "booking_reviews": 140,
+   "booking_score": 8.9,
+   "booking_reviews": 135,
    "booking_url": "https://www.booking.com/hotel/si/absolutum-apartments.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Family apartment with one bedroom, sleeps up to 4, with a kitchenette and a garden; free cancellation. Check-in from 15:00, check-out until 11:00; you arrive around 13:00 from the airport on Fri 20 Aug, so ask the host for early check-in or bag storage. Lift not listed. Parking is not needed (no car in the city). Departure Tue 24 Aug is at about 06:15 for the 09:20 flight: agree a self check-out (leave the key as instructed).",
@@ -819,8 +1323,8 @@
     "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking ושאלות ותשובות על הנכס, 21.10.2026): הדירה המשפחתית ממוזגת והמיזוג כלול בלי תוספת תשלום."
    },
    "alt": {
-    "en": "MCS Metro Residence €608.40 (Booking 9.7, 84 reviews; two-bedroom for 6, kitchen, A/C, 5 min walk from the centre, check-in 16:00) – cheaper and bigger, but it was bookable with free cancellation only for starts on 14–15 Aug (€608.40 / €620.10), not from 16 Aug. Apartment Center II – Kersnikova €690.30 (Booking 8.9, 41 reviews; one bedroom for 4, kitchen, A/C free, under 1 km from the Old Town). Barbo Palace Apartments €997.30 (Booking 9.2, 1,304 reviews; two-bedroom, kitchenette, A/C in all apartments, 5 min walk to the sights). (Alternative prices were checked for 14–23 Aug.)",
-    "he": "MCS Metro Residence ב-608.40 € (Booking 9.7, 84 ביקורות; 2 חדרי שינה ל-6, מטבח, מיזוג, 5 דקות הליכה מהמרכז, צ'ק-אין 16:00) – זול וגדול יותר, אבל ניתן להזמנה עם ביטול חינם רק לתאריכי התחלה 14–15 באוגוסט (608.40 € / 620.10 €), לא מ-16 באוגוסט. Apartment Center II – Kersnikova ב-690.30 € (Booking 8.9, 41 ביקורות; חדר שינה ל-4, מטבח, מיזוג חינם, פחות מ-1 ק\"מ מהעיר העתיקה). Barbo Palace Apartments ב-997.30 € (Booking 9.2, 1,304 ביקורות; 2 חדרי שינה, מטבחון, מיזוג בכל הדירות, 5 דקות הליכה לאתרים). (מחירי החלופות נבדקו ל-14–23 באוגוסט.)"
+    "en": "MCS Metro Residence €608.40 (Booking 9.7, 84 reviews; two-bedroom for 6, kitchen, A/C, 5 min walk from the centre, check-in 16:00) – cheaper and bigger, but it was bookable with free cancellation only for starts on 14–15 Aug (€608.40 / €620.10), not from 16 Aug. Apartment Center II – Kersnikova €690.30 (Booking 8.9, 41 reviews; one bedroom for 4, kitchen, A/C free, under 1 km from the Old Town). Barbo Palace Apartments €997.30 (Booking 9.2, 1,304 reviews; two-bedroom, kitchenette, A/C in all apartments, 5 min walk to the sights). (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
+    "he": "MCS Metro Residence ב-608.40 € (Booking 9.7, 84 ביקורות; 2 חדרי שינה ל-6, מטבח, מיזוג, 5 דקות הליכה מהמרכז, צ'ק-אין 16:00) – זול וגדול יותר, אבל ניתן להזמנה עם ביטול חינם רק לתאריכי התחלה 14–15 באוגוסט (608.40 € / 620.10 €), לא מ-16 באוגוסט. Apartment Center II – Kersnikova ב-690.30 € (Booking 8.9, 41 ביקורות; חדר שינה ל-4, מטבח, מיזוג חינם, פחות מ-1 ק\"מ מהעיר העתיקה). Barbo Palace Apartments ב-997.30 € (Booking 9.2, 1,304 ביקורות; 2 חדרי שינה, מטבחון, מיזוג בכל הדירות, 5 דקות הליכה לאתרים). (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
    },
    "google_note": {
     "en": "Google: 4.9 from only 10 reviews; Booking.com 9.0 from 140 reviews.",
@@ -858,9 +1362,9 @@
    "ratings": [
     {
      "source": "Booking.com",
-     "score": 9.0,
+     "score": 8.9,
      "out_of": 10,
-     "reviews": 140,
+     "reviews": 135,
      "url": "https://www.booking.com/hotel/si/absolutum-apartments.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
@@ -1931,47 +2435,36 @@
     "he": "א'"
    },
    "title": {
-    "en": "Daytime flight, car pick-up, Bled lake walk and check-in",
-    "he": "טיסת יום, איסוף רכב, טיול באגם בלד וצ'ק-אין"
+    "en": "Evening flight, night car pick-up, late drive to Bled",
+    "he": "טיסת ערב, איסוף רכב בלילה ונסיעה מאוחרת לבלד"
    },
    "trail": "green",
    "overnight": "hotel_bled",
    "plan": [
     {
-     "en": "04:50 SWISS LX 257 + LX 2274 from TLV, landing at LJU 14:00.",
-     "he": "04:50 סוויס LX 257 + LX 2274 מנתב\"ג, נחיתה בלובליאנה ב-14:00."
+     "en": "08:00 Lufthansa LH 695 + LH 1462 from TLV, landing at LJU 21:50.",
+     "he": "08:00 לופטהנזה LH 695 + LH 1462 מנתב\"ג, נחיתה בלובליאנה ב-21:50.",
+     "flight": "out"
     },
     {
-     "en": "Pick up the car at Ljubljana Airport with 2 child seats (45–60 min; confirm the e-vignette is on the car; Sunday 15 Aug is a public holiday, so check desk hours – Enterprise lists 07:00–20:00 on Sundays). Drive 36 km / 31 min to Bled; the holiday Sunday is busy at the lake, so leave the airport by about 16:00.",
-     "he": "איסוף הרכב בשדה התעופה של לובליאנה עם 2 מושבי ילדים (45–60 דקות; לאשר שהוינייטה האלקטרונית על הרכב; ראשון 15 באוגוסט הוא חג ציבורי, אז לבדוק שעות דלפק – Enterprise מציינת 07:00–20:00 בימי ראשון). נסיעה של 36 ק\"מ / 31 דקות לבלד; יום ראשון בחג עמוס באגם, לכן לצאת מהשדה עד כ-16:00."
+     "en": "Car pick-up at Ljubljana Airport with 2 child seats right after landing (about 22:30). Rental desks do not reliably stay open that late: Sixt lists 08:00–22:00; Enterprise lists 07:00–23:00 Mon–Sat but only 07:00–20:00 on Sundays, with out-of-hours pick-up on request for about €50 (flight number required); Sun 15 Aug is also a public holiday (Assumption). Book the late pick-up in writing with your flight number. Fallback if no desk can confirm it: taxi or shuttle to Bled (about €60–80, estimate) and collect the car later (see the car section).",
+     "he": "איסוף הרכב בשדה התעופה של לובליאנה עם 2 מושבי ילדים מיד אחרי הנחיתה (בסביבות 22:30). דלפקי ההשכרה לא תמיד פתוחים עד כל כך מאוחר: Sixt מציינת 08:00–22:00; Enterprise מציינת 07:00–23:00 בימים ב'–ש' אך רק 07:00–20:00 בימי ראשון, עם איסוף מחוץ לשעות לפי בקשה בכ-50 € (נדרש מספר טיסה); ראשון 15 באוגוסט הוא גם חג ציבורי (עלייה השמימה). להזמין את האיסוף המאוחר בכתב עם מספר הטיסה. חלופה אם אף דלפק לא מאשר: מונית או שאטל לבלד (כ-60–80 €, הערכה) ואיסוף הרכב מאוחר יותר (ראו את פרק הרכב)."
     },
     {
-     "en": "Kid stop (1–1.5 h): a kremšnita at Café Park (open daily 11:00–19:00) and a flat stroll on the lake promenade; first swim at a beach.",
-     "he": "עצירת ילדים (שעה–שעה וחצי): קרמשניטה בקפה פארק (פתוח מדי יום 11:00–19:00) וטיול שטוח בטיילת האגם; שחייה ראשונה בחוף."
-    },
-    {
-     "en": "5 min to the apartment (check-in key arrangement agreed with the host), early night; groceries on Monday.",
-     "he": "5 דקות לדירה (סידור מפתח מול המארח), לישון מוקדם; קניות ביום שני."
+     "en": "Drive 37 km / 33 min (35–45 min at night) on the A2/A1 and the Bled road; the kids sleep in the car. Arrive about 23:30–00:00: use the late self check-in instructions agreed with the host (private key check-in, no reception) – send your ETA before the flight. Shops are closed (Sunday and a holiday): buy groceries on Monday.",
+     "he": "נסיעה של 37 ק\"מ / 33 דקות (35–45 דקות בלילה) בכביש A2/A1 ובכביש לבלד; הילדים ישנים ברכב. מגיעים בסביבות 23:30–00:00: משתמשים בהוראות הצ'ק-אין העצמי המאוחר שסוכמו עם המארח (צ'ק-אין פרטי עם מפתח, בלי קבלה) – לשלוח את שעת ההגעה לפני הטיסה. החנויות סגורות (יום ראשון וחג): קונים מצרכים ביום שני."
     }
    ],
-   "attractions": [
-    "kremsnita"
-   ],
+   "attractions": [],
    "route": {
-    "km": 37.9,
-    "minutes": 36,
+    "km": 37.3,
+    "minutes": 33,
     "legs": [
      {
       "from": "Ljubljana Jože Pučnik Airport (LJU) – car pick-up",
-      "to": "Park Café, Bled (kremšnita and lake walk)",
-      "km": 36.0,
-      "min": 31
-     },
-     {
-      "from": "Park Café, Bled (kremšnita and lake walk)",
       "to": "Apartment Muznik, Bled",
-      "km": 1.9,
-      "min": 5
+      "km": 37.3,
+      "min": 33
      }
     ],
     "points": [
@@ -1979,11 +2472,6 @@
       "name": "Ljubljana Jože Pučnik Airport (LJU) – car pick-up",
       "lat": 46.2237,
       "lng": 14.4576
-     },
-     {
-      "name": "Park Café, Bled (kremšnita and lake walk)",
-      "lat": 46.36741,
-      "lng": 14.10862
      },
      {
       "name": "Apartment Muznik, Bled",
@@ -2090,32 +2578,20 @@
        46.36351
       ],
       [
-       14.133725,
-       46.36816
+       14.134056,
+       46.368126
       ],
       [
-       14.122886,
-       46.366927
+       14.126886,
+       46.366874
       ],
       [
-       14.116508,
-       46.36867
+       14.113114,
+       46.368174
       ],
       [
-       14.109281,
-       46.367185
-      ],
-      [
-       14.109886,
-       46.368338
-      ],
-      [
-       14.106759,
-       46.364799
-      ],
-      [
-       14.099251,
-       46.362236
+       14.09932,
+       46.362303
       ],
       [
        14.10034,
@@ -2124,7 +2600,7 @@
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.2237,14.4576&destination=46.357435,14.100263&travelmode=driving&waypoints=46.36741%2C14.10862"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=46.2237,14.4576&destination=46.357435,14.100263&travelmode=driving"
    }
   },
   {
@@ -2142,7 +2618,7 @@
    "overnight": "hotel_bled",
    "plan": [
     {
-     "en": "Slow morning after the 04:50 flight; groceries for the kitchen, breakfast in the apartment, then walk 300 m to the Mlino pier (5 min).",
+     "en": "Slow morning after the late arrival; groceries for the kitchen, breakfast in the apartment, then walk 300 m to the Mlino pier (5 min).",
      "he": "בוקר איטי אחרי ההגעה המאוחרת; קניות למטבח, ארוחת בוקר בדירה, ואז הליכה של 300 מ' למזח מלינו (5 דקות)."
     },
     {
@@ -3726,7 +4202,7 @@
    "overnight": "hotel_lj",
    "plan": [
     {
-     "en": "Check out by 10:00, fuel up, and drive 38 km / 34 min to Ljubljana Airport (LJU, Brnik); return the car (5 rental days: Sun afternoon to Fri) by 12:00 (a Friday – desks are open).",
+     "en": "Check out by 10:00, fuel up, and drive 38 km / 34 min to Ljubljana Airport (LJU, Brnik); return the car (5 rental days: Sun night to Fri) by 12:00 (a Friday – desks are open).",
      "he": "צ'ק-אאוט עד 10:00, תדלוק, ונסיעה של 38 ק\"מ / 34 דקות לשדה התעופה של לובליאנה (LJU, ברניק); מחזירים את הרכב (5 ימי השכרה: ממוצאי יום ראשון עד יום שישי) עד 12:00 (יום שישי – הדלפקים פתוחים)."
     },
     {
@@ -4010,7 +4486,8 @@
    "plan": [
     {
      "en": "Aegean A3 791 + A3 926 departs 09:20 and lands in TLV at 19:00.",
-     "he": "אגיאן A3 791 + A3 926 ממריאה ב-09:20 ונוחתת בנתב\"ג ב-19:00."
+     "he": "אגיאן A3 791 + A3 926 ממריאה ב-09:20 ונוחתת בנתב\"ג ב-19:00.",
+     "flight": "back"
     },
     {
      "en": "Wake about 05:30; self check-out. Pre-booked taxi at about 06:15 to Ljubljana Airport (27 min, about €40 – estimate; early-morning traffic is light) so you are at the airport by about 07:00 for the 09:20 flight. No public bus or shuttle is reliable at that hour.",
@@ -4111,18 +4588,18 @@
   }
  ],
  "routes_total": {
-  "km": 466.4,
-  "minutes": 463
+  "km": 465.8,
+  "minutes": 460
  },
  "budget": {
   "lines": [
    {
     "key": "flights",
-    "eur": 1822,
+    "eur": 1999,
     "status": "live",
     "label": {
-     "en": "Flights – SWISS LX 257 + LX 2274 + Aegean A3 791 + A3 926, 4 passengers",
-     "he": "טיסות – סוויס LX 257 + LX 2274 + אגיאן A3 791 + A3 926, 4 נוסעים"
+     "en": "Flights – Lufthansa LH 695 + LH 1462 + Aegean A3 791 + A3 926, 4 passengers",
+     "he": "טיסות – לופטהנזה LH 695 + LH 1462 + אגיאן A3 791 + A3 926, 4 נוסעים"
     }
    },
    {
@@ -4172,11 +4649,11 @@
    },
    {
     "key": "vignette",
-    "eur": 16,
+    "eur": 66,
     "status": "estimate",
     "label": {
-     "en": "Slovenia e-vignette, passenger car 7 days €16",
-     "he": "וינייטה אלקטרונית לסלובניה, רכב פרטי 7 ימים 16 €"
+     "en": "Out-of-hours car pick-up",
+     "he": "איסוף רכב מחוץ לשעות"
     }
    },
    {
@@ -4184,8 +4661,8 @@
     "eur": 48,
     "status": "estimate",
     "label": {
-     "en": "Fuel – ≈ 444 km",
-     "he": "דלק – כ-444 ק\"מ"
+     "en": "Fuel – ≈ 443 km",
+     "he": "דלק – כ-443 ק\"מ"
     }
    },
    {
@@ -4199,7 +4676,7 @@
    },
    {
     "key": "hotels",
-    "eur": 1659.3,
+    "eur": 1609.3,
     "status": "live",
     "label": {
      "en": "Hotels – 2 stays, 9 nights, free cancellation",
@@ -4208,24 +4685,24 @@
    },
    {
     "key": "att",
-    "eur": 522,
+    "eur": 502,
     "status": "mixed",
     "label": {
-     "en": "Attractions & Ljubljana public transport (522.3 EUR)",
-     "he": "אטרקציות ותחבורה ציבורית בלובליאנה (522.3 EUR)"
+     "en": "Attractions & Ljubljana public transport (502.3 EUR)",
+     "he": "אטרקציות ותחבורה ציבורית בלובליאנה (502.3 EUR)"
     }
    }
   ],
-  "total_eur": 4872.3,
-  "live_part_eur": 3481.3,
-  "attractions_local": 522.3,
-  "fuel_km": 444
+  "total_eur": 5029.3,
+  "live_part_eur": 3608.3,
+  "attractions_local": 502.3,
+  "fuel_km": 443
  },
  "ui": {
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Slovenia v1 research · prices checked 17–21 Oct 2026 · awaiting your approval",
+   "eyebrow": "Slovenia v2 research · prices checked 9 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -4291,7 +4768,7 @@
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Slovenia v1 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Slovenia v2 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Lake Bled",
@@ -4318,7 +4795,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "סלובניה גרסה 1 · מחירים נבדקו 17–21.10.2026 · ממתין לאישורך",
+   "eyebrow": "סלובניה גרסה 2 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -4384,7 +4861,7 @@
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "סלובניה גרסה 1 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "סלובניה גרסה 2 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "אגם בלד",
@@ -4410,8 +4887,8 @@
   }
  },
  "approved": {
-  "version": "si v1",
-  "approved_on": "2026-10-21",
+  "version": "si v2",
+  "approved_on": "2026-11-09",
   "by": "traveller"
  },
  "map": {
