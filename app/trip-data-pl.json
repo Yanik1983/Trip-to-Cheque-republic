@@ -25,11 +25,11 @@
  },
  "variant": "eve",
  "version": {
-  "id": "v4",
+  "id": "v5",
   "date": "2026-11-09",
   "label": {
-   "en": "Poland v4",
-   "he": "פולין גרסה 4"
+   "en": "Poland v5",
+   "he": "פולין גרסה 5"
   }
  },
  "taxi_days": [
@@ -38,11 +38,11 @@
   "D8",
   "D9"
  ],
- "car_km": 379.5,
+ "car_km": 421.4,
  "changes": [
   {
-   "en": "What changed in v4: flights were re-checked on 9 Nov 2026; the cheapest dates are now Tue 17 – Thu 26 Aug 2027 (one day earlier than v3), Lufthansa both ways. Same plan and hotels, re-priced live.",
-   "he": "מה השתנה בגרסה 4: הטיסות נבדקו שוב ב-9.11.2026; התאריכים הזולים ביותר הם עכשיו ג' 17 – ה' 26 באוגוסט 2027 (יום אחד לפני גרסה 3), לופטהנזה בשני הכיוונים. אותה תוכנית ואותם מלונות, תומחרו מחדש."
+   "en": "What changed in v5: the plan is now kids-first with at least two kid activities on every full day. Zakopane: funicular, gravity slide, Tatra Mini Zoo and a pool (the Krupówki shopping street and the cable car to Kasprowy were dropped); Dunajec rafts plus the Szczawnica playground; the Wawel dragon plus a Vistula boat; Planty playground and the Rynek, with Wieliczka kept but flagged (3.5 km, 800+ steps, over the 2 km rule: skip it if the kids tire); zoo and the Garden of Experiments. Same dates, hotels and flights as v4.",
+   "he": "מה השתנה בגרסה 5: התוכנית בנויה עכשיו קודם כול לילדים, עם לפחות שתי פעילויות לילדים בכל יום מלא. זקופנה: פוניקולר, מגלשת כבידה, גן חיות מיני של הטטרה ובריכה (רחוב קניות קרופובקי והרכבל לקספרובי הוסרו); רפסודות בדונאייץ ומגרש המשחקים בשצ'בניצה; דרקון הוואוול ושייט בוויסלה; מגרש המשחקים בפלנטי והרינק, כשמכרה המלח וייליצ'קה נשאר אבל מסומן (3.5 ק\"מ, מעל 800 מדרגות, מעל גבול 2 ק\"מ: לדלג אם הילדים עייפים); גן חיות וגן הניסויים. אותם תאריכים, מלונות וטיסות כמו בגרסה 4."
   },
   {
    "en": "Dates Tue 17 – Thu 26 Aug 2027 (evening arrival + airport night): the cheapest of 10 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €4,036).",
@@ -73,12 +73,12 @@
    "nights": 9
   },
   "title": {
-   "en": "Poland Family Trip – Tatras & Kraków",
-   "he": "טיול משפחתי בפולין – הרי הטטרה וקרקוב"
+   "en": "Poland Family Trip for Kids – Rabkoland, Dunajec Rafts, Energylandia, Dragon & Zoo",
+   "he": "טיול משפחתי לילדים בפולין – רבקולנד, רפסודות בדונאייץ, אנרג'ילנדיה, דרקון וגן חיות"
   },
   "lede": {
-   "en": "Tue 17 – Thu 26 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at Kraków airport, a rental car to Rabkoland and 4 nights in an apartment with a pool in the quiet mountain village of Białka Tatrzańska (thermal water park, funicular, wooden-raft river trip, castle), then 4 nights in a Kraków apartment without a car (salt mine, dragon, zoo, Energylandia).",
-   "he": "ג' 17 – ה' 26 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה של קרקוב, רכב שכור לפארק השעשועים רבקולנד ו-4 לילות בדירה עם בריכה בכפר ההררי השקט ביאלקה טטשאנסקה (פארק מים תרמי, רכבל, שיט ברפסודות עץ, טירה), ולסיום 4 לילות בדירה בקרקוב בלי רכב (מכרה המלח, הדרקון, גן החיות ואנרג'ילנדיה)."
+   "en": "Tue 17 – Thu 26 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at Kraków airport, a rental car to Rabkoland and 4 nights in an apartment with a pool in the quiet mountain village of Białka Tatrzańska (thermal water park, Gubałówka funicular with a gravity slide, the Tatra Mini Zoo, wooden-raft river trip, castle), then 4 nights in a Kraków apartment without a car (the Wawel dragon and a Vistula boat, a salt mine, a playground by the Planty park, the zoo, the Garden of Experiments, Energylandia).",
+   "he": "ג' 17 – ה' 26 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה של קרקוב, רכב שכור לפארק השעשועים רבקולנד ו-4 לילות בדירה עם בריכה בכפר ההררי השקט ביאלקה טטשאנסקה (פארק מים תרמי, רכבל גובאלובקה עם מגלשה גרביטציונית, גן החיות הקטן של הטטרה, שיט ברפסודות עץ, טירה), ולסיום 4 לילות בדירה בקרקוב בלי רכב (הדרקון של ואוול ושיט בוויסלה, מכרה מלח, מגרש משחקים בפארק פלאנטי, גן החיות, גן הניסויים ואנרג'ילנדיה)."
   }
  },
  "currency": "EUR",
@@ -1397,8 +1397,8 @@
     "he": "פארק השעשועים רבקולנד (רבקה-זדרוי)"
    },
    "hours": {
-    "en": "Season late April – October. August 2026 daily hours were not published online – check the calendar on rabkoland.pl.",
-    "he": "העונה מסוף אפריל עד אוקטובר. שעות אוגוסט 2026 לא פורסמו ברשת – לבדוק בלוח באתר rabkoland.pl."
+    "en": "Season late April – October. Third-party listing: Mon–Wed 10:00–18:00 (Wed 18 Aug 2027: open). August 2026 hours were not published online – check the calendar on rabkoland.pl.",
+    "he": "עונה מסוף אפריל עד אוקטובר. רישום צד שלישי: ב'–ד' 10:00–18:00 (ד' 18 באוגוסט 2027: פתוח). שעות אוגוסט 2026 לא פורסמו באינטרנט – לבדוק בלוח של rabkoland.pl."
    },
    "price_text": {
     "en": "Day ticket by height: over 120 cm 119 PLN online (124 at the gate), 90–120 cm 109 PLN, under 90 cm free. Family ≈ 466 PLN (≈ €107) if the 7-year-old is over 120 cm and the 5-year-old under. Rides included.",
@@ -1534,12 +1534,12 @@
    "price_eur": 36.16,
    "estimate": false,
    "time": {
-    "en": "2–3 h with the top",
-    "he": "2–3 שעות כולל הפסגה"
+    "en": "1.5 h with the slide (start at about 09:00)",
+    "he": "שעה וחצי עם המגלשה (להתחיל בערך ב-09:00)"
    },
    "kids": {
-    "en": "A little mountain train straight up the hill – no hiking. At the top: views of the Tatras, a family gravity slide (paid extra), playgrounds and a sandy 'beach' with free deckchairs.",
-    "he": "רכבת הרים קטנה ישר לראש הגבעה – בלי הליכה. למעלה: נוף לטטרה, מגלשה גרביטציונית משפחתית (בתשלום נפרד), מגרשי משחקים ו'חוף' חול עם כיסאות נוח בחינם."
+    "en": "A little mountain train straight up the hill, no hiking. At the top: views of the Tatras, the gravity slide next door (separate ticket) and a short playground stop. Back down by funicular for an ice cream near the lower station.",
+    "he": "רכבת הרים קטנה ישר לראש הגבעה, בלי הליכה. למעלה: נוף לטטרה, מגלשת הגרביטציה ממש לידה (כרטיס נפרד) ועצירה קצרה במגרש משחקים. חזרה ברכבל למטה לגלידה ליד התחנה התחתונה."
    },
    "optional": false,
    "google": {
@@ -1576,128 +1576,10 @@
     [
      "PKL – Gubałówka summer attractions",
      "https://www.pkl.pl/post/gubalowka/atrakcje/w-centrum-widokow.html?setlang=2"
-    ]
-   ]
-  },
-  "krupowki": {
-   "id": "krupowki",
-   "name": {
-    "en": "Krupówki street (Zakopane)",
-    "he": "רחוב קרופובקי (זקופנה)"
-   },
-   "hours": {
-    "en": "Open all the time",
-    "he": "פתוח תמיד"
-   },
-   "price_text": {
-    "en": "Free",
-    "he": "חינם"
-   },
-   "price_czk": 0,
-   "price_eur": 0.0,
-   "estimate": false,
-   "time": {
-    "en": "1 h",
-    "he": "שעה"
-   },
-   "kids": {
-    "en": "Zakopane's pedestrian main street, starting a few minutes' walk from the funicular: wooden mountain houses, street performers, oscypek cheese stalls and ice cream. Busy in August.",
-    "he": "רחוב המדרחוב הראשי של זקופנה, מתחיל כמה דקות הליכה מהרכבל: בתי עץ הרריים, אמני רחוב, דוכני גבינת אוסצ'יפק וגלידה. עמוס באוגוסט."
-   },
-   "optional": false,
-   "google": {
-    "name": "Krupówki",
-    "rating": 4.4,
-    "reviews": 6740,
-    "lat": 49.293854,
-    "lng": 19.953894,
-    "address": "34-500 Zakopane, Poland",
-    "website": null,
-    "place_id": "ChIJOdwFMZHyFUcRceAH7r6DNWM",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=Krup%C3%B3wki&query_place_id=ChIJOdwFMZHyFUcRceAH7r6DNWM",
-    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.293854,19.953894&travelmode=driving"
-   },
-   "rating": {
-    "source": "Google Maps",
-    "score": 4.4,
-    "out_of": 5,
-    "reviews": 6740,
-    "url": "https://www.google.com/maps/search/?api=1&query=Krup%C3%B3wki&query_place_id=ChIJOdwFMZHyFUcRceAH7r6DNWM"
-   },
-   "photo": {
-    "file": "img/pl/krupowki-1.jpg",
-    "w": 1000,
-    "h": 750,
-    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJOdwFMZHyFUcRceAH7r6DNWM",
-    "credit": "Google Maps listing photo"
-   },
-   "sources": [
-    [
-     "Google Maps – Krupówki",
-     "https://www.google.com/maps/place/?q=place_id:ChIJOdwFMZHyFUcRceAH7r6DNWM"
-    ]
-   ]
-  },
-  "kasprowy": {
-   "id": "kasprowy",
-   "name": {
-    "en": "Kasprowy Wierch cable car – only on a clear day",
-    "he": "רכבל קספרובי וייֶרְךְ – רק ביום בהיר"
-   },
-   "hours": {
-    "en": "Summer 2026: PKL reported runs as early as 7:00 and up to 21:00 until the end of August; tickets are for a fixed time slot (sklep.pkl.pl).",
-    "he": "קיץ 2026: לפי PKL נסיעות כבר מ-7:00 ועד 21:00 עד סוף אוגוסט; הכרטיסים לשעה קבועה (sklep.pkl.pl)."
-   },
-   "price_text": {
-    "en": "Up-and-down, high season 2026: Express Tourpass (guaranteed time slot) 159 PLN adult / 129 PLN reduced (ages 5–26) = 576 PLN (≈ €132) for the family; standard timed tickets 99–165 / 89–129 PLN depending on the hour. About 1 h 40 min at the top.",
-    "he": "הלוך-חזור, עונה גבוהה 2026: Express Tourpass (שעה מובטחת) 159 זלוטי מבוגר / 129 מוזל (גילאי 5–26) = 576 זלוטי (כ-132 €) למשפחה; כרטיסים רגילים 99–165 / 89–129 זלוטי לפי השעה. כשעה ו-40 דקות בפסגה."
-   },
-   "price_czk": 576,
-   "price_eur": 131.81,
-   "estimate": false,
-   "time": {
-    "en": "3 h incl. the 20-min ride each way",
-    "he": "3 שעות כולל 20 דקות נסיעה לכל כיוון"
-   },
-   "kids": {
-    "en": "Fine for 5 and 7-year-olds as a ride: 20 minutes up to 1,987 m with a stop halfway. Expensive, cold and windy on top, and pointless in cloud – book online only after checking the forecast. Do not hike from the top.",
-    "he": "מתאים לגילאי 5 ו-7 כנסיעה: 20 דקות עד גובה 1,987 מ' עם עצירה באמצע. יקר, קר ונושב בפסגה, ואין טעם בעננים – להזמין באינטרנט רק אחרי בדיקת התחזית. לא לטייל ברגל מהפסגה."
-   },
-   "optional": true,
-   "google": {
-    "name": "Wysokogórskie Obserwatorium Meteorologiczne IMGW-PIB na Kasprowym Wierchu",
-    "rating": 4.8,
-    "reviews": 247,
-    "lat": 49.232594,
-    "lng": 19.981843,
-    "address": "34-505 Zakopane, Poland",
-    "website": "https://www.pkl.pl/kasprowy-wierch/kasprowy.html",
-    "place_id": "ChIJYZoGS-2MFUcR38-8lVllEps",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=Wysokog%C3%B3rskie%20Obserwatorium%20Meteorologiczne%20IMGW-PIB%20na%20Kasprowym%20Wierchu&query_place_id=ChIJYZoGS-2MFUcR38-8lVllEps",
-    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.232594,19.981843&travelmode=driving"
-   },
-   "rating": {
-    "source": "Google Maps",
-    "score": 4.8,
-    "out_of": 5,
-    "reviews": 247,
-    "url": "https://www.google.com/maps/search/?api=1&query=Wysokog%C3%B3rskie%20Obserwatorium%20Meteorologiczne%20IMGW-PIB%20na%20Kasprowym%20Wierchu&query_place_id=ChIJYZoGS-2MFUcR38-8lVllEps"
-   },
-   "photo": {
-    "file": "img/pl/kasprowy-1.jpg",
-    "w": 1000,
-    "h": 750,
-    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJYZoGS-2MFUcR38-8lVllEps",
-    "credit": "Google Maps listing photo"
-   },
-   "sources": [
-    [
-     "PKL Kasprowy Wierch price list (official)",
-     "https://www.pkl.pl/kasprowy-wierch/cennik-kasprowy.html"
     ],
     [
-     "PKL – lines and routes",
-     "https://www.pkl.pl/kasprowy-wierch/koleje-i-trasy.html"
+     "PKL Gubałówka – gravity slide",
+     "https://www.pkl.pl/post/gravitational-slide.html?setlang=2"
     ]
    ]
   },
@@ -1708,8 +1590,8 @@
     "he": "עמק חוחולובסקה בעגלת סוסים (מסיבה פולאנה)"
    },
    "hours": {
-    "en": "Carts wait at the Siwa Polana entrance during the day; no published timetable.",
-    "he": "העגלות ממתינות בכניסה בסיבה פולאנה במשך היום; אין לוח זמנים מפורסם."
+    "en": "Optional swap on Thu instead of the Mini Zoo, or an extra on Sat afternoon: carts wait at the Siwa Polana entrance during the day, no published timetable. A cart in the neighbouring Kościeliska Valley only goes to the Pisana Clearing, then 30 min on foot, so it is not used.",
+    "he": "אופציה להחלפה ביום ה' במקום גן החיות הקטן, או תוספת ביום ש' אחר הצהריים: העגלות מחכות בכניסה לסיווה פולנה במשך היום, בלי לוח זמנים מפורסם. עגלה בעמק קושצ'יליסקה הסמוך מגיעה רק לפיסנה פולנה ואז 30 דקות ברגל, ולכן לא נכללה."
    },
    "price_text": {
     "en": "Valley entry 10 PLN adult / 5 PLN reduced (2026, paid at the gate, TPN app tickets not valid). Cart price is agreed with the driver: an older guide quotes ≈ 150 PLN for a family of 4 – estimate ≈ 180 PLN (≈ €41) in total. Parking extra.",
@@ -1920,8 +1802,8 @@
     "he": "5–6 שעות"
    },
    "kids": {
-    "en": "Poland's biggest theme park. Stay in the family areas – Bajkolandia for the youngest, family coasters, water rides, shows – and skip the giant coasters. Bring swimsuits/spare clothes for the water rides.",
-    "he": "פארק השעשועים הגדול בפולין. נשארים באזורי המשפחה – באיקולנדיה לקטנים, רכבות הרים משפחתיות, מתקני מים ומופעים – ומוותרים על רכבות ההרים הענקיות. להביא בגדי ים / בגדים להחלפה למתקני המים."
+    "en": "Bajkolandia and the family zones (small coasters, carousels, water rides) with a midday break at the water rides and in the shade. Tue 24 Aug 2027: summer holidays end 31 Aug, so expect daily opening 10:00–20:00 (2027 calendar not published yet; check the park calendar).",
+    "he": "באיקולנדיה ואזורי המשפחה (רכבות הרים קטנות, קרוסלות, מתקני מים) עם הפסקת צהריים ליד מתקני המים ובצל. יום ג' 24 באוגוסט 2027: חופשת הקיץ נמשכת עד 31 באוגוסט, ולכן צפויה פתיחה יומית 10:00–20:00 (לוח השנה של 2027 עדיין לא פורסם; לבדוק בלוח של הפארק)."
    },
    "optional": false,
    "google": {
@@ -1972,8 +1854,8 @@
     "he": "מכרה המלח וייליצ'קה – המסלול התיירותי"
    },
    "hours": {
-    "en": "Tourist Route 8:00–18:00 (official page; Google listing the same). English tours at set times – book a timed ticket online.",
-    "he": "המסלול התיירותי 8:00–18:00 (העמוד הרשמי; גם בגוגל). סיורים באנגלית בשעות קבועות – להזמין כרטיס לשעה באינטרנט."
+    "en": "Tourist Route 8:00–18:00 (official page; Google listing the same). Mon 23 Aug 2027: open (daily in summer). English tours at set times – book a timed ticket online.",
+    "he": "המסלול התיירותי 8:00–18:00 (הדף הרשמי; גוגל זהה). יום ב' 23 באוגוסט 2027: פתוח (מדי יום בקיץ). סיורים באנגלית בשעות קבועות – להזמין כרטיס לפי שעה באינטרנט."
    },
    "price_text": {
     "en": "High season 1 Jul – 31 Aug 2026: family ticket 2 adults + 2 children (4–16) 362 PLN (≈ €83); adult 125, reduced 93 PLN. Under 4 free.",
@@ -1987,8 +1869,8 @@
     "he": "2–3 שעות מתחת לאדמה (3.5 ק\"מ)"
    },
    "kids": {
-    "en": "Chapels, statues and lakes carved out of salt, 135 m underground; kids may lick the walls. About 800 steps, mostly going down, and a lift back up. Cool 17 °C – bring a jumper. No strollers.",
-    "he": "קפלות, פסלים ואגמים מגולפים במלח, 135 מ' מתחת לאדמה; הילדים יכולים ללקק את הקירות. כ-800 מדרגות, רובן בירידה, ומעלית בחזרה למעלה. קריר, 17 מעלות – להביא סוודר. בלי עגלות."
+    "en": "Chapels, statues and lakes carved out of salt, 135 m underground. HONEST NOTE: the official site gives no minimum age (under 4 free), but the Tourist Route is about 3.5 km with 800+ steps (mostly down, lift up) and 2–3 h, which is longer than the 2 km walking limit: fine for an active 7-year-old, demanding for a 5-year-old, no strollers, 17 °C so take a jumper (it is also the cool part of the day). If the kids are tired, use the benches in the chambers or choose the optional Bochnia mine (train and boat).",
+    "he": "קפלות, פסלים ואגמים מגולפים במלח, 135 מ' מתחת לאדמה. הערה כנה: באתר הרשמי אין גיל מינימום (מתחת ל-4 בחינם), אבל המסלול התיירותי באורך כ-3.5 ק\"מ עם יותר מ-800 מדרגות (רובן בירידה, מעלית בחזרה) ו-2–3 שעות, מעבר למגבלת 2 ק\"מ ההליכה: בסדר לילד פעיל בן 7, תובעני לילד בן 5, בלי עגלות, 17 מעלות ולכן להביא סוודר (וזה גם החלק הקריר של היום). אם הילדים עייפים, לנוח על הספסלים באולמות או לבחור במכרה בוכניה האופציונלי (רכבת וסירה)."
    },
    "optional": false,
    "google": {
@@ -2025,6 +1907,10 @@
     [
      "Wieliczka – Tourist Route (official)",
      "https://www.wieliczka-saltmine.com/individual-tourist/tourist-route"
+    ],
+    [
+     "Wieliczka – Tourist Route practical information (no minimum age, 3.5 km)",
+     "https://www.wieliczka-saltmine.com/individual-tourist/useful-information/important-information/tourist-route"
     ]
    ]
   },
@@ -2035,8 +1921,8 @@
     "he": "גבעת ואוול – מערת הדרקון והדרקון יורק האש"
    },
    "hours": {
-    "en": "Dragon's Den 24 Apr – 31 Oct 2026 daily 9:00–17:00; the dragon statue by the river is outside, always accessible.",
-    "he": "מערת הדרקון 24.4–31.10.2026 מדי יום 9:00–17:00; פסל הדרקון ליד הנהר בחוץ, נגיש תמיד."
+    "en": "Dragon's Den: sources differ (10:00–17:30, or until 20:00 in July–August; the official 2026 page said 9:00–17:00 from 24 Apr to 31 Oct), so on Sun 22 Aug 2027 be there by 15:30 to be safe. The dragon statue by the river is outside, always accessible (Google: open 24 hours).",
+    "he": "מערת הדרקון: המקורות חלוקים (10:00–17:30, או עד 20:00 ביולי–אוגוסט; הדף הרשמי של 2026 ציין 9:00–17:00 מ-24 באפריל עד 31 באוקטובר), ולכן ביום א' 22 באוגוסט 2027 להגיע עד 15:30 ליתר ביטחון. פסל הדרקון ליד הנהר נמצא בחוץ ונגיש תמיד (גוגל: פתוח 24 שעות)."
    },
    "price_text": {
     "en": "Dragon's Den 15 PLN normal / 10 PLN reduced; the official page also mentions free entry for some children (unclear text) – at most ≈ 50 PLN (≈ €11) for the family. Castle hill free.",
@@ -2168,8 +2054,8 @@
    "price_eur": 36.61,
    "estimate": false,
    "time": {
-    "en": "3 h",
-    "he": "3 שעות"
+    "en": "2.5 h (lower paths only)",
+    "he": "2.5 שעות (רק השבילים התחתונים)"
    },
    "kids": {
     "en": "A shady forest zoo: giraffes, pygmy hippos, penguins, sea lions and a petting area. Without a car: tram to 'Cracovia Błonia', then bus 134 to the zoo (≈ 15 min, about every 30 min), or a 20-min taxi.",
@@ -2283,8 +2169,8 @@
     "he": "גן הניסויים על שם סטניסלב לם (פארק מדע בחוץ)"
    },
    "hours": {
-    "en": "Season 20 Apr – 11 Oct 2026: Mon–Fri 9:00–19:00, Sat–Sun 10:00–19:00",
-    "he": "עונה 20.4–11.10.2026: ב'–ו' 9:00–19:00, ש'–א' 10:00–19:00"
+    "en": "2026 season 20 Apr – 11 Oct: Mon–Fri 9:00–19:00, Sat–Sun 10:00–19:00 (a 2025 source shows daily 10:00–21:00 in summer). The 2027 season is not published: Wed 25 Aug is a normal weekday, but confirm on mit.krakow.pl.",
+    "he": "עונת 2026, 20 באפריל – 11 באוקטובר: ב'–ו' 9:00–19:00, ש'–א' 10:00–19:00 (מקור מ-2025 מציג מדי יום 10:00–21:00 בקיץ). עונת 2027 לא פורסמה: ד' 25 באוגוסט הוא יום חול רגיל, אבל לאשר ב-mit.krakow.pl."
    },
    "price_text": {
     "en": "Family ticket (2 adults + 2 children) 60 PLN (≈ €14) in the 2024 price list; 2026 list not found online.",
@@ -2298,8 +2184,8 @@
     "he": "1.5–2 שעות"
    },
    "kids": {
-    "en": "A park full of hands-on physics toys: giant kaleidoscopes, echo pipes, water and sound experiments. In Lotników Polskich park, 15 min by tram or taxi.",
-    "he": "פארק מלא מתקני פיזיקה לגעת ולהפעיל: קלידוסקופים ענקיים, צינורות הד, ניסויים במים ובקול. בפארק לוטניקוב פולסקיך, 15 דקות בחשמלית או במונית."
+    "en": "Outdoor science park: dozens of hands-on stations (giant bubbles, sound, light, mechanics) on open lawns. Go late afternoon, when the zoo morning is behind you and the heat has eased.",
+    "he": "פארק מדע בחוץ: עשרות תחנות לניסוי בידיים (בועות ענק, קול, אור, מכניקה) על מדשאות פתוחות. להגיע בשעות אחר הצהריים המאוחרות, אחרי בוקר בגן החיות וכשהחום פחת."
    },
    "optional": false,
    "google": {
@@ -2346,8 +2232,8 @@
     "he": "שיט בנהר הוויסלה מתחת לוואוול"
    },
    "hours": {
-    "en": "Daytime cruises from the Wawel pier, about 10:00–21:00 (Google listing for Krakowska Żegluga Pasażerska)",
-    "he": "שיט במהלך היום מהמזח שמתחת לוואוול, בערך 10:00–21:00 (לפי גוגל, Krakowska Żegluga Pasażerska)"
+    "en": "Daytime cruises from the Wawel pier, about 10:00–21:00 (Google listing for Krakowska Żegluga Pasażerska). Sun 22 Aug 2027: runs daily; book the 17:00 sailing online or buy at the pier.",
+    "he": "שיט במהלך היום מהמזח שמתחת לוואוול, בערך 10:00–21:00 (לפי גוגל, Krakowska Żegluga Pasażerska). יום א' 22 באוגוסט 2027: פועל מדי יום; להזמין אונליין את ההפלגה של 17:00 או לקנות במזח."
    },
    "price_text": {
     "en": "50-min day cruise 75 PLN adult / 65 PLN child 4–12 (e-statek.pl) = 280 PLN (≈ €64); other operators 70–110 PLN per person.",
@@ -2401,6 +2287,435 @@
      "https://statek-krakow.pl/cennik/"
     ]
    ]
+  },
+  "slizg": {
+   "id": "slizg",
+   "name": {
+    "en": "Gubałówka gravity slide (steel toboggan run next to the top station)",
+    "he": "מגלשת גרביטציה בגובאלובקה (מסלול מגלשה ממתכת ליד התחנה העליונה)"
+   },
+   "hours": {
+    "en": "PKL says the slide is open all year, weather permitting (closed in rain or wind); summer opening hours were not published online. Thu 19 Aug 2027: go straight after the first funicular, about 09:30. Ask at the slide ticket booth about the age and height rule for the 5-year-old (not published).",
+    "he": "PKL מציינת שהמגלשה פועלת כל השנה בכפוף למזג האוויר (סגורה בגשם וברוח); שעות הקיץ לא פורסמו. יום ה' 19 באוגוסט 2027: ישר אחרי הרכבל הראשון, בערך ב-09:30. לשאול בקופת המגלשה על כלל הגיל והגובה לילד בן 5 (לא פורסם)."
+   },
+   "price_text": {
+    "en": "≈ 100 PLN (≈ €23), ESTIMATE: one descent costs roughly 20–30 PLN per person (official price not found online; older lists showed far less), so 4 descents ≈ 100 PLN. Tickets at the booth by the top station, separate from the funicular.",
+    "he": "כ-100 זלוטי (כ-23 €), הערכה: ירידה אחת עולה בערך 20–30 זלוטי לאדם (מחיר רשמי לא נמצא באינטרנט; רשימות ישנות הראו הרבה פחות), כך שבארבע ירידות כ-100 זלוטי. כרטיסים בקופה ליד התחנה העליונה, בנפרד מהרכבל."
+   },
+   "price_czk": 100,
+   "price_eur": 22.88,
+   "estimate": true,
+   "time": {
+    "en": "45–60 min incl. the 700 m run (about 5 min)",
+    "he": "45–60 דקות כולל ירידה של 700 מ' (כ-5 דקות)"
+   },
+   "kids": {
+    "en": "A real kids' thrill: a ride down a curving 700 m steel run on a little sledge, right next to the funicular top. You brake yourself; no walking.",
+    "he": "ריגוש אמיתי לילדים: ירידה במסלול מתכת מתפתל של 700 מ' על מזחלת קטנה, ממש ליד התחנה העליונה. בולמים בעצמם; בלי הליכה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Zjeżdżalnia grawitacyjna Gubałówka PKL S.A.",
+    "rating": 4.4,
+    "reviews": 1682,
+    "lat": 49.306134,
+    "lng": 19.933485,
+    "address": "stacja górna kolei na Gubałówkę, Droga Zubka 10, 34-500 Zakopane, Poland",
+    "website": "http://www.pkl.pl/gubalowka/gubalowka.html",
+    "place_id": "ChIJleqhiHvtFUcRjOdeNq9Yi64",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Zje%C5%BCd%C5%BCalnia%20grawitacyjna%20Guba%C5%82%C3%B3wka%20PKL%20S.A.&query_place_id=ChIJleqhiHvtFUcRjOdeNq9Yi64",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.306134,19.933485&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 1682,
+    "url": "https://www.google.com/maps/search/?api=1&query=Zje%C5%BCd%C5%BCalnia%20grawitacyjna%20Guba%C5%82%C3%B3wka%20PKL%20S.A.&query_place_id=ChIJleqhiHvtFUcRjOdeNq9Yi64"
+   },
+   "photo": {
+    "file": "img/pl/slizg-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Zjezdzalnia%20grawitacyjna%20Gubalowka&query_place_id=ChIJleqhiHvtFUcRjOdeNq9Yi64",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Google Maps listing: Zjeżdżalnia grawitacyjna Gubałówka PKL (4.4, 1,682 reviews)",
+     "https://www.google.com/maps/search/?api=1&query=Zjezdzalnia%20grawitacyjna%20Gubalowka&query_place_id=ChIJleqhiHvtFUcRjOdeNq9Yi64"
+    ],
+    [
+     "PKL – gravity slide (page text via search: 700 m, about 5 min, next to the upper station)",
+     "https://www.pkl.pl/post/gravitational-slide.html?setlang=2"
+    ]
+   ]
+  },
+  "minizoo": {
+   "id": "minizoo",
+   "name": {
+    "en": "Tatra Mini Zoo, Zakopane (deer, goats, sheep, alpacas, peacocks)",
+    "he": "גן החיות הקטן של הטטרה, זקופנה (איילים, עזים, כבשים, אלפקות, טווסים)"
+   },
+   "hours": {
+    "en": "Google listing: daily 10:00–18:00 (Thu 19 Aug 2027: open). Not confirmed on an official site; call or check the listing the week before.",
+    "he": "רישום בגוגל: מדי יום 10:00–18:00 (יום ה' 19 באוגוסט 2027: פתוח). לא אושר באתר רשמי; להתקשר או לבדוק את הרישום שבוע לפני."
+   },
+   "price_text": {
+    "en": "≈ 80 PLN (≈ €18), ESTIMATE: no current price list found; assumed about 20 PLN per person for 4 (younger children often pay less).",
+    "he": "כ-80 זלוטי (כ-18 €), הערכה: לא נמצא מחירון עדכני; הנחה של כ-20 זלוטי לאדם לארבעה (ילדים קטנים לרוב משלמים פחות)."
+   },
+   "price_czk": 80,
+   "price_eur": 18.31,
+   "estimate": true,
+   "time": {
+    "en": "1 h (5 min drive from the funicular, Piłsudskiego St)",
+    "he": "שעה (5 דקות נסיעה מהרכבל, רחוב פיסודסקי)"
+   },
+   "kids": {
+    "en": "A small, flat petting-style zoo: Polish mountain sheep, goats, deer, alpacas, foxes and peacocks. Short and easy for a 5-year-old, shaded stops.",
+    "he": "גן חיות קטן ושטוח בסגנון חווה: כבשי הרים פולניות, עזים, איילים, אלפקות, שועלים וטווסים. קצר וקל לילד בן 5, עם עצירות בצל."
+   },
+   "optional": false,
+   "google": {
+    "name": "Tatrzańskie Mini Zoo",
+    "rating": 4.1,
+    "reviews": 1505,
+    "lat": 49.286431,
+    "lng": 19.962171,
+    "address": "Józefa Piłsudskiego k/26, 34-500 Zakopane, Poland",
+    "website": null,
+    "place_id": "ChIJ9-15tzTzFUcRdzUkp5JEKCU",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Tatrza%C5%84skie%20Mini%20Zoo&query_place_id=ChIJ9-15tzTzFUcRdzUkp5JEKCU",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.286431,19.962171&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.1,
+    "out_of": 5,
+    "reviews": 1505,
+    "url": "https://www.google.com/maps/search/?api=1&query=Tatrza%C5%84skie%20Mini%20Zoo&query_place_id=ChIJ9-15tzTzFUcRdzUkp5JEKCU"
+   },
+   "photo": {
+    "file": "img/pl/minizoo-1.jpg",
+    "w": 788,
+    "h": 444,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Tatrzanskie%20Mini%20Zoo&query_place_id=ChIJ9-15tzTzFUcRdzUkp5JEKCU",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Google Maps listing: Tatrzańskie Mini Zoo (4.1, 1,505 reviews, 10:00–18:00)",
+     "https://www.google.com/maps/search/?api=1&query=Tatrzanskie%20Mini%20Zoo&query_place_id=ChIJ9-15tzTzFUcRdzUkp5JEKCU"
+    ],
+    [
+     "Visit Zakopane – family itinerary",
+     "https://visit.zakopane.pl/itineraries/family-week"
+    ]
+   ]
+  },
+  "aquapark": {
+   "id": "aquapark",
+   "name": {
+    "en": "Aqua Park Zakopane (rainy-day / hot-afternoon option)",
+    "he": "אקווה פארק זקופנה (חלופה ליום גשום או אחר צהריים חם)"
+   },
+   "hours": {
+    "en": "Google listing: daily 9:00–22:00 (Thu 19 Aug 2027: open). Use it as the swap if the slide is closed by rain.",
+    "he": "רישום בגוגל: מדי יום 9:00–22:00 (יום ה' 19 באוגוסט 2027: פתוח). חלופה אם המגלשה סגורה בגלל גשם."
+   },
+   "price_text": {
+    "en": "≈ 300 PLN (≈ €69), ESTIMATE: no current family price found; Terma Bania (≈ 268 PLN) is the cheaper, closer water park and is already planned on Sat.",
+    "he": "כ-300 זלוטי (כ-69 €), הערכה: לא נמצא מחיר משפחתי עדכני; טרמה באניה (כ-268 זלוטי) זולה וקרובה יותר וכבר מתוכננת ליום ש'."
+   },
+   "price_czk": 300,
+   "price_eur": 68.65,
+   "estimate": true,
+   "time": {
+    "en": "2.5–3 h",
+    "he": "2.5–3 שעות"
+   },
+   "kids": {
+    "en": "Slides, pools and a kids' area in air-conditioned halls: a good rain plan, but a second water park in three days.",
+    "he": "מגלשות, בריכות ואזור ילדים באולמות ממוזגים: תוכנית טובה לגשם, אבל פארק מים שני בתוך שלושה ימים."
+   },
+   "optional": true,
+   "google": {
+    "name": "Aqua Park Zakopane",
+    "rating": 4.3,
+    "reviews": 20826,
+    "lat": 49.295105,
+    "lng": 19.965642,
+    "address": "Jagiellońska 31, 34-500 Zakopane, Poland",
+    "website": "https://www.termy-zakopianskie.pl/",
+    "place_id": "ChIJEVVH3ZLyFUcR_6uLl-yi_70",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Aqua%20Park%20Zakopane&query_place_id=ChIJEVVH3ZLyFUcR_6uLl-yi_70",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.295105,19.965642&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.3,
+    "out_of": 5,
+    "reviews": 20826,
+    "url": "https://www.google.com/maps/search/?api=1&query=Aqua%20Park%20Zakopane&query_place_id=ChIJEVVH3ZLyFUcR_6uLl-yi_70"
+   },
+   "photo": {
+    "file": "img/pl/aquapark-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Aqua%20Park%20Zakopane&query_place_id=ChIJEVVH3ZLyFUcR_6uLl-yi_70",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Google Maps listing: Aqua Park Zakopane (4.3, 20,826 reviews)",
+     "https://www.google.com/maps/search/?api=1&query=Aqua%20Park%20Zakopane&query_place_id=ChIJEVVH3ZLyFUcR_6uLl-yi_70"
+    ]
+   ]
+  },
+  "park_dolny": {
+   "id": "park_dolny",
+   "name": {
+    "en": "Szczawnica Lower Park: playground at the end of the raft trip",
+    "he": "פארק התחתון של שצ'אבניצה: מגרש משחקים בסוף השיט"
+   },
+   "hours": {
+    "en": "Open playground in the park, always accessible (Google: open 24 hours). Fri 20 Aug 2027, about 13:00–14:00 after the raft and lunch.",
+    "he": "מגרש משחקים פתוח בפארק, נגיש תמיד (גוגל: פתוח 24 שעות). יום ו' 20 באוגוסט 2027, בערך 13:00–14:00 אחרי הרפסודה וארוחת הצהריים."
+   },
+   "price_text": {
+    "en": "Free.",
+    "he": "חינם."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "45–60 min",
+    "he": "45–60 דקות"
+   },
+   "kids": {
+    "en": "Swings, slides and seesaws among trees, a few minutes' stroll from the town centre and the river promenade where the rafts end. Shade and benches for the adults.",
+    "he": "נדנדות, מגלשות ונדנדות נעות בין עצים, כמה דקות הליכה ממרכז העיירה וטיילת הנהר שבה מסתיימות הרפסודות. צל וספסלים להורים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Plac zabaw dla dzieci",
+    "rating": 4.2,
+    "reviews": 36,
+    "lat": 49.426688,
+    "lng": 20.481443,
+    "address": "Park Dolny 6, 34-460 Szczawnica, Poland",
+    "website": null,
+    "place_id": "ChIJf23tCn8GPkcRvqYyj0IYQbI",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Plac%20zabaw%20dla%20dzieci&query_place_id=ChIJf23tCn8GPkcRvqYyj0IYQbI",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.426688,20.481443&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.2,
+    "out_of": 5,
+    "reviews": 36,
+    "url": "https://www.google.com/maps/search/?api=1&query=Plac%20zabaw%20dla%20dzieci&query_place_id=ChIJf23tCn8GPkcRvqYyj0IYQbI"
+   },
+   "photo": {
+    "file": "img/pl/park_dolny-1.jpg",
+    "w": 1000,
+    "h": 562,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Plac%20zabaw%20Park%20Dolny%20Szczawnica&query_place_id=ChIJf23tCn8GPkcRvqYyj0IYQbI",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Google Maps listing: Plac zabaw dla dzieci, Park Dolny, Szczawnica (4.2)",
+     "https://www.google.com/maps/search/?api=1&query=Plac%20zabaw%20Park%20Dolny%20Szczawnica&query_place_id=ChIJf23tCn8GPkcRvqYyj0IYQbI"
+    ]
+   ]
+  },
+  "planty_play": {
+   "id": "planty_play",
+   "name": {
+    "en": "Playground at the Planty park (Św. Gertrudy St), 10 min from the Main Square",
+    "he": "מגרש משחקים בפארק פלאנטי (רחוב סנט גרטרודה), 10 דקות מהכיכר המרכזית"
+   },
+   "hours": {
+    "en": "Open playground, no gate (Google listing 'Children's Playground', Św. Gertrudy 16). Mon 23 Aug 2027, about 16:15–17:00.",
+    "he": "מגרש משחקים פתוח בלי שער (רישום 'Children's Playground' בגוגל, Św. Gertrudy 16). יום ב' 23 באוגוסט 2027, בערך 16:15–17:00."
+   },
+   "price_text": {
+    "en": "Free.",
+    "he": "חינם."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "45 min",
+    "he": "45 דקות"
+   },
+   "kids": {
+    "en": "Shady wooden-and-metal play structures inside the green Planty ring; let the kids run before the Main Square. Rated 4.4 by 709 reviewers on Google.",
+    "he": "מתקני משחק מעץ ומתכת בצל בתוך טבעת הירק של הפלאנטי; הילדים רצים לפני הכיכר המרכזית. דירוג 4.4 מ-709 מדרגים בגוגל."
+   },
+   "optional": false,
+   "google": {
+    "name": "Children's Playground",
+    "rating": 4.4,
+    "reviews": 709,
+    "lat": 50.056097,
+    "lng": 19.939936,
+    "address": "Świętej Gertrudy 16, 31-048 Kraków, Poland",
+    "website": null,
+    "place_id": "ChIJySCcNRNbFkcR3fVHZQWDUeI",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Children%27s%20Playground&query_place_id=ChIJySCcNRNbFkcR3fVHZQWDUeI",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.056097,19.939936&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 709,
+    "url": "https://www.google.com/maps/search/?api=1&query=Children%27s%20Playground&query_place_id=ChIJySCcNRNbFkcR3fVHZQWDUeI"
+   },
+   "photo": {
+    "file": "img/pl/planty_play-1.jpg",
+    "w": 1000,
+    "h": 550,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Plac%20zabaw%20Swietej%20Gertrudy%20Krakow&query_place_id=ChIJySCcNRNbFkcR3fVHZQWDUeI",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Google Maps listing: Children's Playground, Św. Gertrudy 16 Kraków (4.4, 709 reviews)",
+     "https://www.google.com/maps/search/?api=1&query=Plac%20zabaw%20Swietej%20Gertrudy%20Krakow&query_place_id=ChIJySCcNRNbFkcR3fVHZQWDUeI"
+    ]
+   ]
+  },
+  "rynek_underground": {
+   "id": "rynek_underground",
+   "name": {
+    "en": "Rynek Underground museum (medieval Kraków under the Main Square): optional",
+    "he": "מוזיאון רינק התת-קרקעי (קרקוב של ימי הביניים מתחת לכיכר): אופציונלי"
+   },
+   "hours": {
+    "en": "UNCERTAIN on Mon 23 Aug 2027: the museum's page (as quoted by a search) lists Mon 10:00–19:00 and closed only on the 2nd Monday of the month (9 Aug), but the Google listing shows Monday closed. Timed tickets, last entry 75 min before closing: check muzeumkrakowa.pl and book online; if closed, skip it.",
+    "he": "לא ודאי ליום ב' 23 באוגוסט 2027: דף המוזיאון (כפי שצוטט בחיפוש) מציין ב' 10:00–19:00 וסגור רק בב' השני בחודש (9 באוגוסט), אבל הרישום בגוגל מציג יום ב' סגור. כרטיסים לפי שעה, כניסה אחרונה 75 דקות לפני הסגירה: לבדוק ב-muzeumkrakowa.pl ולהזמין אונליין; אם סגור, לדלג."
+   },
+   "price_text": {
+    "en": "≈ 90 PLN (≈ €21), ESTIMATE: family ticket (max 2 adults + children) quoted between 72 and 90 PLN; I used the official page's 90 PLN.",
+    "he": "כ-90 זלוטי (כ-21 €), הערכה: כרטיס משפחתי (עד 2 מבוגרים + ילדים) צוטט בין 72 ל-90 זלוטי; השתמשתי ב-90 הרשמי."
+   },
+   "price_czk": 90,
+   "price_eur": 20.59,
+   "estimate": true,
+   "time": {
+    "en": "1–1.25 h",
+    "he": "שעה עד שעה ורבע"
+   },
+   "kids": {
+    "en": "Dim, cool tunnels with screens, a reconstructed market and a real medieval street: fun for a 7-year-old, may be long for a 5-year-old. About 1 km of walking inside is not published; plan it as the short, cool, indoor option.",
+    "he": "מנהרות מעומעמות וקרירות עם מסכים, שוק משוחזר ורחוב אמיתי מימי הביניים: כיף לילד בן 7, אולי ארוך לילד בן 5. אורך ההליכה בפנים לא פורסם; מתכננים כאופציה קצרה, קרירה ופנימית."
+   },
+   "optional": true,
+   "google": {
+    "name": "Rynek Underground Museum",
+    "rating": 4.4,
+    "reviews": 10272,
+    "lat": 50.061934,
+    "lng": 19.93777,
+    "address": "Rynek Główny 1, 31-042 Kraków, Poland",
+    "website": "https://muzeumkrakowa.pl/en/branches/rynek-underground",
+    "place_id": "ChIJERHICBJbFkcRo-dPAVreKqU",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Rynek%20Underground%20Museum&query_place_id=ChIJERHICBJbFkcRo-dPAVreKqU",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.061934,19.937770&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 10272,
+    "url": "https://www.google.com/maps/search/?api=1&query=Rynek%20Underground%20Museum&query_place_id=ChIJERHICBJbFkcRo-dPAVreKqU"
+   },
+   "photo": {
+    "file": "img/pl/rynek_underground-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Rynek%20Underground%20Museum&query_place_id=ChIJERHICBJbFkcRo-dPAVreKqU",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Museum of Kraków – Rynek Underground",
+     "https://muzeumkrakowa.pl/en/branches/rynek-underground"
+    ],
+    [
+     "Google Maps listing: Rynek Underground Museum (4.4, 10,272 reviews)",
+     "https://www.google.com/maps/search/?api=1&query=Rynek%20Underground%20Museum&query_place_id=ChIJERHICBJbFkcRo-dPAVreKqU"
+    ]
+   ]
+  },
+  "bochnia": {
+   "id": "bochnia",
+   "name": {
+    "en": "Bochnia Salt Mine: alternative to Wieliczka (underground train and boat ride)",
+    "he": "מכרה המלח בוכניה: חלופה לווייליצ'קה (רכבת תת-קרקעית וסירה)"
+   },
+   "hours": {
+    "en": "Google listing: Mon 8:00–19:00 (Mon 23 Aug 2027: open). The official routes include the underground railway and, on one variant, a boat crossing (listed for over 3 years old); the multimedia route takes about 3 h. Check kopalnia-bochnia.pl for the exact variant, hours and age rules, and book.",
+    "he": "רישום בגוגל: ב' 8:00–19:00 (יום ב' 23 באוגוסט 2027: פתוח). המסלולים הרשמיים כוללים רכבת תת-קרקעית ובגרסה אחת גם חציית סירה (מצוין מגיל 3); המסלול המולטימדיאלי נמשך כ-3 שעות. לבדוק ב-kopalnia-bochnia.pl את הגרסה, השעות וכללי הגיל המדויקים ולהזמין."
+   },
+   "price_text": {
+    "en": "≈ 330 PLN (≈ €75), ESTIMATE: no current price list found; assumed about 80 PLN per adult and 65 PLN per child. Getting there: train or taxi about 40–45 min each way (≈ 200 PLN by taxi), so the day costs about 2 h more travel than Wieliczka.",
+    "he": "כ-330 זלוטי (כ-75 €), הערכה: לא נמצא מחירון עדכני; הנחה של כ-80 זלוטי למבוגר ו-65 זלוטי לילד. הגעה: רכבת או מונית כ-40–45 דקות לכל כיוון (כ-200 זלוטי במונית), כך שהיום כולל כשעתיים נסיעה יותר מווייליצ'קה."
+   },
+   "price_czk": 330,
+   "price_eur": 75.51,
+   "estimate": true,
+   "time": {
+    "en": "3 h + 1.5 h travel",
+    "he": "3 שעות + שעה וחצי נסיעה"
+   },
+   "kids": {
+    "en": "More hands-on than Wieliczka: you ride a little mine train and cross an underground lake by boat. Rated 4.8 (9,104 reviews). Only if you want the rides instead of Wieliczka's long stairs.",
+    "he": "יותר חוויתי מווייליצ'קה: נוסעים ברכבת מכרה קטנה וחוצים אגם תת-קרקעי בסירה. דירוג 4.8 (9,104 ביקורות). רק אם רוצים את החוויות במקום המדרגות הארוכות של ווייליצ'קה."
+   },
+   "optional": true,
+   "google": {
+    "name": "Bochnia Salt Mine",
+    "rating": 4.8,
+    "reviews": 9104,
+    "lat": 49.968986,
+    "lng": 20.417653,
+    "address": "Campi 15, 32-700 Bochnia, Poland",
+    "website": "https://kopalnia-bochnia.pl/?utm_source=google&utm_medium=organic&utm_campaign=business_profile&utm_content=website_button",
+    "place_id": "ChIJozsSjEc7FkcRAqbUuza3XOY",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Bochnia%20Salt%20Mine&query_place_id=ChIJozsSjEc7FkcRAqbUuza3XOY",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.968986,20.417653&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 9104,
+    "url": "https://www.google.com/maps/search/?api=1&query=Bochnia%20Salt%20Mine&query_place_id=ChIJozsSjEc7FkcRAqbUuza3XOY"
+   },
+   "photo": {
+    "file": "img/pl/bochnia-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Bochnia%20Salt%20Mine&query_place_id=ChIJozsSjEc7FkcRAqbUuza3XOY",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Bochnia Salt Mine – tourist routes",
+     "https://kopalnia-bochnia.pl/en/wycieczki/trasa-turystyczna-z-ekspozycja-multimedialna-i-podziemna-przeprawa-lodzia-2/"
+    ],
+    [
+     "Google Maps listing: Bochnia Salt Mine (4.8, 9,104 reviews)",
+     "https://www.google.com/maps/search/?api=1&query=Bochnia%20Salt%20Mine&query_place_id=ChIJozsSjEc7FkcRAqbUuza3XOY"
+    ]
+   ]
   }
  },
  "days": [
@@ -2440,8 +2755,8 @@
     "he": "ד'"
    },
    "title": {
-    "en": "Car pick-up, Rabkoland, on to Białka",
-    "he": "איסוף רכב, רבקולנד, והלאה לביאלקה"
+    "en": "Car pick-up, Rabkoland rides, on to Białka and the pool",
+    "he": "איסוף רכב, מתקנים ברבקולנד, והלאה לביאלקה ולבריכה"
    },
    "trail": "green",
    "overnight": "hotel_goralski",
@@ -2451,26 +2766,26 @@
      "he": "ארוחת בוקר רגועה, הליכה לטרמינל ואיסוף הרכב ב-11:00."
     },
     {
-     "en": "Drive about 1 h to Rabkoland: rides and lunch, about 12:15–15:30.",
-     "he": "נסיעה של כשעה לרבקולנד: מתקנים וארוחת צהריים, בערך 12:15–15:30."
+     "en": "Drive about 1 h to Rabkoland (Wed: open): about 50 small rides, carousels and a Ferris wheel, with lunch and ice cream, about 12:15–15:30. Shade breaks at the seated rides and the food court.",
+     "he": "נסיעה של כשעה לרבקולנד (ד': פתוח): כ-50 מתקנים קטנים, קרוסלות וגלגל ענק, עם ארוחת צהריים וגלידה, בערך 12:15–15:30. הפסקות בצל במתקני הישיבה ובאזור האוכל."
     },
     {
-     "en": "40 min to Białka Tatrzańska, check in from 16:00, evening swim in the pool.",
-     "he": "40 דקות לביאלקה טטשאנסקה, צ'ק-אין מ-16:00 ושחייה בבריכה בערב."
+     "en": "40 min to Białka Tatrzańska, check in from 16:00, then the pool and the apartment playground until dinner.",
+     "he": "40 דקות לביאלקה טטשאנסקה, צ'ק-אין מ-16:00, ואז הבריכה ומגרש המשחקים של הדירה עד ארוחת הערב."
     }
    ],
    "attractions": [
     "rabkoland"
    ],
    "route": {
-    "km": 112.5,
-    "minutes": 101,
+    "km": 113.1,
+    "minutes": 99,
     "legs": [
      {
       "from": "Kraków Airport (KRK) – car",
       "to": "Rabkoland, Rabka-Zdrój",
-      "km": 75.6,
-      "min": 61
+      "km": 76.1,
+      "min": 59
      },
      {
       "from": "Rabkoland, Rabka-Zdrój",
@@ -2499,20 +2814,16 @@
     "geometry": {
      "coordinates": [
       [
-       19.789819,
-       50.074857
+       19.783298,
+       50.081837
       ],
       [
-       19.790597,
-       50.068379
+       19.807615,
+       50.085012
       ],
       [
-       19.809622,
-       50.073918
-      ],
-      [
-       19.807448,
-       50.042742
+       19.807352,
+       50.042908
       ],
       [
        19.855308,
@@ -2644,45 +2955,56 @@
     "he": "ה'"
    },
    "title": {
-    "en": "Zakopane: Gubałówka funicular + Krupówki",
-    "he": "זקופנה: רכבל גובאלובקה + קרופובקי"
+    "en": "Gubałówka funicular and gravity slide, Tatra Mini Zoo, afternoon pool",
+    "he": "רכבל גובאלובקה ומגלשת גרביטציה, גן החיות הקטן של הטטרה, בריכה אחר הצהריים"
    },
    "trail": "blue",
    "overnight": "hotel_goralski",
    "plan": [
     {
-     "en": "Leave by 08:45 (Zakopane traffic builds up fast), 37 min to the Gubałówka lower station; paid parking nearby.",
-     "he": "יציאה עד 08:45 (הפקקים בזקופנה מתחילים מוקדם), 37 דקות לתחנה התחתונה של גובאלובקה; חניה בתשלום בסביבה."
+     "en": "Leave 08:00 (Zakopane traffic builds up fast), 37 min to the Gubałówka lower station; paid parking nearby. Funicular up at about 09:00 (a few minutes).",
+     "he": "יציאה ב-08:00 (הפקקים בזקופנה מתחילים מוקדם), 37 דקות לתחנה התחתונה של גובאלובקה; חניה בתשלום בסביבה. רכבל למעלה בסביבות 09:00 (כמה דקות)."
     },
     {
-     "en": "Funicular up: views, the family gravity slide, playgrounds and the sandy 'beach'; back down for a stroll and ice cream on Krupówki.",
-     "he": "רכבל למעלה: נוף, המגלשה הגרביטציונית המשפחתית, מגרשי משחקים ו'חוף' החול; למטה – טיול וגלידה בקרופובקי."
+     "en": "09:30 the gravity slide (700 m, about 5 min each descent; check the age/height rule at the booth), views and a short playground stop; funicular down by 11:30.",
+     "he": "09:30 מגלשת הגרביטציה (700 מ', כ-5 דקות כל ירידה; לבדוק בקופה את כלל הגיל והגובה), נוף ועצירה קצרה במגרש משחקים; רכבל למטה עד 11:30."
     },
     {
-     "en": "Back in Białka by mid-afternoon, pool. Clear sky? Kasprowy Wierch cable car instead of the slide (book online). Or: horse cart into Chochołowska Valley.",
-     "he": "חזרה לביאלקה עד אמצע אחר הצהריים, בריכה. שמיים בהירים? רכבל קספרובי וייֶרְךְ במקום המגלשה (להזמין באינטרנט). או: עגלת סוסים לעמק חוחולובסקה."
+     "en": "12:00 five minutes by car to the Tatra Mini Zoo (sheep, goats, deer, alpacas, peacocks, about 1 h), then ice cream and lunch, 10-min stroll at most.",
+     "he": "12:00 חמש דקות נסיעה לגן החיות הקטן של הטטרה (כבשים, עזים, איילים, אלפקות, טווסים, כשעה), ואז גלידה וארוחת צהריים, טיול של 10 דקות לכל היותר."
+    },
+    {
+     "en": "Back in Białka by about 14:30, out of the midday heat: pool and rest. Rain? Aqua Park Zakopane instead of the slide. Spare energy: the Chochołowska horse cart is the optional swap.",
+     "he": "חזרה לביאלקה עד כ-14:30, הרחק מחום הצהריים: בריכה ומנוחה. גשם? אקווה פארק זקופנה במקום המגלשה. נשאר כוח: עגלת הסוסים בעמק חוחולובסקה היא החלופה האופציונלית."
     }
    ],
    "attractions": [
     "gubalowka",
-    "krupowki",
-    "kasprowy",
+    "slizg",
+    "minizoo",
+    "aquapark",
     "chocholowska"
    ],
    "route": {
-    "km": 46.0,
-    "minutes": 74,
+    "km": 49.7,
+    "minutes": 81,
     "legs": [
      {
       "from": "Góralski Resort, Białka Tatrzańska",
       "to": "Gubałówka funicular (lower station)",
-      "km": 22.8,
+      "km": 22.9,
       "min": 37
      },
      {
       "from": "Gubałówka funicular (lower station)",
+      "to": "Tatrzańskie Mini Zoo, Zakopane",
+      "km": 2.5,
+      "min": 5
+     },
+     {
+      "from": "Tatrzańskie Mini Zoo, Zakopane",
       "to": "Góralski Resort, Białka Tatrzańska",
-      "km": 23.1,
+      "km": 24.3,
       "min": 38
      }
     ],
@@ -2696,6 +3018,11 @@
       "name": "Gubałówka funicular (lower station)",
       "lat": 49.298524,
       "lng": 19.9454401
+     },
+     {
+      "name": "Tatrzańskie Mini Zoo, Zakopane",
+      "lat": 49.2864315,
+      "lng": 19.9621711
      },
      {
       "name": "Góralski Resort, Białka Tatrzańska",
@@ -2870,20 +3197,44 @@
        49.298239
       ],
       [
-       19.955823,
-       49.300908
+       19.951613,
+       49.29932
       ],
       [
-       19.957771,
-       49.302416
+       19.953847,
+       49.295819
+      ],
+      [
+       19.961058,
+       49.291205
+      ],
+      [
+       19.958916,
+       49.290089
+      ],
+      [
+       19.962363,
+       49.286515
+      ],
+      [
+       19.966665,
+       49.288119
+      ],
+      [
+       19.961058,
+       49.291205
+      ],
+      [
+       19.965459,
+       49.293036
       ],
       [
        19.958922,
        49.30605
       ],
       [
-       19.962024,
-       49.308404
+       19.962108,
+       49.30844
       ],
       [
        19.96901,
@@ -2906,8 +3257,8 @@
        49.334622
       ],
       [
-       20.00302,
-       49.33997
+       20.002992,
+       49.339965
       ],
       [
        20.002454,
@@ -2954,8 +3305,16 @@
        49.331482
       ],
       [
-       20.097481,
-       49.329694
+       20.091617,
+       49.331106
+      ],
+      [
+       20.094364,
+       49.329592
+      ],
+      [
+       20.097523,
+       49.329718
       ],
       [
        20.096327,
@@ -3016,7 +3375,7 @@
      ],
      "type": "LineString"
     },
-    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=49.3837653,20.1019573&destination=49.3837653,20.1019573&travelmode=driving&waypoints=49.298524%2C19.9454401"
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=49.3837653,20.1019573&destination=49.3837653,20.1019573&travelmode=driving&waypoints=49.298524%2C19.9454401%7C49.2864315%2C19.9621711"
    }
   },
   {
@@ -3027,27 +3386,28 @@
     "he": "ו'"
    },
    "title": {
-    "en": "Wooden rafts on the Dunajec",
-    "he": "רפסודות עץ בדונאייץ"
+    "en": "Wooden rafts on the Dunajec and the Szczawnica playground",
+    "he": "רפסודות עץ בדונאייץ ומגרש המשחקים בשצ'אבניצה"
    },
    "trail": "blue",
    "overnight": "hotel_goralski",
    "plan": [
     {
-     "en": "Leave about 08:30, 50 min to the raft pier at Sromowce-Kąty (parking there).",
-     "he": "יציאה בערך ב-08:30, 50 דקות למזח הרפסודות בסרומובצה-קונטי (חניה במקום)."
+     "en": "Leave about 08:30, 50 min to the raft pier at Sromowce-Kąty (parking there). Fri: rafts run daily, no booking needed.",
+     "he": "יציאה בערך ב-08:30, 50 דקות למזח הרפסודות בסרומובצה-קונטי (חניה במקום). ו': הרפסודות פועלות מדי יום, בלי הזמנה."
     },
     {
-     "en": "2 h 15 min on a raft through the gorge to Szczawnica; lunch by the river, then the raftsmen's bus back to the car.",
-     "he": "שעתיים ורבע ברפסודה דרך הקניון עד שצ'אבניצה; ארוחת צהריים ליד הנהר, ואז האוטובוס של הרפסודאים חזרה לרכב."
+     "en": "2 h 15 min on a raft through the gorge to Szczawnica (the raftsmen sing and tell stories, nothing to walk). Lunch by the river and about an hour at the Lower Park playground.",
+     "he": "שעתיים ורבע ברפסודה דרך הקניון עד שצ'אבניצה (הרפסודאים שרים ומספרים סיפורים, בלי הליכה). ארוחת צהריים ליד הנהר וכשעה במגרש המשחקים בפארק התחתון."
     },
     {
-     "en": "51 min back to Białka, afternoon at the pool.",
-     "he": "51 דקות חזרה לביאלקה, אחר הצהריים בבריכה."
+     "en": "The raftsmen's bus back to the car, 51 min to Białka (home by about 15:30), afternoon at the pool out of the heat.",
+     "he": "האוטובוס של הרפסודאים חזרה לרכב, 51 דקות לביאלקה (בבית עד כ-15:30), אחר הצהריים בבריכה הרחק מהחום."
     }
    ],
    "attractions": [
-    "dunajec"
+    "dunajec",
+    "park_dolny"
    ],
    "route": {
     "km": 66.8,
@@ -3583,19 +3943,19 @@
     "he": "ש'"
    },
    "title": {
-    "en": "Niedzica Castle + Terma Bania",
-    "he": "טירת ניידז'יצה + טרמה באניה"
+    "en": "Niedzica Castle, then Terma Bania water park",
+    "he": "טירת ניידז'יצה ואחר כך פארק המים טרמה באניה"
    },
    "trail": "blue",
    "overnight": "hotel_goralski",
    "plan": [
     {
-     "en": "34 min to Niedzica Castle: courtyard, well and treasure legends; optional little boat across the lake.",
-     "he": "34 דקות לטירת ניידז'יצה: החצר, הבאר ואגדות האוצר; אופציה לסירה קטנה לצד השני של האגם."
+     "en": "34 min to Niedzica Castle (Sat: open daily 9:00–19:00; arrive at 9:30 before the crowds): courtyard, well and treasure legends, about 1 h; optional little boat across Lake Czorsztyn.",
+     "he": "34 דקות לטירת ניידז'יצה (ש': פתוח מדי יום 9:00–19:00; להגיע ב-9:30 לפני ההמונים): חצר, באר ואגדות אוצר, כשעה; אופציה לסירה קטנה לצד השני של אגם צ'ורשטין."
     },
     {
-     "en": "Back for lunch, then walk 14 min to Terma Bania for the slides and warm outdoor pools (2.5–4.5 h ticket).",
-     "he": "חזרה לארוחת צהריים, ואז 14 דקות הליכה לטרמה באניה למגלשות ולבריכות החמות בחוץ (כרטיס ל-2.5–4.5 שעות)."
+     "en": "Back for lunch and a rest in the heat, then walk 14 min to Terma Bania from about 14:30: slides, wave pool and warm outdoor pools (2.5–4.5 h ticket; Saturday is busy, so the late-afternoon ticket is calmer).",
+     "he": "חזרה לארוחת צהריים ולמנוחה בחום, ואז 14 דקות הליכה לטרמה באניה מכ-14:30: מגלשות, בריכת גלים ובריכות חמות בחוץ (כרטיס ל-2.5–4.5 שעות; שבת עמוסה, ולכן כרטיס אחר הצהריים שקט יותר)."
     }
    ],
    "attractions": [
@@ -3952,8 +4312,8 @@
     "he": "א'"
    },
    "title": {
-    "en": "Back to Kraków, return the car, the Wawel dragon",
-    "he": "חזרה לקרקוב, החזרת הרכב, הדרקון של ואוול"
+    "en": "Back to Kraków, return the car, the Wawel dragon and a Vistula boat",
+    "he": "חזרה לקרקוב, החזרת הרכב, הדרקון של ואוול ושיט בוויסלה"
    },
    "trail": "green",
    "overnight": "hotel_playroom",
@@ -3963,32 +4323,33 @@
      "he": "יציאה מביאלקה בערך ב-08:45, שעה ו-33 דקות לשדה התעופה (לתכנן שעתיים). החזרת הרכב עד 11:00 – בדיוק 4 ימי השכרה."
     },
     {
-     "en": "Taxi with 2 booster seats to the apartment (≈ 24 min, ≈ €25), drop the luggage, lunch in Kazimierz.",
-     "he": "מונית עם 2 בוסטרים לדירה (כ-24 דקות, כ-25 €), השארת המזוודות, ארוחת צהריים בקאז'ימייז'."
+     "en": "Taxi with 2 booster seats to the apartment (≈ 24 min, ≈ €25), drop the luggage, lunch in Kazimierz, rest in the air-conditioned apartment during the hottest hours (check in from 15:00).",
+     "he": "מונית עם 2 בוסטרים לדירה (כ-24 דקות, כ-25 €), השארת המזוודות, ארוחת צהריים בקאז'ימייז', מנוחה בדירה הממוזגת בשעות החמות ביותר (צ'ק-אין מ-15:00)."
     },
     {
-     "en": "Afternoon: 10-min walk to Wawel Hill, down through the Dragon's Den to the fire-breathing dragon by the river. Check in from 15:00.",
-     "he": "אחר הצהריים: 10 דקות הליכה לגבעת ואוול, ירידה דרך מערת הדרקון אל הדרקון יורק האש ליד הנהר. צ'ק-אין מ-15:00."
+     "en": "15:30 (Sun) 10-min walk to Wawel Hill: down through the Dragon's Den to the fire-breathing dragon by the river. 17:00 a 50-min boat on the Vistula from the pier right below Wawel (2 km of walking in all), dinner back in Kazimierz.",
+     "he": "15:30 (יום א') 10 דקות הליכה לגבעת ואוול: ירידה דרך מערת הדרקון אל הדרקון יורק האש ליד הנהר. 17:00 שיט של 50 דקות בוויסלה מהמזח ממש מתחת לוואוול (בסך הכול כ-2 ק\"מ הליכה), ארוחת ערב חזרה בקאז'ימייז'."
     }
    ],
    "attractions": [
-    "wawel_dragon"
+    "wawel_dragon",
+    "vistula_cruise"
    ],
    "route": {
-    "km": 125.2,
-    "minutes": 117,
+    "km": 163.3,
+    "minutes": 133,
     "legs": [
      {
       "from": "Góralski Resort, Białka Tatrzańska",
       "to": "Kraków Airport (KRK) – car",
-      "km": 107.7,
-      "min": 93
+      "km": 145.2,
+      "min": 112
      },
      {
       "from": "Kraków Airport (KRK) – car",
       "to": "PlayRoom Aparthotel, Kazimierz",
-      "km": 17.6,
-      "min": 24
+      "km": 18.1,
+      "min": 21
      }
     ],
     "points": [
@@ -4115,36 +4476,60 @@
        49.959427
       ],
       [
-       19.916984,
-       49.990534
+       19.916916,
+       49.990669
       ],
       [
-       19.855447,
-       49.997524
+       19.854577,
+       49.998187
+      ],
+      [
+       19.847749,
+       50.01256
       ],
       [
        19.807595,
        50.042761
       ],
       [
-       19.811189,
-       50.074357
+       19.804953,
+       50.087084
       ],
       [
-       19.790597,
-       50.068379
+       19.724777,
+       50.075514
       ],
       [
-       19.789819,
-       50.074857
+       19.673674,
+       50.094827
       ],
       [
-       19.790597,
-       50.068379
+       19.589366,
+       50.089877
       ],
       [
-       19.80971,
-       50.073787
+       19.549206,
+       50.09971
+      ],
+      [
+       19.588773,
+       50.089726
+      ],
+      [
+       19.673606,
+       50.094657
+      ],
+      [
+       19.723824,
+       50.075399
+      ],
+      [
+       19.783298,
+       50.081837
+      ],
+      [
+       19.807829,
+       50.084724
       ],
       [
        19.814211,
@@ -4180,28 +4565,31 @@
     "he": "ב'"
    },
    "title": {
-    "en": "Wieliczka Salt Mine + the Main Square",
-    "he": "מכרה המלח וייליצ'קה + הכיכר המרכזית"
+    "en": "Wieliczka Salt Mine in the cool, then the Planty playground and the Main Square",
+    "he": "מכרה המלח וייליצ'קה בקור, ואז מגרש המשחקים בפלאנטי והכיכר המרכזית"
    },
    "trail": "yellow",
    "overnight": "hotel_playroom",
    "plan": [
     {
-     "en": "Taxi 17 min (≈ €15) to Wieliczka for a morning English tour of the Tourist Route (book the time online), about 2.5 h underground.",
-     "he": "מונית של 17 דקות (כ-15 €) לווייליצ'קה לסיור בוקר באנגלית במסלול התיירותי (להזמין שעה באינטרנט), כשעתיים וחצי מתחת לאדמה."
+     "en": "Taxi 17 min (≈ €15) to Wieliczka for the 09:00 English tour of the Tourist Route (book the time online, Mon: open): 2–3 h underground at 17 °C, 800+ steps mostly down and a lift up. Tough for a 5-year-old: take breaks on the benches, or swap for Bochnia (mine train and boat, about 45 min away).",
+     "he": "מונית 17 דקות (כ-15 €) לווייליצ'קה לסיור האנגלית של 09:00 במסלול התיירותי (להזמין שעה באינטרנט, ב': פתוח): 2–3 שעות מתחת לאדמה ב-17 מעלות, 800+ מדרגות רובן בירידה ומעלית למעלה. תובעני לילד בן 5: הפסקות על הספסלים, או החלפה בבוכניה (רכבת מכרה וסירה, כ-45 דקות משם)."
     },
     {
-     "en": "Lunch and a rest at the apartment.",
-     "he": "ארוחת צהריים ומנוחה בדירה."
+     "en": "Lunch and a real rest at the apartment (A/C) from about 13:00 to 15:30.",
+     "he": "ארוחת צהריים ומנוחה אמיתית בדירה (מיזוג) מכ-13:00 עד 15:30."
     },
     {
-     "en": "Late afternoon: walk to the Main Square to hear the trumpet call on the hour, ice cream in the Planty park.",
-     "he": "לקראת ערב: הליכה לכיכר המרכזית לשמוע את החצוצרה בשעה העגולה, גלידה בפארק הפלאנטי."
+     "en": "16:00 short taxi to the Planty playground (Św. Gertrudy St) for about 45 min of running, then a 10-min walk to the Main Square for the trumpet call on the hour, ice cream and the Cloth Hall. Optional: the Rynek Underground museum if it is open on Monday (check and book online). Taxi home by 18:30.",
+     "he": "16:00 מונית קצרה למגרש המשחקים בפלאנטי (רחוב סנט גרטרודה) לכ-45 דקות ריצה, ואז 10 דקות הליכה לכיכר המרכזית לחצוצרה בשעה העגולה, גלידה ובית הבדים. אופציונלי: מוזיאון רינק התת-קרקעי אם הוא פתוח ביום ב' (לבדוק ולהזמין אונליין). מונית הביתה עד 18:30."
     }
    ],
    "attractions": [
     "wieliczka",
-    "rynek_hejnal"
+    "planty_play",
+    "rynek_hejnal",
+    "rynek_underground",
+    "bochnia"
    ],
    "route": {
     "km": 23.9,
@@ -4349,8 +4737,8 @@
     "he": "ג'"
    },
    "title": {
-    "en": "Energylandia day (no car)",
-    "he": "יום באנרג'ילנדיה (בלי רכב)"
+    "en": "Energylandia day (no car): kids' zones and water rides",
+    "he": "יום באנרג'ילנדיה (בלי רכב): אזורי ילדים ומתקני מים"
    },
    "trail": "red",
    "overnight": "hotel_playroom",
@@ -4360,8 +4748,8 @@
      "he": "האוטובוס הרשמי של הפארק מתחנת האוטובוסים MDA ב-08:30 ← הפארק ב-09:45 (24.50 זלוטי למושב, להזמין באינטרנט; 15 דקות מונית לתחנה), או מונית ישירה (כשעה)."
     },
     {
-     "en": "About 10:00–16:00 in the family areas (Bajkolandia, family coasters, water rides).",
-     "he": "בערך 10:00–16:00 באזורי המשפחה (באיקולנדיה, רכבות הרים משפחתיות, מתקני מים)."
+     "en": "About 10:00–16:00 in the family areas (Bajkolandia, family coasters); at noon go to the water rides and the shaded food area, and keep the kids' rides for the cooler afternoon. A 5-year-old rides only the rides his height allows (the kids' zones are free of height problems).",
+     "he": "בערך 10:00–16:00 באזורי המשפחה (באיקולנדיה, רכבות הרים משפחתיות); בצהריים למתקני המים ולאזור האוכל המוצל, ואת מתקני הילדים משאירים לשעות הקרירות אחר הצהריים. ילד בן 5 עולה רק על מתקנים שהגובה שלו מתאים להם (באזורי הילדים אין בעיית גובה)."
     },
     {
      "en": "Taxi back (≈ 1 h, book ahead – apps are unreliable at the park; ≈ 300 PLN) instead of waiting for the 20:30 bus.",
@@ -4732,6 +5120,14 @@
        50.075365
       ],
       [
+       19.749677,
+       50.079424
+      ],
+      [
+       19.769777,
+       50.080069
+      ],
+      [
        19.805775,
        50.08603
       ],
@@ -4785,28 +5181,27 @@
     "he": "ד'"
    },
    "title": {
-    "en": "Zoo + river boat",
-    "he": "גן החיות + שיט בנהר"
+    "en": "Kraków Zoo, a midday rest and the Garden of Experiments",
+    "he": "גן החיות של קרקוב, מנוחת צהריים וגן הניסויים"
    },
    "trail": "yellow",
    "overnight": "hotel_playroom",
    "plan": [
     {
-     "en": "Tram to Cracovia Błonia, then bus 134 to the zoo (or a 20-min taxi); about 9:30–13:00.",
-     "he": "חשמלית ל-Cracovia Błonia ואז אוטובוס 134 לגן החיות (או 20 דקות במונית); בערך 9:30–13:00."
+     "en": "Taxi (20 min) or tram + bus 134 to the zoo, about 9:30–12:00 in the shady forest (Wed: open): giraffes, hippos, penguins, sea lions and the petting area. Keep to the lower paths, about 2 km.",
+     "he": "מונית (20 דקות) או חשמלית + אוטובוס 134 לגן החיות, בערך 9:30–12:00 ביער המוצל (ד': פתוח): ג'ירפות, היפופוטמים, פינגווינים, אריות ים ופינת ליטוף. להישאר בשבילים התחתונים, כ-2 ק\"מ."
     },
     {
-     "en": "Afternoon: 50-min boat on the Vistula from the pier under Wawel, a short walk from the apartment.",
-     "he": "אחר הצהריים: שיט של 50 דקות בוויסלה מהמזח שמתחת לוואוול, הליכה קצרה מהדירה."
+     "en": "Lunch, then a rest at the apartment in the air-conditioned room from 13:00 to 15:30.",
+     "he": "ארוחת צהריים, ואז מנוחה בדירה הממוזגת מ-13:00 עד 15:30."
     },
     {
-     "en": "Still energy? The Garden of Experiments (science park). Rain? Park Wodny water park instead.",
-     "he": "נשאר כוח? גן הניסויים (פארק מדע). יורד גשם? פארק המים פארק וודני במקום."
+     "en": "16:00 the Garden of Experiments (hands-on science park, about 1.5 h, confirm 2027 hours). Rain or too hot? Park Wodny water park instead. The Vistula boat is on Sunday; add it back here if you skip the Garden.",
+     "he": "16:00 גן הניסויים (פארק מדע חוויתי, כשעה וחצי, לאשר שעות 2027). גשם או חם מדי? פארק המים פארק וודני במקום. השיט בוויסלה ביום א'; אפשר להחזיר אותו לכאן אם מדלגים על הגן."
     }
    ],
    "attractions": [
     "krakow_zoo",
-    "vistula_cruise",
     "ogrod_doswiadczen",
     "park_wodny"
    ],
@@ -5110,14 +5505,14 @@
    ],
    "attractions": [],
    "route": {
-    "km": 26.6,
-    "minutes": 25,
+    "km": 57.3,
+    "minutes": 43,
     "legs": [
      {
       "from": "PlayRoom Aparthotel, Kazimierz",
       "to": "Kraków Airport (KRK) – car",
-      "km": 26.6,
-      "min": 25
+      "km": 57.3,
+      "min": 43
      }
     ],
     "points": [
@@ -5139,152 +5534,152 @@
        50.053113
       ],
       [
-       19.944212,
-       50.05534
+       19.944577,
+       50.055035
       ],
       [
-       19.940294,
-       50.051017
+       19.940181,
+       50.055767
       ],
       [
-       19.931529,
-       50.049043
+       19.944947,
+       50.062658
       ],
       [
-       19.933819,
-       50.046871
+       19.944768,
+       50.073241
       ],
       [
-       19.937096,
-       50.039533
+       19.954899,
+       50.086235
       ],
       [
-       19.940438,
-       50.036205
+       19.940606,
+       50.09131
       ],
       [
-       19.944832,
-       50.034491
+       19.931402,
+       50.091534
       ],
       [
-       19.9457,
-       50.03251
+       19.914107,
+       50.113351
       ],
       [
-       19.944536,
-       50.028473
+       19.892832,
+       50.119135
       ],
       [
-       19.945819,
-       50.022976
+       19.869974,
+       50.119356
       ],
       [
-       19.945238,
-       50.013346
+       19.853269,
+       50.116264
       ],
       [
-       19.94393,
-       50.010868
+       19.835133,
+       50.102729
       ],
       [
-       19.945165,
-       50.006739
+       19.798362,
+       50.084678
       ],
       [
-       19.941631,
-       50.002909
+       19.769573,
+       50.080225
       ],
       [
-       19.931783,
-       50.000153
+       19.747821,
+       50.079372
       ],
       [
-       19.923136,
-       49.994642
+       19.729444,
+       50.07554
       ],
       [
-       19.916168,
-       49.99236
+       19.713254,
+       50.077758
       ],
       [
-       19.897878,
-       49.990612
+       19.685381,
+       50.091633
       ],
       [
-       19.880614,
-       49.991618
+       19.673674,
+       50.094827
       ],
       [
-       19.860212,
-       49.995505
+       19.635518,
+       50.092504
       ],
       [
-       19.855447,
-       49.997524
+       19.617389,
+       50.093191
       ],
       [
-       19.852694,
-       50.000536
+       19.589366,
+       50.089877
       ],
       [
-       19.850152,
-       50.009256
+       19.57555,
+       50.091867
       ],
       [
-       19.847749,
-       50.01256
+       19.550084,
+       50.100518
       ],
       [
-       19.843345,
-       50.015495
+       19.55574,
+       50.102423
       ],
       [
-       19.83328,
-       50.018642
+       19.553916,
+       50.098068
       ],
       [
-       19.828326,
-       50.021279
+       19.549206,
+       50.09971
       ],
       [
-       19.808483,
-       50.041522
+       19.576492,
+       50.091446
       ],
       [
-       19.806756,
-       50.046526
+       19.588773,
+       50.089726
       ],
       [
-       19.809788,
-       50.054503
+       19.617034,
+       50.092995
       ],
       [
-       19.809957,
-       50.074081
+       19.635524,
+       50.092332
       ],
       [
-       19.811189,
-       50.074357
+       19.673606,
+       50.094657
       ],
       [
-       19.811049,
-       50.072422
+       19.685246,
+       50.091479
       ],
       [
-       19.805923,
-       50.072621
+       19.712543,
+       50.077829
       ],
       [
-       19.799577,
-       50.068326
+       19.723824,
+       50.075399
       ],
       [
-       19.790597,
-       50.068379
+       19.749677,
+       50.079424
       ],
       [
-       19.789819,
-       50.074857
+       19.783298,
+       50.081837
       ]
      ],
      "type": "LineString"
@@ -5294,8 +5689,8 @@
   }
  ],
  "routes_total": {
-  "km": 583.4,
-  "minutes": 676
+  "km": 656.5,
+  "minutes": 715
  },
  "budget": {
   "lines": [
@@ -5364,11 +5759,11 @@
    },
    {
     "key": "fuel",
-    "eur": 42,
+    "eur": 47,
     "status": "estimate",
     "label": {
-     "en": "Fuel – ≈ 410 km",
-     "he": "דלק – כ-410 ק\"מ"
+     "en": "Fuel – ≈ 455 km",
+     "he": "דלק – כ-455 ק\"מ"
     }
    },
    {
@@ -5391,24 +5786,24 @@
    },
    {
     "key": "att",
-    "eur": 775,
+    "eur": 816,
     "status": "mixed",
     "label": {
-     "en": "Attractions & Kraków public transport (3,388 PLN)",
-     "he": "אטרקציות ותחבורה ציבורית בקרקוב (3,388 זלוטי)"
+     "en": "Attractions & Kraków public transport (3,568 PLN)",
+     "he": "אטרקציות ותחבורה ציבורית בקרקוב (3,568 זלוטי)"
     }
    }
   ],
-  "total_eur": 5053.08,
+  "total_eur": 5099.08,
   "live_part_eur": 3432.08,
-  "attractions_local": 3388,
-  "fuel_km": 410
+  "attractions_local": 3568,
+  "fuel_km": 455
  },
  "ui": {
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Poland v4 research · prices checked 9 Nov 2026 · awaiting your approval",
+   "eyebrow": "Poland v5 research · prices checked 9 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -5474,7 +5869,7 @@
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Poland v4 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Poland v5 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Białka Tatrzańska",
@@ -5501,7 +5896,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "פולין גרסה 4 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
+   "eyebrow": "פולין גרסה 5 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -5567,7 +5962,7 @@
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "פולין גרסה 4 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "פולין גרסה 5 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "ביאלקה טטשאנסקה",
@@ -5593,7 +5988,7 @@
   }
  },
  "approved": {
-  "version": "pl v4",
+  "version": "pl v5",
   "approved_on": "2026-11-09",
   "by": "traveller"
  },

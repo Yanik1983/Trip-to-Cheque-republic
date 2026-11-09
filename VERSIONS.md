@@ -43,7 +43,7 @@ On 9 Nov 2026 every flight and hotel was re-checked and each trip was moved to i
 |---|---|---|---|---|
 | Czechia | v7 | Sat 21 – Mon 30 Aug 2027 | `cz/v7/` | about €4,141 |
 | Hungary | v3 | Tue 17 – Thu 26 Aug 2027 | `hu/v3/` | about €4,488 |
-| Poland | v4 | Tue 17 – Thu 26 Aug 2027 | `pl/v4/` | about €5,053 |
+| Poland | v5 (kids-first rework) | Tue 17 – Thu 26 Aug 2027 | `pl/v5/` | about €5,099 |
 | Romania | v3 | Thu 19 – Sat 28 Aug 2027 | `ro/v3/` | about €4,101 |
 | Slovenia | v3 (kids-first rework) | Sun 15 – Tue 24 Aug 2027 (21:50 landing, out-of-hours car pick-up) | `si/v3/` | about €5,156 |
 | Georgia | v3 (kids-first rework) | Sun 15 – Tue 24 Aug 2027 | `ge/v3/` | about €4,179 |
@@ -53,5 +53,5 @@ Older versions stay in their folders (`v2`…`v6/`, `hu/v1`, `hu/v2`, `pl/v1`…
 
 ## Trip app (Phase 2)
 
-`app/` – mobile web app built only from the approved data (approved 21 Oct 2026): Czechia v7 (`app/trip-data-cz.json`), Hungary v3 (`trip-data-hu.json`), Poland v4 (`trip-data-pl.json`), Romania v3 (`trip-data-ro.json`), Slovenia v3 (`trip-data-si.json`), Georgia v3 (`trip-data-ge.json`), Black Forest v2 (`trip-data-de.json`); choose the country at the top (link straight to one with `?d=cz`, `?d=hu`, `?d=pl`, `?d=ro`, `?d=si`, `?d=ge` or `?d=de`): overview, map with all routes, day-by-day view, flights, hotels (with the air-conditioning line), car and budget, in Hebrew and English.
+`app/` – mobile web app built only from the approved data (approved 21 Oct 2026): Czechia v7 (`app/trip-data-cz.json`), Hungary v3 (`trip-data-hu.json`), Poland v5 (`trip-data-pl.json`), Romania v3 (`trip-data-ro.json`), Slovenia v3 (`trip-data-si.json`), Georgia v3 (`trip-data-ge.json`), Black Forest v2 (`trip-data-de.json`); choose the country at the top (link straight to one with `?d=cz`, `?d=hu`, `?d=pl`, `?d=ro`, `?d=si`, `?d=ge` or `?d=de`): overview, map with all routes, day-by-day view, flights, hotels (with the air-conditioning line), car and budget, in Hebrew and English.
 Open on the phone: https://yanik1983.github.io/Trip-to-Cheque-republic/app/
