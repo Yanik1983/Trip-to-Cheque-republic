@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Turn Google Flights result pages saved by gget.py (HTML) or gfl.js (JSON rows) into one compact price snapshot.
 
-usage: snapshot.py <snapshot.json> <dir> [<dir> ...]   build the snapshot from every <label>.html / <label>.json in the folders
+usage: snapshot.py <snapshot.json> <dir> [<dir> ...]   add every <label>.html / <label>.json of the folders to the snapshot
+                                                       (searches already in the file and not in the folders are kept)
        snapshot.py <dir>/<label>.html|.json            print the flights of one saved search
 
 Snapshot: { "<FROM>-<TO>_<MMDD>": { "from", "to", "date", "pax", "fetched", "full", "flights": [ flight, ... ] } }, cheapest first.
@@ -86,6 +87,8 @@ def read(path):
 
 
 def build(snap_path, dirs):
+    """Searches found in the folders are (re)built from their saved pages; other searches already in the snapshot stay."""
+    old = json.load(open(snap_path, encoding="utf8")) if os.path.exists(snap_path) else {}
     snap = {}
     for d in dirs:
         for name in sorted(os.listdir(d)):
@@ -110,12 +113,14 @@ def build(snap_path, dirs):
                 elif later:                        # two readings of the same flight: keep the later price
                     have[key(f)]["price"] = f["price"]
             e["flights"].sort(key=lambda x: (x["price"], x["dur"]))
+    kept = [k for k in old if k not in snap]
+    snap.update({k: old[k] for k in kept})
     with open(snap_path, "w", encoding="utf8") as fh:
         fh.write("{\n" + ",\n".join(
             f' {json.dumps(k)}: {{"from": {json.dumps(v["from"])}, "to": {json.dumps(v["to"])}, "date": {json.dumps(v["date"])}, "pax": {v["pax"]}, '
             f'"fetched": {json.dumps(v["fetched"])}, "full": {json.dumps(v["full"])}, "flights": [\n'
             + ",\n".join("   " + json.dumps(f, ensure_ascii=False) for f in v["flights"]) + "\n ]}" for k, v in sorted(snap.items())) + "\n}\n")
-    print(f"{len(snap)} searches in {snap_path}")
+    print(f"{len(snap)} searches in {snap_path}" + (f" ({len(kept)} kept from the existing file)" if kept else ""))
     return snap
 
 
