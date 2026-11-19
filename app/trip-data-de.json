@@ -40,16 +40,16 @@
  "car_km": 690.2,
  "changes": [
   {
-   "en": "What changed in v3: the hotels were re-priced on 19 Nov 2026 on Booking.com (the same ones, free cancellation, air-conditioned): €2,057 → €2,057 – practically unchanged. The flights are the ones priced on 9 Nov 2026: Google did not answer automated searches for this route on 19 Nov 2026, so their prices could not be re-checked. The estimated total is now about €5,697 (it was €5,697). The plan itself – dates, places and days – is the same.",
-   "he": "מה השתנה בגרסה 3: המלונות תומחרו מחדש ב-19.11.2026 ב-Booking.com (אותם מלונות, ביטול חינם, ממוזגים): 2,057 € ← 2,057 € – כמעט בלי שינוי. הטיסות הן אלה שתומחרו ב-9.11.2026: גוגל לא ענתה לחיפושים אוטומטיים בקו הזה ב-19.11.2026, ולכן המחירים שלהן לא נבדקו מחדש. הסכום המשוער הוא עכשיו כ-5,697 € (היה 5,697 €). התוכנית עצמה – תאריכים, מקומות וימים – לא השתנתה."
+   "en": "What changed in v3: every price was re-checked on 19 Nov 2026 – flights on Google Flights, hotels on Booking.com. Outbound: the Aegean A3 457 + A3 448 of the previous version (€805) is no longer on Google's first results page, so the cheapest flight that fits is now Aegean A3 459 + A3 448 07:15→19:45 for €818. Return: the same Iberia IB 628 + IB 1873 11:55→23:20, now €796 (€4 less than on 9 Nov). Hotels (the same ones, free cancellation, air-conditioned): €2,057 → €2,057 – practically unchanged. The estimated total is now about €5,706 (it was €5,697). The plan itself – dates, places and days – is the same.",
+   "he": "מה השתנה בגרסה 3: כל המחירים נבדקו מחדש ב-19.11.2026 – טיסות ב-Google Flights, מלונות ב-Booking.com. הלוך: הטיסה מהגרסה הקודמת, אגיאן A3 457 + A3 448 (805 €), כבר לא מופיעה בעמוד התוצאות הראשון של גוגל, ולכן הזולה ביותר שמתאימה היא עכשיו אגיאן A3 459 + A3 448 07:15←19:45 ב-818 €. חזור: אותה טיסה, איבריה IB 628 + IB 1873 11:55←23:20, עכשיו 796 € (4 € פחות מאשר ב-9.11). מלונות (אותם מלונות, ביטול חינם, ממוזגים): 2,057 € ← 2,057 € – כמעט בלי שינוי. הסכום המשוער הוא עכשיו כ-5,706 € (היה 5,697 €). התוכנית עצמה – תאריכים, מקומות וימים – לא השתנתה."
   },
   {
-   "en": "Dates Sun 15 – Tue 24 Aug 2027 (evening arrival, late drive to the base) are kept. Hotels were re-priced for every start date 14–22 Aug; the date comparison for flights is the one of 9 Nov 2026.",
-   "he": "התאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס) נשארים. המלונות תומחרו מחדש לכל תאריך התחלה 14–22 באוגוסט; השוואת התאריכים לטיסות היא זו מ-9.11.2026."
+   "en": "Dates Sun 15 – Tue 24 Aug 2027 (evening arrival, late drive to the base) are kept: the flights that fit the plan, estimated bags, hotels with free cancellation and the car together ≈ €4,719. Hotels were re-priced for every start date 14–22 Aug, but Google limited automated flight searches on 19 Nov 2026, so flights could be re-priced only for these dates and the date comparison of 9 Nov was not repeated. A morning arrival on the same day would cost €71 more for the flight (Iberia IB 1874 + IB 629 05:30→14:00, €889).",
+   "he": "התאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס) נשארים: הטיסות שמתאימות לתוכנית, הערכת כבודה, מלונות עם ביטול חינם והרכב יחד כ-4,719 €. המלונות תומחרו מחדש לכל תאריך התחלה 14–22 באוגוסט, אבל גוגל הגבילה חיפושי טיסות אוטומטיים ב-19.11.2026, ולכן טיסות תומחרו רק לתאריכים האלה והשוואת התאריכים מ-9.11 לא חזרה על עצמה. נחיתה בבוקר באותו יום הייתה מייקרת את הטיסה ב-71 € (איבריה IB 1874 + IB 629 05:30←14:00, 889 €)."
   },
   {
-   "en": "Flights (prices of 9 Nov 2026): out Aegean A3 457 + A3 448 05:30→19:45; back Iberia IB 628 + IB 1873 11:55→23:20.",
-   "he": "טיסות (מחירים מ-9.11.2026): הלוך אגיאן A3 457 + A3 448 05:30←19:45; חזור איבריה IB 628 + IB 1873 11:55←23:20."
+   "en": "Cheapest flights at any time of day, as you asked (at most one stop, no overnight connections). Out: Aegean A3 459 + A3 448 07:15→19:45; back: Iberia IB 628 + IB 1873 11:55→23:20.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (עד עצירה אחת, בלי קונקשן לילי). הלוך: אגיאן A3 459 + A3 448 07:15←19:45; חזור: איבריה IB 628 + IB 1873 11:55←23:20."
   },
   {
    "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
@@ -79,22 +79,6 @@
   "choices": {
    "out": [
     {
-     "id": "A3 457 + A3 448@05:30",
-     "fn": "A3 457 + A3 448",
-     "airline": "Aegean",
-     "airline_he": "אגיאן",
-     "dep": "05:30",
-     "arr": "19:45",
-     "duration": "15h 15m",
-     "stops": 1,
-     "via": "",
-     "next_day": false,
-     "price_eur": 805,
-     "bags_eur": 160,
-     "fit": true,
-     "default": true
-    },
-    {
      "id": "A3 459 + A3 448@07:15",
      "fn": "A3 459 + A3 448",
      "airline": "Aegean",
@@ -103,12 +87,12 @@
      "arr": "19:45",
      "duration": "13h 30m",
      "stops": 1,
-     "via": "",
+     "via": "HER",
      "next_day": false,
-     "price_eur": 805,
+     "price_eur": 818,
      "bags_eur": 160,
      "fit": true,
-     "default": false
+     "default": true
     },
     {
      "id": "AZ 807 + AZ 572@14:30",
@@ -119,27 +103,27 @@
      "arr": "10:05",
      "duration": "20h 35m",
      "stops": 1,
-     "via": "",
+     "via": "FCO",
      "next_day": true,
-     "price_eur": 826,
+     "price_eur": 833,
      "bags_eur": 160,
      "fit": false,
      "default": false
     },
     {
-     "id": "IB 1874 + IB 633@05:30",
-     "fn": "IB 1874 + IB 633",
+     "id": "IB 1874 + IB 629@05:30",
+     "fn": "IB 1874 + IB 629",
      "airline": "Iberia",
-     "airline_he": "Iberia",
+     "airline_he": "איבריה",
      "dep": "05:30",
-     "arr": "22:20",
-     "duration": "17h 50m",
+     "arr": "14:00",
+     "duration": "9h 30m",
      "stops": 1,
-     "via": "",
+     "via": "MAD",
      "next_day": false,
-     "price_eur": 839,
+     "price_eur": 889,
      "bags_eur": 160,
-     "fit": true,
+     "fit": false,
      "default": false
     },
     {
@@ -151,89 +135,9 @@
      "arr": "10:20",
      "duration": "6h 20m",
      "stops": 1,
-     "via": "",
+     "via": "ATH",
      "next_day": false,
-     "price_eur": 863,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "IB 1874 + IB 629@05:30",
-     "fn": "IB 1874 + IB 629",
-     "airline": "Iberia",
-     "airline_he": "Iberia",
-     "dep": "05:30",
-     "arr": "14:00",
-     "duration": "9h 30m",
-     "stops": 1,
-     "via": "",
-     "next_day": false,
-     "price_eur": 874,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "IB 1874 + IB 631@05:30",
-     "fn": "IB 1874 + IB 631",
-     "airline": "Iberia",
-     "airline_he": "Iberia",
-     "dep": "05:30",
-     "arr": "19:00",
-     "duration": "14h 30m",
-     "stops": 1,
-     "via": "",
-     "next_day": false,
-     "price_eur": 953,
-     "bags_eur": 160,
-     "fit": true,
-     "default": false
-    },
-    {
-     "id": "A3 927 + A3 850@19:55",
-     "fn": "A3 927 + A3 850",
-     "airline": "Aegean",
-     "airline_he": "אגיאן",
-     "dep": "19:55",
-     "arr": "10:20",
-     "duration": "15h 25m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 1013,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "UX 1302 + UX 1675@16:05",
-     "fn": "UX 1302 + UX 1675",
-     "airline": "Air Europa",
-     "airline_he": "Air Europa",
-     "dep": "16:05",
-     "arr": "10:00",
-     "duration": "18h 55m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 1158,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "LH 695 + LH 1190@08:00",
-     "fn": "LH 695 + LH 1190",
-     "airline": "Lufthansa",
-     "airline_he": "לופטהנזה",
-     "dep": "08:00",
-     "arr": "13:55",
-     "duration": "6h 55m",
-     "stops": 1,
-     "via": "",
-     "next_day": false,
-     "price_eur": 1173,
+     "price_eur": 1192,
      "bags_eur": 160,
      "fit": false,
      "default": false
@@ -247,57 +151,105 @@
      "arr": "10:35",
      "duration": "6h 50m",
      "stops": 1,
-     "via": "",
+     "via": "FRA",
      "next_day": false,
-     "price_eur": 1173,
+     "price_eur": 1360,
      "bags_eur": 160,
      "fit": false,
      "default": false
     },
     {
-     "id": "A3 929 + A3 852@05:00",
-     "fn": "A3 929 + A3 852",
-     "airline": "Aegean",
-     "airline_he": "אגיאן",
-     "dep": "05:00",
-     "arr": "18:05",
-     "duration": "14h 5m",
+     "id": "LH 695 + LH 1190@08:00",
+     "fn": "LH 695 + LH 1190",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "08:00",
+     "arr": "13:55",
+     "duration": "6h 55m",
      "stops": 1,
+     "via": "FRA",
+     "next_day": false,
+     "price_eur": 1360,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LX 257@04:50",
+     "fn": "LX 257",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "04:50",
+     "arr": "08:10",
+     "duration": "4h 20m",
+     "stops": 0,
      "via": "",
      "next_day": false,
-     "price_eur": 1174,
+     "price_eur": 1565,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LX 253@18:15",
+     "fn": "LX 253",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "18:15",
+     "arr": "21:35",
+     "duration": "4h 20m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 1565,
      "bags_eur": 160,
      "fit": true,
      "default": false
     },
     {
-     "id": "LH 683 + LH 2368@07:00",
-     "fn": "LH 683 + LH 2368",
-     "airline": "Lufthansa",
-     "airline_he": "לופטהנזה",
-     "dep": "07:00",
-     "arr": "12:10",
-     "duration": "6h 10m",
+     "id": "OS 84 + OS 135@06:00",
+     "fn": "OS 84 + OS 135",
+     "airline": "Austrian",
+     "airline_he": "אוסטריאן",
+     "dep": "06:00",
+     "arr": "11:00",
+     "duration": "6h",
      "stops": 1,
-     "via": "",
+     "via": "VIE",
      "next_day": false,
-     "price_eur": 1309,
+     "price_eur": 1847,
      "bags_eur": 160,
      "fit": false,
      "default": false
     },
     {
-     "id": "@13:50",
-     "fn": "",
-     "airline": "Aegean",
-     "airline_he": "אגיאן",
-     "dep": "13:50",
-     "arr": "10:20",
-     "duration": "21h 30m",
-     "stops": 1,
+     "id": "LY 343@16:35",
+     "fn": "LY 343",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "16:35",
+     "arr": "19:55",
+     "duration": "4h 20m",
+     "stops": 0,
      "via": "",
-     "next_day": true,
-     "price_eur": 1324,
+     "next_day": false,
+     "price_eur": 2410,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LY 347@08:00",
+     "fn": "LY 347",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "08:00",
+     "arr": "11:20",
+     "duration": "4h 20m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 3130,
      "bags_eur": 160,
      "fit": false,
      "default": false
@@ -308,33 +260,17 @@
      "id": "IB 628 + IB 1873@11:55",
      "fn": "IB 628 + IB 1873",
      "airline": "Iberia",
-     "airline_he": "Iberia",
+     "airline_he": "איבריה",
      "dep": "11:55",
      "arr": "23:20",
      "duration": "10h 25m",
      "stops": 1,
-     "via": "",
+     "via": "MAD",
      "next_day": false,
-     "price_eur": 800,
+     "price_eur": 796,
      "bags_eur": 160,
      "fit": true,
      "default": true
-    },
-    {
-     "id": "IB 634 + IB 1873@07:30",
-     "fn": "IB 634 + IB 1873",
-     "airline": "Iberia",
-     "airline_he": "Iberia",
-     "dep": "07:30",
-     "arr": "23:20",
-     "duration": "14h 50m",
-     "stops": 1,
-     "via": "",
-     "next_day": false,
-     "price_eur": 800,
-     "bags_eur": 160,
-     "fit": true,
-     "default": false
     },
     {
      "id": "A3 853 + A3 928@19:00",
@@ -345,9 +281,9 @@
      "arr": "02:45",
      "duration": "6h 45m",
      "stops": 1,
-     "via": "",
+     "via": "ATH",
      "next_day": true,
-     "price_eur": 971,
+     "price_eur": 961,
      "bags_eur": 160,
      "fit": false,
      "default": false
@@ -361,9 +297,9 @@
      "arr": "19:00",
      "duration": "6h 45m",
      "stops": 1,
-     "via": "",
+     "via": "ATH",
      "next_day": false,
-     "price_eur": 971,
+     "price_eur": 961,
      "bags_eur": 160,
      "fit": true,
      "default": false
@@ -379,7 +315,7 @@
      "stops": 0,
      "via": "",
      "next_day": true,
-     "price_eur": 1046,
+     "price_eur": 1034,
      "bags_eur": 160,
      "fit": false,
      "default": false
@@ -393,73 +329,9 @@
      "arr": "03:10",
      "duration": "7h 5m",
      "stops": 1,
-     "via": "",
+     "via": "FCO",
      "next_day": true,
-     "price_eur": 1050,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "AZ 571 + AZ 810@10:55",
-     "fn": "AZ 571 + AZ 810",
-     "airline": "ITA",
-     "airline_he": "ITA",
-     "dep": "10:55",
-     "arr": "03:10",
-     "duration": "15h 15m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 1050,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "LX 786 + SN 3293@07:25",
-     "fn": "LX 786 + SN 3293",
-     "airline": "SWISS and Brussels Airlines",
-     "airline_he": "SWISS and Brussels Airlines",
-     "dep": "07:25",
-     "arr": "01:55",
-     "duration": "17h 30m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 1052,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "SN 2730 + SN 3293@09:00",
-     "fn": "SN 2730 + SN 3293",
-     "airline": "Brussels Airlines",
-     "airline_he": "בריסל איירליינס",
-     "dep": "09:00",
-     "arr": "01:55",
-     "duration": "15h 55m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 1052,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "LX 780 + SN 3293@12:55",
-     "fn": "LX 780 + SN 3293",
-     "airline": "SWISS and Brussels Airlines",
-     "airline_he": "SWISS and Brussels Airlines",
-     "dep": "12:55",
-     "arr": "01:55",
-     "duration": "12h",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 1052,
+     "price_eur": 1039,
      "bags_eur": 160,
      "fit": false,
      "default": false
@@ -473,59 +345,91 @@
      "arr": "01:55",
      "duration": "7h 40m",
      "stops": 1,
-     "via": "",
+     "via": "BRU",
      "next_day": true,
-     "price_eur": 1052,
+     "price_eur": 1041,
      "bags_eur": 160,
      "fit": false,
      "default": false
     },
     {
-     "id": "LH 1199 + LH 694@06:55",
-     "fn": "LH 1199 + LH 694",
+     "id": "LH 1187 + LH 694@11:20",
+     "fn": "LH 1187 + LH 694",
      "airline": "Lufthansa",
      "airline_he": "לופטהנזה",
-     "dep": "06:55",
+     "dep": "11:20",
      "arr": "19:10",
-     "duration": "11h 15m",
+     "duration": "6h 50m",
      "stops": 1,
-     "via": "",
+     "via": "FRA",
      "next_day": false,
-     "price_eur": 1100,
+     "price_eur": 1088,
      "bags_eur": 160,
      "fit": true,
      "default": false
     },
     {
-     "id": "LH 1181 + LH 694@08:15",
-     "fn": "LH 1181 + LH 694",
-     "airline": "Lufthansa",
-     "airline_he": "לופטהנזה",
-     "dep": "08:15",
-     "arr": "19:10",
-     "duration": "9h 55m",
-     "stops": 1,
+     "id": "LX 252@11:50",
+     "fn": "LX 252",
+     "airline": "SWISS",
+     "airline_he": "סוויס",
+     "dep": "11:50",
+     "arr": "17:00",
+     "duration": "4h 10m",
+     "stops": 0,
      "via": "",
      "next_day": false,
-     "price_eur": 1100,
+     "price_eur": 1386,
      "bags_eur": 160,
      "fit": true,
      "default": false
     },
     {
-     "id": "LH 1183 + LH 694@09:25",
-     "fn": "LH 1183 + LH 694",
+     "id": "LH 2367 + LH 680@09:25",
+     "fn": "LH 2367 + LH 680",
      "airline": "Lufthansa",
      "airline_he": "לופטהנזה",
      "dep": "09:25",
-     "arr": "19:10",
-     "duration": "8h 45m",
+     "arr": "16:00",
+     "duration": "5h 35m",
      "stops": 1,
-     "via": "",
+     "via": "MUC",
      "next_day": false,
-     "price_eur": 1100,
+     "price_eur": 1412,
      "bags_eur": 160,
      "fit": true,
+     "default": false
+    },
+    {
+     "id": "LY 348@12:30",
+     "fn": "LY 348",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "12:30",
+     "arr": "17:25",
+     "duration": "3h 55m",
+     "stops": 0,
+     "via": "",
+     "next_day": false,
+     "price_eur": 2443,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "LY 344@21:15",
+     "fn": "LY 344",
+     "airline": "El Al",
+     "airline_he": "אל על",
+     "dep": "21:15",
+     "arr": "02:10",
+     "duration": "3h 55m",
+     "stops": 0,
+     "via": "",
+     "next_day": true,
+     "price_eur": 2443,
+     "bags_eur": 160,
+     "fit": false,
      "default": false
     }
    ],
@@ -546,14 +450,14 @@
      "en": "Sun",
      "he": "א'"
     },
-    "flight": "A3 457 + A3 448",
+    "flight": "A3 459 + A3 448",
     "airline": "Aegean",
     "from": "TLV",
     "to": "ZRH",
-    "dep": "05:30",
+    "dep": "07:15",
     "arr": "19:45",
-    "duration": "15h 15m",
-    "price_eur": 805
+    "duration": "13h 30m",
+    "price_eur": 818
    },
    {
     "dir": {
@@ -572,23 +476,23 @@
     "dep": "11:55",
     "arr": "23:20",
     "duration": "10h 25m",
-    "price_eur": 800
+    "price_eur": 796
    }
   ],
   "evening_outbound_options": [
    {
     "what": {
-     "en": "Aegean A3 457 + A3 448 · 05:30 → 19:45 · 1 stop ",
-     "he": "אגיאן A3 457 + A3 448 · 05:30 → 19:45 · עצירה ב"
+     "en": "Aegean A3 459 + A3 448 · 07:15 → 19:45 · 1 stop in HER",
+     "he": "אגיאן A3 459 + A3 448 · 07:15 → 19:45 · עצירה ב-HER"
     },
     "when": {
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 805,
+    "price_eur": 818,
     "note": {
-     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
-     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+     "en": "Chosen: the cheapest flight that fits the plan (flight + estimated bags).",
+     "he": "נבחרה: הזולה ביותר שמתאימה לתוכנית (טיסה + הערכת כבודה)."
     },
     "best": true
    },
@@ -601,74 +505,90 @@
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 1555,
+    "price_eur": 1565,
     "note": {
-     "en": "€750 more.",
-     "he": "יקרה ב-750 €."
+     "en": "€747 more.",
+     "he": "יקרה ב-747 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "SWISS  · 04:50 → 08:10 · nonstop",
-     "he": "סוויס  · 04:50 → 08:10 · ישירה"
+     "en": "El Al LY 343 · 16:35 → 19:55 · nonstop",
+     "he": "אל על LY 343 · 16:35 → 19:55 · ישירה"
     },
     "when": {
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 1555,
+    "price_eur": 2410,
     "note": {
-     "en": "€750 more.",
-     "he": "יקרה ב-750 €."
+     "en": "€1592 more.",
+     "he": "יקרה ב-1592 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "El Al LY 347 · 08:00 → 11:20 · nonstop",
-     "he": "אל על LY 347 · 08:00 → 11:20 · ישירה"
+     "en": "ITA AZ 807 + AZ 572 · 14:30 → 10:05 (+1) · 1 stop in FCO",
+     "he": "ITA AZ 807 + AZ 572 · 14:30 → 10:05 (+1) · עצירה ב-FCO"
     },
     "when": {
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 2368,
+    "price_eur": 833,
     "note": {
-     "en": "€1563 more.",
-     "he": "יקרה ב-1563 €."
+     "en": "€15 more; 20 hr 35 min with a connection; arrives the next day.",
+     "he": "יקרה ב-15 €; 20 שע׳ 35 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Aegean A3 459 + A3 448 · 07:15 → 19:45 · 1 stop ",
-     "he": "אגיאן A3 459 + A3 448 · 07:15 → 19:45 · עצירה ב"
+     "en": "Iberia IB 1874 + IB 629 · 05:30 → 14:00 · 1 stop in MAD",
+     "he": "איבריה IB 1874 + IB 629 · 05:30 → 14:00 · עצירה ב-MAD"
     },
     "when": {
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 805,
+    "price_eur": 889,
     "note": {
-     "en": "Same price; 13 hr 30 min with a connection.",
-     "he": "אותו מחיר; 13 שע׳ 30 דק׳ עם קונקשן."
+     "en": "€71 more; 9 hr 30 min with a connection; lands too early for this plan (it is built on an evening arrival).",
+     "he": "יקרה ב-71 €; 9 שע׳ 30 דק׳ עם קונקשן; נוחתת מוקדם מדי לתוכנית (שבנויה על נחיתה בערב)."
     },
     "best": false
    },
    {
     "what": {
-     "en": "ITA AZ 807 + AZ 572 · 14:30 → 10:05 (+1) · 1 stop ",
-     "he": "ITA AZ 807 + AZ 572 · 14:30 → 10:05 (+1) · עצירה ב"
+     "en": "Aegean A3 929 + A3 850 · 05:00 → 10:20 · 1 stop in ATH",
+     "he": "אגיאן A3 929 + A3 850 · 05:00 → 10:20 · עצירה ב-ATH"
     },
     "when": {
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 826,
+    "price_eur": 1192,
     "note": {
-     "en": "€21 more; 20 hr 35 min with a connection; arrives the next day.",
-     "he": "יקרה ב-21 €; 20 שע׳ 35 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€374 more; 6 hr 20 min with a connection; lands too early for this plan (it is built on an evening arrival).",
+     "he": "יקרה ב-374 €; 6 שע׳ 20 דק׳ עם קונקשן; נוחתת מוקדם מדי לתוכנית (שבנויה על נחיתה בערב)."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Lufthansa LH 691 + LH 1186 · 04:45 → 10:35 · 1 stop in FRA",
+     "he": "לופטהנזה LH 691 + LH 1186 · 04:45 → 10:35 · עצירה ב-FRA"
+    },
+    "when": {
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
+    },
+    "price_eur": 1360,
+    "note": {
+     "en": "€542 more; 6 hr 50 min with a connection; lands too early for this plan (it is built on an evening arrival).",
+     "he": "יקרה ב-542 €; 6 שע׳ 50 דק׳ עם קונקשן; נוחתת מוקדם מדי לתוכנית (שבנויה על נחיתה בערב)."
     },
     "best": false
    }
@@ -676,81 +596,113 @@
   "return_options": [
    {
     "what": {
-     "en": "Iberia IB 628 + IB 1873 · 11:55 → 23:20 · 1 stop ",
-     "he": "Iberia IB 628 + IB 1873 · 11:55 → 23:20 · עצירה ב"
+     "en": "Iberia IB 628 + IB 1873 · 11:55 → 23:20 · 1 stop in MAD",
+     "he": "איבריה IB 628 + IB 1873 · 11:55 → 23:20 · עצירה ב-MAD"
     },
     "when": {
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 800,
+    "price_eur": 796,
     "note": {
-     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
-     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+     "en": "Chosen: the cheapest flight that fits the plan (flight + estimated bags).",
+     "he": "נבחרה: הזולה ביותר שמתאימה לתוכנית (טיסה + הערכת כבודה)."
     },
     "best": true
    },
    {
     "what": {
-     "en": "SWISS LX 256 · 22:40 → 03:35 (+1) · nonstop",
-     "he": "סוויס LX 256 · 22:40 → 03:35 (+1) · ישירה"
+     "en": "Aegean A3 851 + A3 926 · 11:15 → 19:00 · 1 stop in ATH",
+     "he": "אגיאן A3 851 + A3 926 · 11:15 → 19:00 · עצירה ב-ATH"
     },
     "when": {
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 1046,
+    "price_eur": 961,
     "note": {
-     "en": "€246 more; arrives the next day.",
-     "he": "יקרה ב-246 €; נוחתת למחרת."
+     "en": "€165 more; 6 hr 45 min with a connection.",
+     "he": "יקרה ב-165 €; 6 שע׳ 45 דק׳ עם קונקשן."
     },
     "best": false
    },
    {
     "what": {
-     "en": "SWISS  · 11:50 → 17:00 · nonstop",
-     "he": "סוויס  · 11:50 → 17:00 · ישירה"
+     "en": "Lufthansa LH 1187 + LH 694 · 11:20 → 19:10 · 1 stop in FRA",
+     "he": "לופטהנזה LH 1187 + LH 694 · 11:20 → 19:10 · עצירה ב-FRA"
     },
     "when": {
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 1402,
+    "price_eur": 1088,
     "note": {
-     "en": "€602 more.",
-     "he": "יקרה ב-602 €."
+     "en": "€292 more; 6 hr 50 min with a connection.",
+     "he": "יקרה ב-292 €; 6 שע׳ 50 דק׳ עם קונקשן."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Iberia IB 634 + IB 1873 · 07:30 → 23:20 · 1 stop ",
-     "he": "Iberia IB 634 + IB 1873 · 07:30 → 23:20 · עצירה ב"
+     "en": "SWISS LX 252 · 11:50 → 17:00 · nonstop",
+     "he": "סוויס LX 252 · 11:50 → 17:00 · ישירה"
     },
     "when": {
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 800,
+    "price_eur": 1386,
     "note": {
-     "en": "Same price; 14 hr 50 min with a connection.",
-     "he": "אותו מחיר; 14 שע׳ 50 דק׳ עם קונקשן."
+     "en": "€590 more.",
+     "he": "יקרה ב-590 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Aegean A3 853 + A3 928 · 19:00 → 02:45 (+1) · 1 stop ",
-     "he": "אגיאן A3 853 + A3 928 · 19:00 → 02:45 (+1) · עצירה ב"
+     "en": "Lufthansa LH 2367 + LH 680 · 09:25 → 16:00 · 1 stop in MUC",
+     "he": "לופטהנזה LH 2367 + LH 680 · 09:25 → 16:00 · עצירה ב-MUC"
     },
     "when": {
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 971,
+    "price_eur": 1412,
     "note": {
-     "en": "€171 more; 6 hr 45 min with a connection; arrives the next day.",
-     "he": "יקרה ב-171 €; 6 שע׳ 45 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€616 more; 5 hr 35 min with a connection.",
+     "he": "יקרה ב-616 €; 5 שע׳ 35 דק׳ עם קונקשן."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "El Al LY 348 · 12:30 → 17:25 · nonstop",
+     "he": "אל על LY 348 · 12:30 → 17:25 · ישירה"
+    },
+    "when": {
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
+    },
+    "price_eur": 2443,
+    "note": {
+     "en": "€1647 more.",
+     "he": "יקרה ב-1647 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 853 + A3 928 · 19:00 → 02:45 (+1) · 1 stop in ATH",
+     "he": "אגיאן A3 853 + A3 928 · 19:00 → 02:45 (+1) · עצירה ב-ATH"
+    },
+    "when": {
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
+    },
+    "price_eur": 961,
+    "note": {
+     "en": "€165 more; 6 hr 45 min with a connection; arrives the next day.",
+     "he": "יקרה ב-165 €; 6 שע׳ 45 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    }
@@ -761,11 +713,37 @@
    "he": "כללי הכבודה משתנים לפי תעריף וחברה; ל-2 המזוודות ו-2 הטרולים אני מניח כ-160 € לכיוון (הערכה – לבדוק בתנאי התעריף בזמן ההזמנה). סה\"כ כ-320 €."
   },
   "note": {
-   "en": "Flight prices are from 9 Nov 2026 (Google Flights, total for 2 adults + 2 children, cheapest fare, bags not included). On 19 Nov 2026 Google did not answer automated searches for this route, so they could not be re-checked – look at them again before booking.",
-   "he": "מחירי הטיסות הם מ-9.11.2026 (Google Flights, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה). ב-19.11.2026 גוגל לא ענתה לחיפושים אוטומטיים בקו הזה, ולכן לא נבדקו מחדש – כדאי לבדוק אותם שוב לפני ההזמנה."
+   "en": "Live Google Flights prices found 19 Nov 2026, total for 2 adults + 2 children, cheapest fare, bags not included. The options are the ones on Google's first results page for each date; flights with more than one stop are left out.",
+   "he": "מחירים חיים מ-Google Flights מ-19.11.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה. האפשרויות הן אלה שמופיעות בעמוד התוצאות הראשון של גוגל לכל תאריך; טיסות עם יותר מעצירה אחת לא נכללו."
   }
  },
- "date_options": [],
+ "date_options": [
+  {
+   "total_eur": 4719.35,
+   "plan": "eve",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 818,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 459 + A3 448",
+    "dep": "07:15",
+    "arr": "19:45"
+   },
+   "back": {
+    "eur": 796,
+    "bags_eur": 160,
+    "airline": "Iberia",
+    "flight": "IB 628 + IB 1873",
+    "dep": "11:55",
+    "arr": "23:20"
+   },
+   "hotels_eur": 2057.35,
+   "car_eur": 728,
+   "chosen": true
+  }
+ ],
  "airports": {
   "ZRH": {
    "name": "Zurich Airport",
@@ -2261,8 +2239,8 @@
    "overnight": "hotel_schluchsee",
    "plan": [
     {
-     "en": "05:30 Aegean A3 457 + A3 448 from TLV, landing at ZRH 19:45.",
-     "he": "05:30 אגיאן A3 457 + A3 448 מנתב\"ג, נחיתה בציריך ב-19:45.",
+     "en": "07:15 Aegean A3 459 + A3 448 from TLV, landing at ZRH 19:45.",
+     "he": "07:15 אגיאן A3 459 + A3 448 מנתב\"ג, נחיתה בציריך ב-19:45.",
      "flight": "out"
     },
     {
@@ -5615,11 +5593,11 @@
   "lines": [
    {
     "key": "flights",
-    "eur": 1605,
+    "eur": 1614,
     "status": "live",
     "label": {
-     "en": "Flights – Aegean A3 457 + A3 448 + Iberia IB 628 + IB 1873, 4 passengers",
-     "he": "טיסות – אגיאן A3 457 + A3 448 + Iberia IB 628 + IB 1873, 4 נוסעים"
+     "en": "Flights – Aegean A3 459 + A3 448 + Iberia IB 628 + IB 1873, 4 passengers",
+     "he": "טיסות – אגיאן A3 459 + A3 448 + איבריה IB 628 + IB 1873, 4 נוסעים"
     }
    },
    {
@@ -5713,8 +5691,8 @@
     }
    }
   ],
-  "total_eur": 5697.35,
-  "live_part_eur": 3662.35,
+  "total_eur": 5706.35,
+  "live_part_eur": 3671.35,
   "attractions_local": 840.0,
   "fuel_km": 745
  },
@@ -5722,7 +5700,7 @@
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Germany – Black Forest v3 research · hotels checked 19 Nov 2026, flights 9 Nov 2026 · awaiting your approval",
+   "eyebrow": "Germany – Black Forest v3 research · prices checked 19 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -5782,7 +5760,7 @@
    "checked": "CHECKED",
    "mixed": "MIXED",
    "photo_by": "Photo",
-   "legend": "LIVE = live price (hotels 19 Nov 2026, flights 9 Nov 2026; ratings Oct–Nov 2026) · EST = estimate · CHECKED = official or 2026 ticket price. EUR.",
+   "legend": "LIVE = live price found 19 Nov 2026 (ratings: Oct–Nov 2026) · EST = estimate · CHECKED = official or 2026 ticket price. EUR.",
    "version": "Version",
    "book": "Book on Booking.com",
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
@@ -5799,7 +5777,7 @@
    "taxi_note": "Taxi leg (no rental car).",
    "no_drive_air": "Short walk or hotel shuttle from the terminal.",
    "cmp_item": "Item",
-   "dates2": "Dates and flights compared – 6 cheapest of all combinations (flights + estimated bags, hotels with free cancellation, car)",
+   "dates2": "Dates compared on 19 Nov 2026 (flights that fit the plan + estimated bags, hotels with free cancellation, car)",
    "start": "Dates",
    "airport_n": "Airport night",
    "lipno_n": "Lipno 4 nights",
@@ -5815,7 +5793,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "גרמניה – היער השחור גרסה 3 · מלונות נבדקו 19.11.2026, טיסות 9.11.2026 · ממתין לאישורך",
+   "eyebrow": "גרמניה – היער השחור גרסה 3 · מחירים נבדקו 19.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -5875,7 +5853,7 @@
    "checked": "נבדק",
    "mixed": "משולב",
    "photo_by": "צילום",
-   "legend": "חי = מחיר חי (מלונות 19.11.2026, טיסות 9.11.2026; דירוגים אוקטובר–נובמבר 2026) · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו.",
+   "legend": "חי = מחיר חי מ-19.11.2026 (דירוגים: אוקטובר–נובמבר 2026) · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו.",
    "version": "גרסה",
    "book": "הזמנה ב-Booking.com",
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
@@ -5892,7 +5870,7 @@
    "taxi_note": "נסיעה במונית (בלי רכב שכור).",
    "no_drive_air": "הליכה קצרה או שאטל המלון מהטרמינל.",
    "cmp_item": "פריט",
-   "dates2": "השוואת תאריכים וטיסות – 6 הזולים מכל הצירופים (טיסות + הערכת כבודה, מלונות עם ביטול חינם, רכב)",
+   "dates2": "השוואת תאריכים מ-19.11.2026 (טיסות שמתאימות לתוכנית + הערכת כבודה, מלונות עם ביטול חינם, רכב)",
    "start": "תאריכים",
    "airport_n": "לילה בשדה",
    "lipno_n": "ליפנו 4 לילות",

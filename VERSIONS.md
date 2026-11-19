@@ -53,7 +53,7 @@ Older versions stay in their folders (`v2`…`v6/`, `hu/v1`, `hu/v2`, `pl/v1`…
 
 ## Price update, 19 Nov 2026 (all in the app)
 
-On 19 Nov 2026 every price was checked again: hotels on Booking.com for every start date 14–22 Aug (free cancellation, air-conditioned), the alternatives of every hotel, and flights on Google Flights. Plans, places and dates did not change. The one flight that changed is the Czech return: the TAROM connection rose from €719 to €1,111, so the Smartwings nonstop at 12:45 (€916) is now the cheapest one that fits. Flights were re-priced for the dates of each plan, except Slovenia and the Black Forest (Google did not answer for those routes; their flight prices are still the ones of 9 Nov and the pages say so); the comparison of other start dates was repeated for hotels only, because Google limited automated flight searches that day.
+On 19 Nov 2026 every price was checked again: hotels on Booking.com for every start date 14–22 Aug (free cancellation, air-conditioned), the alternatives of every hotel, and flights on Google Flights. Plans, places and dates did not change. The one flight that changed is the Czech return: the TAROM connection rose from €719 to €1,111, so the Smartwings nonstop at 12:45 (€916) is now the cheapest one that fits. Flights were re-priced for the dates of each plan, except Slovenia (Google did not answer for those routes; their flight prices are still the ones of 9 Nov and the pages say so); the comparison of other start dates was repeated for hotels only, because Google limited automated flight searches that day.
 
 | Destination | Version | Dates | Folder | Flights (out · back) | Estimated total | Before |
 |---|---|---|---|---|---|---|
@@ -63,7 +63,7 @@ On 19 Nov 2026 every price was checked again: hotels on Booking.com for every st
 | Romania | v5 | Thu 19 – Sat 28 Aug 2027 | `ro/v5/` | W4 3254 16:45 €720 · RO 155 20:45 €798 | about €4,424 | v4: €4,242 |
 | Slovenia | v4 | Sun 15 – Tue 24 Aug 2027 | `si/v4/` | LH 695 + LH 1462 08:00 €1,015 · A3 791 + A3 926 09:20 €984 | about €5,286 | v3: €5,156 |
 | Georgia | v4 | Sun 15 – Tue 24 Aug 2027 | `ge/v4/` | 6H 891 19:40 €925 · A3 897 + A3 924 04:35 €795 | about €4,035 | v3: €4,179 |
-| Black Forest | v3 | Sun 15 – Tue 24 Aug 2027 | `de/v3/` | A3 457 + A3 448 05:30 €805 · IB 628 + IB 1873 11:55 €800 | about €5,697 | v2: €5,697 |
+| Black Forest | v3 | Sun 15 – Tue 24 Aug 2027 | `de/v3/` | A3 459 + A3 448 07:15 €818 · IB 628 + IB 1873 11:55 €796 | about €5,706 | v2: €5,697 |
 
 Also new in these versions: the taxi notes follow the real car days (the Black Forest page no longer shows "taxi" on days with the rental car), the Black Forest flight line names Zurich as the landing city, and the pages are now produced by the scripts in `tools/` (see `tools/README.md`); the price snapshot is in `tools/data/2026-11-19/`.
 

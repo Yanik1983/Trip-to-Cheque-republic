@@ -195,5 +195,32 @@
    {"price": 2368, "stops": 1, "airline": "British Airways", "fn": "BA 405 + BA 890", "dep": "06:00", "arr": "05:35", "plus": 1, "dur": 1355, "via": ["LHR"], "lay": [715]},
    {"price": 4326, "stops": 1, "airline": "LOT", "fn": "LO 152 + LO 723", "dep": "05:05", "arr": "03:10", "plus": 1, "dur": 1265, "via": ["WAW"], "lay": [800]},
    {"price": 6262, "stops": 1, "airline": "LOT", "fn": "LO 156 + LO 723", "dep": "10:45", "arr": "03:10", "plus": 1, "dur": 925, "via": ["WAW"], "lay": [465]}
+ ]},
+ "TLV-ZRH_0815": {"from": "TLV", "to": "ZRH", "date": "2027-08-15", "pax": 4, "fetched": "2026-11-19T14:35Z", "full": false, "flights": [
+   {"price": 818, "stops": 1, "airline": "Aegean", "fn": "A3 459 + A3 448", "dep": "07:15", "arr": "19:45", "plus": 0, "dur": 810, "via": ["HER"], "lay": [520]},
+   {"price": 833, "stops": 1, "airline": "ITA", "fn": "AZ 807 + AZ 572", "dep": "14:30", "arr": "10:05", "plus": 1, "dur": 1235, "via": ["FCO"], "lay": [915]},
+   {"price": 888, "stops": 2, "airline": "ITA and Lufthansa", "fn": "AZ 815 + LH 233 + LH 1194", "dep": "08:00", "arr": "17:25", "plus": 0, "dur": 625, "via": ["FCO", "FRA"], "lay": [155, 65]},
+   {"price": 889, "stops": 1, "airline": "Iberia", "fn": "IB 1874 + IB 629", "dep": "05:30", "arr": "14:00", "plus": 0, "dur": 570, "via": ["MAD"], "lay": [105]},
+   {"price": 1192, "stops": 1, "airline": "Aegean", "fn": "A3 929 + A3 850", "dep": "05:00", "arr": "10:20", "plus": 0, "dur": 380, "via": ["ATH"], "lay": [80]},
+   {"price": 1360, "stops": 1, "airline": "Lufthansa", "fn": "LH 691 + LH 1186", "dep": "04:45", "arr": "10:35", "plus": 0, "dur": 410, "via": ["FRA"], "lay": [75]},
+   {"price": 1360, "stops": 1, "airline": "Lufthansa", "fn": "LH 695 + LH 1190", "dep": "08:00", "arr": "13:55", "plus": 0, "dur": 415, "via": ["FRA"], "lay": [80]},
+   {"price": 1565, "stops": 0, "airline": "SWISS", "fn": "LX 257", "dep": "04:50", "arr": "08:10", "plus": 0, "dur": 260, "via": [], "lay": []},
+   {"price": 1565, "stops": 0, "airline": "SWISS", "fn": "LX 253", "dep": "18:15", "arr": "21:35", "plus": 0, "dur": 260, "via": [], "lay": []},
+   {"price": 1847, "stops": 1, "airline": "Austrian", "fn": "OS 84 + OS 135", "dep": "06:00", "arr": "11:00", "plus": 0, "dur": 360, "via": ["VIE"], "lay": [50]},
+   {"price": 2410, "stops": 0, "airline": "El Al", "fn": "LY 343", "dep": "16:35", "arr": "19:55", "plus": 0, "dur": 260, "via": [], "lay": []},
+   {"price": 3130, "stops": 0, "airline": "El Al", "fn": "LY 347", "dep": "08:00", "arr": "11:20", "plus": 0, "dur": 260, "via": [], "lay": []}
+ ]},
+ "ZRH-TLV_0824": {"from": "ZRH", "to": "TLV", "date": "2027-08-24", "pax": 4, "fetched": "2026-11-19T14:41Z", "full": false, "flights": [
+   {"price": 796, "stops": 1, "airline": "Iberia", "fn": "IB 628 + IB 1873", "dep": "11:55", "arr": "23:20", "plus": 0, "dur": 625, "via": ["MAD"], "lay": [190]},
+   {"price": 961, "stops": 1, "airline": "Aegean", "fn": "A3 853 + A3 928", "dep": "19:00", "arr": "02:45", "plus": 1, "dur": 405, "via": ["ATH"], "lay": [125]},
+   {"price": 961, "stops": 1, "airline": "Aegean", "fn": "A3 851 + A3 926", "dep": "11:15", "arr": "19:00", "plus": 0, "dur": 405, "via": ["ATH"], "lay": [130]},
+   {"price": 1034, "stops": 0, "airline": "SWISS", "fn": "LX 256", "dep": "22:40", "arr": "03:35", "plus": 1, "dur": 235, "via": [], "lay": []},
+   {"price": 1039, "stops": 1, "airline": "ITA", "fn": "AZ 573 + AZ 810", "dep": "19:05", "arr": "03:10", "plus": 1, "dur": 425, "via": ["FCO"], "lay": [135]},
+   {"price": 1041, "stops": 1, "airline": "SWISS and Brussels Airlines", "fn": "LX 788 + SN 3293", "dep": "17:15", "arr": "01:55", "plus": 1, "dur": 460, "via": ["BRU"], "lay": [110]},
+   {"price": 1088, "stops": 1, "airline": "Lufthansa", "fn": "LH 1187 + LH 694", "dep": "11:20", "arr": "19:10", "plus": 0, "dur": 410, "via": ["FRA"], "lay": [90]},
+   {"price": 1386, "stops": 0, "airline": "SWISS", "fn": "LX 252", "dep": "11:50", "arr": "17:00", "plus": 0, "dur": 250, "via": [], "lay": []},
+   {"price": 1412, "stops": 1, "airline": "Lufthansa", "fn": "LH 2367 + LH 680", "dep": "09:25", "arr": "16:00", "plus": 0, "dur": 335, "via": ["MUC"], "lay": [50]},
+   {"price": 2443, "stops": 0, "airline": "El Al", "fn": "LY 348", "dep": "12:30", "arr": "17:25", "plus": 0, "dur": 235, "via": [], "lay": []},
+   {"price": 2443, "stops": 0, "airline": "El Al", "fn": "LY 344", "dep": "21:15", "arr": "02:10", "plus": 1, "dur": 235, "via": [], "lay": []}
  ]}
 }
