@@ -25,11 +25,11 @@
  },
  "variant": "eve",
  "version": {
-  "id": "v3",
-  "date": "2026-11-09",
+  "id": "v4",
+  "date": "2026-11-19",
   "label": {
-   "en": "Georgia v3",
-   "he": "גאורגיה גרסה 3"
+   "en": "Georgia v4",
+   "he": "גאורגיה גרסה 4"
   }
  },
  "taxi_days": [
@@ -38,24 +38,16 @@
  "car_km": 344.5,
  "changes": [
   {
-   "en": "What changed in v3: the plan is now kids-first. Every full day has at least two activities for 5- and 7-year-olds: Borjomi park (cable car, Ferris wheel, rope course), Bakuriani (park, Didveli gondola and alpine coaster), Likani and the sulfur pools, Uplistsikhe tunnels plus Rike Park playground and cable car, Lisi Lake boats and the Mushtaidi children's railway, Vake Park, Turtle Lake rowing boats and Mtatsminda, and the new Tbilisi Zoo with Gino water park. The baths and the ethnography museum were dropped; Mtskheta and Rabati are short optional stops. Same dates, hotels and flights as v2.",
-   "he": "מה השתנה בגרסה 3: התוכנית בנויה עכשיו קודם כול לילדים. בכל יום מלא יש לפחות שתי פעילויות לילדים בני 5 ו-7: פארק בורג'ומי (רכבל, גלגל ענק, מסלול חבלים), בקוריאני (פארק, גונדולת דידוולי ורכבת הרים אלפינית), ליקני ובריכות הגופרית, מנהרות אוּפליסציכה ואחריהן מגרש המשחקים והרכבל בפארק ריקה, סירות באגם ליסי ורכבת הילדים מושטאידי, פארק וקה, סירות משוטים באגם הצב ומצטמינדה, וגן החיות החדש של טביליסי עם פארק המים גינו. המרחצאות ומוזיאון האתנוגרפיה הוסרו; מצחטה ורבאטי נשארו כעצירות קצרות אופציונליות. אותם תאריכים, מלונות וטיסות כמו בגרסה 2."
+   "en": "What changed in v4: every price was re-checked on 19 Nov 2026 – flights on Google Flights, hotels on Booking.com. Outbound: the same Israir Airlines 6H 891 19:40→23:15, now €925 (€49 more than on 9 Nov). Return: the same Aegean A3 897 + A3 924 04:35→12:50, now €795 (€1 more than on 9 Nov). Hotels (the same ones, free cancellation, air-conditioned): €1,437 → €1,243 (Ramada by Wyndham Tbilisi Old City (night 1) €161 → €117; Ramada by Wyndham Tbilisi Old City (nights 6–9) €615 → €454). The estimated total is now about €4,035 (it was €4,179). The plan itself – dates, places and days – is the same.",
+   "he": "מה השתנה בגרסה 4: כל המחירים נבדקו מחדש ב-19.11.2026 – טיסות ב-Google Flights, מלונות ב-Booking.com. הלוך: אותה טיסה, ישראייר 6H 891 19:40←23:15, עכשיו 925 € (49 € יותר מאשר ב-9.11). חזור: אותה טיסה, אגיאן A3 897 + A3 924 04:35←12:50, עכשיו 795 € (1 € יותר מאשר ב-9.11). מלונות (אותם מלונות, ביטול חינם, ממוזגים): 1,437 € ← 1,243 € (Ramada by Wyndham Tbilisi Old City (night 1) 161 € ← 117 €; Ramada by Wyndham Tbilisi Old City (nights 6–9) 615 € ← 454 €). הסכום המשוער הוא עכשיו כ-4,035 € (היה 4,179 €). התוכנית עצמה – תאריכים, מקומות וימים – לא השתנתה."
   },
   {
-   "en": "Dates Sun 15 – Tue 24 Aug 2027 (evening arrival, late drive to the base): the cheapest of 12 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,747).",
-   "he": "תאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס): הזול מבין 12 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-3,747 €)."
+   "en": "Dates Sun 15 – Tue 24 Aug 2027 (evening arrival, late drive to the base) are kept: the flights that fit the plan, estimated bags, hotels with free cancellation and the car together ≈ €3,623. Hotels were re-priced for every start date 14–22 Aug, but Google limited automated flight searches on 19 Nov 2026, so flights could be re-priced only for these dates and the date comparison of 9 Nov was not repeated. A morning arrival on the same day would cost €583 more for the flight (El Al LY 5107 05:30→09:05, €1,508).",
+   "he": "התאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס) נשארים: הטיסות שמתאימות לתוכנית, הערכת כבודה, מלונות עם ביטול חינם והרכב יחד כ-3,623 €. המלונות תומחרו מחדש לכל תאריך התחלה 14–22 באוגוסט, אבל גוגל הגבילה חיפושי טיסות אוטומטיים ב-19.11.2026, ולכן טיסות תומחרו רק לתאריכים האלה והשוואת התאריכים מ-9.11 לא חזרה על עצמה. נחיתה בבוקר באותו יום הייתה מייקרת את הטיסה ב-583 € (אל על LY 5107 05:30←09:05, 1,508 €)."
   },
   {
-   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Israir Airlines 6H 891 19:40→23:15; back: Aegean A3 897 + A3 924 04:35→12:50.",
-   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: ישראייר 6H 891 19:40←23:15; חזור: אגיאן A3 897 + A3 924 04:35←12:50."
-  },
-  {
-   "en": "Next best: Tue 17 – Thu 26 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €3,805 (+€58); back Aegean 04:35→12:50.",
-   "he": "הבא בתור: ג' 17 – ה' 26 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-3,805 € (+58 €); חזור אגיאן 04:35←12:50."
-  },
-  {
-   "en": "Next best: Wed 18 – Fri 27 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €3,822 (+€74); back Israir Airlines 02:05→03:45.",
-   "he": "הבא בתור: ד' 18 – ו' 27 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-3,822 € (+74 €); חזור ישראייר 02:05←03:45."
+   "en": "Cheapest flights at any time of day, as you asked (at most one stop, no overnight connections). Out: Israir Airlines 6H 891 19:40→23:15; back: Aegean A3 897 + A3 924 04:35→12:50.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (עד עצירה אחת, בלי קונקשן לילי). הלוך: ישראייר 6H 891 19:40←23:15; חזור: אגיאן A3 897 + A3 924 04:35←12:50."
   },
   {
    "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
@@ -95,39 +87,7 @@
      "stops": 0,
      "via": "",
      "next_day": true,
-     "price_eur": 815,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "A3 927 + A3 896@19:55",
-     "fn": "A3 927 + A3 896",
-     "airline": "Aegean",
-     "airline_he": "אגיאן",
-     "dep": "19:55",
-     "arr": "03:45",
-     "duration": "6h 50m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 815,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "OS 82 + OS 907@18:40",
-     "fn": "OS 82 + OS 907",
-     "airline": "Austrian",
-     "airline_he": "אוסטריאן",
-     "dep": "18:40",
-     "arr": "03:55",
-     "duration": "8h 15m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 868,
+     "price_eur": 830,
      "bags_eur": 160,
      "fit": false,
      "default": false
@@ -143,119 +103,39 @@
      "stops": 0,
      "via": "",
      "next_day": false,
-     "price_eur": 876,
+     "price_eur": 925,
      "bags_eur": 160,
      "fit": true,
      "default": true
     },
     {
-     "id": "LH 681 + LH 2558@17:05",
-     "fn": "LH 681 + LH 2558",
-     "airline": "Lufthansa",
-     "airline_he": "לופטהנזה",
-     "dep": "17:05",
+     "id": "OS 82 + OS 907@18:40",
+     "fn": "OS 82 + OS 907",
+     "airline": "Austrian",
+     "airline_he": "אוסטריאן",
+     "dep": "18:40",
      "arr": "03:55",
-     "duration": "9h 50m",
+     "duration": "8h 15m",
      "stops": 1,
-     "via": "",
+     "via": "VIE",
      "next_day": true,
-     "price_eur": 977,
+     "price_eur": 985,
      "bags_eur": 160,
      "fit": false,
      "default": false
     },
     {
-     "id": "LH 683 + LH 2558@07:00",
-     "fn": "LH 683 + LH 2558",
-     "airline": "Lufthansa",
-     "airline_he": "לופטהנזה",
-     "dep": "07:00",
-     "arr": "03:55",
-     "duration": "19h 55m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 1100,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "3F 3874 + 3F 3583@10:40",
-     "fn": "3F 3874 + 3F 3583",
-     "airline": "FLYONE Armenia",
-     "airline_he": "FLYONE Armenia",
-     "dep": "10:40",
-     "arr": "17:40",
-     "duration": "6h",
-     "stops": 1,
-     "via": "",
-     "next_day": false,
-     "price_eur": 1206,
-     "bags_eur": 160,
-     "fit": true,
-     "default": false
-    },
-    {
-     "id": "5F 5510 + 5F 5581@19:30",
-     "fn": "5F 5510 + 5F 5581",
-     "airline": "FLYONE",
-     "airline_he": "FLYONE",
-     "dep": "19:30",
-     "arr": "01:10",
-     "duration": "28h 40m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 1279,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "A3 929 + A3 896@05:00",
-     "fn": "A3 929 + A3 896",
+     "id": "A3 927 + A3 896@19:55",
+     "fn": "A3 927 + A3 896",
      "airline": "Aegean",
      "airline_he": "אגיאן",
-     "dep": "05:00",
+     "dep": "19:55",
      "arr": "03:45",
-     "duration": "21h 45m",
+     "duration": "6h 50m",
      "stops": 1,
-     "via": "",
+     "via": "ATH",
      "next_day": true,
-     "price_eur": 1358,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "J2 270 + J2 409@14:40",
-     "fn": "J2 270 + J2 409",
-     "airline": "Azerbaijan Airlines",
-     "airline_he": "Azerbaijan Airlines",
-     "dep": "14:40",
-     "arr": "01:00",
-     "duration": "9h 20m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 1370,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "J2 270 + J2 403@14:40",
-     "fn": "J2 270 + J2 403",
-     "airline": "Azerbaijan Airlines",
-     "airline_he": "Azerbaijan Airlines",
-     "dep": "14:40",
-     "arr": "20:20",
-     "duration": "28h 40m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 1418,
+     "price_eur": 1021,
      "bags_eur": 160,
      "fit": false,
      "default": false
@@ -271,39 +151,151 @@
      "stops": 0,
      "via": "",
      "next_day": true,
-     "price_eur": 1481,
+     "price_eur": 1170,
      "bags_eur": 160,
      "fit": false,
      "default": false
     },
     {
-     "id": "@05:30",
-     "fn": "",
-     "airline": "El Al",
-     "airline_he": "אל על",
-     "dep": "05:30",
-     "arr": "09:05",
-     "duration": "2h 35m",
-     "stops": 0,
-     "via": "",
-     "next_day": false,
-     "price_eur": 1481,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "@13:50",
-     "fn": "",
-     "airline": "Aegean",
-     "airline_he": "אגיאן",
-     "dep": "13:50",
-     "arr": "03:45",
-     "duration": "12h 55m",
+     "id": "3F 3874 + 3F 3583@10:40",
+     "fn": "3F 3874 + 3F 3583",
+     "airline": "FLYONE Armenia",
+     "airline_he": "FLYONE Armenia",
+     "dep": "10:40",
+     "arr": "17:40",
+     "duration": "6h",
      "stops": 1,
-     "via": "",
+     "via": "EVN",
+     "next_day": false,
+     "price_eur": 1205,
+     "bags_eur": 160,
+     "fit": true,
+     "default": false
+    },
+    {
+     "id": "3F 3874 + 3F 3583@10:40→09:40+1",
+     "fn": "3F 3874 + 3F 3583",
+     "airline": "FLYONE Armenia",
+     "airline_he": "FLYONE Armenia",
+     "dep": "10:40",
+     "arr": "09:40",
+     "duration": "22h",
+     "stops": 1,
+     "via": "EVN",
      "next_day": true,
-     "price_eur": 1491,
+     "price_eur": 1205,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "OS 80 + OS 907@15:30",
+     "fn": "OS 80 + OS 907",
+     "airline": "Austrian",
+     "airline_he": "אוסטריאן",
+     "dep": "15:30",
+     "arr": "03:55",
+     "duration": "11h 25m",
+     "stops": 1,
+     "via": "VIE",
+     "next_day": true,
+     "price_eur": 1249,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 681 + LH 2558@17:05",
+     "fn": "LH 681 + LH 2558",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "17:05",
+     "arr": "03:55",
+     "duration": "9h 50m",
+     "stops": 1,
+     "via": "MUC",
+     "next_day": true,
+     "price_eur": 1263,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 683 + LH 2558@07:00",
+     "fn": "LH 683 + LH 2558",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "07:00",
+     "arr": "03:55",
+     "duration": "19h 55m",
+     "stops": 1,
+     "via": "MUC",
+     "next_day": true,
+     "price_eur": 1263,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "5F 5510 + 5F 5581@19:30",
+     "fn": "5F 5510 + 5F 5581",
+     "airline": "FLYONE",
+     "airline_he": "FLYONE",
+     "dep": "19:30",
+     "arr": "01:10",
+     "duration": "28h 40m",
+     "stops": 1,
+     "via": "RMO",
+     "next_day": true,
+     "price_eur": 1278,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "J2 270 + J2 409@14:40",
+     "fn": "J2 270 + J2 409",
+     "airline": "Azerbaijan Airlines",
+     "airline_he": "Azerbaijan Airlines",
+     "dep": "14:40",
+     "arr": "01:00",
+     "duration": "9h 20m",
+     "stops": 1,
+     "via": "GYD",
+     "next_day": true,
+     "price_eur": 1390,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "J2 270 + J2 405@14:40",
+     "fn": "J2 270 + J2 405",
+     "airline": "Azerbaijan Airlines",
+     "airline_he": "Azerbaijan Airlines",
+     "dep": "14:40",
+     "arr": "08:40",
+     "duration": "17h",
+     "stops": 1,
+     "via": "GYD",
+     "next_day": true,
+     "price_eur": 1390,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "J2 270 + J2 401@14:40",
+     "fn": "J2 270 + J2 401",
+     "airline": "Azerbaijan Airlines",
+     "airline_he": "Azerbaijan Airlines",
+     "dep": "14:40",
+     "arr": "10:40",
+     "duration": "19h",
+     "stops": 1,
+     "via": "GYD",
+     "next_day": true,
+     "price_eur": 1390,
      "bags_eur": 160,
      "fit": false,
      "default": false
@@ -319,9 +311,9 @@
      "arr": "12:50",
      "duration": "9h 15m",
      "stops": 1,
-     "via": "",
+     "via": "ATH",
      "next_day": false,
-     "price_eur": 794,
+     "price_eur": 795,
      "bags_eur": 160,
      "fit": true,
      "default": true
@@ -337,73 +329,9 @@
      "stops": 0,
      "via": "",
      "next_day": false,
-     "price_eur": 940,
+     "price_eur": 957,
      "bags_eur": 160,
      "fit": true,
-     "default": false
-    },
-    {
-     "id": "A3 897 + A3 926@04:35",
-     "fn": "A3 897 + A3 926",
-     "airline": "Aegean",
-     "airline_he": "אגיאן",
-     "dep": "04:35",
-     "arr": "19:00",
-     "duration": "15h 25m",
-     "stops": 1,
-     "via": "",
-     "next_day": false,
-     "price_eur": 977,
-     "bags_eur": 160,
-     "fit": true,
-     "default": false
-    },
-    {
-     "id": "5F 5582 + 5F 5509@02:10",
-     "fn": "5F 5582 + 5F 5509",
-     "airline": "FLYONE",
-     "airline_he": "FLYONE",
-     "dep": "02:10",
-     "arr": "16:40",
-     "duration": "15h 30m",
-     "stops": 1,
-     "via": "",
-     "next_day": false,
-     "price_eur": 1253,
-     "bags_eur": 160,
-     "fit": true,
-     "default": false
-    },
-    {
-     "id": "GQ 785 + GQ 720@03:45",
-     "fn": "GQ 785 + GQ 720",
-     "airline": "SKY express",
-     "airline_he": "SKY express",
-     "dep": "03:45",
-     "arr": "22:30",
-     "duration": "19h 45m",
-     "stops": 1,
-     "via": "",
-     "next_day": false,
-     "price_eur": 1348,
-     "bags_eur": 160,
-     "fit": true,
-     "default": false
-    },
-    {
-     "id": "3F 3584 + 3F 3873@10:40",
-     "fn": "3F 3584 + 3F 3873",
-     "airline": "FLYONE Armenia",
-     "airline_he": "FLYONE Armenia",
-     "dep": "10:40",
-     "arr": "09:40",
-     "duration": "24h",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 1440,
-     "bags_eur": 160,
-     "fit": false,
      "default": false
     },
     {
@@ -417,7 +345,7 @@
      "stops": 0,
      "via": "",
      "next_day": false,
-     "price_eur": 1507,
+     "price_eur": 1297,
      "bags_eur": 160,
      "fit": true,
      "default": false
@@ -433,87 +361,23 @@
      "stops": 0,
      "via": "",
      "next_day": false,
-     "price_eur": 1507,
+     "price_eur": 1297,
      "bags_eur": 160,
      "fit": true,
      "default": false
     },
     {
-     "id": "A3 897 + A3 928@04:35",
-     "fn": "A3 897 + A3 928",
-     "airline": "Aegean",
-     "airline_he": "אגיאן",
-     "dep": "04:35",
-     "arr": "02:45",
-     "duration": "23h 10m",
+     "id": "3F 3584 + 3F 3873@10:40",
+     "fn": "3F 3584 + 3F 3873",
+     "airline": "FLYONE Armenia",
+     "airline_he": "FLYONE Armenia",
+     "dep": "10:40",
+     "arr": "09:40",
+     "duration": "24h",
      "stops": 1,
-     "via": "",
+     "via": "EVN",
      "next_day": true,
-     "price_eur": 1596,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "J2 410 + J2 269@02:00",
-     "fn": "J2 410 + J2 269",
-     "airline": "Azerbaijan Airlines",
-     "airline_he": "Azerbaijan Airlines",
-     "dep": "02:00",
-     "arr": "13:40",
-     "duration": "12h 40m",
-     "stops": 1,
-     "via": "",
-     "next_day": false,
-     "price_eur": 2360,
-     "bags_eur": 160,
-     "fit": true,
-     "default": false
-    },
-    {
-     "id": "J2 406 + J2 269@09:40",
-     "fn": "J2 406 + J2 269",
-     "airline": "Azerbaijan Airlines",
-     "airline_he": "Azerbaijan Airlines",
-     "dep": "09:40",
-     "arr": "11:55",
-     "duration": "27h 15m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 2360,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "J2 402 + J2 269@11:40",
-     "fn": "J2 402 + J2 269",
-     "airline": "Azerbaijan Airlines",
-     "airline_he": "Azerbaijan Airlines",
-     "dep": "11:40",
-     "arr": "11:55",
-     "duration": "25h 15m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 2360,
-     "bags_eur": 160,
-     "fit": false,
-     "default": false
-    },
-    {
-     "id": "J2 408 + J2 269@16:40",
-     "fn": "J2 408 + J2 269",
-     "airline": "Azerbaijan Airlines",
-     "airline_he": "Azerbaijan Airlines",
-     "dep": "16:40",
-     "arr": "11:55",
-     "duration": "20h 15m",
-     "stops": 1,
-     "via": "",
-     "next_day": true,
-     "price_eur": 2360,
+     "price_eur": 1361,
      "bags_eur": 160,
      "fit": false,
      "default": false
@@ -527,9 +391,25 @@
      "arr": "11:55",
      "duration": "15h 35m",
      "stops": 1,
-     "via": "",
+     "via": "GYD",
      "next_day": true,
-     "price_eur": 2360,
+     "price_eur": 2362,
+     "bags_eur": 160,
+     "fit": false,
+     "default": false
+    },
+    {
+     "id": "LH 2697 + LH 680@18:15",
+     "fn": "LH 2697 + LH 680",
+     "airline": "Lufthansa",
+     "airline_he": "לופטהנזה",
+     "dep": "18:15",
+     "arr": "16:00",
+     "duration": "22h 45m",
+     "stops": 1,
+     "via": "MUC",
+     "next_day": true,
+     "price_eur": 2646,
      "bags_eur": 160,
      "fit": false,
      "default": false
@@ -559,7 +439,7 @@
     "dep": "19:40",
     "arr": "23:15",
     "duration": "2h 35m",
-    "price_eur": 876
+    "price_eur": 925
    },
    {
     "dir": {
@@ -578,7 +458,7 @@
     "dep": "04:35",
     "arr": "12:50",
     "duration": "9h 15m",
-    "price_eur": 794
+    "price_eur": 795
    }
   ],
   "evening_outbound_options": [
@@ -591,12 +471,28 @@
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 876,
+    "price_eur": 925,
     "note": {
-     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
-     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+     "en": "Chosen: the cheapest flight that fits the plan (flight + estimated bags).",
+     "he": "נבחרה: הזולה ביותר שמתאימה לתוכנית (טיסה + הערכת כבודה)."
     },
     "best": true
+   },
+   {
+    "what": {
+     "en": "FLYONE Armenia 3F 3874 + 3F 3583 · 10:40 → 17:40 · 1 stop in EVN",
+     "he": "FLYONE Armenia 3F 3874 + 3F 3583 · 10:40 → 17:40 · עצירה ב-EVN"
+    },
+    "when": {
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
+    },
+    "price_eur": 1205,
+    "note": {
+     "en": "€280 more; 6 hr with a connection.",
+     "he": "יקרה ב-280 €; 6 שע׳ עם קונקשן."
+    },
+    "best": false
    },
    {
     "what": {
@@ -607,10 +503,42 @@
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 815,
+    "price_eur": 830,
     "note": {
-     "en": "€61 cheaper; arrives the next day.",
-     "he": "זולה ב-61 €; נוחתת למחרת."
+     "en": "€95 cheaper; arrives the next day.",
+     "he": "זולה ב-95 €; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Austrian OS 82 + OS 907 · 18:40 → 03:55 (+1) · 1 stop in VIE",
+     "he": "אוסטריאן OS 82 + OS 907 · 18:40 → 03:55 (+1) · עצירה ב-VIE"
+    },
+    "when": {
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
+    },
+    "price_eur": 985,
+    "note": {
+     "en": "€60 more; 8 hr 15 min with a connection; arrives the next day.",
+     "he": "יקרה ב-60 €; 8 שע׳ 15 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 927 + A3 896 · 19:55 → 03:45 (+1) · 1 stop in ATH",
+     "he": "אגיאן A3 927 + A3 896 · 19:55 → 03:45 (+1) · עצירה ב-ATH"
+    },
+    "when": {
+     "en": "Sun 15 Aug",
+     "he": "א' 15 באוגוסט"
+    },
+    "price_eur": 1021,
+    "note": {
+     "en": "€96 more; 6 hr 50 min with a connection; arrives the next day.",
+     "he": "יקרה ב-96 €; 6 שע׳ 50 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    },
@@ -623,58 +551,26 @@
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 1481,
+    "price_eur": 1170,
     "note": {
-     "en": "€605 more; arrives the next day.",
-     "he": "יקרה ב-605 €; נוחתת למחרת."
+     "en": "€245 more; arrives the next day.",
+     "he": "יקרה ב-245 €; נוחתת למחרת."
     },
     "best": false
    },
    {
     "what": {
-     "en": "El Al  · 05:30 → 09:05 · nonstop",
-     "he": "אל על  · 05:30 → 09:05 · ישירה"
+     "en": "FLYONE Armenia 3F 3874 + 3F 3583 · 10:40 → 09:40 (+1) · 1 stop in EVN",
+     "he": "FLYONE Armenia 3F 3874 + 3F 3583 · 10:40 → 09:40 (+1) · עצירה ב-EVN"
     },
     "when": {
      "en": "Sun 15 Aug",
      "he": "א' 15 באוגוסט"
     },
-    "price_eur": 1481,
+    "price_eur": 1205,
     "note": {
-     "en": "€605 more.",
-     "he": "יקרה ב-605 €."
-    },
-    "best": false
-   },
-   {
-    "what": {
-     "en": "Aegean A3 927 + A3 896 · 19:55 → 03:45 (+1) · 1 stop ",
-     "he": "אגיאן A3 927 + A3 896 · 19:55 → 03:45 (+1) · עצירה ב"
-    },
-    "when": {
-     "en": "Sun 15 Aug",
-     "he": "א' 15 באוגוסט"
-    },
-    "price_eur": 815,
-    "note": {
-     "en": "€61 cheaper; 6 hr 50 min with a connection; arrives the next day.",
-     "he": "זולה ב-61 €; 6 שע׳ 50 דק׳ עם קונקשן; נוחתת למחרת."
-    },
-    "best": false
-   },
-   {
-    "what": {
-     "en": "Austrian OS 82 + OS 907 · 18:40 → 03:55 (+1) · 1 stop ",
-     "he": "אוסטריאן OS 82 + OS 907 · 18:40 → 03:55 (+1) · עצירה ב"
-    },
-    "when": {
-     "en": "Sun 15 Aug",
-     "he": "א' 15 באוגוסט"
-    },
-    "price_eur": 868,
-    "note": {
-     "en": "€8 cheaper; 8 hr 15 min with a connection; arrives the next day.",
-     "he": "זולה ב-8 €; 8 שע׳ 15 דק׳ עם קונקשן; נוחתת למחרת."
+     "en": "€280 more; 22 hr with a connection; arrives the next day.",
+     "he": "יקרה ב-280 €; 22 שע׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    }
@@ -682,17 +578,17 @@
   "return_options": [
    {
     "what": {
-     "en": "Aegean A3 897 + A3 924 · 04:35 → 12:50 · 1 stop ",
-     "he": "אגיאן A3 897 + A3 924 · 04:35 → 12:50 · עצירה ב"
+     "en": "Aegean A3 897 + A3 924 · 04:35 → 12:50 · 1 stop in ATH",
+     "he": "אגיאן A3 897 + A3 924 · 04:35 → 12:50 · עצירה ב-ATH"
     },
     "when": {
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 794,
+    "price_eur": 795,
     "note": {
-     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
-     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+     "en": "Chosen: the cheapest flight that fits the plan (flight + estimated bags).",
+     "he": "נבחרה: הזולה ביותר שמתאימה לתוכנית (טיסה + הערכת כבודה)."
     },
     "best": true
    },
@@ -705,10 +601,10 @@
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 940,
+    "price_eur": 957,
     "note": {
-     "en": "€146 more.",
-     "he": "יקרה ב-146 €."
+     "en": "€162 more.",
+     "he": "יקרה ב-162 €."
     },
     "best": false
    },
@@ -721,10 +617,10 @@
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 1507,
+    "price_eur": 1297,
     "note": {
-     "en": "€713 more.",
-     "he": "יקרה ב-713 €."
+     "en": "€502 more.",
+     "he": "יקרה ב-502 €."
     },
     "best": false
    },
@@ -737,42 +633,58 @@
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 1507,
+    "price_eur": 1297,
     "note": {
-     "en": "€713 more.",
-     "he": "יקרה ב-713 €."
+     "en": "€502 more.",
+     "he": "יקרה ב-502 €."
     },
     "best": false
    },
    {
     "what": {
-     "en": "Aegean A3 897 + A3 926 · 04:35 → 19:00 · 1 stop ",
-     "he": "אגיאן A3 897 + A3 926 · 04:35 → 19:00 · עצירה ב"
+     "en": "FLYONE Armenia 3F 3584 + 3F 3873 · 10:40 → 09:40 (+1) · 1 stop in EVN",
+     "he": "FLYONE Armenia 3F 3584 + 3F 3873 · 10:40 → 09:40 (+1) · עצירה ב-EVN"
     },
     "when": {
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 977,
+    "price_eur": 1361,
     "note": {
-     "en": "€183 more; 15 hr 25 min with a connection.",
-     "he": "יקרה ב-183 €; 15 שע׳ 25 דק׳ עם קונקשן."
+     "en": "€566 more; 24 hr with a connection; arrives the next day.",
+     "he": "יקרה ב-566 €; 24 שע׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    },
    {
     "what": {
-     "en": "FLYONE 5F 5582 + 5F 5509 · 02:10 → 16:40 · 1 stop ",
-     "he": "FLYONE 5F 5582 + 5F 5509 · 02:10 → 16:40 · עצירה ב"
+     "en": "Azerbaijan Airlines J2 404 + J2 269 · 21:20 → 11:55 (+1) · 1 stop in GYD",
+     "he": "Azerbaijan Airlines J2 404 + J2 269 · 21:20 → 11:55 (+1) · עצירה ב-GYD"
     },
     "when": {
      "en": "Tue 24 Aug",
      "he": "ג' 24 באוגוסט"
     },
-    "price_eur": 1253,
+    "price_eur": 2362,
     "note": {
-     "en": "€459 more; 15 hr 30 min with a connection.",
-     "he": "יקרה ב-459 €; 15 שע׳ 30 דק׳ עם קונקשן."
+     "en": "€1567 more; 15 hr 35 min with a connection; arrives the next day.",
+     "he": "יקרה ב-1567 €; 15 שע׳ 35 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Lufthansa LH 2697 + LH 680 · 18:15 → 16:00 (+1) · 1 stop in MUC",
+     "he": "לופטהנזה LH 2697 + LH 680 · 18:15 → 16:00 (+1) · עצירה ב-MUC"
+    },
+    "when": {
+     "en": "Tue 24 Aug",
+     "he": "ג' 24 באוגוסט"
+    },
+    "price_eur": 2646,
+    "note": {
+     "en": "€1851 more; 22 hr 45 min with a connection; arrives the next day.",
+     "he": "יקרה ב-1851 €; 22 שע׳ 45 דק׳ עם קונקשן; נוחתת למחרת."
     },
     "best": false
    }
@@ -783,18 +695,18 @@
    "he": "כללי הכבודה משתנים לפי תעריף וחברה; ל-2 המזוודות ו-2 הטרולים אני מניח כ-160 € לכיוון (הערכה – לבדוק בתנאי התעריף בזמן ההזמנה). סה\"כ כ-320 €."
   },
   "note": {
-   "en": "Live Google Flights prices found 17–18 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included.",
-   "he": "מחירים חיים מ-Google Flights מ-17–18.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה."
+   "en": "Live Google Flights prices found 19 Nov 2026, total for 2 adults + 2 children, cheapest fare, bags not included. The options are the ones on Google's first results page for each date; flights with more than one stop are left out.",
+   "he": "מחירים חיים מ-Google Flights מ-19.11.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה. האפשרויות הן אלה שמופיעות בעמוד התוצאות הראשון של גוגל לכל תאריך; טיסות עם יותר מעצירה אחת לא נכללו."
   }
  },
  "date_options": [
   {
-   "total_eur": 3747.13,
+   "total_eur": 3622.53,
    "plan": "eve",
    "start": "2027-08-15",
    "end": "2027-08-24",
    "out": {
-    "eur": 876,
+    "eur": 925,
     "bags_eur": 160,
     "airline": "Israir Airlines",
     "flight": "6H 891",
@@ -802,291 +714,16 @@
     "arr": "23:15"
    },
    "back": {
-    "eur": 794,
+    "eur": 795,
     "bags_eur": 160,
     "airline": "Aegean",
     "flight": "A3 897 + A3 924",
     "dep": "04:35",
     "arr": "12:50"
    },
-   "hotels_eur": 1437.13,
-   "car_eur": 320,
+   "hotels_eur": 1242.53,
+   "car_eur": 340,
    "chosen": true
-  },
-  {
-   "total_eur": 3805.32,
-   "plan": "eve",
-   "start": "2027-08-17",
-   "end": "2027-08-26",
-   "out": {
-    "eur": 962,
-    "bags_eur": 160,
-    "airline": "Israir Airlines",
-    "flight": "6H 893",
-    "dep": "19:40",
-    "arr": "23:15"
-   },
-   "back": {
-    "eur": 794,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 897 + A3 924",
-    "dep": "04:35",
-    "arr": "12:50"
-   },
-   "hotels_eur": 1409.32,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 3821.55,
-   "plan": "eve",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 912,
-    "bags_eur": 160,
-    "airline": "Israir Airlines",
-    "flight": "6H 891",
-    "dep": "19:40",
-    "arr": "23:15"
-   },
-   "back": {
-    "eur": 862,
-    "bags_eur": 160,
-    "airline": "Israir Airlines",
-    "flight": "6H 896",
-    "dep": "02:05",
-    "arr": "03:45"
-   },
-   "hotels_eur": 1407.55,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 3860.35,
-   "plan": "eve",
-   "start": "2027-08-16",
-   "end": "2027-08-25",
-   "out": {
-    "eur": 944,
-    "bags_eur": 160,
-    "airline": "Israir Airlines",
-    "flight": "6H 897",
-    "dep": "19:40",
-    "arr": "23:15"
-   },
-   "back": {
-    "eur": 858,
-    "bags_eur": 160,
-    "airline": "Israir Airlines",
-    "flight": "6H 894",
-    "dep": "00:20",
-    "arr": "02:00"
-   },
-   "hotels_eur": 1418.35,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 4111.25,
-   "plan": "eve",
-   "start": "2027-08-20",
-   "end": "2027-08-29",
-   "out": {
-    "eur": 1238,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 683 + LH 2696",
-    "dep": "07:00",
-    "arr": "17:10"
-   },
-   "back": {
-    "eur": 822,
-    "bags_eur": 160,
-    "airline": "Israir Airlines",
-    "flight": "6H 894",
-    "dep": "03:35",
-    "arr": "05:15"
-   },
-   "hotels_eur": 1411.25,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 4205.32,
-   "plan": "eve",
-   "start": "2027-08-19",
-   "end": "2027-08-28",
-   "out": {
-    "eur": 833,
-    "bags_eur": 160,
-    "airline": "Israir Airlines",
-    "flight": "6H 891",
-    "dep": "19:40",
-    "arr": "23:15"
-   },
-   "back": {
-    "eur": 1322,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 897 + A3 928",
-    "dep": "04:35",
-    "arr": "02:45"
-   },
-   "hotels_eur": 1410.32,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 4303.08,
-   "plan": "day",
-   "start": "2027-08-17",
-   "end": "2027-08-26",
-   "out": {
-    "eur": 1481,
-    "bags_eur": 160,
-    "airline": "El Al",
-    "flight": "LY 5107",
-    "dep": "05:30",
-    "arr": "09:05"
-   },
-   "back": {
-    "eur": 794,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 897 + A3 924",
-    "dep": "04:35",
-    "arr": "12:50"
-   },
-   "hotels_eur": 1388.08,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 4332.87,
-   "plan": "day",
-   "start": "2027-08-20",
-   "end": "2027-08-29",
-   "out": {
-    "eur": 1481,
-    "bags_eur": 160,
-    "airline": "El Al",
-    "flight": "LY 5107",
-    "dep": "05:30",
-    "arr": "09:05"
-   },
-   "back": {
-    "eur": 822,
-    "bags_eur": 160,
-    "airline": "Israir Airlines",
-    "flight": "6H 894",
-    "dep": "03:35",
-    "arr": "05:15"
-   },
-   "hotels_eur": 1389.87,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 4352.13,
-   "plan": "day",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
-   "out": {
-    "eur": 1481,
-    "bags_eur": 160,
-    "airline": "El Al",
-    "flight": "",
-    "dep": "05:30",
-    "arr": "09:05"
-   },
-   "back": {
-    "eur": 794,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 897 + A3 924",
-    "dep": "04:35",
-    "arr": "12:50"
-   },
-   "hotels_eur": 1437.13,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 4369.31,
-   "plan": "day",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 1481,
-    "bags_eur": 160,
-    "airline": "El Al",
-    "flight": "LY 5107",
-    "dep": "05:30",
-    "arr": "09:05"
-   },
-   "back": {
-    "eur": 862,
-    "bags_eur": 160,
-    "airline": "Israir Airlines",
-    "flight": "6H 896",
-    "dep": "02:05",
-    "arr": "03:45"
-   },
-   "hotels_eur": 1386.31,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 4375.98,
-   "plan": "day",
-   "start": "2027-08-16",
-   "end": "2027-08-25",
-   "out": {
-    "eur": 1481,
-    "bags_eur": 160,
-    "airline": "El Al",
-    "flight": "LY 5107",
-    "dep": "05:30",
-    "arr": "09:05"
-   },
-   "back": {
-    "eur": 858,
-    "bags_eur": 160,
-    "airline": "Israir Airlines",
-    "flight": "6H 894",
-    "dep": "00:20",
-    "arr": "02:00"
-   },
-   "hotels_eur": 1396.98,
-   "car_eur": 320,
-   "chosen": false
-  },
-  {
-   "total_eur": 4831.98,
-   "plan": "day",
-   "start": "2027-08-19",
-   "end": "2027-08-28",
-   "out": {
-    "eur": 1481,
-    "bags_eur": 160,
-    "airline": "El Al",
-    "flight": "LY 5107",
-    "dep": "05:30",
-    "arr": "09:05"
-   },
-   "back": {
-    "eur": 1322,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 897 + A3 928",
-    "dep": "04:35",
-    "arr": "02:45"
-   },
-   "hotels_eur": 1388.98,
-   "car_eur": 320,
-   "chosen": false
   }
  ],
  "airports": {
@@ -1279,9 +916,9 @@
    "checkin": "2027-08-15",
    "checkout": "2027-08-16",
    "nights": 1,
-   "total_eur": 161.49,
+   "total_eur": 117.45,
    "booking_score": 8.4,
-   "booking_reviews": 2086,
+   "booking_reviews": 2077,
    "booking_url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-15&checkout=2027-08-16&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Family room for 4 (king bed + two twin beds), fridge, free parking, 24-hour front desk, kid-friendly buffet; free cancellation. Arrival night only: tell the front desk your landing time (24-hour desk) and ask for a quiet room; next morning (Mon 16 Aug) the rental car is delivered here and you load all the bags for Borjomi. You land at 23:15 on Sun 15 Aug and reach the hotel about 00:15: tell the front desk (24-hour) your landing time.",
@@ -1292,8 +929,8 @@
     "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking עם מסנן המיזוג, ושאלות ותשובות על הנכס, 21.10.2026): חדר המשפחה (מיטת קינג + שתי מיטות יחיד) ממוזג והמיזוג חינם; בכל חדר מקרר. בריכה מקורה (כל השנה) ובריכה חיצונית (עונתית; לפי Booking פתוחה באוגוסט, ילדים מותרים עם מבוגר) – הבריכות הן ההקלה מהחום ביום."
    },
    "alt": {
-    "en": "Alternatives for night 1 in Tbilisi (Booking, live 9 Nov 2026, 15–16 Aug, 1 night, free cancellation, A/C): Kindli Boutique Hotel €126.93 (9.0, 984 reviews; 3★, shared kitchen, no pool). ibis Styles Tbilisi Center €178.54 (8.8, 1,494 reviews; Sololaki, indoor play area, no pool). Iris Hotel €192.07 (9.1, 1,198 reviews; Avlabari, indoor pool). Booking Q&A confirmed free family-room A/C for all three. (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
-    "he": "חלופות ללילה הראשון בטביליסי (Booking, חי ב-9.11.2026, 15–16 באוגוסט, לילה אחד, ביטול חינם, מיזוג): Kindli Boutique Hotel ב-126.93 € (9.0, 984 ביקורות; 3 כוכבים, מטבח משותף, בלי בריכה). ibis Styles Tbilisi Center ב-178.54 € (8.8, 1,494 ביקורות; סולולאקי, פינת משחקים מקורה, בלי בריכה). Iris Hotel ב-192.07 € (9.1, 1,198 ביקורות; אבלאבארי, בריכה מקורה). שאלות ותשובות ב-Booking אישרו מיזוג חינם בחדר משפחה בשלושתם. (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
+    "en": "Re-checked 19 Nov 2026 for 15–16 Aug (free cancellation, A/C): Kindli Boutique Hotel €89.64 (9.0, 990 reviews; 3★, shared kitchen, no pool). ibis Styles Tbilisi Center €170.52 (8.8, 1,492 reviews; Sololaki, indoor play area, no pool). Iris Hotel €202.65 (9.1, 1,204 reviews; Avlabari, indoor pool). Booking Q&A confirmed free family-room A/C for all three.",
+    "he": "נבדק שוב ב-19.11.2026 ל-15–16 באוגוסט (ביטול חינם, מיזוג): Kindli Boutique Hotel ב-89.64 € (9.0, 990 ביקורות; 3 כוכבים, מטבח משותף, בלי בריכה). ibis Styles Tbilisi Center ב-170.52 € (8.8, 1,492 ביקורות; סולולאקי, פינת משחקים מקורה, בלי בריכה). Iris Hotel ב-202.65 € (9.1, 1,204 ביקורות; אבלאבארי, בריכה מקורה). שאלות ותשובות ב-Booking אישרו מיזוג חינם בחדר משפחה בשלושתם."
    },
    "google_note": {
     "en": "Google: 4.0 from 1,057 reviews; Booking.com 8.4 from 2,105 reviews (the lowest score of the options, chosen for the two pools and the walking distance to the Old Town).",
@@ -1327,13 +964,13 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 161.49,
+   "price_per_night_eur": 117.45,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 8.4,
      "out_of": 10,
-     "reviews": 2086,
+     "reviews": 2077,
      "url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-15&checkout=2027-08-16&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
@@ -1356,9 +993,9 @@
    "checkin": "2027-08-16",
    "checkout": "2027-08-20",
    "nights": 4,
-   "total_eur": 660.17,
+   "total_eur": 671.24,
    "booking_score": 9.7,
-   "booking_reviews": 568,
+   "booking_reviews": 583,
    "booking_url": "https://www.booking.com/hotel/ge/steeltower-borjomi.html?checkin=2027-08-16&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Quadruple room (one king bed + two sofa beds; mountain view or balcony), fridge in the room, free private parking, lift, kid-friendly buffet and kids' meals, board games and badminton equipment; free cancellation. No pool: the cool forest air and the mineral-spring park are the heat answer; for a pool see the Borjomi Palace alternative.",
@@ -1369,8 +1006,8 @@
     "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking עם מסנן המיזוג, ושאלות ותשובות על הנכס, 21.10.2026): חדר המשפחה / החדר ל-4 ממוזג והמיזוג כלול בלי תוספת. בבורג'ומי קריר יותר מבטביליסי, ולכן המיזוג בעיקר למנוחת אחר הצהריים."
    },
    "alt": {
-    "en": "Alternatives in Borjomi (Booking, live, 16–20 Aug, 4 nights, free cancellation, A/C in the facility list): Polifonia Inn Borjomi €484.40 (9.4, 1,135 reviews; guest house, family room with king + bunk bed, A/C confirmed, shared kitchen, no pool). Borjomi Bridge Hotel €582.32 (9.2, 1,409 reviews; family room A/C confirmed, no pool). Borjomi Palace Health & Spa €866.73 (8.2, 336 reviews; A/C confirmed free, outdoor pool (open in August) + indoor pool, kids' outdoor play equipment – the pool option). (Alternative prices were checked for 16–20 Aug; other dates may differ.) (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
-    "he": "חלופות בבורג'ומי (Booking, חי, 16–20 באוגוסט, 4 לילות, ביטול חינם, מיזוג ברשימת המתקנים): Polifonia Inn Borjomi ב-484.40 € (9.4, 1,135 ביקורות; בית הארחה, חדר משפחה עם מיטת קינג + מיטת קומותיים, מיזוג מאושר, מטבח משותף, בלי בריכה). Borjomi Bridge Hotel ב-582.32 € (9.2, 1,409 ביקורות; מיזוג בחדר משפחה מאושר, בלי בריכה). Borjomi Palace Health & Spa ב-866.73 € (8.2, 336 ביקורות; מיזוג מאושר וחינם, בריכה חיצונית (פתוחה באוגוסט) + בריכה מקורה, ציוד משחקים חיצוני לילדים – אפשרות הבריכה). (מחירי החלופות נבדקו ל-16–20 באוגוסט; בתאריכים אחרים ייתכן הבדל.) (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
+    "en": "Re-checked 19 Nov 2026 for 16–20 Aug (free cancellation, A/C): Polifonia Inn Borjomi €492.52 (9.4, 1,135 reviews; guest house, family room with king + bunk bed, A/C confirmed, shared kitchen, no pool). Borjomi Bridge Hotel €592.08 (9.2, 1,405 reviews; family room A/C confirmed, no pool). Borjomi Palace Health & Spa €881.26 (8.1, 332 reviews; A/C confirmed free, outdoor pool (open in August) + indoor pool, kids' outdoor play equipment – the pool option).",
+    "he": "נבדק שוב ב-19.11.2026 ל-16–20 באוגוסט (ביטול חינם, מיזוג): Polifonia Inn Borjomi ב-492.52 € (9.4, 1,135 ביקורות; בית הארחה, חדר משפחה עם מיטת קינג + מיטת קומותיים, מיזוג מאושר, מטבח משותף, בלי בריכה). Borjomi Bridge Hotel ב-592.08 € (9.2, 1,405 ביקורות; מיזוג בחדר משפחה מאושר, בלי בריכה). Borjomi Palace Health & Spa ב-881.26 € (8.1, 332 ביקורות; מיזוג מאושר וחינם, בריכה חיצונית (פתוחה באוגוסט) + בריכה מקורה, ציוד משחקים חיצוני לילדים – אפשרות הבריכה)."
    },
    "google_note": {
     "en": "Google: 5.0 from 187 reviews; Booking.com 9.7 from 533 reviews.",
@@ -1404,13 +1041,13 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 165.04,
+   "price_per_night_eur": 167.81,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 9.7,
      "out_of": 10,
-     "reviews": 568,
+     "reviews": 583,
      "url": "https://www.booking.com/hotel/ge/steeltower-borjomi.html?checkin=2027-08-16&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
@@ -1433,9 +1070,9 @@
    "checkin": "2027-08-20",
    "checkout": "2027-08-24",
    "nights": 4,
-   "total_eur": 615.47,
+   "total_eur": 453.84,
    "booking_score": 8.4,
-   "booking_reviews": 2086,
+   "booking_reviews": 2077,
    "booking_url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Family room for 4 (king bed + two twin beds), fridge, indoor pool (all year) + outdoor pool (seasonal), sauna, free parking, 24-hour front desk, kid-friendly buffet; free cancellation. No kitchen (my A/C-filtered, free-cancellation search of central Tbilisi returned only hotels, no apartments); lots of cheap cafés nearby. Hotel pool for the hot afternoons (13:00–17:00). You leave about 01:30 on Tue 24 Aug for a 04:35 flight: tell the front desk, settle the bill the evening before and ask for a packed breakfast; check-out is formally on the 24th.",
@@ -1446,8 +1083,8 @@
     "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking עם מסנן המיזוג, ושאלות ותשובות על הנכס, 21.10.2026): חדר המשפחה (מיטת קינג + שתי מיטות יחיד) ממוזג והמיזוג חינם; בכל חדר מקרר. בריכה מקורה (כל השנה) ובריכה חיצונית (עונתית; לפי Booking פתוחה באוגוסט, ילדים מותרים עם מבוגר) – הבריכות הן ההקלה מהחום ביום."
    },
    "alt": {
-    "en": "Alternatives for Tbilisi (Booking, live, 20–24 Aug, 4 nights, free cancellation, A/C in the facility list; family room A/C confirmed free by Booking Q&A): Kindli Boutique Hotel €499.97 (9.0, 984 reviews; 3★, shared kitchen, no pool). ibis Styles Tbilisi Center €714.16 (8.8, 1,494 reviews; Sololaki, indoor play area, no pool). Iris Hotel €768.26 (9.1, 1,198 reviews; Avlabari, indoor pool open to children). (Alternative prices were checked for 20–24 Aug; other dates may differ.) (Alternative prices re-checked 9 Nov 2026 for the exact stay dates.)",
-    "he": "חלופות בטביליסי (Booking, חי, 20–24 באוגוסט, 4 לילות, ביטול חינם, מיזוג ברשימת המתקנים; מיזוג בחדר משפחה אושר כחינם בשאלות ותשובות של Booking): Kindli Boutique Hotel ב-499.97 € (9.0, 984 ביקורות; 3 כוכבים, מטבח משותף, בלי בריכה). ibis Styles Tbilisi Center ב-714.16 € (8.8, 1,494 ביקורות; סולולאקי, פינת משחקים מקורה, בלי בריכה). Iris Hotel ב-768.26 € (9.1, 1,198 ביקורות; אבלבארי, בריכה מקורה פתוחה לילדים). (מחירי החלופות נבדקו ל-20–24 באוגוסט; בתאריכים אחרים ייתכן הבדל.) (מחירי החלופות נבדקו שוב ב-9.11.2026 לתאריכי השהייה המדויקים.)"
+    "en": "Re-checked 19 Nov 2026 for 20–24 Aug (free cancellation, A/C): Kindli Boutique Hotel €293.05 (9.0, 990 reviews; 3★, shared kitchen, no pool). ibis Styles Tbilisi Center €689.37 (8.8, 1,492 reviews; Sololaki, indoor play area, no pool). Iris Hotel €810.59 (9.1, 1,204 reviews; Avlabari, indoor pool open to children).",
+    "he": "נבדק שוב ב-19.11.2026 ל-20–24 באוגוסט (ביטול חינם, מיזוג): Kindli Boutique Hotel ב-293.05 € (9.0, 990 ביקורות; 3 כוכבים, מטבח משותף, בלי בריכה). ibis Styles Tbilisi Center ב-689.37 € (8.8, 1,492 ביקורות; סולולאקי, פינת משחקים מקורה, בלי בריכה). Iris Hotel ב-810.59 € (9.1, 1,204 ביקורות; אבלבארי, בריכה מקורה פתוחה לילדים)."
    },
    "google_note": {
     "en": "Google: 4.0 from 1,057 reviews; Booking.com 8.4 from 2,105 reviews.",
@@ -1481,13 +1118,13 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 153.87,
+   "price_per_night_eur": 113.46,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 8.4,
      "out_of": 10,
-     "reviews": 2086,
+     "reviews": 2077,
      "url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
@@ -4887,7 +4524,7 @@
   "lines": [
    {
     "key": "flights",
-    "eur": 1670,
+    "eur": 1720,
     "status": "live",
     "label": {
      "en": "Flights – Israir Airlines 6H 891 + Aegean A3 897 + A3 924, 4 passengers",
@@ -4968,7 +4605,7 @@
    },
    {
     "key": "hotels",
-    "eur": 1437.13,
+    "eur": 1242.53,
     "status": "live",
     "label": {
      "en": "Hotels – 3 stays, 9 nights, free cancellation",
@@ -4985,8 +4622,8 @@
     }
    }
   ],
-  "total_eur": 4179.13,
-  "live_part_eur": 3107.13,
+  "total_eur": 4034.53,
+  "live_part_eur": 2962.53,
   "attractions_local": 835,
   "fuel_km": 372
  },
@@ -4994,7 +4631,7 @@
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Georgia v3 research · prices checked 9 Nov 2026 · awaiting your approval",
+   "eyebrow": "Georgia v4 research · prices checked 19 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -5054,13 +4691,13 @@
    "checked": "CHECKED",
    "mixed": "MIXED",
    "photo_by": "Photo",
-   "legend": "LIVE = live price/rating found 17–18 Oct 2026 · EST = estimate · CHECKED = official or 2026 ticket price. EUR; 1 € ≈ 3.03 GEL.",
+   "legend": "LIVE = live price found 19 Nov 2026 (ratings: Oct–Nov 2026) · EST = estimate · CHECKED = official or 2026 ticket price. EUR; 1 € ≈ 3.03 GEL.",
    "version": "Version",
    "book": "Book on Booking.com",
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Georgia v3 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Georgia v4 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Borjomi",
@@ -5071,7 +4708,7 @@
    "taxi_note": "Taxi leg (no rental car).",
    "no_drive_air": "Short walk or hotel shuttle from the terminal.",
    "cmp_item": "Item",
-   "dates2": "Dates and flights compared – 6 cheapest of all combinations (flights + estimated bags, hotels with free cancellation, car)",
+   "dates2": "Dates compared on 19 Nov 2026 (flights that fit the plan + estimated bags, hotels with free cancellation, car)",
    "start": "Dates",
    "airport_n": "Airport night",
    "lipno_n": "Lipno 4 nights",
@@ -5087,7 +4724,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "גאורגיה גרסה 3 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
+   "eyebrow": "גאורגיה גרסה 4 · מחירים נבדקו 19.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -5147,13 +4784,13 @@
    "checked": "נבדק",
    "mixed": "משולב",
    "photo_by": "צילום",
-   "legend": "חי = מחיר/דירוג חי מ-17–18.10.2026 · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו; 1 € ≈ 3.03 GEL.",
+   "legend": "חי = מחיר חי מ-19.11.2026 (דירוגים: אוקטובר–נובמבר 2026) · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו; 1 € ≈ 3.03 GEL.",
    "version": "גרסה",
    "book": "הזמנה ב-Booking.com",
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "גאורגיה גרסה 3 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "גאורגיה גרסה 4 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "בורג'ומי",
@@ -5164,7 +4801,7 @@
    "taxi_note": "נסיעה במונית (בלי רכב שכור).",
    "no_drive_air": "הליכה קצרה או שאטל המלון מהטרמינל.",
    "cmp_item": "פריט",
-   "dates2": "השוואת תאריכים וטיסות – 6 הזולים מכל הצירופים (טיסות + הערכת כבודה, מלונות עם ביטול חינם, רכב)",
+   "dates2": "השוואת תאריכים מ-19.11.2026 (טיסות שמתאימות לתוכנית + הערכת כבודה, מלונות עם ביטול חינם, רכב)",
    "start": "תאריכים",
    "airport_n": "לילה בשדה",
    "lipno_n": "ליפנו 4 לילות",
@@ -5179,8 +4816,8 @@
   }
  },
  "approved": {
-  "version": "ge v3",
-  "approved_on": "2026-11-09",
+  "version": "ge v4",
+  "approved_on": "2026-11-19",
   "by": "traveller"
  },
  "map": {

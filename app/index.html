@@ -853,7 +853,7 @@ var DESTS=[{id:'cz',he:"צ'כיה",en:'Czechia',data:'trip-data-cz.json',total:4
  {id:'pl',he:'פולין',en:'Poland',data:'trip-data-pl.json',total:5067.08,outline:'poland.geojson',report:'../pl/v6/index.html'},
  {id:'ro',he:'רומניה',en:'Romania',data:'trip-data-ro.json',total:4424.11,outline:'romania.geojson',report:'../ro/v5/index.html'},
  {id:'si',he:'סלובניה',en:'Slovenia',data:'trip-data-si.json',total:5156.3,outline:'slovenia.geojson',report:'../si/v3/index.html'},
- {id:'ge',he:'גאורגיה',en:'Georgia',data:'trip-data-ge.json',total:4179.13,outline:'georgia.geojson',report:'../ge/v3/index.html'},
+ {id:'ge',he:'גאורגיה',en:'Georgia',data:'trip-data-ge.json',total:4034.53,outline:'georgia.geojson',report:'../ge/v4/index.html'},
  {id:'de',he:'היער השחור',en:'Black Forest',data:'trip-data-de.json',total:5697.35,outline:'germany.geojson',report:'../de/v2/index.html'}];
 var CACHE={};
 var FX={rate:null,date:null,live:false};
@@ -866,7 +866,7 @@ function loadSel(){var C=fchoices();if(!C)return null;var s=null;try{s=JSON.pars
 function saveSel(s){try{if(s&&JSON.stringify(s)!==JSON.stringify(defaultSel()))localStorage.setItem('trip-flights-'+dest,JSON.stringify(s));else localStorage.removeItem('trip-flights-'+dest)}catch(e){}}
 function pickC(list,id){return list.filter(function(x){return x.id===id})[0]}
 function flightLineText(kind,c,L){
-  var ap=DATA0.country.airport.code,city=DATA0.country.city;
+  var ap=DATA0.country.airport.code,city=DATA0.country.airport.city||DATA0.country.city;
   if(kind==='out')return L==='he'?c.dep+' '+(c.airline_he||c.airline)+' '+c.fn+' מנתב"ג, נחיתה ב'+city.he+' ב-'+c.arr+'.':c.dep+' '+c.airline+' '+c.fn+' from TLV, landing at '+ap+' '+c.arr+'.';
   return L==='he'?(c.airline_he||c.airline)+' '+c.fn+' ממריאה ב-'+c.dep+' ונוחתת בנתב"ג ב-'+c.arr+'.':c.airline+' '+c.fn+' departs '+c.dep+' and lands in TLV at '+c.arr+'.';
 }
@@ -910,7 +910,7 @@ var S={
   flightsel:'הטיסות שנבחרו',price:'מחיר',duration:'משך',baggage_fee:'עלות כבודה',lines:'פריטים',
   notes_driving:'הערות נהיגה',map_fail:'ספריית המפה לא נטענה.',
   err_t:'לא ניתן לטעון את נתוני הטיול',err_d:'הקובץ trip-data.json לא נטען. בדקו את החיבור, ופתחו את האפליקציה דרך שרת אינטרנט (לא ישירות כקובץ).',
-  report:'דוח מחקר גרסה 5',report4:'גרסה 4',report6:'תוכנית גרסה 6',report7:'תוכנית גרסה 7',report8:'תוכנית גרסה 8',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',plan_page:'דף התוכנית',dates_cmp:'השוואת תאריכים וטיסות',
+  report:'דוח מחקר גרסה 5',report4:'גרסה 4',report6:'תוכנית גרסה 6',report7:'תוכנית גרסה 7',report9:'תוכנית גרסה 9',report8:'תוכנית גרסה 8',report3:'גרסה 3',report2:'גרסה 2',report1:'גרסה 1',credits:'תמונות: Wikimedia Commons (עם קרדיט) ורשימות Google Maps',plan_page:'דף התוכנית',dates_cmp:'השוואת תאריכים וטיסות',
   lang:'EN',overview_flights:'סיכום טיסות',total_car:'סה"כ רכב',sources:'מקורות'},
  en:{tabs:{overview:'Overview',map:'Map',days:'Days',flights:'Flights',hotels:'Hotels',car:'Car',budget:'Budget'},
   attractions:'Attractions',hotel:'Hotel',arr_dep:'Arrival & departure',pickup:'Car pick-up',dropoff:'Car return',
@@ -918,7 +918,7 @@ var S={
   flightsel:'Chosen flights',price:'Price',duration:'Duration',baggage_fee:'Baggage fee',lines:'Items',
   notes_driving:'Driving notes',map_fail:'The map library did not load.',
   err_t:'Could not load the trip data',err_d:'The file trip-data.json did not load. Check your connection and open the app through a web server (not directly as a file).',
-  report:'Research report v5',report4:'v4',report6:'Plan v6',report7:'Plan v7',report8:'Plan v8',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',plan_page:'plan page',dates_cmp:'Dates and flights compared',
+  report:'Research report v5',report4:'v4',report6:'Plan v6',report7:'Plan v7',report9:'Plan v9',report8:'Plan v8',report3:'v3',report2:'v2',report1:'v1',credits:'Photos: Wikimedia Commons (credited) and Google Maps listings',plan_page:'plan page',dates_cmp:'Dates and flights compared',
   lang:'עב',overview_flights:'Flights summary',total_car:'Car total',sources:'Sources'}
 };
 var ICON={
@@ -962,7 +962,7 @@ function renderTabbar(){
   }).join('');
 }
 function renderFooter(){
-  var r=dest==='cz'?'<a href="../cz/v8/index.html">'+esc(ST('report8'))+'</a> · <a href="../cz/v7/index.html">'+esc(ST('report7'))+'</a> · <a href="../v6/index.html">'+esc(ST('report6'))+'</a> · <a href="../v5/index.html">'+esc(ST('report'))+'</a> · <a href="../v4/index.html">'+esc(ST('report4'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a>'
+  var r=dest==='cz'?'<a href="../cz/v9/index.html">'+esc(ST('report9'))+'</a> · <a href="../cz/v8/index.html">'+esc(ST('report8'))+'</a> · <a href="../cz/v7/index.html">'+esc(ST('report7'))+'</a> · <a href="../v6/index.html">'+esc(ST('report6'))+'</a> · <a href="../v5/index.html">'+esc(ST('report'))+'</a> · <a href="../v4/index.html">'+esc(ST('report4'))+'</a> · <a href="../v3/index.html">'+esc(ST('report3'))+'</a> · <a href="../v2/index.html">'+esc(ST('report2'))+'</a> · <a href="../phase1/index.html">'+esc(ST('report1'))+'</a>'
     :'<a href="'+DST().report+'">'+esc(T(DATA.version.label))+' – '+esc(ST('plan_page'))+'</a>';
   $('#foot').innerHTML='<div class="links">'+r+'</div><p>'+esc(ST('credits'))+'</p>';
 }

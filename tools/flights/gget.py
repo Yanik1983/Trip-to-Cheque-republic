@@ -4,13 +4,14 @@
 It opens the same public, shareable result page a person gets in the browser and saves the HTML; parse_html.py reads the
 flight rows out of it.
 
-usage: gget.py <outdir> [--pace 30] [--stops 1] JOB ... | @jobs.txt
-  JOB = "label|FROM|TO|YYYY-MM-DD"   canonical search URL (2 adults + 2 children, economy, one way); --stops N keeps flights
-                                      with at most N stops
-      = "label|free text query"      Google's natural-language form, e.g. "Flights from TLV to PRG on 2027-08-21 one way 2 adults 2 children"
+usage: gget.py <outdir> [--pace 70] [--rest 240] JOB ... | @jobs.txt
+  JOB = "label|free text query"      Google's natural-language form, e.g. "Flights from TLV to PRG on 2027-08-21 one way 2 adults 2 children"
+      = "label|FROM|TO|YYYY-MM-DD"   the page's own search address (2 adults + 2 children, economy, one way); used by gfl.js.
+                                      Note: a plain request gets the list only for the natural-language form.
 A label that already has a saved page is skipped, so the same command can be run again later for the missing ones.
-Meant for a handful of look-ups at a time, the way a person would check a few dates: one request, a pause, the next.
-If Google answers 429 ("unusual traffic") the script stops at once (exit code 3) – wait and try later, do not hammer."""
+Meant for a few dozen look-ups at most, the way a person would check a few dates: one request, a long pause, the next.
+One try per search. If Google answers 429 ("unusual traffic") the script stops at once (exit code 3) - wait and try
+later, do not hammer."""
 import base64
 import os
 import random
@@ -82,7 +83,7 @@ def n_rows(html):
 def main(argv):
     if len(argv) < 2:
         sys.exit(__doc__)
-    outdir, opt, jobs = argv[0], {"pace": 30.0, "stops": None, "tab": "best"}, []
+    outdir, opt, jobs = argv[0], {"pace": 70.0, "rest": 240.0, "stops": None, "tab": "best"}, []
     a = argv[1:]
     while a:
         x = a.pop(0)
@@ -101,29 +102,27 @@ def main(argv):
         label = job.split("|", 1)[0]
         path = os.path.join(outdir, label + ".html")
         tmp = path + ".tmp"
-        tries = 0
-        while tries < 2:
-            if not first:
-                time.sleep(opt["pace"] * random.uniform(0.75, 1.25))
-            first = False
-            code, final, err = fetch(url_for(job, opt), tmp)
-            if code == "429" or "/sorry/" in final:
-                print(time.strftime("%H:%M:%S"), label, "BLOCKED by Google (429) - stopping; try again later", flush=True)
-                if os.path.exists(tmp):
-                    os.remove(tmp)
-                sys.exit(3)
-            tries += 1
-            html = open(tmp, encoding="utf8", errors="replace").read() if os.path.exists(tmp) else ""
-            n = n_rows(html)
-            if code == "200" and n > 0:
-                os.replace(tmp, path)
-                print(time.strftime("%H:%M:%S"), label, f"ok rows={n} bytes={len(html)}", flush=True)
-                break
-            print(time.strftime("%H:%M:%S"), label, f"no rows (http {code}, bytes {len(html)}) {err[:80]}", flush=True)
-            if code == "200" and html:
-                os.replace(tmp, path + ".norows")      # kept for inspection; not counted as done
-        else:
-            print(time.strftime("%H:%M:%S"), label, "FAILED", flush=True)
+        if not first:
+            time.sleep(opt["pace"] * random.uniform(0.85, 1.15))
+        first = False
+        code, final, err = fetch(url_for(job, opt), tmp)
+        if code == "429" or "/sorry/" in final:
+            print(time.strftime("%H:%M:%S"), label, "BLOCKED by Google (429) - stopping; try again later", flush=True)
+            if os.path.exists(tmp):
+                os.remove(tmp)
+            sys.exit(3)
+        html = open(tmp, encoding="utf8", errors="replace").read() if os.path.exists(tmp) else ""
+        n = n_rows(html)
+        if code == "200" and n > 0:
+            os.replace(tmp, path)
+            print(time.strftime("%H:%M:%S"), label, f"ok rows={n}", flush=True)
+            continue
+        # Google sometimes answers with the empty page frame only (it does that when requests come too often):
+        # no second try now - rest, go on with the next search, and pick this one up on a later run
+        print(time.strftime("%H:%M:%S"), label, f"not served (http {code}, {len(html)} bytes) {err[:60]} - resting {opt['rest']:.0f}s", flush=True)
+        if os.path.exists(tmp):
+            os.remove(tmp)
+        time.sleep(opt["rest"])
 
 
 if __name__ == "__main__":

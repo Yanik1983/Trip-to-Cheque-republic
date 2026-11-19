@@ -118,7 +118,14 @@ def choices(flights, chosen, fits):
     ok = [f for f in flights if engine.basic(f)]
     ok.sort(key=lambda f: (f["price"] + engine.bags(f), f["dur"]))
     ok = ok[:MAX_CHOICES] if chosen in ok[:MAX_CHOICES] else ok[:MAX_CHOICES - 1] + [chosen]
-    return [choice(f, fits(f), f is chosen) for f in ok]
+    out, seen = [], set()
+    for f in ok:
+        c = choice(f, fits(f), f is chosen)
+        if c["id"] in seen:                      # same flight numbers and departure, another connection day
+            c["id"] += f"→{f['arr']}+{f['plus']}"
+        seen.add(c["id"])
+        out.append(c)
+    return out
 
 
 BAG_GENERIC = {"en": "Checked-bag rules differ by fare and airline; for the 2 suitcases and 2 cabin trolleys I assume about €160 per direction "
@@ -276,7 +283,8 @@ def apply(t, checked, ver, start=None):
         for p in d["plan"]:
             if p.get("flight") == "out":
                 p["en"] = f"{o['dep']} {o['airline']} {o['fn']} from TLV, landing at {ap} {o['arr']}."
-                p["he"] = f"{o['dep']} {he_air(o['airline'])} {o['fn']} מנתב\"ג, נחיתה ב{D['country']['city']['he']} ב-{o['arr']}."
+                city = (D["country"]["airport"].get("city") or D["country"]["city"])["he"]      # where the plane lands
+                p["he"] = f"{o['dep']} {he_air(o['airline'])} {o['fn']} מנתב\"ג, נחיתה ב{city} ב-{o['arr']}."
             elif p.get("flight") == "back":
                 p["en"] = f"{b['airline']} {b['fn']} departs {b['dep']} and lands in TLV at {b['arr']}."
                 p["he"] = f"{he_air(b['airline'])} {b['fn']} ממריאה ב-{b['dep']} ונוחתת בנתב\"ג ב-{b['arr']}."

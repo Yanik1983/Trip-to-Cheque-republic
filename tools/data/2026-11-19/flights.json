@@ -116,6 +116,16 @@
    {"price": 20432, "stops": 1, "airline": "Etihad", "fn": "EY 156 + EY 595", "dep": "11:20", "arr": "05:50", "plus": 1, "dur": 1050, "via": ["AUH"], "lay": [500]},
    {"price": 20432, "stops": 1, "airline": "Etihad", "fn": "EY 156 + EY 593", "dep": "11:20", "arr": "11:10", "plus": 1, "dur": 1370, "via": ["AUH"], "lay": [820]}
  ]},
+ "TBS-TLV_0824": {"from": "TBS", "to": "TLV", "date": "2027-08-24", "pax": 4, "fetched": "2026-11-19T14:21Z", "full": false, "flights": [
+   {"price": 795, "stops": 1, "airline": "Aegean", "fn": "A3 897 + A3 924", "dep": "04:35", "arr": "12:50", "plus": 0, "dur": 555, "via": ["ATH"], "lay": [260]},
+   {"price": 957, "stops": 0, "airline": "Israir Airlines", "fn": "6H 898", "dep": "00:20", "arr": "02:00", "plus": 0, "dur": 160, "via": [], "lay": []},
+   {"price": 1253, "stops": 1, "airline": "FLYONE", "fn": "5F 5582 + 5F 5509", "dep": "02:10", "arr": "17:10", "plus": 0, "dur": 960, "via": ["RMO"], "lay": [620]},
+   {"price": 1297, "stops": 0, "airline": "El Al", "fn": "LY 5110", "dep": "01:30", "arr": "03:10", "plus": 0, "dur": 160, "via": [], "lay": []},
+   {"price": 1297, "stops": 0, "airline": "El Al", "fn": "LY 5108", "dep": "10:10", "arr": "11:50", "plus": 0, "dur": 160, "via": [], "lay": []},
+   {"price": 1361, "stops": 1, "airline": "FLYONE Armenia", "fn": "3F 3584 + 3F 3873", "dep": "10:40", "arr": "09:40", "plus": 1, "dur": 1440, "via": ["EVN"], "lay": [1250]},
+   {"price": 2362, "stops": 1, "airline": "Azerbaijan Airlines", "fn": "J2 404 + J2 269", "dep": "21:20", "arr": "11:55", "plus": 1, "dur": 935, "via": ["GYD"], "lay": [660]},
+   {"price": 2646, "stops": 1, "airline": "Lufthansa", "fn": "LH 2697 + LH 680", "dep": "18:15", "arr": "16:00", "plus": 1, "dur": 1365, "via": ["MUC"], "lay": [880]}
+ ]},
  "TLV-BUD_0817": {"from": "TLV", "to": "BUD", "date": "2027-08-17", "pax": 4, "fetched": "2026-11-19T13:49Z", "full": false, "flights": [
    {"price": 513, "stops": 1, "airline": "TAROM", "fn": "RO 156 + RO 231", "dep": "00:20", "arr": "08:45", "plus": 0, "dur": 565, "via": ["OTP"], "lay": [350]},
    {"price": 600, "stops": 0, "airline": "Wizz Air", "fn": "W6 2306", "dep": "20:55", "arr": "23:25", "plus": 0, "dur": 210, "via": [], "lay": []},
@@ -160,5 +170,30 @@
    {"price": 1022, "stops": 2, "airline": "ITA, Lufthansa City Airlines and Lufthansa", "fn": "AZ 815 + VL 1875 + LH 1692", "dep": "08:00", "arr": "16:10", "plus": 0, "dur": 550, "via": ["FCO", "MUC"], "lay": [125, 55]},
    {"price": 1118, "stops": 1, "airline": "Lufthansa", "fn": "LH 683 + LH 1690", "dep": "07:00", "arr": "12:40", "plus": 0, "dur": 400, "via": ["MUC"], "lay": [100]},
    {"price": 1463, "stops": 1, "airline": "Condor", "fn": "DE 4309 + DE 4484", "dep": "06:10", "arr": "15:40", "plus": 0, "dur": 630, "via": ["FRA"], "lay": [295]}
+ ]},
+ "TLV-TBS_0815": {"from": "TLV", "to": "TBS", "date": "2027-08-15", "pax": 4, "fetched": "2026-11-19T14:15Z", "full": true, "flights": [
+   {"price": 830, "stops": 0, "airline": "Israir Airlines", "fn": "6H 895", "dep": "21:30", "arr": "01:05", "plus": 1, "dur": 155, "via": [], "lay": []},
+   {"price": 925, "stops": 0, "airline": "Israir Airlines", "fn": "6H 891", "dep": "19:40", "arr": "23:15", "plus": 0, "dur": 155, "via": [], "lay": []},
+   {"price": 985, "stops": 1, "airline": "Austrian", "fn": "OS 82 + OS 907", "dep": "18:40", "arr": "03:55", "plus": 1, "dur": 495, "via": ["VIE"], "lay": [75]},
+   {"price": 1021, "stops": 1, "airline": "Aegean", "fn": "A3 927 + A3 896", "dep": "19:55", "arr": "03:45", "plus": 1, "dur": 410, "via": ["ATH"], "lay": [120]},
+   {"price": 1170, "stops": 0, "airline": "El Al", "fn": "LY 5109", "dep": "20:50", "arr": "00:25", "plus": 1, "dur": 155, "via": [], "lay": []},
+   {"price": 1205, "stops": 1, "airline": "FLYONE Armenia", "fn": "3F 3874 + 3F 3583", "dep": "10:40", "arr": "17:40", "plus": 0, "dur": 360, "via": ["EVN"], "lay": [190]},
+   {"price": 1205, "stops": 1, "airline": "FLYONE Armenia", "fn": "3F 3874 + 3F 3583", "dep": "10:40", "arr": "09:40", "plus": 1, "dur": 1320, "via": ["EVN"], "lay": [1150]},
+   {"price": 1249, "stops": 1, "airline": "Austrian", "fn": "OS 80 + OS 907", "dep": "15:30", "arr": "03:55", "plus": 1, "dur": 685, "via": ["VIE"], "lay": [265]},
+   {"price": 1263, "stops": 1, "airline": "Lufthansa", "fn": "LH 681 + LH 2558", "dep": "17:05", "arr": "03:55", "plus": 1, "dur": 590, "via": ["MUC"], "lay": [105]},
+   {"price": 1263, "stops": 1, "airline": "Lufthansa", "fn": "LH 683 + LH 2558", "dep": "07:00", "arr": "03:55", "plus": 1, "dur": 1195, "via": ["MUC"], "lay": [710]},
+   {"price": 1278, "stops": 1, "airline": "FLYONE", "fn": "5F 5510 + 5F 5581", "dep": "19:30", "arr": "01:10", "plus": 2, "dur": 1720, "via": ["RMO"], "lay": [1380]},
+   {"price": 1390, "stops": 1, "airline": "Azerbaijan Airlines", "fn": "J2 270 + J2 409", "dep": "14:40", "arr": "01:00", "plus": 1, "dur": 560, "via": ["GYD"], "lay": [305]},
+   {"price": 1390, "stops": 1, "airline": "Azerbaijan Airlines", "fn": "J2 270 + J2 405", "dep": "14:40", "arr": "08:40", "plus": 1, "dur": 1020, "via": ["GYD"], "lay": [765]},
+   {"price": 1390, "stops": 1, "airline": "Azerbaijan Airlines", "fn": "J2 270 + J2 401", "dep": "14:40", "arr": "10:40", "plus": 1, "dur": 1140, "via": ["GYD"], "lay": [885]},
+   {"price": 1390, "stops": 1, "airline": "Azerbaijan Airlines", "fn": "J2 270 + J2 407", "dep": "14:40", "arr": "15:40", "plus": 1, "dur": 1440, "via": ["GYD"], "lay": [1185]},
+   {"price": 1438, "stops": 1, "airline": "Azerbaijan Airlines", "fn": "J2 270 + J2 403", "dep": "14:40", "arr": "20:20", "plus": 1, "dur": 1720, "via": ["GYD"], "lay": [1465]},
+   {"price": 1508, "stops": 0, "airline": "El Al", "fn": "LY 5107", "dep": "05:30", "arr": "09:05", "plus": 0, "dur": 155, "via": [], "lay": []},
+   {"price": 1515, "stops": 1, "airline": "Aegean", "fn": "A3 925 + A3 896", "dep": "13:50", "arr": "03:45", "plus": 1, "dur": 775, "via": ["ATH"], "lay": [485]},
+   {"price": 1584, "stops": 1, "airline": "Austrian", "fn": "OS 84 + OS 907", "dep": "06:00", "arr": "03:55", "plus": 1, "dur": 1255, "via": ["VIE"], "lay": [835]},
+   {"price": 1666, "stops": 1, "airline": "Aegean", "fn": "A3 929 + A3 896", "dep": "05:00", "arr": "03:45", "plus": 1, "dur": 1305, "via": ["ATH"], "lay": [1015]},
+   {"price": 2368, "stops": 1, "airline": "British Airways", "fn": "BA 405 + BA 890", "dep": "06:00", "arr": "05:35", "plus": 1, "dur": 1355, "via": ["LHR"], "lay": [715]},
+   {"price": 4326, "stops": 1, "airline": "LOT", "fn": "LO 152 + LO 723", "dep": "05:05", "arr": "03:10", "plus": 1, "dur": 1265, "via": ["WAW"], "lay": [800]},
+   {"price": 6262, "stops": 1, "airline": "LOT", "fn": "LO 156 + LO 723", "dep": "10:45", "arr": "03:10", "plus": 1, "dur": 925, "via": ["WAW"], "lay": [465]}
  ]}
 }

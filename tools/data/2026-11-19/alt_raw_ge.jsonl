@@ -1,0 +1,9 @@
+{"cc": "ge", "id": "hotel_tb1", "name": "Iris Hotel", "booking_id": 12140747, "checkin": "2027-08-15", "checkout": "2027-08-16", "nights": 1, "price": 202.65, "score": 9.1, "reviews": 1204, "note": ""}
+{"cc": "ge", "id": "hotel_tb1", "name": "Kindli Boutique Hotel", "booking_id": 3119394, "checkin": "2027-08-15", "checkout": "2027-08-16", "nights": 1, "price": 89.64, "score": 9.0, "reviews": 990, "note": ""}
+{"cc": "ge", "id": "hotel_tb1", "name": "ibis Styles Tbilisi Center", "booking_id": 2241076, "checkin": "2027-08-15", "checkout": "2027-08-16", "nights": 1, "price": 170.52, "score": 8.8, "reviews": 1492, "note": ""}
+{"cc": "ge", "id": "hotel_bj", "name": "Polifonia Inn Borjomi", "booking_id": 8645920, "checkin": "2027-08-16", "checkout": "2027-08-20", "nights": 4, "price": 492.52, "score": 9.4, "reviews": 1135, "note": ""}
+{"cc": "ge", "id": "hotel_bj", "name": "Borjomi Bridge Hotel", "booking_id": 7390946, "checkin": "2027-08-16", "checkout": "2027-08-20", "nights": 4, "price": 592.08, "score": 9.2, "reviews": 1405, "note": ""}
+{"cc": "ge", "id": "hotel_bj", "name": "Borjomi Palace Health & Spa Center", "booking_id": 589124, "checkin": "2027-08-16", "checkout": "2027-08-20", "nights": 4, "price": 881.26, "score": 8.1, "reviews": 332, "note": ""}
+{"cc": "ge", "id": "hotel_tb2", "name": "Iris Hotel", "booking_id": 12140747, "checkin": "2027-08-20", "checkout": "2027-08-24", "nights": 4, "price": 810.59, "score": 9.1, "reviews": 1204, "note": ""}
+{"cc": "ge", "id": "hotel_tb2", "name": "Kindli Boutique Hotel", "booking_id": 3119394, "checkin": "2027-08-20", "checkout": "2027-08-24", "nights": 4, "price": 293.05, "score": 9.0, "reviews": 990, "note": ""}
+{"cc": "ge", "id": "hotel_tb2", "name": "ibis Styles Tbilisi Center", "booking_id": 2241076, "checkin": "2027-08-20", "checkout": "2027-08-24", "nights": 4, "price": 689.37, "score": 8.8, "reviews": 1492, "note": ""}

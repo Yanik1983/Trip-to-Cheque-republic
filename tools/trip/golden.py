@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
-"""Golden-master check: render each app/trip-data-<cc>.json and compare it with a published page.
+"""Golden-master check of the page renderer: render the data a published page was built from and compare the two.
 
-usage: golden.py [cc:ver ...]      (default: the versions listed in PUBLISHED)
-For every page it compares the Hebrew block, the English block and the page title. Exit code 1 if anything differs."""
+usage: golden.py [cc:ver ...]      (default: the versions published on 9 Nov 2026, with the data kept in BASE)
+For every page it compares the Hebrew block, the English block and the page title. Exit code 1 if anything differs.
+Two things the renderer does differently on purpose since then are switched back for the comparison: the taxi notes
+(legacy=True) and the rounding of amounts that end in .50 (the old pages rounded those to the even euro)."""
 import json
 import os
 import re
@@ -13,6 +15,8 @@ import render  # noqa: E402
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 PUBLISHED = ["cz:v8", "hu:v3", "pl:v5", "ro:v4", "si:v3", "ge:v3", "de:v2"]
+BASE = os.path.join(ROOT, "tools", "data", "2026-11-19", "base")
+render.money = lambda x: f"€{x:,.0f}"
 
 
 def first_diff(a, b, ctx=140):
@@ -22,7 +26,7 @@ def first_diff(a, b, ctx=140):
 
 
 def check(cc, ver, verbose=True):
-    D = json.load(open(os.path.join(ROOT, "app", f"trip-data-{cc}.json"), encoding="utf8"))
+    D = json.load(open(os.path.join(BASE, f"trip-data-{cc}.json"), encoding="utf8"))
     page = open(os.path.join(ROOT, cc, ver, "index.html"), encoding="utf8").read().split("\n")
     ok = True
     for L in ("he", "en"):

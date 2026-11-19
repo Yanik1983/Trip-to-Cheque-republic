@@ -19,7 +19,7 @@ def t(x, L):
 
 
 def money(x):
-    return f"€{x:,.0f}"
+    return f"€{int(x + 0.5):,}"            # halves round up, as in the app (JavaScript Math.round)
 
 
 def m2(x):
@@ -245,7 +245,7 @@ def dest_bar(current, dests):
     a = []
     for x in dests:
         cur = ' aria-current="page"' if x["id"] == current else ""
-        price = f'<span class="dprice" dir="ltr">€{round(x["total"]):,}</span>' if x.get("total") else ""
+        price = f'<span class="dprice" dir="ltr">{money(x["total"])}</span>' if x.get("total") else ""
         a.append(f'<a class="dest" href="{x["href"]}"{cur}><span lang="he">{x["he"]}</span><span lang="en">{x["en"]}</span>{price}</a>')
     return f'<nav class="dbar" aria-label="Destination / יעד">{"".join(a)}</nav>'
 
