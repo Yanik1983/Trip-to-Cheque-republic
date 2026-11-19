@@ -243,6 +243,20 @@ def change_notes(t, D0, D, opt, rows, checked, ver, start, prev_checked="2026-11
     return notes + rules
 
 
+def flight_lines(D, o, b):
+    """The Day 1 / Day 10 lines that quote the flights (the app rewrites the same lines when another flight is picked)."""
+    ap = D["country"]["airport"]["code"]
+    city = (D["country"]["airport"].get("city") or D["country"]["city"])["he"]          # where the plane lands
+    for d in D["days"]:
+        for p in d["plan"]:
+            if p.get("flight") == "out":
+                p["en"] = f"{o['dep']} {o['airline']} {o['fn']} from TLV, landing at {ap} {o['arr']}."
+                p["he"] = f"{o['dep']} {he_air(o['airline'])} {o['fn']} מנתב\"ג, נחיתה ב{city} ב-{o['arr']}."
+            elif p.get("flight") == "back":
+                p["en"] = f"{b['airline']} {b['fn']} departs {b['dep']} and lands in TLV at {b['arr']}."
+                p["he"] = f"{he_air(b['airline'])} {b['fn']} ממריאה ב-{b['dep']} ונוחתת בנתב\"ג ב-{b['arr']}."
+
+
 def apply(t, checked, ver, start=None):
     """Return (new data, report lines) for trip t (an engine.Trip) with today's prices on the given start date."""
     D0, D = t.D, copy.deepcopy(t.D)
@@ -279,15 +293,7 @@ def apply(t, checked, ver, start=None):
               f"on Google's first results page for each date; flights with more than one stop are left out.",
         "he": f"מחירים חיים מ-Google Flights מ-{c_he}, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה. האפשרויות הן אלה שמופיעות "
               f"בעמוד התוצאות הראשון של גוגל לכל תאריך; טיסות עם יותר מעצירה אחת לא נכללו."}
-    for d in D["days"]:
-        for p in d["plan"]:
-            if p.get("flight") == "out":
-                p["en"] = f"{o['dep']} {o['airline']} {o['fn']} from TLV, landing at {ap} {o['arr']}."
-                city = (D["country"]["airport"].get("city") or D["country"]["city"])["he"]      # where the plane lands
-                p["he"] = f"{o['dep']} {he_air(o['airline'])} {o['fn']} מנתב\"ג, נחיתה ב{city} ב-{o['arr']}."
-            elif p.get("flight") == "back":
-                p["en"] = f"{b['airline']} {b['fn']} departs {b['dep']} and lands in TLV at {b['arr']}."
-                p["he"] = f"{he_air(b['airline'])} {b['fn']} ממריאה ב-{b['dep']} ונוחתת בנתב\"ג ב-{b['arr']}."
+    flight_lines(D, o, b)
 
     # ---- hotels
     by_id = {h["id"]: h for h in D["hotels"]}
@@ -381,6 +387,7 @@ def apply_hotels_only(t, checked, ver):
     D["budget"]["live_part_eur"] = round(sum(l["eur"] for l in D["budget"]["lines"] if l["status"] == "live"), 2)
     D["date_options"] = []                                   # the old table no longer matches today's hotel prices
     o, b = D["flights"]["chosen"]
+    flight_lines(D, dict(o, fn=o["flight"]), dict(b, fn=b["flight"]))
     D["flights"]["note"] = {
         "en": f"Flight prices are from {pc['en']} (Google Flights, total for 2 adults + 2 children, cheapest fare, bags not included). On {c['en']} Google did not "
               f"answer automated searches for this route, so they could not be re-checked – look at them again before booking.",
@@ -414,10 +421,9 @@ def apply_hotels_only(t, checked, ver):
             U["eyebrow"] = f"{name['he']} גרסה {n} · מלונות נבדקו {c['he']}, טיסות {pc['he']} · ממתין לאישורך"
             U["legend"] = re.sub(r"חי = מחיר/דירוג חי מ-[^·]*·", f"חי = מחיר חי (מלונות {c['he']}, טיסות {pc['he']}; דירוגים אוקטובר–נובמבר 2026) ·", U["legend"])
             U["next_t"] = re.sub(r" גרסה \d+ נמצאת", f" גרסה {n} נמצאת", U["next_t"])
-    rep = [f"{t.cc} {ver}: {start} → {end}  (HOTELS ONLY – no flight lists in the snapshot)"]
-    rep += [f"  hotel {h['name'][:40]:40} €{h0['total_eur']:.2f} → €{h['total_eur']:.2f}" for h0, h in zip(D0["hotels"], D["hotels"])]
-    rep.append(f"  total €{tot_old:.2f} → €{tot_new:.2f}")
-    return D, rep, None
+    return D, [f"{t.cc} {ver}: {start} → {end}  (HOTELS ONLY – no flight lists in the snapshot)"] + \
+        [f"  hotel {h['name'][:40]:40} €{h0['total_eur']:.2f} → €{h['total_eur']:.2f}" for h0, h in zip(D0["hotels"], D["hotels"])] + \
+        [f"  total €{tot_old:.2f} → €{tot_new:.2f}"], None
 
 
 def time_mentions(D0, D):
@@ -488,6 +494,8 @@ def main(argv):
             P = json.load(open(f, encoding="utf8"))
             patch(D, {f"hotels.{k}.alt": v for k, v in P.items()} if name.startswith("alt_") else P)
             rep.append(f"  applied {name} ({len(P)} entries)")
+    o, b = D["flights"]["chosen"]                                       # again, in case a patch changed the landing city
+    flight_lines(D, dict(o, fn=o["flight"]), dict(b, fn=b["flight"]))
     print("\n".join(rep))
     for path, s in time_mentions(t.D, D):
         print(f"  CHECK {path}: {s[:200]}")

@@ -51,7 +51,25 @@ On 9 Nov 2026 every flight and hotel was re-checked and each trip was moved to i
 
 Older versions stay in their folders (`v2`…`v6/`, `hu/v1`, `hu/v2`, `pl/v1`…`v3`, `ro/v1`, `ro/v2`, `si/v1`, `ge/v1`, `de/v1`).
 
+## Price update, 19 Nov 2026 (all in the app)
+
+On 19 Nov 2026 every price was checked again: hotels on Booking.com for every start date 14–22 Aug (free cancellation, air-conditioned), the alternatives of every hotel, and flights on Google Flights. Plans, places and dates did not change. The one flight that changed is the Czech return: the TAROM connection rose from €719 to €1,111, so the Smartwings nonstop at 12:45 (€916) is now the cheapest one that fits. Flights were re-priced for the dates of each plan, except Slovenia and the Black Forest (Google did not answer for those routes; their flight prices are still the ones of 9 Nov and the pages say so); the comparison of other start dates was repeated for hotels only, because Google limited automated flight searches that day.
+
+| Destination | Version | Dates | Folder | Flights (out · back) | Estimated total | Before |
+|---|---|---|---|---|---|---|
+| Czechia | v9 | Sat 21 – Mon 30 Aug 2027 | `cz/v9/` | QS 1285 18:25 €711 · QS 1284 12:45 €916 | about €4,435 | v8: €4,216 |
+| Hungary | v4 | Tue 17 – Thu 26 Aug 2027 | `hu/v4/` | W6 2306 20:55 €600 · 6H 728 11:40 €946 | about €4,585 | v3: €4,488 |
+| Poland | v6 | Tue 17 – Thu 26 Aug 2027 | `pl/v6/` | LH 681 + LH 1626 17:05 €993 · LH 1363 + LH 690 11:10 €932 | about €5,067 | v5: €5,099 |
+| Romania | v5 | Thu 19 – Sat 28 Aug 2027 | `ro/v5/` | W4 3254 16:45 €720 · RO 155 20:45 €798 | about €4,424 | v4: €4,242 |
+| Slovenia | v4 | Sun 15 – Tue 24 Aug 2027 | `si/v4/` | LH 695 + LH 1462 08:00 €1,015 · A3 791 + A3 926 09:20 €984 | about €5,286 | v3: €5,156 |
+| Georgia | v4 | Sun 15 – Tue 24 Aug 2027 | `ge/v4/` | 6H 891 19:40 €925 · A3 897 + A3 924 04:35 €795 | about €4,035 | v3: €4,179 |
+| Black Forest | v3 | Sun 15 – Tue 24 Aug 2027 | `de/v3/` | A3 457 + A3 448 05:30 €805 · IB 628 + IB 1873 11:55 €800 | about €5,697 | v2: €5,697 |
+
+Also new in these versions: the taxi notes follow the real car days (the Black Forest page no longer shows "taxi" on days with the rental car), the Black Forest flight line names Zurich as the landing city, and the pages are now produced by the scripts in `tools/` (see `tools/README.md`); the price snapshot is in `tools/data/2026-11-19/`.
+
+Older versions stay in their folders (`cz/v7`, `cz/v8`, `v2`…`v6/`, `hu/v1`…`v3`, `pl/v1`…`v5`, `ro/v1`…`v4`, `si/v1`…`v3`, `ge/v1`…`v3`, `de/v1`, `de/v2`).
+
 ## Trip app (Phase 2)
 
-`app/` – mobile web app built only from the approved data (approved 21 Oct 2026): Czechia v8 (`app/trip-data-cz.json`), Hungary v3 (`trip-data-hu.json`), Poland v5 (`trip-data-pl.json`), Romania v4 (`trip-data-ro.json`), Slovenia v3 (`trip-data-si.json`), Georgia v3 (`trip-data-ge.json`), Black Forest v2 (`trip-data-de.json`); choose the country at the top (link straight to one with `?d=cz`, `?d=hu`, `?d=pl`, `?d=ro`, `?d=si`, `?d=ge` or `?d=de`): overview, map with all routes, day-by-day view, flights, hotels (with the air-conditioning line), car and budget, in Hebrew and English.
+`app/` – mobile web app built only from the approved data (prices of 19 Nov 2026): Czechia v9 (`app/trip-data-cz.json`), Hungary v4 (`trip-data-hu.json`), Poland v6 (`trip-data-pl.json`), Romania v5 (`trip-data-ro.json`), Slovenia v4 (`trip-data-si.json`), Georgia v4 (`trip-data-ge.json`), Black Forest v3 (`trip-data-de.json`); choose the country at the top (link straight to one with `?d=cz`, `?d=hu`, `?d=pl`, `?d=ro`, `?d=si`, `?d=ge` or `?d=de`): overview, map with all routes, day-by-day view, flights, hotels (with the air-conditioning line), car and budget, in Hebrew and English.
 Open on the phone: https://yanik1983.github.io/Trip-to-Cheque-republic/app/
