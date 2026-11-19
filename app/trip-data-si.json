@@ -25,11 +25,11 @@
  },
  "variant": "eve",
  "version": {
-  "id": "v3",
-  "date": "2026-11-09",
+  "id": "v4",
+  "date": "2026-11-19",
   "label": {
-   "en": "Slovenia v3",
-   "he": "סלובניה גרסה 3"
+   "en": "Slovenia v4",
+   "he": "סלובניה גרסה 4"
   }
  },
  "taxi_days": [
@@ -38,24 +38,16 @@
  "car_km": 367.6,
  "changes": [
   {
-   "en": "What changed in v3: the plan is now kids-first, with at least two kid activities on every full day: Bled pletna boat, castle and swim; Straža chairlift and toboggan plus a rowing boat; Vogel gondola and Lake Bohinj boat and beach; Postojna Cave train and Vivarium; Tivoli playground; House of Experiments and the Natural History Museum; Ljubljana Zoo and the House of Illusions; the castle funicular, puppet museum and a river boat. Vintgar Gorge (about 3.2 km) and Predjama Castle were dropped, which also cuts Day 5 driving from 2h53 to 2h24. Same dates, hotels and flights as v2 (including the 21:50 landing and the out-of-hours car pick-up).",
-   "he": "מה השתנה בגרסה 3: התוכנית בנויה עכשיו קודם כול לילדים, עם לפחות שתי פעילויות לילדים בכל יום מלא: סירת פלטנה, טירה ושחייה בבלד; רכבל ומגלשת קיץ בסטראז'ה וסירת משוטים; גונדולת וגל ושייט וחוף בבוהין; רכבת מערת פוסטוינה והוויבריום; מגרש משחקים בטיבולי; בית הניסויים ומוזיאון הטבע; גן החיות של לובליאנה ובית האשליות; פוניקולר הטירה, מוזיאון הבובות ושייט בנהר. ערוץ וינטגר (כ-3.2 ק\"מ) וטירת פרדיאמה הוסרו, וכך נסיעת יום 5 קצרה מ-2:53 שעות ל-2:24. אותם תאריכים, מלונות וטיסות כמו בגרסה 2 (כולל נחיתה ב-21:50 ואיסוף רכב מחוץ לשעות)."
+   "en": "What changed in v4: the hotels were re-priced on 19 Nov 2026 on Booking.com (the same ones, free cancellation, air-conditioned): €1,609 → €1,739 (Apartment Muznik €900 → €1,030). The flights are the ones priced on 9 Nov 2026: Google did not answer automated searches for this route on 19 Nov 2026, so their prices could not be re-checked. The estimated total is now about €5,286 (it was €5,156). The plan itself – dates, places and days – is the same.",
+   "he": "מה השתנה בגרסה 4: המלונות תומחרו מחדש ב-19.11.2026 ב-Booking.com (אותם מלונות, ביטול חינם, ממוזגים): 1,609 € ← 1,739 € (Apartment Muznik 900 € ← 1,030 €). הטיסות הן אלה שתומחרו ב-9.11.2026: גוגל לא ענתה לחיפושים אוטומטיים בקו הזה ב-19.11.2026, ולכן המחירים שלהן לא נבדקו מחדש. הסכום המשוער הוא עכשיו כ-5,286 € (היה 5,156 €). התוכנית עצמה – תאריכים, מקומות וימים – לא השתנתה."
   },
   {
-   "en": "Dates Sun 15 – Tue 24 Aug 2027 (evening arrival, late drive to the base): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €4,293).",
-   "he": "תאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-4,293 €)."
+   "en": "Dates Sun 15 – Tue 24 Aug 2027 (evening arrival, late drive to the base) are kept. Hotels were re-priced for every start date 14–22 Aug; the date comparison for flights is the one of 9 Nov 2026.",
+   "he": "התאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס) נשארים. המלונות תומחרו מחדש לכל תאריך התחלה 14–22 באוגוסט; השוואת התאריכים לטיסות היא זו מ-9.11.2026."
   },
   {
-   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Lufthansa LH 695 + LH 1462 08:00→21:50; back: Aegean A3 791 + A3 926 09:20→19:00.",
-   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: לופטהנזה LH 695 + LH 1462 08:00←21:50; חזור: אגיאן A3 791 + A3 926 09:20←19:00."
-  },
-  {
-   "en": "Next best: Fri 20 – Sun 29 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €4,156 (+€-137); back Aegean 09:20→02:45.",
-   "he": "הבא בתור: ו' 20 – א' 29 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-4,156 € (+-137 €); חזור אגיאן 09:20←02:45."
-  },
-  {
-   "en": "Next best: Sat 14 – Mon 23 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €4,167 (+€-126); back KLM 12:40→02:35.",
-   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-4,167 € (+-126 €); חזור KLM 12:40←02:35."
+   "en": "Flights (prices of 9 Nov 2026): out Lufthansa LH 695 + LH 1462 08:00→21:50; back Aegean A3 791 + A3 926 09:20→19:00.",
+   "he": "טיסות (מחירים מ-9.11.2026): הלוך לופטהנזה LH 695 + LH 1462 08:00←21:50; חזור אגיאן A3 791 + A3 926 09:20←19:00."
   },
   {
    "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
@@ -703,362 +695,11 @@
    "he": "כללי הכבודה משתנים לפי תעריף וחברה; ל-2 המזוודות ו-2 הטרולים אני מניח כ-160 € לכיוון (הערכה – לבדוק בתנאי התעריף בזמן ההזמנה). סה\"כ כ-320 €."
   },
   "note": {
-   "en": "Live Google Flights prices found 17–18 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included.",
-   "he": "מחירים חיים מ-Google Flights מ-17–18.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה."
+   "en": "Flight prices are from 9 Nov 2026 (Google Flights, total for 2 adults + 2 children, cheapest fare, bags not included). On 19 Nov 2026 Google did not answer automated searches for this route, so they could not be re-checked – look at them again before booking.",
+   "he": "מחירי הטיסות הם מ-9.11.2026 (Google Flights, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה). ב-19.11.2026 גוגל לא ענתה לחיפושים אוטומטיים בקו הזה, ולכן לא נבדקו מחדש – כדאי לבדוק אותם שוב לפני ההזמנה."
   }
  },
- "date_options": [
-  {
-   "total_eur": 4156.3,
-   "plan": "eve",
-   "start": "2027-08-20",
-   "end": "2027-08-29",
-   "out": {
-    "eur": 866,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 929 + A3 790",
-    "dep": "05:00",
-    "arr": "17:50"
-   },
-   "back": {
-    "eur": 996,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 791 + A3 928",
-    "dep": "09:20",
-    "arr": "02:45"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4167.3,
-   "plan": "eve",
-   "start": "2027-08-14",
-   "end": "2027-08-23",
-   "out": {
-    "eur": 865,
-    "bags_eur": 160,
-    "airline": "Brussels Airlines",
-    "flight": "SN 3294 + SN 3343",
-    "dep": "04:50",
-    "arr": "18:25"
-   },
-   "back": {
-    "eur": 1008,
-    "bags_eur": 160,
-    "airline": "KLM",
-    "flight": "KL 1990 + KL 461",
-    "dep": "12:40",
-    "arr": "02:35"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4188.3,
-   "plan": "eve",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 910,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 695 + LH 1462",
-    "dep": "08:00",
-    "arr": "21:50"
-   },
-   "back": {
-    "eur": 984,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 791 + A3 928",
-    "dep": "18:40",
-    "arr": "02:45"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4212.3,
-   "plan": "eve",
-   "start": "2027-08-16",
-   "end": "2027-08-25",
-   "out": {
-    "eur": 910,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 695 + LH 1462",
-    "dep": "08:00",
-    "arr": "21:50"
-   },
-   "back": {
-    "eur": 1008,
-    "bags_eur": 160,
-    "airline": "KLM",
-    "flight": "KL 1990 + KL 461",
-    "dep": "12:40",
-    "arr": "02:35"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4212.3,
-   "plan": "eve",
-   "start": "2027-08-17",
-   "end": "2027-08-26",
-   "out": {
-    "eur": 910,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 695 + LH 1462",
-    "dep": "08:00",
-    "arr": "21:50"
-   },
-   "back": {
-    "eur": 1008,
-    "bags_eur": 160,
-    "airline": "KLM",
-    "flight": "KL 1990 + KL 461",
-    "dep": "12:40",
-    "arr": "02:35"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4251.3,
-   "plan": "day",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 973,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 683 + LH 1696",
-    "dep": "07:00",
-    "arr": "13:15"
-   },
-   "back": {
-    "eur": 984,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 791 + A3 928",
-    "dep": "18:40",
-    "arr": "02:45"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4274.3,
-   "plan": "day",
-   "start": "2027-08-19",
-   "end": "2027-08-28",
-   "out": {
-    "eur": 972,
-    "bags_eur": 160,
-    "airline": "Brussels Airlines",
-    "flight": "SN 3294 + SN 3343",
-    "dep": "05:10",
-    "arr": "13:00"
-   },
-   "back": {
-    "eur": 1008,
-    "bags_eur": 160,
-    "airline": "KLM",
-    "flight": "",
-    "dep": "12:40",
-    "arr": "02:35"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4293.3,
-   "plan": "eve",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
-   "out": {
-    "eur": 1015,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 695 + LH 1462",
-    "dep": "08:00",
-    "arr": "21:50"
-   },
-   "back": {
-    "eur": 984,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 791 + A3 926",
-    "dep": "09:20",
-    "arr": "19:00"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": true
-  },
-  {
-   "total_eur": 4396.3,
-   "plan": "day",
-   "start": "2027-08-17",
-   "end": "2027-08-26",
-   "out": {
-    "eur": 1094,
-    "bags_eur": 160,
-    "airline": "Brussels Airlines",
-    "flight": "SN 3294 + SN 3343",
-    "dep": "05:50",
-    "arr": "13:00"
-   },
-   "back": {
-    "eur": 1008,
-    "bags_eur": 160,
-    "airline": "KLM",
-    "flight": "KL 1990 + KL 461",
-    "dep": "12:40",
-    "arr": "02:35"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4399.3,
-   "plan": "day",
-   "start": "2027-08-16",
-   "end": "2027-08-25",
-   "out": {
-    "eur": 1097,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 683 + LH 1696",
-    "dep": "07:00",
-    "arr": "12:40"
-   },
-   "back": {
-    "eur": 1008,
-    "bags_eur": 160,
-    "airline": "KLM",
-    "flight": "KL 1990 + KL 461",
-    "dep": "12:40",
-    "arr": "02:35"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4441.3,
-   "plan": "eve",
-   "start": "2027-08-19",
-   "end": "2027-08-28",
-   "out": {
-    "eur": 1139,
-    "bags_eur": 160,
-    "airline": "Lufthansa",
-    "flight": "LH 695 + LH 1462",
-    "dep": "08:00",
-    "arr": "21:50"
-   },
-   "back": {
-    "eur": 1008,
-    "bags_eur": 160,
-    "airline": "KLM",
-    "flight": "",
-    "dep": "12:40",
-    "arr": "02:35"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4521.3,
-   "plan": "day",
-   "start": "2027-08-20",
-   "end": "2027-08-29",
-   "out": {
-    "eur": 1231,
-    "bags_eur": 160,
-    "airline": "Brussels Airlines",
-    "flight": "SN 3294 + SN 3343",
-    "dep": "04:50",
-    "arr": "13:00"
-   },
-   "back": {
-    "eur": 996,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 791 + A3 928",
-    "dep": "09:20",
-    "arr": "02:45"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4522.3,
-   "plan": "day",
-   "start": "2027-08-14",
-   "end": "2027-08-23",
-   "out": {
-    "eur": 1220,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257 + LX 2274",
-    "dep": "04:50",
-    "arr": "14:00"
-   },
-   "back": {
-    "eur": 1008,
-    "bags_eur": 160,
-    "airline": "KLM",
-    "flight": "KL 1990 + KL 461",
-    "dep": "12:40",
-    "arr": "02:35"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  },
-  {
-   "total_eur": 4665.3,
-   "plan": "day",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
-   "out": {
-    "eur": 1387,
-    "bags_eur": 160,
-    "airline": "Brussels Airlines",
-    "flight": "SN 3294 + SN 3343",
-    "dep": "06:30",
-    "arr": "14:10"
-   },
-   "back": {
-    "eur": 984,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 791 + A3 926",
-    "dep": "09:20",
-    "arr": "19:00"
-   },
-   "hotels_eur": 1609.3,
-   "car_eur": 365,
-   "chosen": false
-  }
- ],
+ "date_options": [],
  "airports": {
   "LJU": {
    "name": "Ljubljana Jože Pučnik Airport",
@@ -1233,9 +874,9 @@
    "checkin": "2027-08-15",
    "checkout": "2027-08-20",
    "nights": 5,
-   "total_eur": 900.0,
+   "total_eur": 1030.0,
    "booking_score": 8.9,
-   "booking_reviews": 659,
+   "booking_reviews": 658,
    "booking_url": "https://www.booking.com/hotel/si/apartment-muznik.html?checkin=2027-08-15&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Apartment for up to 5 with a fully equipped kitchen, free parking, terrace/garden and BBQ; free cancellation. Check-in from 15:00 (check-out until 10:00), private (key) check-in with no reception. You land at 21:50 and arrive after about 23:00: Booking's Q&A says to tell the property your arrival time in advance and to ask about any late-arrival fee, but it does not say whether a key box or code is used – get the late self check-in instructions in writing before you fly. No pool: the lake is the pool (swimming spots 300 m away).",
@@ -1281,13 +922,13 @@
      "credit": "Google Maps listing photo"
     }
    ],
-   "price_per_night_eur": 180.0,
+   "price_per_night_eur": 206.0,
    "ratings": [
     {
      "source": "Booking.com",
      "score": 8.9,
      "out_of": 10,
-     "reviews": 659,
+     "reviews": 658,
      "url": "https://www.booking.com/hotel/si/apartment-muznik.html?checkin=2027-08-15&checkout=2027-08-20&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
@@ -1312,7 +953,7 @@
    "nights": 4,
    "total_eur": 709.3,
    "booking_score": 8.9,
-   "booking_reviews": 135,
+   "booking_reviews": 133,
    "booking_url": "https://www.booking.com/hotel/si/absolutum-apartments.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "Family apartment with one bedroom, sleeps up to 4, with a kitchenette and a garden; free cancellation. Check-in from 15:00, check-out until 11:00; you arrive around 13:00 from the airport on Fri 20 Aug, so ask the host for early check-in or bag storage. Lift not listed. Parking is not needed (no car in the city). Departure Tue 24 Aug is at about 06:15 for the 09:20 flight: agree a self check-out (leave the key as instructed).",
@@ -1364,7 +1005,7 @@
      "source": "Booking.com",
      "score": 8.9,
      "out_of": 10,
-     "reviews": 135,
+     "reviews": 133,
      "url": "https://www.booking.com/hotel/si/absolutum-apartments.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
@@ -4549,7 +4190,7 @@
    },
    {
     "key": "hotels",
-    "eur": 1609.3,
+    "eur": 1739.3,
     "status": "live",
     "label": {
      "en": "Hotels – 2 stays, 9 nights, free cancellation",
@@ -4566,8 +4207,8 @@
     }
    }
   ],
-  "total_eur": 5156.3,
-  "live_part_eur": 3608.3,
+  "total_eur": 5286.3,
+  "live_part_eur": 3738.3,
   "attractions_local": 634.5,
   "fuel_km": 397
  },
@@ -4575,7 +4216,7 @@
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Slovenia v3 research · prices checked 9 Nov 2026 · awaiting your approval",
+   "eyebrow": "Slovenia v4 research · hotels checked 19 Nov 2026, flights 9 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -4635,13 +4276,13 @@
    "checked": "CHECKED",
    "mixed": "MIXED",
    "photo_by": "Photo",
-   "legend": "LIVE = live price/rating found 17–18 Oct 2026 · EST = estimate · CHECKED = official or 2026 ticket price. EUR.",
+   "legend": "LIVE = live price (hotels 19 Nov 2026, flights 9 Nov 2026; ratings Oct–Nov 2026) · EST = estimate · CHECKED = official or 2026 ticket price. EUR.",
    "version": "Version",
    "book": "Book on Booking.com",
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Slovenia v3 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Slovenia v4 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Lake Bled",
@@ -4668,7 +4309,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "סלובניה גרסה 3 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
+   "eyebrow": "סלובניה גרסה 4 · מלונות נבדקו 19.11.2026, טיסות 9.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -4728,13 +4369,13 @@
    "checked": "נבדק",
    "mixed": "משולב",
    "photo_by": "צילום",
-   "legend": "חי = מחיר/דירוג חי מ-17–18.10.2026 · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו.",
+   "legend": "חי = מחיר חי (מלונות 19.11.2026, טיסות 9.11.2026; דירוגים אוקטובר–נובמבר 2026) · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו.",
    "version": "גרסה",
    "book": "הזמנה ב-Booking.com",
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "סלובניה גרסה 3 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "סלובניה גרסה 4 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "אגם בלד",
@@ -4760,8 +4401,8 @@
   }
  },
  "approved": {
-  "version": "si v3",
-  "approved_on": "2026-11-09",
+  "version": "si v4",
+  "approved_on": "2026-11-19",
   "by": "traveller"
  },
  "map": {

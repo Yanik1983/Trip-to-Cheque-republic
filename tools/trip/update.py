@@ -355,6 +355,71 @@ def apply(t, checked, ver, start=None):
     return D, rep, opt
 
 
+def apply_hotels_only(t, checked, ver):
+    """No flight lists for this trip in the snapshot: refresh the hotels and the budget, keep the published flights and say so."""
+    D0, D = t.D, copy.deepcopy(t.D)
+    start = t.start0
+    end = start + datetime.timedelta(days=engine.NIGHTS)
+    name, n = D["country"]["name"], int(ver.lstrip("v"))
+    c, pc = dmy(checked), dmy(D0["version"]["date"])
+    D["version"] = {"id": ver, "date": checked, "label": {"en": f"{name['en']} {ver}", "he": f"{name['he']} גרסה {n}"}}
+    D["approved"] = {"version": f"{t.cc} {ver}", "approved_on": checked, "by": "traveller"}
+    by_id = {h["id"]: h for h in D["hotels"]}
+    for sid, ci, co, row in t.stays(start):
+        h, nights = by_id[sid], (co - ci).days
+        h.update(total_eur=row["price"], price_per_night_eur=round(row["price"] / nights, 2))
+        if row.get("score"):
+            h["booking_score"], h["booking_reviews"] = row["score"], row["reviews"]
+            for r in h["ratings"]:
+                if r["source"].startswith("Booking"):
+                    r["score"], r["reviews"] = row["score"], row["reviews"]
+    h_old, h_new = sum(h["total_eur"] for h in D0["hotels"]), round(sum(h["total_eur"] for h in D["hotels"]), 2)
+    for l in D["budget"]["lines"]:
+        if l["key"] == "hotels":
+            l["eur"] = h_new
+    D["budget"]["total_eur"] = round(sum(l["eur"] for l in D["budget"]["lines"]), 2)
+    D["budget"]["live_part_eur"] = round(sum(l["eur"] for l in D["budget"]["lines"] if l["status"] == "live"), 2)
+    D["date_options"] = []                                   # the old table no longer matches today's hotel prices
+    o, b = D["flights"]["chosen"]
+    D["flights"]["note"] = {
+        "en": f"Flight prices are from {pc['en']} (Google Flights, total for 2 adults + 2 children, cheapest fare, bags not included). On {c['en']} Google did not "
+              f"answer automated searches for this route, so they could not be re-checked – look at them again before booking.",
+        "he": f"מחירי הטיסות הם מ-{pc['he']} (Google Flights, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה). ב-{c['he']} גוגל לא ענתה לחיפושים "
+              f"אוטומטיים בקו הזה, ולכן לא נבדקו מחדש – כדאי לבדוק אותם שוב לפני ההזמנה."}
+    moved = [(h0, h) for h0, h in zip(D0["hotels"], D["hotels"]) if abs(h["total_eur"] - h0["total_eur"]) >= 15]
+    det_en = "; ".join(f"{h['name']} {money(h0['total_eur'])} → {money(h['total_eur'])}" for h0, h in moved)
+    det_he = "; ".join(f"{h['name']} {h0['total_eur']:,.0f} € ← {h['total_eur']:,.0f} €" for h0, h in moved)
+    sh, sp = shape_text(D0), span(start, end, True)
+    tot_old, tot_new = D0["budget"]["total_eur"], D["budget"]["total_eur"]
+    D["changes"] = [
+        {"en": f"What changed in {ver}: the hotels were re-priced on {c['en']} on Booking.com (the same ones, free cancellation, air-conditioned): {money(h_old)} → {money(h_new)}"
+               + (f" ({det_en})." if moved else " – practically unchanged.") + f" The flights are the ones priced on {pc['en']}: Google did not answer automated searches "
+               f"for this route on {c['en']}, so their prices could not be re-checked. The estimated total is now about {money(tot_new)} (it was {money(tot_old)}). "
+               f"The plan itself – dates, places and days – is the same.",
+         "he": f"מה השתנה בגרסה {n}: המלונות תומחרו מחדש ב-{c['he']} ב-Booking.com (אותם מלונות, ביטול חינם, ממוזגים): {h_old:,.0f} € ← {h_new:,.0f} €"
+               + (f" ({det_he})." if moved else " – כמעט בלי שינוי.") + f" הטיסות הן אלה שתומחרו ב-{pc['he']}: גוגל לא ענתה לחיפושים אוטומטיים בקו הזה ב-{c['he']}, "
+               f"ולכן המחירים שלהן לא נבדקו מחדש. הסכום המשוער הוא עכשיו כ-{tot_new:,.0f} € (היה {tot_old:,.0f} €). התוכנית עצמה – תאריכים, מקומות וימים – לא השתנתה."},
+        {"en": f"Dates {sp['en']} ({sh['en']}) are kept. Hotels were re-priced for every start date 14–22 Aug; the date comparison for flights is the one of {pc['en']}.",
+         "he": f"התאריכים {sp['he']} ({sh['he']}) נשארים. המלונות תומחרו מחדש לכל תאריך התחלה 14–22 באוגוסט; השוואת התאריכים לטיסות היא זו מ-{pc['he']}."},
+        {"en": f"Flights (prices of {pc['en']}): out {o['airline']} {o['flight']} {o['dep']}→{o['arr']}; back {b['airline']} {b['flight']} {b['dep']}→{b['arr']}.",
+         "he": f"טיסות (מחירים מ-{pc['he']}): הלוך {he_air(o['airline'])} {o['flight']} {o['dep']}←{o['arr']}; חזור {he_air(b['airline'])} {b['flight']} {b['dep']}←{b['arr']}."},
+    ] + [x for x in D0["changes"] if x["en"].startswith("Same rules")]
+    for L in ("en", "he"):
+        U = D["ui"][L]
+        if L == "en":
+            U["eyebrow"] = f"{name['en']} {ver} research · hotels checked {c['en']}, flights {pc['en']} · awaiting your approval"
+            U["legend"] = re.sub(r"LIVE = live price/rating found [^·]*·", f"LIVE = live price (hotels {c['en']}, flights {pc['en']}; ratings Oct–Nov 2026) ·", U["legend"])
+            U["next_t"] = re.sub(r" v\d+ is in the mobile", f" {ver} is in the mobile", U["next_t"])
+        else:
+            U["eyebrow"] = f"{name['he']} גרסה {n} · מלונות נבדקו {c['he']}, טיסות {pc['he']} · ממתין לאישורך"
+            U["legend"] = re.sub(r"חי = מחיר/דירוג חי מ-[^·]*·", f"חי = מחיר חי (מלונות {c['he']}, טיסות {pc['he']}; דירוגים אוקטובר–נובמבר 2026) ·", U["legend"])
+            U["next_t"] = re.sub(r" גרסה \d+ נמצאת", f" גרסה {n} נמצאת", U["next_t"])
+    rep = [f"{t.cc} {ver}: {start} → {end}  (HOTELS ONLY – no flight lists in the snapshot)"]
+    rep += [f"  hotel {h['name'][:40]:40} €{h0['total_eur']:.2f} → €{h['total_eur']:.2f}" for h0, h in zip(D0["hotels"], D["hotels"])]
+    rep.append(f"  total €{tot_old:.2f} → €{tot_new:.2f}")
+    return D, rep, None
+
+
 def time_mentions(D0, D):
     """Plan / car / hotel prose that quotes a time of the previous flights (to be checked by hand when a flight changed)."""
     old = {x for c in D0["flights"]["chosen"] for x in (c["dep"], c["arr"])}
@@ -413,7 +478,10 @@ def main(argv):
     start = datetime.date.fromisoformat(argv[argv.index("--start") + 1]) if "--start" in argv else None
     out = argv[argv.index("--out") + 1] if "--out" in argv else os.path.join(engine.ROOT, "app", f"trip-data-{cc}.json")
     t = engine.Trip(cc, snapdir)
-    D, rep, _ = apply(t, checked, ver, start)
+    if all(t.lists(start or t.start0)):
+        D, rep, _ = apply(t, checked, ver, start)
+    else:
+        D, rep, _ = apply_hotels_only(t, checked, ver)
     for name in (f"alt_{cc}.json", f"patch_{cc}.json"):                 # re-priced hotel alternatives, hand-written texts
         f = os.path.join(snapdir, name)
         if os.path.exists(f):

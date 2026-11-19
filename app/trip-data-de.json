@@ -12,7 +12,11 @@
    "code": "ZRH",
    "name": "Zurich Airport",
    "lat": 47.4502,
-   "lng": 8.5622
+   "lng": 8.5622,
+   "city": {
+    "en": "Zurich",
+    "he": "ציריך"
+   }
   },
   "city": {
    "en": "Rust (Europa-Park)",
@@ -25,35 +29,27 @@
  },
  "variant": "eve",
  "version": {
-  "id": "v2",
-  "date": "2026-11-09",
+  "id": "v3",
+  "date": "2026-11-19",
   "label": {
-   "en": "Germany – Black Forest v2",
-   "he": "גרמניה – היער השחור גרסה 2"
+   "en": "Germany – Black Forest v3",
+   "he": "גרמניה – היער השחור גרסה 3"
   }
  },
  "taxi_days": [],
  "car_km": 690.2,
  "changes": [
   {
-   "en": "What changed in v2: flights were re-checked on 9 Nov 2026 (the v1 SWISS outbound rose from €683 to €1,006), so the cheapest dates moved from Sat 14 – Mon 23 Aug to Sun 15 – Tue 24 Aug 2027 (Aegean out at 05:30, Iberia back at 11:55). Zurich is still the cheapest airport among Zurich, Basel, Stuttgart and Frankfurt (Frankfurt looks €57 cheaper on paper, but it is 3½ hours from the first base). Flights + bags + hotels + car ≈ €4,710. The day order was rebuilt for the new weekdays: Europa-Park on Monday, Rulantica on Sunday (the weekday alternative is a Friday-evening ticket).",
-   "he": "מה השתנה בגרסה 2: הטיסות נבדקו שוב ב-9.11.2026 (טיסת ההלוך של SWISS מגרסה 1 עלתה מ-683 € ל-1,006 €), ולכן התאריכים הזולים ביותר עברו מ-ש' 14 – ב' 23 באוגוסט ל-א' 15 – ג' 24 באוגוסט 2027 (אגיאן הלוך ב-05:30, איבריה חזור ב-11:55). ציריך נשארה השדה הזול ביותר מבין ציריך, בזל, שטוטגרט ופרנקפורט (פרנקפורט נראית זולה ב-57 € על הנייר, אבל היא 3.5 שעות מהבסיס הראשון). טיסות + כבודה + מלונות + רכב כ-4,710 €. סדר הימים נבנה מחדש: אירופה-פארק ביום שני, רולנטיקה ביום ראשון (חלופה בימי חול: כרטיס ערב ביום שישי)."
+   "en": "What changed in v3: the hotels were re-priced on 19 Nov 2026 on Booking.com (the same ones, free cancellation, air-conditioned): €2,057 → €2,057 – practically unchanged. The flights are the ones priced on 9 Nov 2026: Google did not answer automated searches for this route on 19 Nov 2026, so their prices could not be re-checked. The estimated total is now about €5,697 (it was €5,697). The plan itself – dates, places and days – is the same.",
+   "he": "מה השתנה בגרסה 3: המלונות תומחרו מחדש ב-19.11.2026 ב-Booking.com (אותם מלונות, ביטול חינם, ממוזגים): 2,057 € ← 2,057 € – כמעט בלי שינוי. הטיסות הן אלה שתומחרו ב-9.11.2026: גוגל לא ענתה לחיפושים אוטומטיים בקו הזה ב-19.11.2026, ולכן המחירים שלהן לא נבדקו מחדש. הסכום המשוער הוא עכשיו כ-5,697 € (היה 5,697 €). התוכנית עצמה – תאריכים, מקומות וימים – לא השתנתה."
   },
   {
-   "en": "Dates Sun 15 – Tue 24 Aug 2027 (evening arrival, late drive to the base): the cheapest of 14 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €4,661).",
-   "he": "תאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס): הזול מבין 14 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-4,661 €)."
+   "en": "Dates Sun 15 – Tue 24 Aug 2027 (evening arrival, late drive to the base) are kept. Hotels were re-priced for every start date 14–22 Aug; the date comparison for flights is the one of 9 Nov 2026.",
+   "he": "התאריכים א' 15 – ג' 24 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס) נשארים. המלונות תומחרו מחדש לכל תאריך התחלה 14–22 באוגוסט; השוואת התאריכים לטיסות היא זו מ-9.11.2026."
   },
   {
-   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Aegean A3 457 + A3 448 05:30→19:45; back: Iberia IB 628 + IB 1873 11:55→23:20.",
-   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: אגיאן A3 457 + A3 448 05:30←19:45; חזור: Iberia IB 628 + IB 1873 11:55←23:20."
-  },
-  {
-   "en": "Next best: Sat 14 – Mon 23 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €4,581 (+€-80); back Aegean 11:15→19:00.",
-   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-4,581 € (+-80 €); חזור אגיאן 11:15←19:00."
-  },
-  {
-   "en": "Next best: Sat 14 – Mon 23 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €4,581 (+€-80); back Aegean 11:15→19:00.",
-   "he": "הבא בתור: ש' 14 – ב' 23 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-4,581 € (+-80 €); חזור אגיאן 11:15←19:00."
+   "en": "Flights (prices of 9 Nov 2026): out Aegean A3 457 + A3 448 05:30→19:45; back Iberia IB 628 + IB 1873 11:55→23:20.",
+   "he": "טיסות (מחירים מ-9.11.2026): הלוך אגיאן A3 457 + A3 448 05:30←19:45; חזור איבריה IB 628 + IB 1873 11:55←23:20."
   },
   {
    "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
@@ -765,362 +761,11 @@
    "he": "כללי הכבודה משתנים לפי תעריף וחברה; ל-2 המזוודות ו-2 הטרולים אני מניח כ-160 € לכיוון (הערכה – לבדוק בתנאי התעריף בזמן ההזמנה). סה\"כ כ-320 €."
   },
   "note": {
-   "en": "Live Google Flights prices found 17–18 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included.",
-   "he": "מחירים חיים מ-Google Flights מ-17–18.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה."
+   "en": "Flight prices are from 9 Nov 2026 (Google Flights, total for 2 adults + 2 children, cheapest fare, bags not included). On 19 Nov 2026 Google did not answer automated searches for this route, so they could not be re-checked – look at them again before booking.",
+   "he": "מחירי הטיסות הם מ-9.11.2026 (Google Flights, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה). ב-19.11.2026 גוגל לא ענתה לחיפושים אוטומטיים בקו הזה, ולכן לא נבדקו מחדש – כדאי לבדוק אותם שוב לפני ההזמנה."
   }
  },
- "date_options": [
-  {
-   "total_eur": 4581.35,
-   "plan": "day",
-   "start": "2027-08-14",
-   "end": "2027-08-23",
-   "out": {
-    "eur": 683,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257",
-    "dep": "04:50",
-    "arr": "08:10"
-   },
-   "back": {
-    "eur": 838,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 851 + A3 926",
-    "dep": "11:15",
-    "arr": "19:00"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4581.35,
-   "plan": "eve",
-   "start": "2027-08-14",
-   "end": "2027-08-23",
-   "out": {
-    "eur": 683,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 253",
-    "dep": "18:15",
-    "arr": "21:35"
-   },
-   "back": {
-    "eur": 838,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 851 + A3 926",
-    "dep": "11:15",
-    "arr": "19:00"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4583.35,
-   "plan": "day",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 683,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257",
-    "dep": "04:50",
-    "arr": "08:10"
-   },
-   "back": {
-    "eur": 840,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1871",
-    "dep": "07:30",
-    "arr": "17:35"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4583.35,
-   "plan": "eve",
-   "start": "2027-08-18",
-   "end": "2027-08-27",
-   "out": {
-    "eur": 683,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 253",
-    "dep": "18:15",
-    "arr": "21:35"
-   },
-   "back": {
-    "eur": 840,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1871",
-    "dep": "07:30",
-    "arr": "17:35"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4614.35,
-   "plan": "day",
-   "start": "2027-08-20",
-   "end": "2027-08-29",
-   "out": {
-    "eur": 683,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257",
-    "dep": "04:50",
-    "arr": "08:10"
-   },
-   "back": {
-    "eur": 871,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1873",
-    "dep": "07:30",
-    "arr": "23:20"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4614.35,
-   "plan": "eve",
-   "start": "2027-08-20",
-   "end": "2027-08-29",
-   "out": {
-    "eur": 683,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 253",
-    "dep": "18:15",
-    "arr": "21:35"
-   },
-   "back": {
-    "eur": 871,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1873",
-    "dep": "07:30",
-    "arr": "23:20"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4624.35,
-   "plan": "day",
-   "start": "2027-08-16",
-   "end": "2027-08-25",
-   "out": {
-    "eur": 767,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257",
-    "dep": "04:50",
-    "arr": "08:10"
-   },
-   "back": {
-    "eur": 797,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1871",
-    "dep": "07:30",
-    "arr": "17:35"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4657.35,
-   "plan": "day",
-   "start": "2027-08-17",
-   "end": "2027-08-26",
-   "out": {
-    "eur": 683,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257",
-    "dep": "04:50",
-    "arr": "08:10"
-   },
-   "back": {
-    "eur": 914,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1873",
-    "dep": "07:30",
-    "arr": "23:20"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4657.35,
-   "plan": "day",
-   "start": "2027-08-19",
-   "end": "2027-08-28",
-   "out": {
-    "eur": 683,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 257",
-    "dep": "04:50",
-    "arr": "08:10"
-   },
-   "back": {
-    "eur": 914,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1873",
-    "dep": "07:30",
-    "arr": "23:20"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4657.35,
-   "plan": "eve",
-   "start": "2027-08-19",
-   "end": "2027-08-28",
-   "out": {
-    "eur": 683,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 253",
-    "dep": "18:15",
-    "arr": "21:35"
-   },
-   "back": {
-    "eur": 914,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1873",
-    "dep": "07:30",
-    "arr": "23:20"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4661.35,
-   "plan": "eve",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
-   "out": {
-    "eur": 804,
-    "bags_eur": 160,
-    "airline": "Aegean",
-    "flight": "A3 457 + A3 448",
-    "dep": "05:30",
-    "arr": "19:45"
-   },
-   "back": {
-    "eur": 797,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1873",
-    "dep": "07:30",
-    "arr": "23:20"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": true
-  },
-  {
-   "total_eur": 4695.35,
-   "plan": "day",
-   "start": "2027-08-15",
-   "end": "2027-08-24",
-   "out": {
-    "eur": 838,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 1874 + IB 629",
-    "dep": "05:30",
-    "arr": "14:00"
-   },
-   "back": {
-    "eur": 797,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1873",
-    "dep": "07:30",
-    "arr": "23:20"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4741.35,
-   "plan": "eve",
-   "start": "2027-08-17",
-   "end": "2027-08-26",
-   "out": {
-    "eur": 767,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 253",
-    "dep": "18:15",
-    "arr": "21:35"
-   },
-   "back": {
-    "eur": 914,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1873",
-    "dep": "07:30",
-    "arr": "23:20"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  },
-  {
-   "total_eur": 4861.35,
-   "plan": "eve",
-   "start": "2027-08-16",
-   "end": "2027-08-25",
-   "out": {
-    "eur": 1004,
-    "bags_eur": 160,
-    "airline": "SWISS",
-    "flight": "LX 253",
-    "dep": "18:15",
-    "arr": "21:35"
-   },
-   "back": {
-    "eur": 797,
-    "bags_eur": 160,
-    "airline": "Iberia",
-    "flight": "IB 634 + IB 1871",
-    "dep": "07:30",
-    "arr": "17:35"
-   },
-   "hotels_eur": 2057.35,
-   "car_eur": 640,
-   "chosen": false
-  }
- ],
+ "date_options": [],
  "airports": {
   "ZRH": {
    "name": "Zurich Airport",
@@ -1422,7 +1067,7 @@
    "nights": 4,
    "total_eur": 759.6,
    "booking_score": 8.9,
-   "booking_reviews": 156,
+   "booking_reviews": 153,
    "booking_url": "https://www.booking.com/hotel/de/ferienwohnung-busch-rust1.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
    "room": {
     "en": "One-bedroom apartment for up to 4 (bedroom + sofa bed) with a kitchenette (stove and fridge), outdoor furniture and free parking; free cancellation. Check-in from 16:00 on Fri 20 Aug (self check-in available). Check-out is by 10:00, but you leave at about 07:30 on Tue 24 Aug: Booking's Q&A says private check-out exists but does not describe a key drop – tell the host in advance and agree where to leave the key. No pool – Rulantica and Europa-Park are next door.",
@@ -1474,7 +1119,7 @@
      "source": "Booking.com",
      "score": 8.9,
      "out_of": 10,
-     "reviews": 156,
+     "reviews": 153,
      "url": "https://www.booking.com/hotel/de/ferienwohnung-busch-rust1.html?checkin=2027-08-20&checkout=2027-08-24&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
     },
     {
@@ -6077,7 +5722,7 @@
   "en": {
    "dir": "ltr",
    "lang": "en",
-   "eyebrow": "Germany – Black Forest v2 research · prices checked 9 Nov 2026 · awaiting your approval",
+   "eyebrow": "Germany – Black Forest v3 research · hotels checked 19 Nov 2026, flights 9 Nov 2026 · awaiting your approval",
    "total": "Estimated total",
    "live_of": "of which {x} live prices",
    "flights": "Flights",
@@ -6137,13 +5782,13 @@
    "checked": "CHECKED",
    "mixed": "MIXED",
    "photo_by": "Photo",
-   "legend": "LIVE = live price/rating found 17–18 Oct 2026 · EST = estimate · CHECKED = official or 2026 ticket price. EUR.",
+   "legend": "LIVE = live price (hotels 19 Nov 2026, flights 9 Nov 2026; ratings Oct–Nov 2026) · EST = estimate · CHECKED = official or 2026 ticket price. EUR.",
    "version": "Version",
    "book": "Book on Booking.com",
    "routes_note": "OSRM (OpenStreetMap) times without traffic; allow 10–20% extra.",
    "excluded": "Not included: food, souvenirs, insurance, home-airport parking, optional attractions.",
    "next": "Next step",
-   "next_t": "Germany – Black Forest v2 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
+   "next_t": "Germany – Black Forest v3 is in the mobile web app next to the Czech trip (choose it at the top). Tell me what to change and I'll make the next version.",
    "trails": {
     "red": "",
     "blue": "Lake Schluchsee",
@@ -6170,7 +5815,7 @@
   "he": {
    "dir": "rtl",
    "lang": "he",
-   "eyebrow": "גרמניה – היער השחור גרסה 2 · מחירים נבדקו 9.11.2026 · ממתין לאישורך",
+   "eyebrow": "גרמניה – היער השחור גרסה 3 · מלונות נבדקו 19.11.2026, טיסות 9.11.2026 · ממתין לאישורך",
    "total": "סה\"כ משוער",
    "live_of": "מתוכם {x} מחירים חיים",
    "flights": "טיסות",
@@ -6230,13 +5875,13 @@
    "checked": "נבדק",
    "mixed": "משולב",
    "photo_by": "צילום",
-   "legend": "חי = מחיר/דירוג חי מ-17–18.10.2026 · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו.",
+   "legend": "חי = מחיר חי (מלונות 19.11.2026, טיסות 9.11.2026; דירוגים אוקטובר–נובמבר 2026) · הערכה = הערכה · נבדק = מחיר כרטיס רשמי או מ-2026. אירו.",
    "version": "גרסה",
    "book": "הזמנה ב-Booking.com",
    "routes_note": "זמני OSRM (OpenStreetMap) בלי פקקים; כדאי להוסיף 10–20%.",
    "excluded": "לא כלול: אוכל, מזכרות, ביטוח, חניה בנתב\"ג, אטרקציות אופציונליות.",
    "next": "השלב הבא",
-   "next_t": "גרמניה – היער השחור גרסה 2 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
+   "next_t": "גרמניה – היער השחור גרסה 3 נמצאת באפליקציית הטלפון ליד הטיול לצ'כיה (בוחרים למעלה). כתבו לי מה לשנות ואכין את הגרסה הבאה.",
    "trails": {
     "red": "",
     "blue": "אגם שלוכזה",
@@ -6262,8 +5907,8 @@
   }
  },
  "approved": {
-  "version": "de v2",
-  "approved_on": "2026-11-09",
+  "version": "de v3",
+  "approved_on": "2026-11-19",
   "by": "traveller"
  },
  "map": {
