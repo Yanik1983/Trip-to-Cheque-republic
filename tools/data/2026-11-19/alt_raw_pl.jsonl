@@ -1,0 +1,5 @@
+{"cc": "pl", "id": "hotel_hampton", "name": "Hilton Garden Inn Krakow Airport", "booking_id": 1170226, "checkin": "2027-08-17", "checkout": "2027-08-18", "nights": 1, "price": 378.65, "score": 9.1, "reviews": 8072, "note": ""}
+{"cc": "pl", "id": "hotel_hampton", "name": "Balice Apartamenty Premium - by Upstairs", "booking_id": 14764707, "checkin": "2027-08-17", "checkout": "2027-08-18", "nights": 1, "price": 216.55, "score": 8.9, "reviews": 36, "note": ""}
+{"cc": "pl", "id": "hotel_goralski", "name": "Góralski Resort 2 z Basenem", "booking_id": 13593790, "checkin": "2027-08-18", "checkout": "2027-08-22", "nights": 4, "price": 755.57, "score": 9.2, "reviews": 268, "note": ""}
+{"cc": "pl", "id": "hotel_playroom", "name": "Relaks Apartamenty", "booking_id": 477871, "checkin": "2027-08-22", "checkout": "2027-08-26", "nights": 4, "price": 580.37, "score": 9.6, "reviews": 1002, "note": "retry by name without street"}
+{"cc": "pl", "id": "hotel_playroom", "name": "Ventus Rosa Boutique Aparthotel", "booking_id": 5836945, "checkin": "2027-08-22", "checkout": "2027-08-26", "nights": 4, "price": 667.88, "score": 9.0, "reviews": 2867, "note": ""}

@@ -51,7 +51,7 @@ const urlFor = job => execFileSync('python3', ['-c',
     const [label, from, to, date] = job.split('|');
     const file = `${outdir}/${label}.json`;
     let result = null, attempt = 0;
-    while (!result && attempt < 2) {
+    while (!result && attempt < 1) {                 // one try per search; run the command again later for the ones that failed
       attempt++;
       if (!first) await sleep(opt.pace * 1000 * (0.75 + 0.5 * Math.random()));
       first = false;
@@ -61,12 +61,15 @@ const urlFor = job => execFileSync('python3', ['-c',
         const resp = await page.goto(urlFor(job), { waitUntil: 'domcontentloaded', timeout: 60000 });
         if ((resp && resp.status() === 429) || page.url().includes('/sorry/')) blocked = true;
         let n = 0;
+        let oops = false;
         for (let i = 0; i < 15 && !blocked; i++) {
           await page.waitForTimeout(1500);
           if (page.url().includes('/sorry/')) { blocked = true; break; }
           n = await count();
           if (n > 0) break;
+          if (i > 2 && /something went wrong/i.test(await page.innerText('body'))) { oops = true; break; }
         }
+        if (oops) console.log(stamp(), label, 'Google refused the list request ("Oops, something went wrong") - try again later');
         if (!blocked && n > 0) {
           await page.waitForTimeout(1500);
           let more = 0;

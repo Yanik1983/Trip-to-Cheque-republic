@@ -2,7 +2,7 @@
 """Price comparison for the trips: cheapest flights that fit the plan, hotel totals per start date, cheapest dates.
 
 usage: engine.py <snapshot-dir> [cc ...]        e.g. engine.py tools/data/2026-11-19 cz hu
-Reads app/trip-data-<cc>.json (the plan as published), <snapshot-dir>/flights.json (Google Flights lists, see
+Reads <snapshot-dir>/base/trip-data-<cc>.json (the plan as published before the update), <snapshot-dir>/flights.json (Google Flights lists, see
 tools/flights/snapshot.py) and <snapshot-dir>/hotel_matrix_<cc>.jsonl (Booking.com totals per stay and date) and prints,
 for every start date that has flight lists for both directions, the cheapest combination.
 
@@ -85,7 +85,8 @@ def cheapest(flights, pred):
 class Trip:
     def __init__(self, cc, snapdir):
         self.cc, self.cfg = cc, TRIPS[cc]
-        self.D = json.load(open(os.path.join(ROOT, "app", f"trip-data-{cc}.json"), encoding="utf8"))
+        base = os.path.join(snapdir, "base", f"trip-data-{cc}.json")      # the plan as published before this update
+        self.D = json.load(open(base if os.path.exists(base) else os.path.join(ROOT, "app", f"trip-data-{cc}.json"), encoding="utf8"))
         self.F = json.load(open(os.path.join(snapdir, "flights.json"), encoding="utf8"))
         self.M = {}
         for line in open(os.path.join(snapdir, f"hotel_matrix_{cc}.jsonl"), encoding="utf8"):

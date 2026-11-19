@@ -4,7 +4,7 @@
 It opens the same public, shareable result page a person gets in the browser and saves the HTML; parse_html.py reads the
 flight rows out of it.
 
-usage: gget.py <outdir> [--pace 30] [--stops 1] [--tab cheapest|best] JOB ... | @jobs.txt
+usage: gget.py <outdir> [--pace 30] [--stops 1] JOB ... | @jobs.txt
   JOB = "label|FROM|TO|YYYY-MM-DD"   canonical search URL (2 adults + 2 children, economy, one way); --stops N keeps flights
                                       with at most N stops
       = "label|free text query"      Google's natural-language form, e.g. "Flights from TLV to PRG on 2027-08-21 one way 2 adults 2 children"
@@ -23,7 +23,9 @@ from urllib.parse import quote
 UA = "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 BASE = "https://www.google.com/travel/flights"
 TAIL = "hl=en&gl=IL&curr=EUR"
-TFU = {"cheapest": "EgoIABAAGAAgAigB", "best": ""}       # the page's own state parameter for the selected tab
+# 'tfu' is the page's own view-state parameter. Without it Google sends only the empty page frame and the browser
+# fetches the list afterwards; with it the list is already in the page, which is what a plain request needs.
+TFU = {"cheapest": "EgoIABAAGAAgAigB", "best": "EgoIABAAGAAgAigB"}
 
 
 def _varint(n):
