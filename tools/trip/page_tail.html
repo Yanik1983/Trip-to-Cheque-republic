@@ -1,0 +1,16 @@
+</div>
+<script>
+(function(){
+  var sel=document.getElementById('ver');
+  function lang(){ var h=(location.hash||'').replace('#',''); return h==='en'?'en':'he'; }
+  function apply(){ var L=lang(); document.querySelector('.lang-he').hidden=(L!=='he'); document.querySelector('.lang-en').hidden=(L!=='en');
+    document.documentElement.setAttribute('lang',L); document.documentElement.setAttribute('dir',L==='he'?'rtl':'ltr'); sel.value='#'+L; }
+  sel.addEventListener('change',function(){ var v=sel.value; if(v.charAt(0)==='#'){ location.hash=v; apply(); } else { location.href=v; } });
+  window.addEventListener('hashchange',apply); apply();
+})();
+</script><script>
+(function(){var on=document.querySelector('.dbar a.dest[aria-current]');if(on){var c=on.parentElement;c.scrollLeft=on.offsetLeft-(c.clientWidth-on.offsetWidth)/2}})();
+document.querySelectorAll('.dbar a.dest').forEach(function(a){ a.addEventListener('click', function(e){ if(a.getAttribute('aria-current')){ e.preventDefault(); return; } var h=location.hash; if(h){ e.preventDefault(); location.href=a.getAttribute('href').split('#')[0]+h; } }); });
+</script>
+</body>
+</html>
