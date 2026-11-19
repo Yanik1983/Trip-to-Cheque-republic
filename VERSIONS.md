@@ -53,7 +53,7 @@ Older versions stay in their folders (`v2`…`v6/`, `hu/v1`, `hu/v2`, `pl/v1`…
 
 ## Price update, 19 Nov 2026 (all in the app)
 
-On 19 Nov 2026 every price was checked again: hotels on Booking.com for every start date 14–22 Aug (free cancellation, air-conditioned), the alternatives of every hotel, and flights on Google Flights. Plans, places and dates did not change. The one flight that changed is the Czech return: the TAROM connection rose from €719 to €1,111, so the Smartwings nonstop at 12:45 (€916) is now the cheapest one that fits. Flights were re-priced for the dates of each plan, except Slovenia (Google did not answer for those routes; their flight prices are still the ones of 9 Nov and the pages say so); the comparison of other start dates was repeated for hotels only, because Google limited automated flight searches that day.
+On 19 Nov 2026 every price was checked again: hotels on Booking.com for every start date 14–22 Aug (free cancellation, air-conditioned), the alternatives of every hotel, and flights on Google Flights. Plans, places and dates did not change. The one flight that changed is the Czech return: the TAROM connection rose from €719 to €1,111, so the Smartwings nonstop at 12:45 (€916) is now the cheapest one that fits. Flights were re-priced for the dates of each plan, except Slovenia (Google did not answer for that route; its flight prices are still the ones of 9 Nov and the page says so); the comparison of other start dates was repeated for hotels only, because Google limited automated flight searches that day.
 
 | Destination | Version | Dates | Folder | Flights (out · back) | Estimated total | Before |
 |---|---|---|---|---|---|---|
