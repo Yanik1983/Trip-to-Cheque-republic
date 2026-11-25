@@ -1,0 +1,18 @@
+{"cc":"cz","id":"hotel_hiair","name":"Holiday Inn Prague Airport by IHG","checkin":"2027-08-21","checkout":"2027-08-22","price":206.93,"score":8.8,"reviews":3327}
+{"cc":"cz","id":"hotel_jedeme","name":"Jedeme Lipno","checkin":"2027-08-22","checkout":"2027-08-26","price":477,"score":9.3,"reviews":8}
+{"cc":"cz","id":"hotel_nova","name":"The Nova Apart Hotel","checkin":"2027-08-26","checkout":"2027-08-30","price":756,"score":9.4,"reviews":560}
+{"cc":"hu","id":"hotel_ibisair","name":"ibis Styles Budapest Airport","checkin":"2027-08-17","checkout":"2027-08-18","price":234.8,"score":8.5,"reviews":9881}
+{"cc":"hu","id":"hotel_forras","name":"Landhaus Forrás","checkin":"2027-08-18","checkout":"2027-08-22","price":918.8,"score":9.0,"reviews":43}
+{"cc":"hu","id":"hotel_westside","name":"WestSide Garden Apartments by FirstHost","checkin":"2027-08-22","checkout":"2027-08-26","price":596.9,"score":9.2,"reviews":1213}
+{"cc":"pl","id":"hotel_hampton","name":"Hampton by Hilton Krakow Airport","checkin":"2027-08-17","checkout":"2027-08-18","price":251.05,"score":9.1,"reviews":16817}
+{"cc":"pl","id":"hotel_goralski","name":"Góralski Resort Pool & SPA","checkin":"2027-08-18","checkout":"2027-08-22","price":859.67,"score":9.0,"reviews":1759}
+{"cc":"pl","id":"hotel_playroom","name":"PlayRoom Aparthotel","checkin":"2027-08-22","checkout":"2027-08-26","price":364.36,"score":9.1,"reviews":1634}
+{"cc":"ro","id":"hotel_carpathia","name":"Hotel Carpathia","checkin":"2027-08-19","checkout":"2027-08-24","price":780.7,"score":8.7,"reviews":1511}
+{"cc":"ro","id":"hotel_maison","name":"Maison Bucarest Apartments by Olala Homes","checkin":"2027-08-24","checkout":"2027-08-28","price":648.41,"score":9.0,"reviews":1851}
+{"cc":"si","id":"hotel_bled","name":"Apartment Muznik","checkin":"2027-08-15","checkout":"2027-08-20","price":1030,"score":8.9,"reviews":658}
+{"cc":"si","id":"hotel_lj","name":"Absolutum Apartments","checkin":"2027-08-20","checkout":"2027-08-24","price":709.3,"score":8.9,"reviews":133}
+{"cc":"ge","id":"hotel_tb1","name":"Ramada by Wyndham Tbilisi Old City","checkin":"2027-08-15","checkout":"2027-08-16","price":117.45,"score":8.4,"reviews":2077}
+{"cc":"ge","id":"hotel_bj","name":"Steel Tower Borjomi","checkin":"2027-08-16","checkout":"2027-08-20","price":671.24,"score":9.7,"reviews":583}
+{"cc":"ge","id":"hotel_tb2","name":"Ramada by Wyndham Tbilisi Old City","checkin":"2027-08-20","checkout":"2027-08-24","price":453.84,"score":8.4,"reviews":2077}
+{"cc":"de","id":"hotel_schluchsee","name":"Schönhier - Design Apartment mit Pool, Sauna","checkin":"2027-08-15","checkout":"2027-08-20","price":1297.75,"score":8.6,"reviews":5}
+{"cc":"de","id":"hotel_rust","name":"Ferienwohnungen Busch`s Gästehaus","checkin":"2027-08-20","checkout":"2027-08-24","price":759.6,"score":8.9,"reviews":153}

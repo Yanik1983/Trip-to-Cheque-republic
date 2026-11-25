@@ -1,0 +1,4105 @@
+{
+ "no_airport_hotel": true,
+ "country": {
+  "id": "ge",
+  "name": {
+   "en": "Georgia",
+   "he": "גאורגיה"
+  },
+  "currency": "GEL",
+  "per_eur": 3.03,
+  "airport": {
+   "code": "TBS",
+   "name": "Tbilisi Shota Rustaveli International Airport",
+   "lat": 41.6692,
+   "lng": 44.9547
+  },
+  "city": {
+   "en": "Tbilisi",
+   "he": "טביליסי"
+  },
+  "base": {
+   "en": "Borjomi (mineral-water spa town, pine forest)",
+   "he": "בורג'ומי (עיירת מעיינות מינרליים ביער אורנים)"
+  }
+ },
+ "variant": "eve",
+ "version": {
+  "id": "v1",
+  "date": "2026-10-21",
+  "label": {
+   "en": "Georgia v1",
+   "he": "גאורגיה גרסה 1"
+  }
+ },
+ "taxi_days": [
+  "D10"
+ ],
+ "car_km": 424.8,
+ "changes": [
+  {
+   "en": "Dates Tue 17 – Thu 26 Aug 2027 (evening arrival, late drive to the base): the cheapest of 11 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,773).",
+   "he": "תאריכים ג' 17 – ה' 26 באוגוסט 2027 (נחיתה בערב, נסיעה מאוחרת לבסיס): הזול מבין 11 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-3,773 €)."
+  },
+  {
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: Israir Airlines 6H 893 19:40→23:15; back: Aegean A3 897 + A3 924 04:35→12:50.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: ישראייר 6H 893 19:40←23:15; חזור: אגיאן A3 897 + A3 924 04:35←12:50."
+  },
+  {
+   "en": "Next best: Sun 15 – Tue 24 Aug (evening arrival, late drive to the base), flights + bags + hotels + car ≈ €3,785 (+€12); back Aegean 04:35→12:50.",
+   "he": "הבא בתור: א' 15 – ג' 24 באוגוסט (נחיתה בערב, נסיעה מאוחרת לבסיס), טיסות + כבודה + מלונות + רכב כ-3,785 € (+12 €); חזור אגיאן 04:35←12:50."
+  },
+  {
+   "en": "Next best: Sun 15 – Tue 24 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €3,864 (+€91); back Aegean 04:35→12:50.",
+   "he": "הבא בתור: א' 15 – ג' 24 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-3,864 € (+91 €); חזור אגיאן 04:35←12:50."
+  },
+  {
+   "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
+   "he": "אותם כללים כמו בתוכנית לצ'כיה: בלי מעבר גבולות, עד 3 מלונות, כולם עם ביטול חינם, הרבה אטרקציות לילדים, מעט הליכה, ימים קצרים, בלי רכב בעיר."
+  }
+ ],
+ "trip": {
+  "dates": {
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "days": 10,
+   "nights": 9
+  },
+  "title": {
+   "en": "Georgia Family Trip: Tbilisi, Borjomi Forest Park & Mountain Air",
+   "he": "טיול משפחתי בגאורגיה: טביליסי, פארק היער של בורג'ומי ואוויר הרים"
+  },
+  "lede": {
+   "en": "Tue 17 – Thu 26 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. Night 1 in an air-conditioned Tbilisi hotel, then a rental car for 4 days and 4 nights in cool, shady Borjomi (mineral-spring park with cable car and Ferris wheel, Bakuriani mountain lifts, Rabati Castle, Likani park), then 4 nights back in Tbilisi without a car (Narikala cable car, Mtatsminda amusement park, Mtskheta, open-air museum, Gino water park) (the flight home leaves at 04:35, so the last night is short: taxi at about 01:30) – every hotel has A/C and a pool or cool park nearby, because August in Tbilisi is hot (typically 33–36 °C). Israel's National Security Council currently advises against non-essential travel to Georgia – read the safety note before booking.",
+   "he": "שלישי 17 – חמישי 26 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה ראשון במלון ממוזג בטביליסי, אחר כך רכב שכור ל-4 ימים ו-4 לילות בבורג'ומי הקרירה והמוצלת (פארק מעיינות עם רכבל וגלגל ענק, מעליות ההר בבקוריאני, מבצר רבאטי, פארק ליקני), ואז 4 לילות חזרה בטביליסי בלי רכב (רכבל נריקלה, לונה פארק מצמינדה, מצחטה, מוזיאון פתוח, פארק המים ג'ינו) (הטיסה הביתה ב-04:35, ולכן הלילה האחרון קצר: מונית בסביבות 01:30) – בכל המלונות יש מיזוג ובריכה או פארק קריר בסביבה, כי אוגוסט בטביליסי חם (בדרך כלל 33–36 מעלות). המועצה לביטחון לאומי בישראל ממליצה כרגע להימנע מנסיעות לא חיוניות לגאורגיה – כדאי לקרוא את הערת הבטיחות לפני ההזמנה."
+  }
+ },
+ "currency": "EUR",
+ "local_per_eur": 3.03,
+ "local_currency": "GEL",
+ "flights": {
+  "chosen": [
+   {
+    "dir": {
+     "en": "Outbound",
+     "he": "הלוך"
+    },
+    "date": "2027-08-17",
+    "wd": {
+     "en": "Tue",
+     "he": "ג'"
+    },
+    "flight": "6H 893",
+    "airline": "Israir Airlines",
+    "from": "TLV",
+    "to": "TBS",
+    "dep": "19:40",
+    "arr": "23:15",
+    "duration": "2h 35m",
+    "price_eur": 958
+   },
+   {
+    "dir": {
+     "en": "Return",
+     "he": "חזור"
+    },
+    "date": "2027-08-26",
+    "wd": {
+     "en": "Thu",
+     "he": "ה'"
+    },
+    "flight": "A3 897 + A3 924",
+    "airline": "Aegean",
+    "from": "TBS",
+    "to": "TLV",
+    "dep": "04:35",
+    "arr": "12:50",
+    "duration": "9h 15m",
+    "price_eur": 787
+   }
+  ],
+  "evening_outbound_options": [
+   {
+    "what": {
+     "en": "Israir Airlines 6H 893 · 19:40 → 23:15 · nonstop",
+     "he": "ישראייר 6H 893 · 19:40 → 23:15 · ישירה"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 958,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "El Al LY 5107 · 05:30 → 09:05 · nonstop",
+     "he": "אל על LY 5107 · 05:30 → 09:05 · ישירה"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 1548,
+    "note": {
+     "en": "€590 more.",
+     "he": "יקרה ב-590 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "El Al LY 5109 · 20:50 → 00:25 (+1) · nonstop",
+     "he": "אל על LY 5109 · 20:50 → 00:25 (+1) · ישירה"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 1548,
+    "note": {
+     "en": "€590 more; arrives the next day.",
+     "he": "יקרה ב-590 €; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "SWISS and Edelweiss Air LX 253 + WK 170 · 18:15 → 05:00 (+1) · 1 stop ",
+     "he": "SWISS and Edelweiss Air LX 253 + WK 170 · 18:15 → 05:00 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 699,
+    "note": {
+     "en": "€259 cheaper; 9 hr 45 min with a connection; arrives the next day.",
+     "he": "זולה ב-259 €; 9 שע׳ 45 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean A3 927 + A3 896 · 19:55 → 03:45 (+1) · 1 stop ",
+     "he": "אגיאן A3 927 + A3 896 · 19:55 → 03:45 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 812,
+    "note": {
+     "en": "€146 cheaper; 6 hr 50 min with a connection; arrives the next day.",
+     "he": "זולה ב-146 €; 6 שע׳ 50 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   }
+  ],
+  "return_options": [
+   {
+    "what": {
+     "en": "Aegean A3 897 + A3 924 · 04:35 → 12:50 · 1 stop ",
+     "he": "אגיאן A3 897 + A3 924 · 04:35 → 12:50 · עצירה ב"
+    },
+    "when": {
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
+    },
+    "price_eur": 787,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "El Al LY 5110 · 01:30 → 03:10 · nonstop",
+     "he": "אל על LY 5110 · 01:30 → 03:10 · ישירה"
+    },
+    "when": {
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
+    },
+    "price_eur": 1670,
+    "note": {
+     "en": "€883 more.",
+     "he": "יקרה ב-883 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "El Al LY 5108 · 10:10 → 11:50 · nonstop",
+     "he": "אל על LY 5108 · 10:10 → 11:50 · ישירה"
+    },
+    "when": {
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
+    },
+    "price_eur": 1670,
+    "note": {
+     "en": "€883 more.",
+     "he": "יקרה ב-883 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Aegean  · 04:35 → 19:00 · 1 stop ",
+     "he": "אגיאן  · 04:35 → 19:00 · עצירה ב"
+    },
+    "when": {
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
+    },
+    "price_eur": 1165,
+    "note": {
+     "en": "€378 more; 15 hr 25 min with a connection.",
+     "he": "יקרה ב-378 €; 15 שע׳ 25 דק׳ עם קונקשן."
+    },
+    "best": false
+   }
+  ],
+  "baggage_eur": 320,
+  "baggage_text": {
+   "en": "Checked-bag rules differ by fare and airline; for the 2 suitcases and 2 cabin trolleys I assume about €160 per direction (estimate – check the fare conditions when booking). Total ≈ €320.",
+   "he": "כללי הכבודה משתנים לפי תעריף וחברה; ל-2 המזוודות ו-2 הטרולים אני מניח כ-160 € לכיוון (הערכה – לבדוק בתנאי התעריף בזמן ההזמנה). סה\"כ כ-320 €."
+  },
+  "note": {
+   "en": "Live Google Flights prices found 17–18 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included.",
+   "he": "מחירים חיים מ-Google Flights מ-17–18.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה."
+  }
+ },
+ "date_options": [
+  {
+   "total_eur": 3773.08,
+   "plan": "eve",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 958,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 893",
+    "dep": "19:40",
+    "arr": "23:15"
+   },
+   "back": {
+    "eur": 787,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 924",
+    "dep": "04:35",
+    "arr": "12:50"
+   },
+   "hotels_eur": 1388.08,
+   "car_eur": 320,
+   "chosen": true
+  },
+  {
+   "total_eur": 3785.43,
+   "plan": "eve",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 941,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 891",
+    "dep": "19:40",
+    "arr": "23:15"
+   },
+   "back": {
+    "eur": 787,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 924",
+    "dep": "04:35",
+    "arr": "12:50"
+   },
+   "hotels_eur": 1417.43,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 3864.43,
+   "plan": "day",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 1020,
+    "bags_eur": 160,
+    "airline": "Arkia",
+    "flight": "IZ 417",
+    "dep": "05:55",
+    "arr": "09:30"
+   },
+   "back": {
+    "eur": 787,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 924",
+    "dep": "04:35",
+    "arr": "12:50"
+   },
+   "hotels_eur": 1417.43,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 3883.98,
+   "plan": "eve",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 877,
+    "bags_eur": 160,
+    "airline": "Israir Airlines",
+    "flight": "6H 897",
+    "dep": "19:40",
+    "arr": "23:15"
+   },
+   "back": {
+    "eur": 970,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 926",
+    "dep": "04:35",
+    "arr": "19:00"
+   },
+   "hotels_eur": 1396.98,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 4232.87,
+   "plan": "eve",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 1233,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 683 + LH 2696",
+    "dep": "07:00",
+    "arr": "17:10"
+   },
+   "back": {
+    "eur": 970,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 924",
+    "dep": "04:35",
+    "arr": "12:50"
+   },
+   "hotels_eur": 1389.87,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 4363.08,
+   "plan": "day",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 1548,
+    "bags_eur": 160,
+    "airline": "El Al",
+    "flight": "LY 5107",
+    "dep": "05:30",
+    "arr": "09:05"
+   },
+   "back": {
+    "eur": 787,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 924",
+    "dep": "04:35",
+    "arr": "12:50"
+   },
+   "hotels_eur": 1388.08,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 4363.31,
+   "plan": "eve",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 1367,
+    "bags_eur": 160,
+    "airline": "Azerbaijan Airlines",
+    "flight": "J2 270 + J2 403",
+    "dep": "13:10",
+    "arr": "20:20"
+   },
+   "back": {
+    "eur": 970,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 924",
+    "dep": "04:35",
+    "arr": "12:50"
+   },
+   "hotels_eur": 1386.31,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 4544.31,
+   "plan": "day",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 1548,
+    "bags_eur": 160,
+    "airline": "El Al",
+    "flight": "LY 5107",
+    "dep": "05:30",
+    "arr": "09:05"
+   },
+   "back": {
+    "eur": 970,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 924",
+    "dep": "04:35",
+    "arr": "12:50"
+   },
+   "hotels_eur": 1386.31,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 4547.87,
+   "plan": "day",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 1548,
+    "bags_eur": 160,
+    "airline": "El Al",
+    "flight": "LY 5107",
+    "dep": "05:30",
+    "arr": "09:05"
+   },
+   "back": {
+    "eur": 970,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 924",
+    "dep": "04:35",
+    "arr": "12:50"
+   },
+   "hotels_eur": 1389.87,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 4555.98,
+   "plan": "day",
+   "start": "2027-08-16",
+   "end": "2027-08-25",
+   "out": {
+    "eur": 1549,
+    "bags_eur": 160,
+    "airline": "El Al",
+    "flight": "",
+    "dep": "05:30",
+    "arr": "09:05"
+   },
+   "back": {
+    "eur": 970,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 926",
+    "dep": "04:35",
+    "arr": "19:00"
+   },
+   "hotels_eur": 1396.98,
+   "car_eur": 320,
+   "chosen": false
+  },
+  {
+   "total_eur": 5991.98,
+   "plan": "day",
+   "start": "2027-08-19",
+   "end": "2027-08-28",
+   "out": {
+    "eur": 1548,
+    "bags_eur": 160,
+    "airline": "El Al",
+    "flight": "LY 5107",
+    "dep": "05:30",
+    "arr": "09:05"
+   },
+   "back": {
+    "eur": 2415,
+    "bags_eur": 160,
+    "airline": "Aegean",
+    "flight": "A3 897 + A3 926",
+    "dep": "04:35",
+    "arr": "19:00"
+   },
+   "hotels_eur": 1388.98,
+   "car_eur": 320,
+   "chosen": false
+  }
+ ],
+ "airports": {
+  "TBS": {
+   "name": "Tbilisi Shota Rustaveli International Airport",
+   "lat": 41.6692,
+   "lng": 44.9547,
+   "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.669200,44.954700&travelmode=driving"
+  }
+ },
+ "sources": [
+  [
+   "Israeli NSC travel warning for Armenia, Azerbaijan, Georgia (Haaretz, 9 Mar 2026)",
+   "https://www.haaretz.com/israel-news/israel-security/2026-03-09/ty-article/israel-warns-against-travel-to-azerbaijan-armenia-and-georgia-amid-iran-war/0000019c-d247-d795-a9fc-dbff831b0000"
+  ],
+  [
+   "Israel expands travel warnings to Armenia, Georgia and Azerbaijan (Ynet)",
+   "https://www.ynetnews.com/article/h1i6giik11g"
+  ],
+  [
+   "OC Media – Israel issues travel warning for Georgia and Azerbaijan",
+   "https://oc-media.org/israel-issues-travel-warning-for-georgia-and-azerbaijan-citing-fears-of-iran-backed-terrorism/"
+  ],
+  [
+   "Israel NSC holiday-period terror warning (Times of Israel)",
+   "https://www.timesofisrael.com/israel-warns-of-heightened-terror-threat-to-israelis-jews-abroad-ahead-of-holiday-period/"
+  ],
+  [
+   "Sakhva Travel – car rental prices in Tbilisi 2026 (rates, CDW, deposit)",
+   "https://sakhva-travel.com/en/blog/car-rental-tbilisi/"
+  ],
+  [
+   "Skyscanner – car hire in Tbilisi (child seats at Localrent, Go Drive, Naniko)",
+   "https://www.skyscanner.co.in/car-hire-in/car-hire-in-tbilisi/27547139.html"
+  ],
+  [
+   "JAM News – child seats, rear seat belts: changes to Georgia's traffic rules",
+   "https://jam-news.net/child-seats-rear-seat-seat-belts-and-alcohol-interlocks-changes-to-georgias-traffic-rules/"
+  ],
+  [
+   "Triplinkhub – traffic rules and fines in Georgia (speed limits, fines)",
+   "https://www.triplinkhub.com/en/blog/traffic-rules-fines-parking-georgia"
+  ],
+  [
+   "OpenVan.camp – Georgia fuel prices (AI-95 3.61 GEL, June 2026)",
+   "https://openvan.camp/en/tools/ev-charging/georgia"
+  ],
+  [
+   "Georgia Today – fuel prices rise across Georgia (spring 2026)",
+   "https://georgiatoday.ge/fuel-prices-rise-sharply-in-georgia-nearing-4-gel-per-liter/"
+  ],
+  [
+   "ValutaFX – EUR/GEL history (3.0257 on 4 Sep 2026)",
+   "https://www.valutafx.com/history/eur-gel"
+  ],
+  [
+   "Visa requirements for Israelis in Georgia (evisas.io; not a government source)",
+   "https://evisas.io/visa-requirements/il/ge"
+  ],
+  [
+   "Wander-Lush – Tbilisi public transport (1 GEL fare, cable cars)",
+   "https://wander-lush.org/tbilisi-public-transport-guide-bus-metro/"
+  ],
+  [
+   "JAM News – new Tbilisi Zoo opened in trial mode (Aug 2026; not in the plan)",
+   "https://jam-news.net/tbilisis-new-zoo-ready-to-welcome-visitors-video/"
+  ],
+  [
+   "Booking.com – Ramada by Wyndham Tbilisi Old City",
+   "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html"
+  ],
+  [
+   "Booking.com – Steel Tower Borjomi",
+   "https://www.booking.com/hotel/ge/steeltower-borjomi.html"
+  ],
+  [
+   "sendmybag.com – Wizz Air baggage 2026",
+   "https://www.sendmybag.com/airlines/wizz-air-baggage-allowance/"
+  ],
+  [
+   "aifly – El Al baggage",
+   "https://aifly.one/guides/el-al-baggage-allowance/"
+  ]
+ ],
+ "car": {
+  "lines": [
+   [
+    {
+     "en": "Compact SUV/estate, automatic, full insurance (CDW), 4 days (≈ €70/day all-in), Wed 18 – Sun 22 Aug",
+     "he": "קרוסאובר/סטיישן קומפקטי אוטומטי, ביטוח מלא (CDW), 4 ימים (כ-70 € ליום הכול כלול), ד' 18 – א' 22 באוגוסט"
+    },
+    280,
+    true
+   ],
+   [
+    {
+     "en": "2 child seats / booster, 4 days (price not found; €0 if you bring your own)",
+     "he": "2 מושבי ילדים / בוסטר, 4 ימים (מחיר לא נמצא; 0 € אם מביאים משלכם)"
+    },
+    40,
+    true
+   ],
+   [
+    {
+     "en": "Delivery and return at the Tbilisi hotel (some companies charge ≈ €10–15 each way; others free)",
+     "he": "משלוח והחזרה במלון בטביליסי (חלק מהחברות גובות כ-10–15 € לכיוון; אחרות חינם)"
+    },
+    20,
+    true
+   ],
+   [
+    {
+     "en": "Road tolls / vignette (none found on the E60 or the Borjomi roads)",
+     "he": "אגרות כביש / ויניאטה (לא נמצאו ב-E60 או בכבישי בורג'ומי)"
+    },
+    0,
+    false
+   ],
+   [
+    {
+     "en": "Cross-border fee (no border crossings; rental cars may not enter Abkhazia or South Ossetia)",
+     "he": "עמלת מעבר גבול (אין מעבר גבול; אסור להכניס רכב שכור לאבחזיה או לאוסטיה הדרומית)"
+    },
+    0,
+    false
+   ],
+   [
+    {
+     "en": "One-way fee (pick-up and return at the same Tbilisi hotel)",
+     "he": "עמלת החזרה במקום אחר (איסוף והחזרה באותו מלון בטביליסי)"
+    },
+    0,
+    false
+   ]
+  ],
+  "text": {
+   "en": "Pick-up at the Ramada Old City (delivery) on Wed 18 Aug about 09:30 and return there on Sun 22 Aug about 14:30 = 4 rental days. Rental or driver? A car is worth it for Borjomi (parks, Bakuriani, Rabati and Likani are 5–50 km apart, public transport is thin) – roughly €280 for 4 days against about €80–100 for a one-way private driver (estimate, unverified) plus local taxis; Georgian drivers can be fast and chaotic, so if you prefer not to drive, take a driver for Tbilisi–Borjomi and Borjomi–Tbilisi and use Bolt locally. PRICES ARE ESTIMATES: a 2026 Tbilisi guide quotes economy cars at ₾120–150 a day in June–August (₾80–100 off-season), SUVs for the mountains at ₾280–400, collision cover ₾30–60 a day on top and a deposit hold of ₾500–1,500; I assumed ≈ €70/day all-in for a compact SUV or estate (≈ ₾210). Child seats are an add-on at Localrent, Go Drive and Naniko (price not found). A Georgian rental quote for August 2027 was not available.",
+   "he": "איסוף ברמדה העיר העתיקה (משלוח) ביום ד' 18 באוגוסט בסביבות 09:30 והחזרה שם ביום א' 22 באוגוסט בסביבות 14:30 = 4 ימי השכרה. רכב או נהג? רכב משתלם בבורג'ומי (הפארקים, בקוריאני, רבאטי וליקני במרחק 5–50 ק\"מ, והתחבורה הציבורית דלילה) – בערך 280 € ל-4 ימים לעומת כ-80–100 € לנהג פרטי לכיוון אחד (הערכה, לא אומת) ועוד מוניות מקומיות; נהגים בגאורגיה יכולים להיות מהירים וכאוטיים, ולכן אם אתם מעדיפים לא לנהוג – נהג לנסיעות טביליסי–בורג'ומי ובחזרה, ו-Bolt מקומית. המחירים הם הערכה: מדריך טביליסי מ-2026 מציין מכוניות אקונומי ב-120–150 לארי ליום ביוני–אוגוסט (80–100 מחוץ לעונה), רכבי שטח להרים ב-280–400 לארי, כיסוי נזק של 30–60 לארי ליום בנוסף ותפיסת ערבון של 500–1,500 לארי; הנחתי כ-70 € ליום הכול כלול לקרוסאובר או סטיישן קומפקטי (כ-210 לארי). מושבי ילדים הם תוספת ב-Localrent, Go Drive ו-Naniko (מחיר לא נמצא). הצעת מחיר לאוגוסט 2027 מחברת השכרה בגאורגיה לא הייתה זמינה."
+  }
+ },
+ "driving_notes": [
+  {
+   "en": "NO BORDER CROSSINGS AND STAY AWAY FROM THE ADMINISTRATIVE BOUNDARY LINES of Abkhazia and South Ossetia (Tskhinvali region): this plan never goes near them, and rental cars may not enter. The Tbilisi–Gori–Khashuri road (E60) and Uplistsikhe are on the Georgian-controlled side, but near Gori do not follow a navigation app onto side roads towards Tskhinvali, Akhalgori or Ergneti; if a road ends at a fence or a sign with a boundary-line warning, turn around. Also skip Kazbegi/Stepantsminda (near the Russian border) and the Armenian/Turkish border areas.",
+   "he": "בלי חציית גבולות ולהישאר רחוק מקווי הגבול המנהליים של אבחזיה ואוסטיה הדרומית (אזור צחינבאלי): התוכנית לא מתקרבת אליהם ואסור להכניס אליהם רכב שכור. כביש טביליסי–גורי–חשורי (E60) ואופליסציחה נמצאים בצד שבשליטת גאורגיה, אבל ליד גורי לא לעקוב אחרי אפליקציית ניווט לכבישים צדדיים לכיוון צחינבאלי, אחלגורי או ארגנטי; אם כביש נגמר בגדר או בשלט אזהרה של קו גבול – להסתובב. כמו כן לדלג על קזבגי/סטפנצמינדה (ליד הגבול עם רוסיה) ועל אזורי הגבול עם ארמניה וטורקיה."
+  },
+  {
+   "en": "Child seats: Georgian law requires child seats and rear seat belts, and the age threshold has been changing (reports: seats required under 3 today; a bill for under 12 and under 135 cm). Request 2 seats (one booster) when you book and use them for both kids anyway; fine for a missing seat is reported at 40 GEL (traffic-rules news, not an official table). Everyone belts up, including in the back.",
+   "he": "מושבי ילדים: החוק בגאורגיה מחייב מושבי ילדים וחגורות במושב האחורי, וגיל הסף משתנה (דיווחים: מושב חובה היום מתחת לגיל 3; הצעת חוק לילדים מתחת לגיל 12 ו-135 ס\"מ). להזמין 2 מושבים (אחד בוסטר) בהזמנת הרכב ולהשתמש בהם לשני הילדים בכל מקרה; קנס על היעדר מושב מדווח ב-40 לארי (חדשות על כללי תנועה, לא טבלה רשמית). כולם חגורים, גם מאחור."
+  },
+  {
+   "en": "Documents: Israeli passport (visa-free entry for Israelis per visa-information sites; stay length is reported inconsistently, 30 vs 360 days, so confirm with the Georgian MFA/embassy; passport valid for 6 months), your Israeli driving licence and an international driving permit (a 2026 rental guide calls the IDP mandatory for foreigners: ask the rental company), and a credit card for the deposit hold.",
+   "he": "מסמכים: דרכון ישראלי (כניסה ללא ויזה לישראלים לפי אתרי מידע על ויזות; משך השהייה מדווח באי-עקביות, 30 לעומת 360 ימים, ולכן לאשר מול משרד החוץ / השגרירות של גאורגיה; דרכון בתוקף 6 חודשים), רישיון נהיגה ישראלי ורישיון נהיגה בינלאומי (מדריך השכרה מ-2026 קורא לו חובה לזרים: לשאול את חברת ההשכרה), וכרטיס אשראי לתפיסת הערבון."
+  },
+  {
+   "en": "Rules and road conditions: speed limits 60 km/h in towns, 90 km/h outside, 110 km/h on highways unless signed (secondary source; speeding fines are being raised, e.g. 50 to 100 GEL proposed). Drink-driving is punished severely (fines from ≈ 700 GEL for a first offence per a guide): do not drink if you drive. Expect aggressive overtaking, pedestrians and livestock on the Borjomi and Bakuriani roads, and unlit roads at night, so keep to daylight on the mountain road. Fuel: AI-95 about 3.6 GEL/l (≈ €1.20; June 2026 listing, prices rose in spring 2026).",
+   "he": "כללים ותנאי כביש: מגבלות מהירות 60 קמ\"ש בעיר, 90 קמ\"ש מחוץ לעיר, 110 קמ\"ש בכבישים מהירים אלא אם צוין אחרת (מקור משני; הקנסים על מהירות עולים, למשל הוצע מ-50 ל-100 לארי). נהיגה בשכרות נענשת בחומרה (קנסים מ-700 לארי בעבירה ראשונה לפי מדריך): לא שותים אם נוהגים. לצפות לעקיפות אגרסיביות, הולכי רגל ובעלי חיים בכבישי בורג'ומי ובקוריאני, וכבישים לא מוארים בלילה, ולכן בכביש ההר לנסוע באור יום. דלק: AI-95 כ-3.6 לארי לליטר (כ-1.20 €; רשימה מיוני 2026, המחירים עלו באביב 2026)."
+  },
+  {
+   "en": "Parking and days: Borjomi, Rabati, Likani and Uplistsikhe have free or very cheap parking (estimate); Bakuriani lifts have a free lot. In Tbilisi there is no car (it is returned on Day 6); city taxis cost about 6–12 GEL per ride in the centre via Bolt/Yandex. Longest drives: Day 2 (2h14) and Day 6 (2h31 with Uplistsikhe); Day 5 (2h08) is optional (Rabati).",
+   "he": "חניה וימים: בבורג'ומי, רבאטי, ליקני ואופליסציחה החניה חינם או זולה מאוד (הערכה); למעליות בקוריאני יש חניון חינם. בטביליסי אין רכב (מוחזר ביום 6); מוניות בעיר כ-6–12 לארי לנסיעה במרכז דרך Bolt/Yandex. הנסיעות הארוכות: יום 2 (2:14 שעות) ויום 6 (2:31 שעות עם אופליסציחה); יום 5 (2:08 שעות) אופציונלי (רבאטי)."
+  },
+  {
+   "en": "Safety notes for Israelis (as reported by Haaretz, Ynet, OC Media and others, 21 Oct 2026; I could not open nsc.gov.il itself): Israel's National Security Council raised Georgia, Armenia and Azerbaijan to a travel advisory of level 3 on 8 March 2026 and recommended avoiding non-essential travel, citing Iranian efforts to attack Israeli targets; it advised not revealing an Israeli identity to strangers and not posting itineraries on social media, and avoiding events at Israeli/Jewish-identified venues. A holiday-season update (September 2026) stated Georgia remained at that level (medium threat). I found no easing. Check nsc.gov.il and the Foreign Ministry for the current status before booking; all bookings here are free-cancellation.",
+   "he": "הערות בטיחות לישראלים (כפי שדווח ב-Haaretz, Ynet, OC Media ואחרים, 21.10.2026; לא הצלחתי לפתוח את nsc.gov.il עצמו): המועצה לביטחון לאומי העלתה את גאורגיה, ארמניה ואזרבייג'ן לרמת אזהרת מסע 3 ב-8 במרץ 2026 והמליצה להימנע מנסיעות לא חיוניות, בשל מאמצי איראן לפגוע ביעדים ישראליים; היא המליצה לא לחשוף זהות ישראלית בפני זרים ולא לפרסם מסלולים ברשתות החברתיות, ולהימנע מאירועים במקומות המזוהים עם ישראל או היהדות. עדכון של עונת החגים (ספטמבר 2026) קבע שגאורגיה נשארת באותה רמה (איום בינוני). לא מצאתי הקלה. לבדוק באתר nsc.gov.il ובמשרד החוץ את המצב העדכני לפני ההזמנה; כל ההזמנות כאן עם ביטול חינם."
+  }
+ ],
+ "hotels": [
+  {
+   "id": "hotel_tb1",
+   "gkey": "hotel_tb",
+   "name": "Ramada by Wyndham Tbilisi Old City (night 1)",
+   "area": {
+    "en": "Tbilisi, Avlabari, 14 Aleksandre Tsurtsumia St (above the Old Town, ≈ 1.5 km / 4 min by taxi to Rike Park and the cable car; 15 km / 20 min from TBS)",
+    "he": "טביליסי, אבלבארי, רחוב אלכסנדר צורצומיה 14 (מעל העיר העתיקה, כ-1.5 ק\"מ / 4 דקות במונית לפארק ריקה ולרכבל; 15 ק\"מ / 20 דקות משדה התעופה TBS)"
+   },
+   "checkin": "2027-08-17",
+   "checkout": "2027-08-18",
+   "nights": 1,
+   "total_eur": 151.17,
+   "booking_score": 8.4,
+   "booking_reviews": 2105,
+   "booking_url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Family room for 4 (king bed + two twin beds), fridge, free parking, 24-hour front desk, kid-friendly buffet; free cancellation. Arrival night only: tell the front desk your landing time (24-hour desk) and ask for a quiet room; next morning you carry all the bags to the rental car for Borjomi.",
+    "he": "חדר משפחה ל-4 (מיטת קינג + שתי מיטות יחיד), מקרר, חניה חינם, דלפק קבלה 24 שעות, ארוחת בוקר ידידותית לילדים; ביטול חינם. לילה אחד אחרי הנחיתה בלבד: לעדכן את הקבלה (פתוחה 24 שעות) בשעת הנחיתה ולבקש חדר שקט; למחרת לוקחים את כל המזוודות לרכב השכור לבורג'ומי."
+   },
+   "ac": {
+    "en": "Air conditioning confirmed (Booking facility list with the A/C filter, and Booking property Q&A, 21 Oct 2026): the family room (king bed + two twin beds) is air-conditioned and the A/C is free of charge; each room has a fridge. Indoor pool (all year) and outdoor pool (seasonal; Booking says open in August, children allowed with an adult) – the pools are the daytime heat relief.",
+    "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking עם מסנן המיזוג, ושאלות ותשובות על הנכס, 21.10.2026): חדר המשפחה (מיטת קינג + שתי מיטות יחיד) ממוזג והמיזוג חינם; בכל חדר מקרר. בריכה מקורה (כל השנה) ובריכה חיצונית (עונתית; לפי Booking פתוחה באוגוסט, ילדים מותרים עם מבוגר) – הבריכות הן ההקלה מהחום ביום."
+   },
+   "alt": {
+    "en": "Alternatives for Tbilisi (Booking, live, 19–23 Aug, 4 nights, free cancellation, A/C in the facility list; family room A/C confirmed free by Booking Q&A): Kindli Boutique Hotel €494.98 (9.0, 987 reviews; 3★, shared kitchen, near Rustaveli, no pool). ibis Styles Tbilisi Center €665.15 (8.8, 1,490 reviews; Sololaki, indoor play area, no pool). Iris Hotel €761.83 (9.1, 1,171 reviews; Avlabari, indoor pool open to children, two connected rooms for a family). Night-1 prices for these were not checked. (Alternative prices were checked for 19–23 Aug; other dates may differ.)",
+    "he": "חלופות בטביליסי (Booking, חי, 19–23 באוגוסט, 4 לילות, ביטול חינם, מיזוג ברשימת המתקנים; מיזוג בחדר משפחה אושר כחינם בשאלות ותשובות של Booking): Kindli Boutique Hotel ב-494.98 € (9.0, 987 ביקורות; 3 כוכבים, מטבח משותף, ליד רוסתאווילי, בלי בריכה). ibis Styles Tbilisi Center ב-665.15 € (8.8, 1,490 ביקורות; סולולאקי, פינת משחקים מקורה, בלי בריכה). Iris Hotel ב-761.83 € (9.1, 1,171 ביקורות; אבלבארי, בריכה מקורה פתוחה לילדים, שני חדרים מחוברים למשפחה). מחירי לילה ראשון לחלופות לא נבדקו. (מחירי החלופות נבדקו ל-19–23 באוגוסט; בתאריכים אחרים ייתכן הבדל.)"
+   },
+   "google_note": {
+    "en": "Google: 4.0 from 1,057 reviews; Booking.com 8.4 from 2,105 reviews (the lowest score of the options, chosen for the two pools and the walking distance to the Old Town).",
+    "he": "בגוגל: 4.0 מתוך 1,057 ביקורות; ב-Booking.com 8.4 מתוך 2,105 ביקורות (הציון הנמוך מבין האפשרויות, נבחר בגלל שתי הבריכות והקרבה לעיר העתיקה)."
+   },
+   "google": {
+    "name": "Ramada by Wyndham Tbilisi Old City",
+    "rating": 4,
+    "reviews": 1057,
+    "lat": 41.692396,
+    "lng": 44.822963,
+    "address": "14 Aleksandre Tsurtsumia St, Tbilisi 0103, Georgia",
+    "website": "https://www.wyndhamhotels.com/en-uk/ramada/tbilisi-georgia/ramada-tbilisi-old-city/overview?CID=LC:wmcic5n98gs1g0r:56351&iata=00093796",
+    "place_id": "ChIJuT_DnMANREARSvYnR_DwKOs",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ramada%20by%20Wyndham%20Tbilisi%20Old%20City&query_place_id=ChIJuT_DnMANREARSvYnR_DwKOs",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.692396,44.822963&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_tb1-1.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Ramada%20by%20Wyndham%20Tbilisi%20Old%20City&query_place_id=ChIJuT_DnMANREARSvYnR_DwKOs",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_tb1-2.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Ramada%20by%20Wyndham%20Tbilisi%20Old%20City&query_place_id=ChIJuT_DnMANREARSvYnR_DwKOs",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 151.17,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 8.4,
+     "out_of": 10,
+     "reviews": 2105,
+     "url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4,
+     "out_of": 5,
+     "reviews": 1057,
+     "url": "https://www.google.com/maps/search/?api=1&query=Ramada%20by%20Wyndham%20Tbilisi%20Old%20City&query_place_id=ChIJuT_DnMANREARSvYnR_DwKOs"
+    }
+   ]
+  },
+  {
+   "id": "hotel_bj",
+   "gkey": "hotel_bj",
+   "name": "Steel Tower Borjomi",
+   "area": {
+    "en": "Borjomi, Rustaveli St 107 E (town centre, short walk / 2.6 km by car to Borjomi Central Park; 159 km / 2h14 from Tbilisi)",
+    "he": "בורג'ומי, רחוב רוסתאווילי 107 E (מרכז העיירה, הליכה קצרה / 2.6 ק\"מ ברכב לפארק המרכזי של בורג'ומי; 159 ק\"מ / 2:14 שעות מטביליסי)"
+   },
+   "checkin": "2027-08-18",
+   "checkout": "2027-08-22",
+   "nights": 4,
+   "total_eur": 653.57,
+   "booking_score": 9.7,
+   "booking_reviews": 533,
+   "booking_url": "https://www.booking.com/hotel/ge/steeltower-borjomi.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Quadruple room (one king bed + two sofa beds; mountain view or balcony), fridge in the room, free private parking, lift, kid-friendly buffet and kids' meals, board games and badminton equipment; free cancellation. No pool: the cool forest air and the mineral-spring park are the heat answer; for a pool see the Borjomi Palace alternative.",
+    "he": "חדר ל-4 (מיטת קינג + שתי ספות נפתחות; נוף להרים או מרפסת), מקרר בחדר, חניה פרטית חינם, מעלית, ארוחת בוקר ותפריט ילדים, משחקי קופסה וציוד בדמינטון; ביטול חינם. אין בריכה: האוויר הקריר של היער ופארק המעיינות הם התשובה לחום; לבריכה – החלופה Borjomi Palace."
+   },
+   "ac": {
+    "en": "Air conditioning confirmed (Booking facility list with the A/C filter, and Booking property Q&A, 21 Oct 2026): the family/quadruple room is air-conditioned and the A/C is included at no extra charge. Borjomi is cooler than Tbilisi, so the A/C is mostly for the afternoon rest.",
+    "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking עם מסנן המיזוג, ושאלות ותשובות על הנכס, 21.10.2026): חדר המשפחה / החדר ל-4 ממוזג והמיזוג כלול בלי תוספת. בבורג'ומי קריר יותר מבטביליסי, ולכן המיזוג בעיקר למנוחת אחר הצהריים."
+   },
+   "alt": {
+    "en": "Alternatives in Borjomi (Booking, live, 15–19 Aug, 4 nights, free cancellation, A/C in the facility list): Polifonia Inn Borjomi €479.56 (9.4, 1,135 reviews; guest house, family room with king + bunk bed, A/C confirmed, shared kitchen, no pool). Borjomi Bridge Hotel €576.50 (9.2, 1,395 reviews; family room A/C confirmed, no pool). Borjomi Palace Health & Spa €858.07 (8.1, 335 reviews; A/C confirmed free, outdoor pool (open in August) + indoor pool, kids' outdoor play equipment – the pool option). (Alternative prices were checked for 15–19 Aug; other dates may differ.)",
+    "he": "חלופות בבורג'ומי (Booking, חי, 15–19 באוגוסט, 4 לילות, ביטול חינם, מיזוג ברשימת המתקנים): Polifonia Inn Borjomi ב-479.56 € (9.4, 1,135 ביקורות; בית הארחה, חדר משפחה עם מיטת קינג + מיטת קומותיים, מיזוג מאושר, מטבח משותף, בלי בריכה). Borjomi Bridge Hotel ב-576.50 € (9.2, 1,395 ביקורות; מיזוג בחדר משפחה מאושר, בלי בריכה). Borjomi Palace Health & Spa ב-858.07 € (8.1, 335 ביקורות; מיזוג מאושר וחינם, בריכה חיצונית (פתוחה באוגוסט) + בריכה מקורה, ציוד משחקים חיצוני לילדים – אפשרות הבריכה). (מחירי החלופות נבדקו ל-15–19 באוגוסט; בתאריכים אחרים ייתכן הבדל.)"
+   },
+   "google_note": {
+    "en": "Google: 5.0 from 187 reviews; Booking.com 9.7 from 533 reviews.",
+    "he": "בגוגל: 5.0 מתוך 187 ביקורות; ב-Booking.com 9.7 מתוך 533 ביקורות."
+   },
+   "google": {
+    "name": "Steel Tower Borjomi",
+    "rating": 5,
+    "reviews": 187,
+    "lat": 41.842544,
+    "lng": 43.387092,
+    "address": "103 Rustaveli St, Borjomi 1200, Georgia",
+    "website": null,
+    "place_id": "ChIJw-wpjTU5Q0AR4XowWXEji28",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Steel%20Tower%20Borjomi&query_place_id=ChIJw-wpjTU5Q0AR4XowWXEji28",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.842544,43.387092&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_bj-1.jpg",
+     "w": 1000,
+     "h": 666,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Steel%20Tower%20Borjomi&query_place_id=ChIJw-wpjTU5Q0AR4XowWXEji28",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_bj-2.jpg",
+     "w": 1000,
+     "h": 750,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Steel%20Tower%20Borjomi&query_place_id=ChIJw-wpjTU5Q0AR4XowWXEji28",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 163.39,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.7,
+     "out_of": 10,
+     "reviews": 533,
+     "url": "https://www.booking.com/hotel/ge/steeltower-borjomi.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 5,
+     "out_of": 5,
+     "reviews": 187,
+     "url": "https://www.google.com/maps/search/?api=1&query=Steel%20Tower%20Borjomi&query_place_id=ChIJw-wpjTU5Q0AR4XowWXEji28"
+    }
+   ]
+  },
+  {
+   "id": "hotel_tb2",
+   "gkey": "hotel_tb",
+   "name": "Ramada by Wyndham Tbilisi Old City (nights 6–9)",
+   "area": {
+    "en": "Tbilisi, Avlabari, 14 Aleksandre Tsurtsumia St (same hotel as night 1; ≈ 1.5 km / 4 min by taxi to Rike Park and the cable car)",
+    "he": "טביליסי, אבלבארי, רחוב אלכסנדר צורצומיה 14 (אותו מלון כמו בלילה הראשון; כ-1.5 ק\"מ / 4 דקות במונית לפארק ריקה ולרכבל)"
+   },
+   "checkin": "2027-08-22",
+   "checkout": "2027-08-26",
+   "nights": 4,
+   "total_eur": 583.34,
+   "booking_score": 8.4,
+   "booking_reviews": 2105,
+   "booking_url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Family room for 4 (king bed + two twin beds), fridge, indoor pool (all year) + outdoor pool (seasonal), sauna, free parking, 24-hour front desk, kid-friendly buffet; free cancellation. No kitchen (my A/C-filtered, free-cancellation search of central Tbilisi returned only hotels, no apartments); lots of cheap cafés nearby. Hotel pool for the hot afternoons (13:00–17:00). You leave about 01:30 on Thu 26 Aug for a 04:35 flight: tell the front desk, settle the bill the evening before and ask for a packed breakfast; check-out is formally on the 26th.",
+    "he": "חדר משפחה ל-4 (מיטת קינג + שתי מיטות יחיד), מקרר, בריכה מקורה (כל השנה) + בריכה חיצונית (עונתית), סאונה, חניה חינם, דלפק קבלה 24 שעות, ארוחת בוקר ידידותית לילדים; ביטול חינם. אין מטבח (בחיפוש שלי במרכז טביליסי עם מסנן מיזוג וביטול חינם הוחזרו רק מלונות, בלי דירות); הרבה בתי קפה זולים בסביבה. בריכת המלון לשעות החמות אחר הצהריים (13:00–17:00). יוצאים בסביבות 01:30 ביום ה' 26 באוגוסט לטיסה ב-04:35: לעדכן את הקבלה, להסדיר את החשבון בערב הקודם ולבקש ארוחת בוקר ארוזה; הצ'ק-אאוט הרשמי ב-26."
+   },
+   "ac": {
+    "en": "Air conditioning confirmed (Booking facility list with the A/C filter, and Booking property Q&A, 21 Oct 2026): the family room (king bed + two twin beds) is air-conditioned and the A/C is free of charge; each room has a fridge. Indoor pool (all year) and outdoor pool (seasonal; Booking says open in August, children allowed with an adult) – the pools are the daytime heat relief.",
+    "he": "מיזוג אוויר מאושר (רשימת המתקנים של Booking עם מסנן המיזוג, ושאלות ותשובות על הנכס, 21.10.2026): חדר המשפחה (מיטת קינג + שתי מיטות יחיד) ממוזג והמיזוג חינם; בכל חדר מקרר. בריכה מקורה (כל השנה) ובריכה חיצונית (עונתית; לפי Booking פתוחה באוגוסט, ילדים מותרים עם מבוגר) – הבריכות הן ההקלה מהחום ביום."
+   },
+   "alt": {
+    "en": "Alternatives for Tbilisi (Booking, live, 19–23 Aug, 4 nights, free cancellation, A/C in the facility list; family room A/C confirmed free by Booking Q&A): Kindli Boutique Hotel €494.98 (9.0, 987 reviews; 3★, shared kitchen, no pool). ibis Styles Tbilisi Center €665.15 (8.8, 1,490 reviews; Sololaki, indoor play area, no pool). Iris Hotel €761.83 (9.1, 1,171 reviews; Avlabari, indoor pool open to children). (Alternative prices were checked for 19–23 Aug; other dates may differ.)",
+    "he": "חלופות בטביליסי (Booking, חי, 19–23 באוגוסט, 4 לילות, ביטול חינם, מיזוג ברשימת המתקנים; מיזוג בחדר משפחה אושר כחינם בשאלות ותשובות של Booking): Kindli Boutique Hotel ב-494.98 € (9.0, 987 ביקורות; 3 כוכבים, מטבח משותף, בלי בריכה). ibis Styles Tbilisi Center ב-665.15 € (8.8, 1,490 ביקורות; סולולאקי, פינת משחקים מקורה, בלי בריכה). Iris Hotel ב-761.83 € (9.1, 1,171 ביקורות; אבלבארי, בריכה מקורה פתוחה לילדים). (מחירי החלופות נבדקו ל-19–23 באוגוסט; בתאריכים אחרים ייתכן הבדל.)"
+   },
+   "google_note": {
+    "en": "Google: 4.0 from 1,057 reviews; Booking.com 8.4 from 2,105 reviews.",
+    "he": "בגוגל: 4.0 מתוך 1,057 ביקורות; ב-Booking.com 8.4 מתוך 2,105 ביקורות."
+   },
+   "google": {
+    "name": "Ramada by Wyndham Tbilisi Old City",
+    "rating": 4,
+    "reviews": 1057,
+    "lat": 41.692396,
+    "lng": 44.822963,
+    "address": "14 Aleksandre Tsurtsumia St, Tbilisi 0103, Georgia",
+    "website": "https://www.wyndhamhotels.com/en-uk/ramada/tbilisi-georgia/ramada-tbilisi-old-city/overview?CID=LC:wmcic5n98gs1g0r:56351&iata=00093796",
+    "place_id": "ChIJuT_DnMANREARSvYnR_DwKOs",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ramada%20by%20Wyndham%20Tbilisi%20Old%20City&query_place_id=ChIJuT_DnMANREARSvYnR_DwKOs",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.692396,44.822963&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_tb1-1.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Ramada%20by%20Wyndham%20Tbilisi%20Old%20City&query_place_id=ChIJuT_DnMANREARSvYnR_DwKOs",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_tb1-2.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Ramada%20by%20Wyndham%20Tbilisi%20Old%20City&query_place_id=ChIJuT_DnMANREARSvYnR_DwKOs",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 145.84,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 8.4,
+     "out_of": 10,
+     "reviews": 2105,
+     "url": "https://www.booking.com/hotel/ge/ramada-by-wyndham-tbilisi-old-city.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4,
+     "out_of": 5,
+     "reviews": 1057,
+     "url": "https://www.google.com/maps/search/?api=1&query=Ramada%20by%20Wyndham%20Tbilisi%20Old%20City&query_place_id=ChIJuT_DnMANREARSvYnR_DwKOs"
+    }
+   ]
+  }
+ ],
+ "attractions": {
+  "cable": {
+   "id": "cable",
+   "name": {
+    "en": "Rike Park, the cable car and Narikala Fortress",
+    "he": "פארק ריקה, הרכבל ומבצר נריקלה"
+   },
+   "hours": {
+    "en": "Cable car: about 10:00/11:00 to 22:00–23:00 daily (guides disagree; closes in strong wind or storms). Rike Park and Narikala Fortress: open all day (Google: Rike Park open 24 h). Mon 23 Aug: morning visit.",
+    "he": "רכבל: בערך 10:00/11:00 עד 22:00–23:00 מדי יום (המדריכים לא מסכימים; נסגר ברוח חזקה או סערה). פארק ריקה ומבצר נריקלה: פתוחים כל היום (בגוגל: פארק ריקה פתוח 24 שעות). יום ב' 23 באוגוסט: ביקור בבוקר."
+   },
+   "price_text": {
+    "en": "≈ 25 GEL (≈ €8): cable car 2.5 GEL per person one way = 4 × 2 × 2.5 = 20 GEL, plus a 2 GEL Metromoney card (estimate: guides disagree on whether bank cards or children's fares apply). Narikala, the Mother of Georgia statue and Rike Park are free.",
+    "he": "כ-25 לארי (כ-8 €): רכבל 2.5 לארי לאדם בכיוון אחד = 4 × 2 × 2.5 = 20 לארי, ועוד כרטיס Metromoney ב-2 לארי (הערכה: המדריכים לא מסכימים אם כרטיס בנק או מחיר ילדים תקפים). נריקלה, פסל 'אם גאורגיה' ופארק ריקה בחינם."
+   },
+   "price_czk": 25,
+   "price_eur": 8.25,
+   "estimate": true,
+   "time": {
+    "en": "3 h (cable car 3 min; 1 km easy walk on the hill; playground at Rike Park)",
+    "he": "3 שעות (רכבל 3 דקות; ק\"מ הליכה קל על הגבעה; מגרש משחקים בפארק ריקה)"
+   },
+   "kids": {
+    "en": "A 3-minute glass cabin over the old town that kids love, then a short, mostly flat walk along the fortress walls to the Mother of Georgia statue with views over the river. Heat: go before 10:30 or after 18:00 – the hilltop has almost no shade at noon. Walk down through the Old Town or ride the cabin back.",
+    "he": "קרון זכוכית של 3 דקות מעל העיר העתיקה שהילדים אוהבים, ואז הליכה קצרה ברובה שטוחה לאורך חומות המבצר עד פסל 'אם גאורגיה' עם נוף לנהר. חום: להגיע לפני 10:30 או אחרי 18:00 – בפסגה כמעט אין צל בצהריים. יורדים ברגל דרך העיר העתיקה או חוזרים ברכבל."
+   },
+   "optional": false,
+   "google": {
+    "name": "Rike Park",
+    "rating": 4.7,
+    "reviews": 15887,
+    "lat": 41.693114,
+    "lng": 44.810232,
+    "address": "MRV6+63X, Tbilisi, Georgia",
+    "website": null,
+    "place_id": "ChIJLS605voMREARW08Q7EikE3E",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Rike%20Park&query_place_id=ChIJLS605voMREARW08Q7EikE3E",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.693114,44.810232&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 15887,
+    "url": "https://www.google.com/maps/search/?api=1&query=Rike%20Park&query_place_id=ChIJLS605voMREARW08Q7EikE3E"
+   },
+   "photo": {
+    "file": "img/cable-1.jpg",
+    "w": 1000,
+    "h": 543,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Narikala,_Tiflis,_Georgia,_2016-09-29,_DD_91.jpg",
+    "credit": "Diego Delso · CC BY-SA 4.0 · Wikimedia Commons (Narikala Fortress, above the cable car)"
+   },
+   "sources": [
+    [
+     "Tbilisi cable car guide (price, hours)",
+     "https://sakhva-travel.com/en/blog/tbilisi-cable-car/"
+    ],
+    [
+     "Wander-Lush – Tbilisi public transport (cable car 2.5 GEL)",
+     "https://wander-lush.org/tbilisi-public-transport-guide-bus-metro/"
+    ]
+   ]
+  },
+  "mtatsminda": {
+   "id": "mtatsminda",
+   "name": {
+    "en": "Mtatsminda Park: funicular and amusement rides",
+    "he": "פארק מצמינדה: פוניקולר ומתקני שעשועים"
+   },
+   "hours": {
+    "en": "Google: daily 11:30–23:00 (park.ge; other listings say 10:00–24:00; hours vary by season). Funicular daily to about midnight. Mon 23 Aug evening (a weekday: shorter queues than at the weekend).",
+    "he": "גוגל: מדי יום 11:30–23:00 (park.ge; רשימות אחרות מציינות 10:00–24:00; השעות משתנות לפי עונה). הפוניקולר פועל מדי יום עד כחצות. יום ב' 23 באוגוסט, בערב (יום חול: תורים קצרים יותר מאשר בסוף השבוע)."
+   },
+   "price_text": {
+    "en": "≈ 120 GEL (≈ €40), estimate: park entry is free; a 2 GEL park card (shareable) plus funicular ≈ 10–12 GEL one way per person (guide price check 3 Oct 2026; children's fare not found) ≈ 80 GEL return for four if you ride both ways (a taxi up and the funicular down is cheaper), plus single rides at about 1–5 GEL each (older listing) ≈ 40 GEL. Ride prices are not published officially.",
+    "he": "כ-120 לארי (כ-40 €), הערכה: הכניסה לפארק חינם; כרטיס פארק ב-2 לארי (אפשר לשתף) ופוניקולר כ-10–12 לארי בכיוון אחד לאדם (בדיקת מחיר במדריך מ-3.10.2026; מחיר ילדים לא נמצא) ≈ 80 לארי הלוך-חזור לארבעה אם עולים וגם יורדים (מונית למעלה ופוניקולר למטה זול יותר), ועוד מתקנים בודדים ב-1–5 לארי כל אחד (רשימה ישנה) ≈ 40 לארי. מחירי המתקנים לא מפורסמים רשמית."
+   },
+   "price_czk": 120,
+   "price_eur": 39.6,
+   "estimate": true,
+   "time": {
+    "en": "2.5–3 h (start about 18:00)",
+    "he": "2.5–3 שעות (להתחיל בסביבות 18:00)"
+   },
+   "kids": {
+    "en": "A hilltop amusement park with a Ferris wheel, carousels and a small roller coaster, with separate kids' and family zones (an 'extreme' zone for older children only: pick rides by height limits). Cooler up there in the evening (typically 4–6 °C less than the city) and the city lights at dusk; funicular ride is part of the fun.",
+    "he": "לונה פארק על הגבעה עם גלגל ענק, קרוסלות ורכבת הרים קטנה, ואזורים נפרדים לילדים ולמשפחות (אזור 'אקסטרים' רק לגדולים: לבחור מתקנים לפי מגבלות גובה). למעלה קריר יותר בערב (בדרך כלל 4–6 מעלות פחות מהעיר) ואורות העיר בשקיעה; גם הנסיעה בפוניקולר היא חלק מהכיף."
+   },
+   "optional": false,
+   "google": {
+    "name": "Mtatsminda Park",
+    "rating": 4.6,
+    "reviews": 26744,
+    "lat": 41.693512,
+    "lng": 44.780572,
+    "address": "ზედა პლატო, ფუნიკულიორი, Tbilisi 0105, Georgia",
+    "website": "https://park.ge/",
+    "place_id": "ChIJmad5CsAMREARUwixLM6qzIo",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Mtatsminda%20Park&query_place_id=ChIJmad5CsAMREARUwixLM6qzIo",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.693512,44.780572&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 26744,
+    "url": "https://www.google.com/maps/search/?api=1&query=Mtatsminda%20Park&query_place_id=ChIJmad5CsAMREARUwixLM6qzIo"
+   },
+   "photo": {
+    "file": "img/mtatsminda-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Mtatsminda%20Park&query_place_id=ChIJmad5CsAMREARUwixLM6qzIo",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Mtatsminda Park official site",
+     "https://park.ge/"
+    ],
+    [
+     "Madloba – Tbilisi funicular price (checked 3 Oct 2026)",
+     "https://madloba.info/en/faq/sights-and-tours/tbilisi-funicular/"
+    ],
+    [
+     "In Your Pocket – Mtatsminda amusement park",
+     "https://www.inyourpocket.com/Georgia/tbilisi/venues/mtatsminda-amusement-park"
+    ]
+   ]
+  },
+  "mtskheta": {
+   "id": "mtskheta",
+   "name": {
+    "en": "Mtskheta: Jvari Monastery and Svetitskhoveli Cathedral",
+    "he": "מצחטה: מנזר ג'וורי וקתדרלת סבטיצחובלי"
+   },
+   "hours": {
+    "en": "Google: Svetitskhoveli Mon 9:00–19:00, Tue–Fri and Sun 8:00–19:00 (Sat 8:00–16:45); Jvari daily 9:30–17:30. Tue 24 Aug: both open all day; go in the morning anyway for the heat (services may restrict tourists for a short time).",
+    "he": "גוגל: סבטיצחובלי ב' 9:00–19:00, ג'–ו' וא' 8:00–19:00 (ש' 8:00–16:45); ג'וורי מדי יום 9:30–17:30. יום ג' 24 באוגוסט: שניהם פתוחים כל היום; בכל זאת לבוא בבוקר בגלל החום (בזמן תפילות ייתכן שהכניסה לתיירים מוגבלת לזמן קצר)."
+   },
+   "price_text": {
+    "en": "Free (both are working churches; donations welcome). Cost = the driver: round trip with waiting ≈ 140 GEL (≈ €45, estimate, included in the transfers budget, not here).",
+    "he": "חינם (שניהם כנסיות פעילות; תרומות יתקבלו בברכה). העלות היא הנהג: הלוך-חזור עם המתנה כ-140 לארי (כ-45 €, הערכה, כלול בתקציב ההעברות ולא כאן)."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": true,
+   "time": {
+    "en": "3.5 h (30 min drive each way; Jvari 45 min, cathedral 45 min, lunch)",
+    "he": "3.5 שעות (30 דקות נסיעה לכל כיוון; ג'וורי 45 דקות, קתדרלה 45 דקות, ארוחת צהריים)"
+   },
+   "kids": {
+    "en": "A UNESCO site with a hilltop 6th-century monastery above the meeting of two rivers and the 11th-century cathedral in a little cobbled town: short flat walks (under 500 m in total), candles to light, souvenir stalls. Dress code: covered shoulders and knees (a light scarf for the women). Go in the morning – the stone yards have no shade by noon.",
+    "he": "אתר אונסק\"ו עם מנזר מהמאה ה-6 על גבעה מעל מפגש שני נהרות וקתדרלה מהמאה ה-11 בעיירה קטנה מרוצפת: הליכות קצרות ושטוחות (פחות מ-500 מ' בסך הכול), נרות להדליק, דוכני מזכרות. קוד לבוש: כתפיים וברכיים מכוסות (צעיף קל לנשים). לבוא בבוקר – בחצרות האבן אין צל בצהריים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Svetitskhoveli Cathedral",
+    "rating": 4.8,
+    "reviews": 15706,
+    "lat": 41.842192,
+    "lng": 44.720879,
+    "address": "RPRC+V9C, Narekvavi-Mtskheta-Railway Station, Mtskheta, Georgia",
+    "website": "http://www.heritagesites.ge/",
+    "place_id": "ChIJb0_TLHBvREAR2ih93wnWTOw",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Svetitskhoveli%20Cathedral&query_place_id=ChIJb0_TLHBvREAR2ih93wnWTOw",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.842192,44.720879&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 15706,
+    "url": "https://www.google.com/maps/search/?api=1&query=Svetitskhoveli%20Cathedral&query_place_id=ChIJb0_TLHBvREAR2ih93wnWTOw"
+   },
+   "photo": {
+    "file": "img/mtskheta-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Jvari_Monastery_01.jpg",
+    "credit": "Bernard Gagnon · CC BY 4.0 · Wikimedia Commons (Jvari Monastery)"
+   },
+   "sources": [
+    [
+     "Google Maps – Svetitskhoveli Cathedral",
+     "https://www.google.com/maps/search/?api=1&query=Svetitskhoveli%20Cathedral"
+    ],
+    [
+     "Google Maps – Jvari Monastery",
+     "https://www.google.com/maps/search/?api=1&query=Jvari%20Monastery"
+    ]
+   ]
+  },
+  "baths": {
+   "id": "baths",
+   "name": {
+    "en": "Abanotubani sulfur baths: a private room (short and warm)",
+    "he": "אמבטיות הגופרית באבנוטובני: חדר פרטי (קצר ופושר)"
+   },
+   "hours": {
+    "en": "Chreli Abano (Orbeliani Baths), Google: daily 9:00–23:00; book a private room in advance (online booking needs card pre-payment). Tue 24 Aug, early evening (a quiet weekday: easier to get a private room).",
+    "he": "Chreli Abano (אמבטיות אורבליאני), גוגל: מדי יום 9:00–23:00; להזמין חדר פרטי מראש (הזמנה אונליין דורשת תשלום מראש בכרטיס). יום ג' 24 באוגוסט, בערב מוקדם (יום חול שקט: קל יותר להשיג חדר פרטי)."
+   },
+   "price_text": {
+    "en": "≈ 200 GEL (≈ €66) for a private room for 1 hour (a 2026 guide quoting the official site: from 200 GEL/h per room; other sources 150–200); scrub/massage extra ≈ 30 GEL each. Estimate.",
+    "he": "כ-200 לארי (כ-66 €) לחדר פרטי לשעה (מדריך מ-2026 שמצטט את האתר הרשמי: מ-200 לארי לשעה לחדר; מקורות אחרים 150–200); פילינג/עיסוי בתוספת כ-30 לארי כל אחד. הערכה."
+   },
+   "price_czk": 200,
+   "price_eur": 66.01,
+   "estimate": true,
+   "time": {
+    "en": "1.5 h (1 h room + walk through the Old Town bath district)",
+    "he": "1.5 שעות (שעה בחדר + הליכה בשכונת המרחצאות בעיר העתיקה)"
+   },
+   "kids": {
+    "en": "Optional, with caution: the water is about 37–40 °C and smells of sulfur; in a private room (no strangers) kids can sit in the pool for 10–15 minutes with a parent, but hot water in August may not appeal, and a general guide says kids are 'usually welcome' – ask Chreli Abano about age limits when you book. The kids' alternative is simply the pretty brick-domed bath district, free to walk.",
+    "he": "אופציונלי, בזהירות: המים כ-37–40 מעלות וריחם גופרית; בחדר פרטי (בלי זרים) הילדים יכולים לשבת בבריכה 10–15 דקות עם הורה, אבל מים חמים באוגוסט אולי לא מושכים, ומדריך כללי אומר שילדים 'בדרך כלל מתקבלים' – לשאול את Chreli Abano על הגבלות גיל בעת ההזמנה. האלטרנטיבה לילדים: פשוט הליכה חינם בשכונת הכיפות הבנויות לבנים."
+   },
+   "optional": true,
+   "google": {
+    "name": "Chreli Abano",
+    "rating": 4.5,
+    "reviews": 11777,
+    "lat": 41.687635,
+    "lng": 44.810677,
+    "address": "N2 Abano St, Tbilisi, Georgia",
+    "website": "http://www.chreli-abano.ge/",
+    "place_id": "ChIJp1AABfcMREAR-U0SBWHxp0E",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Chreli%20Abano&query_place_id=ChIJp1AABfcMREAR-U0SBWHxp0E",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.687635,44.810677&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 11777,
+    "url": "https://www.google.com/maps/search/?api=1&query=Chreli%20Abano&query_place_id=ChIJp1AABfcMREAR-U0SBWHxp0E"
+   },
+   "photo": {
+    "file": "img/baths-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://commons.wikimedia.org/wiki/File:2014_Tbilisi,_%C5%81a%C5%BAnie_siarkowe_w_Abanotubani_(01).jpg",
+    "credit": "Marcin Konsek · CC BY-SA 4.0 · Wikimedia Commons (Abanotubani bath house)"
+   },
+   "sources": [
+    [
+     "Chreli Abano (official site)",
+     "http://www.chreli-abano.ge/"
+    ],
+    [
+     "Wander-Lush – Tbilisi sulfur baths guide (kids, prices)",
+     "https://wander-lush.org/tbilisi-georgia-gulos-thermal-spa-bath-blog-review/"
+    ]
+   ]
+  },
+  "ethno": {
+   "id": "ethno",
+   "name": {
+    "en": "Open-air Ethnography Museum (traditional houses from every region)",
+    "he": "מוזיאון האתנוגרפיה הפתוח (בתים מסורתיים מכל חלקי המדינה)"
+   },
+   "hours": {
+    "en": "Google: Tue–Sun 10:00–18:00, closed Monday. Wed 25 Aug: morning visit (open Wednesday; do NOT go on Mon 23 Aug).",
+    "he": "גוגל: ג'–א' 10:00–18:00, סגור ביום שני. יום ד' 25 באוגוסט: ביקור בבוקר (פתוח ביום רביעי; לא ללכת ביום ב' 23 באוגוסט)."
+   },
+   "price_text": {
+    "en": "≈ 40 GEL (≈ €13), estimate: one guide lists 15 GEL adults, 5 GEL children 6–17, under 6 free (= 35 GEL); another lists a 25 GEL tourist ticket, so allow up to ≈ 55 GEL.",
+    "he": "כ-40 לארי (כ-13 €), הערכה: מדריך אחד מציין 15 לארי למבוגר, 5 לארי לילדים 6–17, מתחת ל-6 חינם (= 35 לארי); מדריך אחר מציין כרטיס תייר ב-25 לארי, ולכן לתקצב עד כ-55 לארי."
+   },
+   "price_czk": 40,
+   "price_eur": 13.2,
+   "estimate": true,
+   "time": {
+    "en": "1.5–2 h (shaded hillside paths; pick 2–3 regions, about 1.5 km of easy walking)",
+    "he": "1.5–2 שעות (שבילים מוצלים על המדרון; לבחור 2–3 אזורים, כ-1.5 ק\"מ הליכה קלה)"
+   },
+   "kids": {
+    "en": "Wooden houses, barns and a mountain village set among trees on a hillside above Turtle Lake: kids climb the balconies and peek into the rooms, and it is the shadiest morning option in Tbilisi. Some paths are steep and stony – wear closed shoes.",
+    "he": "בתים מעץ, אסמים וכפר הרים בין העצים על מדרון מעל אגם הצבים: הילדים מטפסים על המרפסות ומציצים לחדרים, וזו האפשרות המוצלת ביותר בבוקר בטביליסי. חלק מהשבילים תלולים ואבניים – לנעול נעליים סגורות."
+   },
+   "optional": false,
+   "google": {
+    "name": "Giorgi Chitaia Open Air Museum of Ethnography",
+    "rating": 4.6,
+    "reviews": 2534,
+    "lat": 41.704275,
+    "lng": 44.744351,
+    "address": "კუს ტბის ქუჩა, Tbilisi, Georgia",
+    "website": "https://museum.ge/index.php?lang_id=ENG&sec_id=46",
+    "place_id": "ChIJbf0ou09zREARxCnqUDhG7wY",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Giorgi%20Chitaia%20Open%20Air%20Museum%20of%20Ethnography&query_place_id=ChIJbf0ou09zREARxCnqUDhG7wY",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.704275,44.744351&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 2534,
+    "url": "https://www.google.com/maps/search/?api=1&query=Giorgi%20Chitaia%20Open%20Air%20Museum%20of%20Ethnography&query_place_id=ChIJbf0ou09zREARxCnqUDhG7wY"
+   },
+   "photo": {
+    "file": "img/ethno-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Tbilisi_Open_Air_Museum_of_Ethnography_23.jpg",
+    "credit": "Kober · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Open Air Museum of Ethnography (Georgian National Museum)",
+     "https://museum.ge/index.php?lang_id=ENG&sec_id=46"
+    ],
+    [
+     "Wikipedia – Tbilisi Open Air Museum of Ethnography",
+     "https://en.wikipedia.org/wiki/Tbilisi_Open_Air_Museum_of_Ethnography"
+    ],
+    [
+     "Wander-Lush – Tbilisi museums (prices)",
+     "https://wander-lush.org/best-tbilisi-museums-galleries/"
+    ]
+   ]
+  },
+  "turtle": {
+   "id": "turtle",
+   "name": {
+    "en": "Turtle Lake (Kus Tba) with the Vake cable car",
+    "he": "אגם הצבים (קוס טבה) עם רכבל ואקה"
+   },
+   "hours": {
+    "en": "Park and lake open all day; the Vake–Turtle Lake cable car runs daily (hours not found; a guide says it is part of the city cable cars at up to 2.5 GEL). Wed 25 Aug, late morning right after the museum (the museum is a 10–15 min walk away).",
+    "he": "הפארק והאגם פתוחים כל היום; רכבל ואקה–אגם הצבים פועל מדי יום (השעות לא נמצאו; מדריך אומר שהוא חלק מרכבלי העיר במחיר עד 2.5 לארי). יום ד' 25 באוגוסט, סוף הבוקר מיד אחרי המוזיאון (המוזיאון במרחק הליכה 10–15 דקות)."
+   },
+   "price_text": {
+    "en": "≈ 20 GEL (≈ €7), estimate: cable car 4 × 2.5 GEL one way (children's fare unverified); the lake is free.",
+    "he": "כ-20 לארי (כ-7 €), הערכה: רכבל 4 × 2.5 לארי בכיוון אחד (מחיר ילדים לא אומת); האגם חינם."
+   },
+   "price_czk": 20,
+   "price_eur": 6.6,
+   "estimate": true,
+   "time": {
+    "en": "1–1.5 h (flat 1 km shore path, snack stalls and boat/pedal toys when open)",
+    "he": "1–1.5 שעות (שביל שטוח של ק\"מ לאורך החוף, דוכני חטיפים ומתקני סירה/דוושות כשפתוח)"
+   },
+   "kids": {
+    "en": "A small lake in a green hill park, with ducks and, as the name says, turtles; the cable car up from the Vake side is a short fun ride and the shore path is flat and shady in places. Keep it short: midday is hot, then the hotel pool.",
+    "he": "אגם קטן בפארק גבעות ירוק, עם ברווזים ו(כשמו) צבים; הרכבל מצד ואקה הוא נסיעה קצרה ומהנה ושביל החוף שטוח ובחלקו מוצל. להישאר זמן קצר: הצהריים חמים, ואז בריכת המלון."
+   },
+   "optional": false,
+   "google": {
+    "name": "Turtle Lake",
+    "rating": 4.4,
+    "reviews": 1738,
+    "lat": 41.700536,
+    "lng": 44.754234,
+    "address": "Tbilisi, Georgia",
+    "website": null,
+    "place_id": "ChIJS-ez1ExzREARuVU1Knu3m0c",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Turtle%20Lake&query_place_id=ChIJS-ez1ExzREARuVU1Knu3m0c",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.700536,44.754234&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 1738,
+    "url": "https://www.google.com/maps/search/?api=1&query=Turtle%20Lake&query_place_id=ChIJS-ez1ExzREARuVU1Knu3m0c"
+   },
+   "photo": {
+    "file": "img/turtle-1.jpg",
+    "w": 1000,
+    "h": 562,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Turtle_Lake,_Tbilisi_-_2024-01-17.jpg",
+    "credit": "Александр Сигачёв · CC0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Wander-Lush – Tbilisi public transport (cable cars incl. Vake–Turtle Lake)",
+     "https://wander-lush.org/tbilisi-public-transport-guide-bus-metro/"
+    ],
+    [
+     "Google Maps – Turtle Lake",
+     "https://www.google.com/maps/search/?api=1&query=Turtle%20Lake%20Tbilisi"
+    ]
+   ]
+  },
+  "gino": {
+   "id": "gino",
+   "name": {
+    "en": "Gino Paradise Aquapark (covered and open-air pools, slides)",
+    "he": "פארק המים Gino Paradise (בריכות מקורות ופתוחות, מגלשות)"
+   },
+   "hours": {
+    "en": "Google: daily 12:00–22:00 (tour-operator pages say 10:00–22:00; the official site is www.ginoaquapark.ge, confirm before going). Wed 25 Aug, afternoon (a weekday: tickets cost less than at weekends; book online in advance, tickets are non-refundable).",
+    "he": "גוגל: מדי יום 12:00–22:00 (אתרי מפעילי תיירות כותבים 10:00–22:00; האתר הרשמי www.ginoaquapark.ge, לאשר לפני ההגעה). יום ד' 25 באוגוסט, אחר הצהריים (יום חול: הכרטיסים זולים יותר מאשר בסוף שבוע; להזמין אונליין מראש, הכרטיסים לא ניתנים להחזר)."
+   },
+   "price_text": {
+    "en": "≈ 200 GEL (≈ €66): ESTIMATE – the official price list was not found; a 2026 guide says children up to and including 5 enter free (birth certificate), prices depend on weekday and entry time (weekends cost more). I assumed ≈ 80 GEL per adult and ≈ 40 GEL for the 7-year-old.",
+    "he": "כ-200 לארי (כ-66 €): הערכה – מחירון רשמי לא נמצא; מדריך מ-2026 אומר שילדים עד גיל 5 כולל נכנסים חינם (תעודת לידה), המחיר תלוי ביום ובשעת הכניסה (סוף שבוע יקר יותר). הנחתי כ-80 לארי למבוגר וכ-40 לארי לילד בן 7."
+   },
+   "price_czk": 200,
+   "price_eur": 66.01,
+   "estimate": true,
+   "time": {
+    "en": "3–4 h (taxi 25 min each way from the hotel)",
+    "he": "3–4 שעות (מונית 25 דקות לכל כיוון מהמלון)"
+   },
+   "kids": {
+    "en": "The best answer to a hot Tbilisi afternoon: a large park with a glass-roofed pool hall, a kids' water play area and slides, plus an outdoor area. The 5-year-old needs a parent in the water and must meet height limits for slides; bring swimwear, sun hats and water shoes.",
+    "he": "התשובה הכי טובה לאחר צהריים חם בטביליסי: פארק גדול עם אולם בריכות מקורה בגג זכוכית, אזור משחקי מים לילדים ומגלשות, ובנוסף אזור חיצוני. הילד בן ה-5 צריך הורה במים ולעמוד במגבלות הגובה למגלשות; להביא בגדי ים, כובעי שמש ונעלי מים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Gino Aquapark",
+    "rating": 4.2,
+    "reviews": 5045,
+    "lat": 41.741622,
+    "lng": 44.832781,
+    "address": "9 Beshenova St, Tbilisi, Georgia",
+    "website": "http://www.ginoaquapark.ge/",
+    "place_id": "ChIJxxvqRlJtREAR6bgj5CSPmVY",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Gino%20Aquapark&query_place_id=ChIJxxvqRlJtREAR6bgj5CSPmVY",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.741622,44.832781&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.2,
+    "out_of": 5,
+    "reviews": 5045,
+    "url": "https://www.google.com/maps/search/?api=1&query=Gino%20Aquapark&query_place_id=ChIJxxvqRlJtREAR6bgj5CSPmVY"
+   },
+   "photo": {
+    "file": "img/gino-1.jpg",
+    "w": 827,
+    "h": 587,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Gino%20Aquapark&query_place_id=ChIJxxvqRlJtREAR6bgj5CSPmVY",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Gino Aquapark official site",
+     "http://www.ginoaquapark.ge/"
+    ],
+    [
+     "Madloba – Gino Paradise guide",
+     "https://madloba.info/en/blog/sights-of-georgia/gino-paradise-tbilisi/"
+    ]
+   ]
+  },
+  "bj_park": {
+   "id": "bj_park",
+   "name": {
+    "en": "Borjomi Central Park: mineral spring, cable car and Ferris wheel",
+    "he": "הפארק המרכזי של בורג'ומי: מעיין מינרלי, רכבל וגלגל ענק"
+   },
+   "hours": {
+    "en": "Google: daily 9:00–20:00. Cafés, funfair, cable car and Ferris wheel mostly run late June to early September (cable car about 10:00–20:00; one 2025 visitor found the cable car closed, so confirm it is running). Thu 19 Aug.",
+    "he": "גוגל: מדי יום 9:00–20:00. בתי הקפה, לונה פארק, הרכבל והגלגל הענק פועלים בעיקר מסוף יוני עד תחילת ספטמבר (רכבל בערך 10:00–20:00; מבקר אחד ב-2025 מצא את הרכבל סגור, לכן לוודא שהוא פועל). יום ה' 19 באוגוסט."
+   },
+   "price_text": {
+    "en": "≈ 100 GEL (≈ €33), estimate: entry about 5 GEL per person (guides say 2–5 GEL) = 20 GEL, cable car 15 GEL one way per person (walk down for free) = 60 GEL, Ferris wheel ≈ 20 GEL (price not found). The mineral-water spring is free.",
+    "he": "כ-100 לארי (כ-33 €), הערכה: כניסה כ-5 לארי לאדם (המדריכים: 2–5 לארי) = 20 לארי, רכבל 15 לארי בכיוון אחד לאדם (יורדים ברגל בחינם) = 60 לארי, גלגל ענק כ-20 לארי (המחיר לא נמצא). מעיין המים המינרליים חינם."
+   },
+   "price_czk": 100,
+   "price_eur": 33.0,
+   "estimate": true,
+   "time": {
+    "en": "3–4 h (flat shaded alleys; the park is long, so use the playground and spring near the entrance)",
+    "he": "3–4 שעות (שבילים שטוחים ומוצלים; הפארק ארוך, כך שאפשר להסתפק במגרש המשחקים ובמעיין ליד הכניסה)"
+   },
+   "kids": {
+    "en": "A shaded valley park along a river with a pavilion where warm mineral water (the famous Borjomi water, salty and slightly sulfurous – kids may only take a sip) flows from taps, a cable car up to a Ferris wheel, cafés and a funfair. The coolest daytime place on the trip; the 2.4 km to the hotel is a 5-minute drive.",
+    "he": "פארק עמק מוצל לאורך נהר, עם ביתן שבו זורמים מברזים מים מינרליים חמימים (מי בורג'ומי המפורסמים, מלוחים ועם ריח גופרית קל – הילדים יטעמו רק לגימה), רכבל לגלגל ענק, בתי קפה ולונה פארק. המקום הקריר ביותר ביום בטיול; 2.4 ק\"מ למלון הם 5 דקות נסיעה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Borjomi Central Park",
+    "rating": 4.5,
+    "reviews": 15749,
+    "lat": 41.835953,
+    "lng": 43.391602,
+    "address": "50 9 აპრილის ქუჩა, Borjomi 1200, Georgia",
+    "website": "https://www.facebook.com/borjomipark/",
+    "place_id": "ChIJXRMyLYc5Q0AR6cqYQmFzNB4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Borjomi%20Central%20Park&query_place_id=ChIJXRMyLYc5Q0AR6cqYQmFzNB4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.835953,43.391602&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 15749,
+    "url": "https://www.google.com/maps/search/?api=1&query=Borjomi%20Central%20Park&query_place_id=ChIJXRMyLYc5Q0AR6cqYQmFzNB4"
+   },
+   "photo": {
+    "file": "img/bj_park-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://commons.wikimedia.org/wiki/File:2016_Bord%C5%BComi,_Park_Centralny_(01).jpg",
+    "credit": "Marcin Konsek · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "Madloba – Borjomi cable car",
+     "https://madloba.info/en/blog/sights-of-georgia/borjomi-cable-car/"
+    ],
+    [
+     "GoTrip – what to see in Borjomi (park, cable car, pools)",
+     "https://gotrip.ge/blog/en/travel/what-to-see-in-borjomi-the-main-attractions-and-restaurants/"
+    ],
+    [
+     "Komoot – Borjomi Central Park tip (entry 5 GEL, Aug 2023)",
+     "https://www.komoot.com/highlight/3587231"
+    ]
+   ]
+  },
+  "bj_pools": {
+   "id": "bj_pools",
+   "name": {
+    "en": "Borjomi sulfur pools (outdoor pools in the forest, kids' pool)",
+    "he": "בריכות הגופרית של בורג'ומי (בריכות חיצוניות ביער, בריכת ילדים)"
+   },
+   "hours": {
+    "en": "Google: daily 6:00–20:00 (one guide: 7:00–20:00). Thu 19 Aug, late afternoon (or Fri 20 Aug after Bakuriani).",
+    "he": "גוגל: מדי יום 6:00–20:00 (מדריך אחד: 7:00–20:00). יום ה' 19 באוגוסט, אחר הצהריים מאוחר (או יום ו' 20 באוגוסט אחרי בקוריאני)."
+   },
+   "price_text": {
+    "en": "≈ 20 GEL (≈ €7), estimate: 5 GEL per person per a guide (a Wanderlog reviewer mentions an extra 15 GEL access fee: confirm on site).",
+    "he": "כ-20 לארי (כ-7 €), הערכה: 5 לארי לאדם לפי מדריך (מבקר ב-Wanderlog מציין דמי גישה נוספים של 15 לארי: לוודא במקום)."
+   },
+   "price_czk": 20,
+   "price_eur": 6.6,
+   "estimate": true,
+   "time": {
+    "en": "1.5–2 h (about 3 km from the park entrance: drive; the pools are lukewarm)",
+    "he": "1.5–2 שעות (כ-3 ק\"מ מכניסת הפארק: לנסוע; המים פושרים)"
+   },
+   "kids": {
+    "en": "Outdoor pools in a pine forest by the Borjomula river, with a small kids' pool; reviewers describe the water as lukewarm rather than hot, which suits the kids better than Tbilisi's baths. Quality and facilities are basic – bring towels and flip-flops.",
+    "he": "בריכות חיצוניות ביער אורנים ליד נהר בורג'ומולה, עם בריכת ילדים קטנה; מבקרים מתארים את המים כפושרים ולא חמים, מה שמתאים לילדים יותר מאמבטיות טביליסי. הרמה והמתקנים בסיסיים – להביא מגבות וכפכפים."
+   },
+   "optional": true,
+   "google": {
+    "name": "Borjomi Sulfur Pools",
+    "rating": 4,
+    "reviews": 1578,
+    "lat": 41.815905,
+    "lng": 43.403642,
+    "address": "9 ბარათაშვილის ქუჩა, Borjomi 1200, Georgia",
+    "website": null,
+    "place_id": "ChIJO3XB4zY7Q0ARmUivdSp_DsQ",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Borjomi%20Sulfur%20Pools&query_place_id=ChIJO3XB4zY7Q0ARmUivdSp_DsQ",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.815905,43.403642&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4,
+    "out_of": 5,
+    "reviews": 1578,
+    "url": "https://www.google.com/maps/search/?api=1&query=Borjomi%20Sulfur%20Pools&query_place_id=ChIJO3XB4zY7Q0ARmUivdSp_DsQ"
+   },
+   "photo": {
+    "file": "img/bj_pools-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Borjomi%20Sulfur%20Pools&query_place_id=ChIJO3XB4zY7Q0ARmUivdSp_DsQ",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "GoTrip – what to see in Borjomi (pools 5 GEL, kids' pool)",
+     "https://gotrip.ge/blog/en/travel/what-to-see-in-borjomi-the-main-attractions-and-restaurants/"
+    ],
+    [
+     "Madloba – Borjomi sulphur pools",
+     "https://madloba.info/en/blog/sights-of-georgia/borjomi-sulphur-pools/"
+    ]
+   ]
+  },
+  "bakuriani": {
+   "id": "bakuriani",
+   "name": {
+    "en": "Bakuriani: Didveli mountain lifts (1,700 m, cool air)",
+    "he": "בקוריאני: מעליות ההר של דידוולי (1,700 מ', אוויר קריר)"
+   },
+   "hours": {
+    "en": "Summer season (guide, unconfirmed): about 28 June–31 Aug; older reports give lifts 11:00–18:00 daily, with an alpine toboggan and a kids' park. Check status on Status.MTA.Ski or at the ticket office. Fri 20 Aug (weekend visitors arrive from the afternoon: go up early).",
+    "he": "עונת הקיץ (מדריך, לא מאושר): כ-28 ביוני–31 באוגוסט; דיווחים ישנים מציינים מעליות 11:00–18:00 מדי יום, עם מגלשת הרים וגן משחקים לילדים. לבדוק מצב ב-Status.MTA.Ski או בקופה. יום ו' 20 באוגוסט (מבקרי סוף שבוע מגיעים מאחר הצהריים: לעלות מוקדם)."
+   },
+   "price_text": {
+    "en": "≈ 100 GEL (≈ €33): ESTIMATE – no summer price list found (winter day pass for reference: 55 GEL adult, 28 GEL child 6–12, under 6 free). Budget for a chairlift ride up and down for 2 adults + the 7-year-old, plus a toboggan ride.",
+    "he": "כ-100 לארי (כ-33 €): הערכה – מחירון קיץ לא נמצא (לייחוס, כרטיס יום בחורף: 55 לארי מבוגר, 28 לארי ילד 6–12, מתחת ל-6 חינם). לתקצב נסיעה במעלית כיסאות למעלה ולמטה לשני מבוגרים + הילד בן ה-7, ועוד נסיעה במגלשת ההרים."
+   },
+   "price_czk": 100,
+   "price_eur": 33.0,
+   "estimate": true,
+   "time": {
+    "en": "5 h including 37 min each way by car (31 km), a picnic and the lifts",
+    "he": "5 שעות כולל 37 דקות לכל כיוון ברכב (31 ק\"מ), פיקניק ומעליות"
+   },
+   "kids": {
+    "en": "The heat escape: the ski village sits at about 1,700 m, roughly 8–10 °C cooler than Borjomi, with green meadows and mountain views; the lifts and toboggan are a short, easy outing (no hiking). Optional because summer operation of the lifts is not confirmed: if they are closed, have lunch and a flat walk in the village and come back to Borjomi.",
+    "he": "מפלט מהחום: כפר הסקי בגובה כ-1,700 מ', כ-8–10 מעלות קריר יותר מבורג'ומי, עם כרי דשא ונופי הרים; המעליות ומגלשת ההרים הן טיול קצר וקל (בלי הליכה). אופציונלי כי הפעלת המעליות בקיץ לא מאושרת: אם סגורות – ארוחת צהריים והליכה שטוחה בכפר וחוזרים לבורג'ומי."
+   },
+   "optional": true,
+   "google": {
+    "name": "Didveli",
+    "rating": null,
+    "reviews": null,
+    "lat": 41.732223,
+    "lng": 43.532515,
+    "address": "Bakuriani, Georgia",
+    "website": null,
+    "place_id": "ChIJc-7Q9lAWQ0ARjZJ76ZLSF2M",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Didveli&query_place_id=ChIJc-7Q9lAWQ0ARjZJ76ZLSF2M",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.732223,43.532515&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": null,
+    "out_of": 5,
+    "reviews": null,
+    "url": "https://www.google.com/maps/search/?api=1&query=Didveli&query_place_id=ChIJc-7Q9lAWQ0ARjZJ76ZLSF2M"
+   },
+   "photo": {
+    "file": "img/bakuriani-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Bakuriani,_Georgia1.JPG",
+    "credit": "Kober · Public domain · Wikimedia Commons (Bakuriani valley and chairlift)"
+   },
+   "sources": [
+    [
+     "Wander-Lush – Bakuriani travel tips (summer season dates)",
+     "https://wander-lush.org/visit-bakuriani-travel-tips/"
+    ],
+    [
+     "Georgian TV (1tv) – ropeways to work every day in Bakuriani",
+     "https://1tv.ge/en/news/ropeways-work-every-day-bakuriani/"
+    ],
+    [
+     "Skiresort.info – Bakuriani lifts",
+     "https://skiresort.info/ski-resort/bakuriani/ski-lifts/l107770"
+    ]
+   ]
+  },
+  "rabati": {
+   "id": "rabati",
+   "name": {
+    "en": "Rabati Castle, Akhaltsikhe (restored fortress with mosque and tower)",
+    "he": "מבצר רבאטי באחלציחה (מבצר משוחזר עם מסגד ומגדל)"
+   },
+   "hours": {
+    "en": "Google: daily 9:00–20:00 (a guide says 9:00–18:00 with longer summer evenings); the history museum inside is Tue–Sun 10:00–18:00 (closed Monday). Sat 21 Aug: castle and museum both open (the museum is closed only on Monday); Saturday is busier, so arrive at 9:00.",
+    "he": "גוגל: מדי יום 9:00–20:00 (מדריך אומר 9:00–18:00 עם ערבי קיץ ארוכים יותר); מוזיאון ההיסטוריה בפנים ג'–א' 10:00–18:00 (סגור ביום שני). יום ש' 21 באוגוסט: המבצר והמוזיאון פתוחים (המוזיאון סגור רק בימי שני); בשבת עמוס יותר, ולכן להגיע ב-9:00."
+   },
+   "price_text": {
+    "en": "≈ 50 GEL (≈ €17), estimate: a guide says 20 GEL per adult, children under 6 free (= 40 GEL; I added about 10 GEL for the 7-year-old). Lower terraces, restaurant grounds and the viewing tower are free; the museum costs 15 GEL extra.",
+    "he": "כ-50 לארי (כ-17 €), הערכה: מדריך אומר 20 לארי למבוגר, ילדים מתחת ל-6 חינם (= 40 לארי; הוספתי כ-10 לארי לילד בן 7). המדרגות התחתונות, חצר המסעדה ומגדל התצפית חינם; המוזיאון 15 לארי נוספים."
+   },
+   "price_czk": 50,
+   "price_eur": 16.5,
+   "estimate": true,
+   "time": {
+    "en": "2.5 h on site + 57 min drive each way (50 km)",
+    "he": "2.5 שעות במקום + 57 דקות נסיעה לכל כיוון (50 ק\"מ)"
+   },
+   "kids": {
+    "en": "A castle kids recognise from picture books: towers to climb, ramparts, a golden-domed mosque and a courtyard with gardens. Easy flat paths (about 1 km), stone steps in the towers. Heat: Akhaltsikhe is lower and hotter than Borjomi (typically 28–31 °C), so arrive at opening time, have lunch under shade and be back in Borjomi by 14:30.",
+    "he": "טירה שהילדים מכירים מספרי ילדים: מגדלים לטפס עליהם, חומות, מסגד עם כיפה מוזהבת וחצר עם גנים. שבילים קלים ושטוחים (כ-ק\"מ), מדרגות אבן במגדלים. חום: אחלציחה נמוכה וחמה יותר מבורג'ומי (בדרך כלל 28–31 מעלות), ולכן להגיע בשעת הפתיחה, לאכול צהריים בצל ולחזור לבורג'ומי עד 14:30."
+   },
+   "optional": false,
+   "google": {
+    "name": "Akhaltsikhe (Rabati) Castle",
+    "rating": 4.7,
+    "reviews": 8236,
+    "lat": 41.642985,
+    "lng": 42.978055,
+    "address": "Rabati Fortress, Akhaltsikhe 0800, Georgia",
+    "website": "http://www.rabati.ge/",
+    "place_id": "ChIJa2XkrYfaQkARYBISc4qXOR4",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Akhaltsikhe%20%28Rabati%29%20Castle&query_place_id=ChIJa2XkrYfaQkARYBISc4qXOR4",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.642985,42.978055&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 8236,
+    "url": "https://www.google.com/maps/search/?api=1&query=Akhaltsikhe%20%28Rabati%29%20Castle&query_place_id=ChIJa2XkrYfaQkARYBISc4qXOR4"
+   },
+   "photo": {
+    "file": "img/rabati-1.jpg",
+    "w": 1000,
+    "h": 682,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Georgia,_Akhaltsikhe,_Rabati_Castle_(30327080592).jpg",
+    "credit": "John Wagner · CC BY-SA 2.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "GeorgianHolidays – Rabati Castle (ticket, hours)",
+     "https://www.georgianholidays.com/attraction/fortresses/rabati-castle"
+    ],
+    [
+     "Wander-Lush – Akhaltsikhe guide (20 GEL, museum 15 GEL)",
+     "https://wander-lush.org/things-to-do-in-akhaltsikhe-travel-guide/"
+    ],
+    [
+     "Rabati official site",
+     "http://www.rabati.ge/"
+    ]
+   ]
+  },
+  "likani": {
+   "id": "likani",
+   "name": {
+    "en": "Likani Park and the Romanov Palace (pine forest walk)",
+    "he": "פארק ליקני וארמון הרומנובים (הליכה ביער אורנים)"
+   },
+   "hours": {
+    "en": "The park is open all day; the palace is a museum with visits by prior arrangement (Google lists no hours). Sat 21 Aug, late afternoon on the way back from Rabati (5 km / 13 min from the hotel).",
+    "he": "הפארק פתוח כל היום; הארמון הוא מוזיאון עם ביקורים בתיאום מראש (בגוגל אין שעות). יום ש' 21 באוגוסט, אחר הצהריים בדרך חזרה מרבאטי (5 ק\"מ / 13 דקות מהמלון)."
+   },
+   "price_text": {
+    "en": "Park free (palace interior not priced here: ask at the gate; Google rating 3.8 from 303 reviews, so the exterior and the park are the point).",
+    "he": "הפארק חינם (פנים הארמון לא מתומחר כאן: לשאול בשער; דירוג גוגל 3.8 מתוך 303 ביקורות, ולכן העיקר הוא החזית והפארק)."
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": true,
+   "time": {
+    "en": "1–1.5 h (flat 1.5 km loop under pines)",
+    "he": "שעה–שעה וחצי (סיבוב שטוח של 1.5 ק\"מ מתחת לאורנים)"
+   },
+   "kids": {
+    "en": "A quiet 19th-century summer palace of the Romanov family in a tall pine forest with mineral springs and a river: shade, birdsong and room to run. A calm end to the Rabati day (no hiking).",
+    "he": "ארמון קיץ שקט מהמאה ה-19 של משפחת רומנוב ביער אורנים גבוה עם מעיינות מינרליים ונהר: צל, ציפורים ומקום לרוץ. סיום רגוע ליום רבאטי (בלי הליכה ארוכה)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Romanov Palace",
+    "rating": 3.8,
+    "reviews": 303,
+    "lat": 41.828044,
+    "lng": 43.36441,
+    "address": "R9H7+6Q7, მესხეთის ქუჩა, Borjomi 1200, Georgia",
+    "website": null,
+    "place_id": "ChIJOwVWVzk6Q0ARObysZdNpDrU",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Romanov%20Palace&query_place_id=ChIJOwVWVzk6Q0ARObysZdNpDrU",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.828044,43.364410&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 3.8,
+    "out_of": 5,
+    "reviews": 303,
+    "url": "https://www.google.com/maps/search/?api=1&query=Romanov%20Palace&query_place_id=ChIJOwVWVzk6Q0ARObysZdNpDrU"
+   },
+   "photo": {
+    "file": "img/likani-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Romanov%20Palace&query_place_id=ChIJOwVWVzk6Q0ARObysZdNpDrU",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Google Maps – Romanov Palace (Likani)",
+     "https://www.google.com/maps/search/?api=1&query=Romanov%20Palace%20Likani%20Borjomi"
+    ],
+    [
+     "Wikivoyage – Borjomi",
+     "https://en.wikivoyage.org/wiki/Borjomi"
+    ]
+   ]
+  },
+  "bkn": {
+   "id": "bkn",
+   "name": {
+    "en": "Borjomi-Kharagauli National Park: visitor centre and first part of the Information Trail",
+    "he": "הפארק הלאומי בורג'ומי-חרגאולי: מרכז המבקרים וחלקו הראשון של שביל המידע"
+   },
+   "hours": {
+    "en": "Visitor centre at 23 Meskheti St, Borjomi (park open March–November per one source; registration at the centre is required). Alternative for Sat 21 Aug or the morning of Thu 19 Aug (weekend opening hours of the centre not found: call ahead).",
+    "he": "מרכז המבקרים ברחוב מסחתי 23, בורג'ומי (הפארק פתוח מרץ–נובמבר לפי מקור אחד; חובה להירשם במרכז). חלופה ליום ש' 21 באוגוסט או לבוקר של יום ה' 19 באוגוסט (שעות פתיחה בסוף שבוע לא נמצאו: להתקשר מראש)."
+   },
+   "price_text": {
+    "en": "≈ 12 GEL (≈ €4), estimate: one guide lists 5 GEL per adult and 2 GEL per child 6–15; another says entry is free (registration mandatory). Fee not verified for 2027.",
+    "he": "כ-12 לארי (כ-4 €), הערכה: מדריך אחד מציין 5 לארי למבוגר ו-2 לארי לילד 6–15; אחר אומר שהכניסה חינם (רישום חובה). עלות לא אומתה ל-2027."
+   },
+   "price_czk": 12,
+   "price_eur": 3.96,
+   "estimate": true,
+   "time": {
+    "en": "1.5 h (the Information Trail is 3 km / 1.5 h in total: walk only the first ~1 km and turn back)",
+    "he": "1.5 שעות (שביל המידע הוא 3 ק\"מ / 1.5 שעות בסך הכול: ללכת רק כק\"מ הראשון ולחזור)"
+   },
+   "kids": {
+    "en": "A nature taste: forest birdsong, a visitor centre with exhibits, and a gentle start of the Information Trail in the shade. Optional because the full trail (3 km) exceeds the 2 km limit – turn back after about 1 km.",
+    "he": "טעימה מהטבע: ציוץ ציפורים ביער, מרכז מבקרים עם תצוגות והתחלה מתונה של שביל המידע בצל. אופציונלי כי השביל המלא (3 ק\"מ) חורג ממגבלת 2 ק\"מ – לחזור אחרי כק\"מ."
+   },
+   "optional": true,
+   "google": {
+    "name": "Borjomi-Kharagauli National Park Administration",
+    "rating": 4.7,
+    "reviews": 555,
+    "lat": 41.83712,
+    "lng": 43.370998,
+    "address": "23 მესხეთის ქუჩა, Borjomi 1200, Georgia",
+    "website": "http://apa.gov.ge/en/protected-areas/cattestone/bordjom-xaragaulis-erovnuli-parkis-administracia",
+    "place_id": "ChIJWdGl6CE6Q0ARMbcA2sSvWcM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Borjomi-Kharagauli%20National%20Park%20Administration&query_place_id=ChIJWdGl6CE6Q0ARMbcA2sSvWcM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.837120,43.370998&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 555,
+    "url": "https://www.google.com/maps/search/?api=1&query=Borjomi-Kharagauli%20National%20Park%20Administration&query_place_id=ChIJWdGl6CE6Q0ARMbcA2sSvWcM"
+   },
+   "photo": {
+    "file": "img/bkn-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/search/?api=1&query=Borjomi-Kharagauli%20National%20Park%20Administration&query_place_id=ChIJWdGl6CE6Q0ARMbcA2sSvWcM",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Borjomi-Kharagauli NP – APA visitor centre",
+     "https://apa.gov.ge/en/media/News/vizitorTa-centrebi/borjom-xaragaulis-erovnuli-parki/eleqtronuli-auqcioni-axmeta"
+    ],
+    [
+     "Georgia.to – trails of Borjomi-Kharagauli NP",
+     "https://georgia.to/trails-of-borjomi-kharagauli-national-park/"
+    ],
+    [
+     "GeorgianHolidays – Borjomi-Kharagauli",
+     "https://www.georgianholidays.com/attraction/protected-areas/borjomi-kharagauli-national-park"
+    ]
+   ]
+  },
+  "uplis": {
+   "id": "uplis",
+   "name": {
+    "en": "Uplistsikhe: a 3,000-year-old cave town carved in rock",
+    "he": "אופליסציחה: עיר מערות בת 3,000 שנה חצובה בסלע"
+   },
+   "hours": {
+    "en": "Summer (16 April–30 Sept) 10:00–19:00 daily per one source (other sources say closed on Monday or 10:00–17:00: confirm). Sun 22 Aug (a Sunday: open), on the way from Borjomi to Tbilisi.",
+    "he": "קיץ (16 באפריל–30 בספטמבר) 10:00–19:00 מדי יום לפי מקור אחד (מקורות אחרים: סגור ביום שני או 10:00–17:00: לאשר). יום א' 22 באוגוסט (יום ראשון: פתוח), בדרך מבורג'ומי לטביליסי."
+   },
+   "price_text": {
+    "en": "≈ 31 GEL (≈ €10): adult 15 GEL, schoolchildren 1 GEL, under 6 free (consistent across guides, no 2027 price); audio guide 15 GEL extra.",
+    "he": "כ-31 לארי (כ-10 €): מבוגר 15 לארי, תלמידים 1 לארי, מתחת ל-6 חינם (עקבי בין המדריכים, אין מחיר ל-2027); אודיו-גייד 15 לארי נוספים."
+   },
+   "price_czk": 31,
+   "price_eur": 10.23,
+   "estimate": true,
+   "time": {
+    "en": "1.5 h + about 15 min extra detour (78 km / 1h18 from Borjomi; then 87 km / 1h13 to Tbilisi)",
+    "he": "1.5 שעות + כ-15 דקות עקיפה (78 ק\"מ / 1:18 שעות מבורג'ומי; אחר כך 87 ק\"מ / 1:13 שעות לטביליסי)"
+   },
+   "kids": {
+    "en": "Streets, a hall, a tunnel and rooms carved out of golden rock above the Mtkvari river: kids explore caves and steps (about 1 km on uneven rock; hold the 5-year-old's hand at the edges). Sun-baked at noon (typically 33 °C): the 10:00 opening slot is best. Skip it if the kids are tired – the direct drive is 2h14.",
+    "he": "רחובות, אולם, מנהרה וחדרים חצובים בסלע זהוב מעל נהר מטקווארי: הילדים חוקרים מערות ומדרגות (כק\"מ על סלע לא אחיד; להחזיק את בן ה-5 ביד ליד הקצוות). חם בצהריים (בדרך כלל 33 מעלות): שעת הפתיחה 10:00 הכי טובה. אפשר לדלג אם הילדים עייפים – הנסיעה הישירה היא 2:14 שעות."
+   },
+   "optional": false,
+   "google": {
+    "name": "Uplistsikhe St",
+    "rating": null,
+    "reviews": null,
+    "lat": 41.971906,
+    "lng": 44.108048,
+    "address": "Gori, Georgia",
+    "website": null,
+    "place_id": "ChIJtZpeqiWcREARLF3MSBN-Nzs",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Uplistsikhe%20St&query_place_id=ChIJtZpeqiWcREARLF3MSBN-Nzs",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=41.971906,44.108048&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": null,
+    "out_of": 5,
+    "reviews": null,
+    "url": "https://www.google.com/maps/search/?api=1&query=Uplistsikhe%20St&query_place_id=ChIJtZpeqiWcREARLF3MSBN-Nzs"
+   },
+   "photo": {
+    "file": "img/uplis-1.jpg",
+    "w": 1000,
+    "h": 666,
+    "source_page": "https://commons.wikimedia.org/wiki/File:Uplistsikhe_cave_town.jpg",
+    "credit": "Mygeorgianguide · CC BY-SA 4.0 · Wikimedia Commons"
+   },
+   "sources": [
+    [
+     "GoTrip – Uplistsikhe cave city (prices, hours)",
+     "https://gotrip.ge/blog/en/travel/uplistsikhe-cave-city-in-georgia-what-to-see-and-how-to-get-there/"
+    ],
+    [
+     "Red Fedora Diary – Uplistsikhe tips and costs",
+     "https://www.redfedoradiary.com/visit-uplistsikhe-cave-town/"
+    ],
+    [
+     "GeorgianHolidays – Uplistsikhe museum",
+     "https://www.georgianholidays.com/attraction/museums-in-regions/uplistsikhe-historical-architectural-museum"
+    ]
+   ]
+  }
+ },
+ "days": [
+  {
+   "day": 1,
+   "date": "2027-08-17",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Evening flight, taxi to Tbilisi",
+    "he": "טיסת ערב ומונית לטביליסי"
+   },
+   "trail": "green",
+   "overnight": "hotel_tb1",
+   "plan": [
+    {
+     "en": "19:40 Israir Airlines 6H 893 from TLV, landing at TBS 23:15.",
+     "he": "19:40 ישראייר 6H 893 מנתב\"ג, נחיתה בטביליסי ב-23:15."
+    },
+    {
+     "en": "At the airport order a Bolt/Yandex taxi or use the hotel's pre-booked transfer (15 km / 20 min; about 35–45 GEL / €12–15, estimate; a child-seat request is rarely honoured by app taxis, so keep the kids belted in the back). Tell the hotel your landing time: the front desk is open 24 hours.",
+     "he": "בשדה להזמין מונית Bolt/Yandex או להשתמש בהסעה שהוזמנה מראש במלון (15 ק\"מ / 20 דקות; כ-35–45 לארי / 12–15 €, הערכה; מונית מאפליקציה לא תמיד מספקת מושב ילדים, ולכן הילדים חגורים במושב האחורי). לעדכן את המלון בשעת הנחיתה: הקבלה פתוחה 24 שעות."
+    },
+    {
+     "en": "Night 1 in the air-conditioned family room at the Ramada Old City (even at night Tbilisi can stay at 25–28 °C in August). Straight to bed; tomorrow the rental car arrives.",
+     "he": "לילה ראשון בחדר המשפחה הממוזג ב-Ramada העיר העתיקה (גם בלילה בטביליסי יכול להישאר 25–28 מעלות באוגוסט). ישר למיטה; מחר מגיע הרכב השכור."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 15.0,
+    "minutes": 20,
+    "legs": [
+     {
+      "from": "Tbilisi Airport (TBS) – taxi",
+      "to": "Ramada by Wyndham Tbilisi Old City",
+      "km": 15.0,
+      "min": 20
+     }
+    ],
+    "points": [
+     {
+      "name": "Tbilisi Airport (TBS) – taxi",
+      "lat": 41.6692,
+      "lng": 44.9547
+     },
+     {
+      "name": "Ramada by Wyndham Tbilisi Old City",
+      "lat": 41.6923964,
+      "lng": 44.8229628
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       44.954911,
+       41.669039
+      ],
+      [
+       44.957408,
+       41.669998
+      ],
+      [
+       44.957885,
+       41.672106
+      ],
+      [
+       44.957406,
+       41.672446
+      ],
+      [
+       44.960726,
+       41.67583
+      ],
+      [
+       44.961802,
+       41.674303
+      ],
+      [
+       44.959047,
+       41.678563
+      ],
+      [
+       44.953498,
+       41.685109
+      ],
+      [
+       44.953005,
+       41.6932
+      ],
+      [
+       44.925885,
+       41.688429
+      ],
+      [
+       44.907984,
+       41.689086
+      ],
+      [
+       44.894882,
+       41.687401
+      ],
+      [
+       44.886535,
+       41.684434
+      ],
+      [
+       44.873238,
+       41.684083
+      ],
+      [
+       44.851399,
+       41.687799
+      ],
+      [
+       44.846513,
+       41.688211
+      ],
+      [
+       44.841225,
+       41.690292
+      ],
+      [
+       44.827533,
+       41.692517
+      ],
+      [
+       44.825804,
+       41.693132
+      ],
+      [
+       44.825766,
+       41.694233
+      ],
+      [
+       44.823968,
+       41.693088
+      ],
+      [
+       44.823867,
+       41.692226
+      ],
+      [
+       44.823198,
+       41.692391
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=41.6692,44.9547&destination=41.6923964,44.8229628&travelmode=driving"
+   }
+  },
+  {
+   "day": 2,
+   "date": "2027-08-18",
+   "weekday": {
+    "en": "Wed",
+    "he": "ד'"
+   },
+   "title": {
+    "en": "Rental car, drive to Borjomi (2h14) and the first walk in the park",
+    "he": "רכב שכור, נסיעה לבורג'ומי (2:14 שעות) והליכה ראשונה בפארק"
+   },
+   "trail": "green",
+   "overnight": "hotel_bj",
+   "plan": [
+    {
+     "en": "Breakfast at the hotel. About 09:30 (Wednesday morning) the rental company delivers the pre-booked car to the hotel (ask for delivery at booking; 2 child seats, an automatic compact SUV/estate, full insurance); check the car, the deposit hold and your international driving permit.",
+     "he": "ארוחת בוקר במלון. בסביבות 09:30 (בוקר יום רביעי) חברת ההשכרה מביאה למלון את הרכב שהוזמן מראש (לבקש משלוח בהזמנה; 2 מושבי ילדים, קרוסאובר/סטיישן קומפקטי אוטומטי, ביטוח מלא); לבדוק את הרכב, את תפיסת הערבון ואת רישיון הנהיגה הבינלאומי."
+    },
+    {
+     "en": "Drive 159 km / 2h14 on the E60: Tbilisi – Gori – Khashuri – Borjomi (take a 20–30 min kids' break at a roadside café near Gori or Khashuri). Stay on the E60 and do not follow a navigation app onto side roads towards Tskhinvali / South Ossetia (administrative boundary line near Gori).",
+     "he": "נסיעה של 159 ק\"מ / 2:14 שעות בכביש E60: טביליסי – גורי – חשורי – בורג'ומי (הפסקת ילדים של 20–30 דקות בבית קפה על הכביש ליד גורי או חשורי). להישאר על ה-E60 ולא לעקוב אחרי אפליקציית ניווט לכבישים צדדיים לכיוון צחינבאלי / אוסטיה הדרומית (קו הגבול המנהלי ליד גורי)."
+    },
+    {
+     "en": "Check in at Steel Tower Borjomi (usually from 14:00; ask for an early arrival), lunch, and rest in the air-conditioned room.",
+     "he": "צ'ק-אין ב-Steel Tower Borjomi (בדרך כלל מ-14:00; לבקש הגעה מוקדמת), ארוחת צהריים ומנוחה בחדר הממוזג."
+    },
+    {
+     "en": "About 17:30 a first short walk (2.6 km / 6 min by car) to Borjomi Central Park: taste the warm mineral water at the pavilion at the entrance, then the playground and the shaded river path.",
+     "he": "בסביבות 17:30 הליכה קצרה ראשונה (2.6 ק\"מ / 6 דקות ברכב) לפארק המרכזי של בורג'ומי: טעימה של המים המינרליים החמימים בביתן בכניסה, ואז מגרש המשחקים ושביל הנהר המוצל."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 161.8,
+    "minutes": 140,
+    "legs": [
+     {
+      "from": "Ramada by Wyndham Tbilisi Old City – car pick-up",
+      "to": "Steel Tower Borjomi",
+      "km": 159.2,
+      "min": 134
+     },
+     {
+      "from": "Steel Tower Borjomi",
+      "to": "Borjomi Central Park",
+      "km": 2.6,
+      "min": 6
+     }
+    ],
+    "points": [
+     {
+      "name": "Ramada by Wyndham Tbilisi Old City – car pick-up",
+      "lat": 41.6923964,
+      "lng": 44.8229628
+     },
+     {
+      "name": "Steel Tower Borjomi",
+      "lat": 41.8425438,
+      "lng": 43.3870919
+     },
+     {
+      "name": "Borjomi Central Park",
+      "lat": 41.8359528,
+      "lng": 43.3916016
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       44.823198,
+       41.692391
+      ],
+      [
+       44.791723,
+       41.707491
+      ],
+      [
+       44.773798,
+       41.732471
+      ],
+      [
+       44.771741,
+       41.821701
+      ],
+      [
+       44.736522,
+       41.82258
+      ],
+      [
+       44.730847,
+       41.867161
+      ],
+      [
+       44.715385,
+       41.892804
+      ],
+      [
+       44.587803,
+       41.899559
+      ],
+      [
+       44.413955,
+       41.995475
+      ],
+      [
+       44.281567,
+       42.023193
+      ],
+      [
+       44.175959,
+       42.02681
+      ],
+      [
+       44.141138,
+       42.016415
+      ],
+      [
+       44.043489,
+       42.010012
+      ],
+      [
+       43.986779,
+       42.018272
+      ],
+      [
+       43.897659,
+       42.056309
+      ],
+      [
+       43.873532,
+       42.058376
+      ],
+      [
+       43.836562,
+       42.029659
+      ],
+      [
+       43.786348,
+       42.031562
+      ],
+      [
+       43.518276,
+       41.96527
+      ],
+      [
+       43.504249,
+       41.940583
+      ],
+      [
+       43.482421,
+       41.932518
+      ],
+      [
+       43.482889,
+       41.9172
+      ],
+      [
+       43.438768,
+       41.895906
+      ],
+      [
+       43.418733,
+       41.876254
+      ],
+      [
+       43.41241,
+       41.849786
+      ],
+      [
+       43.387076,
+       41.842544
+      ],
+      [
+       43.379008,
+       41.840548
+      ],
+      [
+       43.391551,
+       41.836087
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=41.6923964,44.8229628&destination=41.8359528,43.3916016&travelmode=driving&waypoints=41.8425438%2C43.3870919"
+   }
+  },
+  {
+   "day": 3,
+   "date": "2027-08-19",
+   "weekday": {
+    "en": "Thu",
+    "he": "ה'"
+   },
+   "title": {
+    "en": "Borjomi Central Park: cable car, Ferris wheel and forest pools",
+    "he": "הפארק המרכזי של בורג'ומי: רכבל, גלגל ענק ובריכות ביער"
+   },
+   "trail": "blue",
+   "overnight": "hotel_bj",
+   "plan": [
+    {
+     "en": "Breakfast, then Borjomi Central Park from 09:30 (flat shaded paths; the cable car up to the Ferris wheel should be running in August – check at the ticket window; walk back down for free).",
+     "he": "ארוחת בוקר, ואז הפארק המרכזי של בורג'ומי מ-09:30 (שבילים שטוחים ומוצלים; הרכבל לגלגל הענק אמור לפעול באוגוסט – לבדוק בקופה; יורדים ברגל בחינם)."
+    },
+    {
+     "en": "Lunch in a café by the river, then rest in the air-conditioned room 13:30–16:00 (Borjomi is cooler than Tbilisi, typically 26–29 °C).",
+     "he": "ארוחת צהריים בבית קפה ליד הנהר, ואז מנוחה בחדר הממוזג 13:30–16:00 (בבורג'ומי קריר יותר מבטביליסי, בדרך כלל 26–29 מעלות)."
+    },
+    {
+     "en": "Optional late afternoon: the sulfur pools (drive about 3 km beyond the park entrance; lukewarm outdoor pools with a small kids' pool).",
+     "he": "אופציונלי בשעות אחר הצהריים המאוחרות: בריכות הגופרית (נסיעה של כ-3 ק\"מ אחרי כניסת הפארק; בריכות חיצוניות פושרות עם בריכת ילדים קטנה)."
+    }
+   ],
+   "attractions": [
+    "bj_park",
+    "bj_pools"
+   ],
+   "route": {
+    "km": 4.2,
+    "minutes": 9,
+    "legs": [
+     {
+      "from": "Steel Tower Borjomi",
+      "to": "Borjomi Central Park (cable car, Ferris wheel)",
+      "km": 2.4,
+      "min": 5
+     },
+     {
+      "from": "Borjomi Central Park (cable car, Ferris wheel)",
+      "to": "Steel Tower Borjomi",
+      "km": 1.8,
+      "min": 4
+     }
+    ],
+    "points": [
+     {
+      "name": "Steel Tower Borjomi",
+      "lat": 41.8425438,
+      "lng": 43.3870919
+     },
+     {
+      "name": "Borjomi Central Park (cable car, Ferris wheel)",
+      "lat": 41.8359528,
+      "lng": 43.3916016
+     },
+     {
+      "name": "Steel Tower Borjomi",
+      "lat": 41.8425438,
+      "lng": 43.3870919
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       43.387076,
+       41.842544
+      ],
+      [
+       43.387064,
+       41.842429
+      ],
+      [
+       43.386622,
+       41.842485
+      ],
+      [
+       43.384083,
+       41.843139
+      ],
+      [
+       43.383176,
+       41.843106
+      ],
+      [
+       43.382745,
+       41.843007
+      ],
+      [
+       43.381716,
+       41.842563
+      ],
+      [
+       43.380508,
+       41.841928
+      ],
+      [
+       43.380045,
+       41.841601
+      ],
+      [
+       43.379008,
+       41.840548
+      ],
+      [
+       43.379147,
+       41.840533
+      ],
+      [
+       43.379298,
+       41.840852
+      ],
+      [
+       43.380045,
+       41.841601
+      ],
+      [
+       43.380508,
+       41.841928
+      ],
+      [
+       43.381716,
+       41.842563
+      ],
+      [
+       43.382433,
+       41.841811
+      ],
+      [
+       43.382425,
+       41.841708
+      ],
+      [
+       43.382552,
+       41.841562
+      ],
+      [
+       43.383197,
+       41.841791
+      ],
+      [
+       43.383559,
+       41.841777
+      ],
+      [
+       43.385005,
+       41.84132
+      ],
+      [
+       43.386951,
+       41.840889
+      ],
+      [
+       43.386856,
+       41.840591
+      ],
+      [
+       43.386962,
+       41.839915
+      ],
+      [
+       43.386791,
+       41.838908
+      ],
+      [
+       43.386995,
+       41.838389
+      ],
+      [
+       43.388206,
+       41.837351
+      ],
+      [
+       43.389188,
+       41.837006
+      ],
+      [
+       43.390257,
+       41.836348
+      ],
+      [
+       43.390495,
+       41.836262
+      ],
+      [
+       43.391399,
+       41.836171
+      ],
+      [
+       43.391551,
+       41.836087
+      ],
+      [
+       43.391625,
+       41.836174
+      ],
+      [
+       43.391529,
+       41.836249
+      ],
+      [
+       43.391399,
+       41.836171
+      ],
+      [
+       43.390495,
+       41.836262
+      ],
+      [
+       43.390257,
+       41.836348
+      ],
+      [
+       43.389188,
+       41.837006
+      ],
+      [
+       43.388206,
+       41.837351
+      ],
+      [
+       43.386995,
+       41.838389
+      ],
+      [
+       43.386825,
+       41.838768
+      ],
+      [
+       43.386962,
+       41.839915
+      ],
+      [
+       43.386856,
+       41.840591
+      ],
+      [
+       43.386951,
+       41.840889
+      ],
+      [
+       43.385005,
+       41.84132
+      ],
+      [
+       43.383559,
+       41.841777
+      ],
+      [
+       43.383197,
+       41.841791
+      ],
+      [
+       43.38268,
+       41.841592
+      ],
+      [
+       43.381716,
+       41.842563
+      ],
+      [
+       43.382745,
+       41.843007
+      ],
+      [
+       43.38374,
+       41.843143
+      ],
+      [
+       43.384343,
+       41.843094
+      ],
+      [
+       43.384712,
+       41.842936
+      ],
+      [
+       43.386622,
+       41.842485
+      ],
+      [
+       43.387064,
+       41.842429
+      ],
+      [
+       43.387076,
+       41.842544
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=41.8425438,43.3870919&destination=41.8425438,43.3870919&travelmode=driving&waypoints=41.8359528%2C43.3916016"
+   }
+  },
+  {
+   "day": 4,
+   "date": "2027-08-20",
+   "weekday": {
+    "en": "Fri",
+    "he": "ו'"
+   },
+   "title": {
+    "en": "Bakuriani: mountain air, lifts and a toboggan (1,700 m)",
+    "he": "בקוריאני: אוויר הרים, מעליות ומגלשת הרים (1,700 מ')"
+   },
+   "trail": "blue",
+   "overnight": "hotel_bj",
+   "plan": [
+    {
+     "en": "Drive 31 km / 37 min up to Bakuriani (winding mountain road; start about 10:00). Check the lift status online (Status.MTA.Ski) or at the hotel desk before you go.",
+     "he": "נסיעה של 31 ק\"מ / 37 דקות במעלה הדרך לבקוריאני (כביש הרים מתפתל; לצאת בסביבות 10:00). לבדוק את מצב המעליות באינטרנט (Status.MTA.Ski) או בקבלה לפני היציאה."
+    },
+    {
+     "en": "Didveli lifts and alpine toboggan / kids' park (summer lifts reportedly 11:00–18:00; no hiking – a chairlift ride and a short meadow stroll). Picnic or lunch in the village: it is 8–10 °C cooler than Borjomi.",
+     "he": "מעליות דידוולי ומגלשת הרים / גן משחקים לילדים (המעליות בקיץ לפי דיווחים 11:00–18:00; בלי הליכה – נסיעה במעלית כיסאות וטיול קצר בכר דשא). פיקניק או ארוחת צהריים בכפר: קריר ב-8–10 מעלות מבורג'ומי."
+    },
+    {
+     "en": "If the lifts are closed: a flat walk and lunch in Bakuriani, then back to Borjomi (37 min) for the sulfur pools or the hotel rest.",
+     "he": "אם המעליות סגורות: הליכה שטוחה וארוחת צהריים בבקוריאני, ואז חזרה לבורג'ומי (37 דקות) לבריכות הגופרית או למנוחה במלון."
+    }
+   ],
+   "attractions": [
+    "bakuriani",
+    "bj_pools"
+   ],
+   "route": {
+    "km": 62.8,
+    "minutes": 75,
+    "legs": [
+     {
+      "from": "Steel Tower Borjomi",
+      "to": "Bakuriani (Didveli)",
+      "km": 31.5,
+      "min": 37
+     },
+     {
+      "from": "Bakuriani (Didveli)",
+      "to": "Steel Tower Borjomi",
+      "km": 31.3,
+      "min": 38
+     }
+    ],
+    "points": [
+     {
+      "name": "Steel Tower Borjomi",
+      "lat": 41.8425438,
+      "lng": 43.3870919
+     },
+     {
+      "name": "Bakuriani (Didveli)",
+      "lat": 41.7322231,
+      "lng": 43.5325148
+     },
+     {
+      "name": "Steel Tower Borjomi",
+      "lat": 41.8425438,
+      "lng": 43.3870919
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       43.387076,
+       41.842544
+      ],
+      [
+       43.404496,
+       41.847702
+      ],
+      [
+       43.408412,
+       41.846316
+      ],
+      [
+       43.408165,
+       41.841492
+      ],
+      [
+       43.396879,
+       41.836948
+      ],
+      [
+       43.400514,
+       41.833698
+      ],
+      [
+       43.403268,
+       41.828101
+      ],
+      [
+       43.40851,
+       41.825041
+      ],
+      [
+       43.411548,
+       41.821699
+      ],
+      [
+       43.419821,
+       41.809657
+      ],
+      [
+       43.425961,
+       41.808722
+      ],
+      [
+       43.427784,
+       41.811755
+      ],
+      [
+       43.430044,
+       41.812102
+      ],
+      [
+       43.434362,
+       41.808826
+      ],
+      [
+       43.440684,
+       41.812861
+      ],
+      [
+       43.444638,
+       41.813685
+      ],
+      [
+       43.44765,
+       41.811269
+      ],
+      [
+       43.452836,
+       41.80998
+      ],
+      [
+       43.456477,
+       41.810117
+      ],
+      [
+       43.460228,
+       41.812227
+      ],
+      [
+       43.465224,
+       41.809924
+      ],
+      [
+       43.470743,
+       41.80536
+      ],
+      [
+       43.475296,
+       41.8055
+      ],
+      [
+       43.483198,
+       41.7984
+      ],
+      [
+       43.480732,
+       41.797148
+      ],
+      [
+       43.47386,
+       41.799008
+      ],
+      [
+       43.472143,
+       41.796688
+      ],
+      [
+       43.470592,
+       41.79899
+      ],
+      [
+       43.472212,
+       41.794452
+      ],
+      [
+       43.474467,
+       41.796776
+      ],
+      [
+       43.476512,
+       41.794165
+      ],
+      [
+       43.474349,
+       41.795768
+      ],
+      [
+       43.472348,
+       41.792001
+      ],
+      [
+       43.468286,
+       41.796078
+      ],
+      [
+       43.466978,
+       41.794361
+      ],
+      [
+       43.469141,
+       41.793426
+      ],
+      [
+       43.474397,
+       41.782797
+      ],
+      [
+       43.477735,
+       41.783205
+      ],
+      [
+       43.47882,
+       41.780995
+      ],
+      [
+       43.47911,
+       41.77557
+      ],
+      [
+       43.474187,
+       41.773548
+      ],
+      [
+       43.472839,
+       41.771476
+      ],
+      [
+       43.478318,
+       41.7697
+      ],
+      [
+       43.477428,
+       41.768427
+      ],
+      [
+       43.480374,
+       41.766979
+      ],
+      [
+       43.478974,
+       41.76577
+      ],
+      [
+       43.481186,
+       41.764446
+      ],
+      [
+       43.48765,
+       41.764813
+      ],
+      [
+       43.492945,
+       41.763559
+      ],
+      [
+       43.495596,
+       41.761668
+      ],
+      [
+       43.498259,
+       41.762435
+      ],
+      [
+       43.501653,
+       41.760841
+      ],
+      [
+       43.503346,
+       41.762259
+      ],
+      [
+       43.505893,
+       41.762391
+      ],
+      [
+       43.512881,
+       41.759733
+      ],
+      [
+       43.516514,
+       41.760005
+      ],
+      [
+       43.520673,
+       41.756959
+      ],
+      [
+       43.523427,
+       41.75743
+      ],
+      [
+       43.527711,
+       41.755862
+      ],
+      [
+       43.529522,
+       41.754594
+      ],
+      [
+       43.528319,
+       41.75074
+      ],
+      [
+       43.530584,
+       41.745762
+      ],
+      [
+       43.526492,
+       41.740927
+      ],
+      [
+       43.526915,
+       41.738617
+      ],
+      [
+       43.528638,
+       41.732255
+      ],
+      [
+       43.532731,
+       41.731272
+      ],
+      [
+       43.532505,
+       41.732236
+      ],
+      [
+       43.533373,
+       41.734903
+      ],
+      [
+       43.528733,
+       41.739289
+      ],
+      [
+       43.528477,
+       41.740869
+      ],
+      [
+       43.529784,
+       41.741212
+      ],
+      [
+       43.531539,
+       41.745486
+      ],
+      [
+       43.528319,
+       41.75074
+      ],
+      [
+       43.529522,
+       41.754594
+      ],
+      [
+       43.527711,
+       41.755862
+      ],
+      [
+       43.523427,
+       41.75743
+      ],
+      [
+       43.520673,
+       41.756959
+      ],
+      [
+       43.516514,
+       41.760005
+      ],
+      [
+       43.512881,
+       41.759733
+      ],
+      [
+       43.505893,
+       41.762391
+      ],
+      [
+       43.503346,
+       41.762259
+      ],
+      [
+       43.501653,
+       41.760841
+      ],
+      [
+       43.498259,
+       41.762435
+      ],
+      [
+       43.495596,
+       41.761668
+      ],
+      [
+       43.492945,
+       41.763559
+      ],
+      [
+       43.48765,
+       41.764813
+      ],
+      [
+       43.481186,
+       41.764446
+      ],
+      [
+       43.478974,
+       41.76577
+      ],
+      [
+       43.480374,
+       41.766979
+      ],
+      [
+       43.477428,
+       41.768427
+      ],
+      [
+       43.478318,
+       41.7697
+      ],
+      [
+       43.472839,
+       41.771476
+      ],
+      [
+       43.474187,
+       41.773548
+      ],
+      [
+       43.47911,
+       41.77557
+      ],
+      [
+       43.47882,
+       41.780995
+      ],
+      [
+       43.477735,
+       41.783205
+      ],
+      [
+       43.474397,
+       41.782797
+      ],
+      [
+       43.469141,
+       41.793426
+      ],
+      [
+       43.466978,
+       41.794361
+      ],
+      [
+       43.468286,
+       41.796078
+      ],
+      [
+       43.472487,
+       41.792013
+      ],
+      [
+       43.474349,
+       41.795768
+      ],
+      [
+       43.476527,
+       41.794244
+      ],
+      [
+       43.474467,
+       41.796776
+      ],
+      [
+       43.472212,
+       41.794452
+      ],
+      [
+       43.470521,
+       41.79895
+      ],
+      [
+       43.472143,
+       41.796688
+      ],
+      [
+       43.47386,
+       41.799008
+      ],
+      [
+       43.480732,
+       41.797148
+      ],
+      [
+       43.482364,
+       41.797238
+      ],
+      [
+       43.483264,
+       41.79853
+      ],
+      [
+       43.475296,
+       41.8055
+      ],
+      [
+       43.470743,
+       41.80536
+      ],
+      [
+       43.465224,
+       41.809924
+      ],
+      [
+       43.460228,
+       41.812227
+      ],
+      [
+       43.456477,
+       41.810117
+      ],
+      [
+       43.452836,
+       41.80998
+      ],
+      [
+       43.44765,
+       41.811269
+      ],
+      [
+       43.444638,
+       41.813685
+      ],
+      [
+       43.440684,
+       41.812861
+      ],
+      [
+       43.434362,
+       41.808826
+      ],
+      [
+       43.430044,
+       41.812102
+      ],
+      [
+       43.427784,
+       41.811755
+      ],
+      [
+       43.425961,
+       41.808722
+      ],
+      [
+       43.419821,
+       41.809657
+      ],
+      [
+       43.411548,
+       41.821699
+      ],
+      [
+       43.40851,
+       41.825041
+      ],
+      [
+       43.403268,
+       41.828101
+      ],
+      [
+       43.400514,
+       41.833698
+      ],
+      [
+       43.396879,
+       41.836948
+      ],
+      [
+       43.408165,
+       41.841492
+      ],
+      [
+       43.408412,
+       41.846316
+      ],
+      [
+       43.40468,
+       41.847735
+      ],
+      [
+       43.387076,
+       41.842544
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=41.8425438,43.3870919&destination=41.8425438,43.3870919&travelmode=driving&waypoints=41.7322231%2C43.5325148"
+   }
+  },
+  {
+   "day": 5,
+   "date": "2027-08-21",
+   "weekday": {
+    "en": "Sat",
+    "he": "ש'"
+   },
+   "title": {
+    "en": "Rabati Castle in the morning, Likani pine park in the afternoon",
+    "he": "מבצר רבאטי בבוקר, פארק האורנים של ליקני אחר הצהריים"
+   },
+   "trail": "blue",
+   "overnight": "hotel_bj",
+   "plan": [
+    {
+     "en": "Leave at 08:45 for Rabati Castle in Akhaltsikhe (50 km / 57 min; Saturday: expect more visitors); arrive at opening (9:00) while it is still cool: towers, ramparts and the mosque courtyard; lunch at the castle restaurant in the shade.",
+     "he": "יציאה ב-08:45 למבצר רבאטי באחלציחה (50 ק\"מ / 57 דקות; בשבת צפוי יותר קהל); להגיע בשעת הפתיחה (9:00) כשעוד קריר: מגדלים, חומות וחצר המסגד; ארוחת צהריים במסעדת המבצר בצל."
+    },
+    {
+     "en": "Drive back (48 km / 59 min) and stop at Likani Park (the Romanov palace and a flat 1.5 km loop under pines), then the hotel by 15:30 (5 km / 13 min).",
+     "he": "חזרה (48 ק\"מ / 59 דקות) ועצירה בפארק ליקני (ארמון הרומנובים וסיבוב שטוח של 1.5 ק\"מ מתחת לאורנים), ואז המלון עד 15:30 (5 ק\"מ / 13 דקות)."
+    },
+    {
+     "en": "Alternative if you prefer a shorter day: skip Rabati and visit the Borjomi-Kharagauli visitor centre plus the first kilometre of the Information Trail in the morning, with Likani in the afternoon (about 40 min driving in total).",
+     "he": "חלופה ליום קצר יותר: לדלג על רבאטי ולבקר בבוקר במרכז המבקרים של בורג'ומי-חרגאולי ובק\"מ הראשון של שביל המידע, ואחר הצהריים בליקני (כ-40 דקות נסיעה בסך הכול)."
+    },
+    {
+     "en": "Evening: pack, fill the tank in Borjomi (the next day is the longest drive of the trip).",
+     "he": "בערב: לארוז ולתדלק בבורג'ומי (למחרת היום עם הנסיעה הארוכה ביותר בטיול)."
+    }
+   ],
+   "attractions": [
+    "rabati",
+    "likani",
+    "bkn"
+   ],
+   "route": {
+    "km": 102.4,
+    "minutes": 128,
+    "legs": [
+     {
+      "from": "Steel Tower Borjomi",
+      "to": "Rabati Castle, Akhaltsikhe",
+      "km": 49.9,
+      "min": 57
+     },
+     {
+      "from": "Rabati Castle, Akhaltsikhe",
+      "to": "Likani Park / Romanov Palace",
+      "km": 47.5,
+      "min": 59
+     },
+     {
+      "from": "Likani Park / Romanov Palace",
+      "to": "Steel Tower Borjomi",
+      "km": 5.0,
+      "min": 13
+     }
+    ],
+    "points": [
+     {
+      "name": "Steel Tower Borjomi",
+      "lat": 41.8425438,
+      "lng": 43.3870919
+     },
+     {
+      "name": "Rabati Castle, Akhaltsikhe",
+      "lat": 41.6429854,
+      "lng": 42.978055
+     },
+     {
+      "name": "Likani Park / Romanov Palace",
+      "lat": 41.8280442,
+      "lng": 43.3644104
+     },
+     {
+      "name": "Steel Tower Borjomi",
+      "lat": 41.8425438,
+      "lng": 43.3870919
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       43.387076,
+       41.842544
+      ],
+      [
+       43.380045,
+       41.841601
+      ],
+      [
+       43.378775,
+       41.836568
+      ],
+      [
+       43.371883,
+       41.837005
+      ],
+      [
+       43.360874,
+       41.827444
+      ],
+      [
+       43.349832,
+       41.827531
+      ],
+      [
+       43.348036,
+       41.824827
+      ],
+      [
+       43.351649,
+       41.816815
+      ],
+      [
+       43.34008,
+       41.814174
+      ],
+      [
+       43.313845,
+       41.799071
+      ],
+      [
+       43.304856,
+       41.796404
+      ],
+      [
+       43.302321,
+       41.789388
+      ],
+      [
+       43.297441,
+       41.787953
+      ],
+      [
+       43.294081,
+       41.78333
+      ],
+      [
+       43.295328,
+       41.779074
+      ],
+      [
+       43.287199,
+       41.777705
+      ],
+      [
+       43.286071,
+       41.774358
+      ],
+      [
+       43.276463,
+       41.776245
+      ],
+      [
+       43.267771,
+       41.781654
+      ],
+      [
+       43.254467,
+       41.781113
+      ],
+      [
+       43.245975,
+       41.765316
+      ],
+      [
+       43.227331,
+       41.760819
+      ],
+      [
+       43.215645,
+       41.760706
+      ],
+      [
+       43.210766,
+       41.757441
+      ],
+      [
+       43.205712,
+       41.748204
+      ],
+      [
+       43.19949,
+       41.744547
+      ],
+      [
+       43.187972,
+       41.745283
+      ],
+      [
+       43.180374,
+       41.740546
+      ],
+      [
+       43.175818,
+       41.740408
+      ],
+      [
+       43.144406,
+       41.717498
+      ],
+      [
+       43.142306,
+       41.70755
+      ],
+      [
+       43.134618,
+       41.695659
+      ],
+      [
+       43.120115,
+       41.694339
+      ],
+      [
+       43.1027,
+       41.688454
+      ],
+      [
+       43.098118,
+       41.691167
+      ],
+      [
+       43.091653,
+       41.690096
+      ],
+      [
+       43.072198,
+       41.694683
+      ],
+      [
+       43.065193,
+       41.689486
+      ],
+      [
+       43.07386,
+       41.680382
+      ],
+      [
+       43.052867,
+       41.667139
+      ],
+      [
+       43.045555,
+       41.665711
+      ],
+      [
+       42.99718,
+       41.64479
+      ],
+      [
+       42.987705,
+       41.646175
+      ],
+      [
+       42.978228,
+       41.642959
+      ],
+      [
+       42.981744,
+       41.642487
+      ],
+      [
+       42.987705,
+       41.646175
+      ],
+      [
+       42.990008,
+       41.644299
+      ],
+      [
+       42.99718,
+       41.64479
+      ],
+      [
+       43.045555,
+       41.665711
+      ],
+      [
+       43.052867,
+       41.667139
+      ],
+      [
+       43.07386,
+       41.680382
+      ],
+      [
+       43.065193,
+       41.689486
+      ],
+      [
+       43.072198,
+       41.694683
+      ],
+      [
+       43.091653,
+       41.690096
+      ],
+      [
+       43.098118,
+       41.691167
+      ],
+      [
+       43.1027,
+       41.688454
+      ],
+      [
+       43.120115,
+       41.694339
+      ],
+      [
+       43.134618,
+       41.695659
+      ],
+      [
+       43.142306,
+       41.70755
+      ],
+      [
+       43.144406,
+       41.717498
+      ],
+      [
+       43.175818,
+       41.740408
+      ],
+      [
+       43.180374,
+       41.740546
+      ],
+      [
+       43.187972,
+       41.745283
+      ],
+      [
+       43.19949,
+       41.744547
+      ],
+      [
+       43.205712,
+       41.748204
+      ],
+      [
+       43.210766,
+       41.757441
+      ],
+      [
+       43.215645,
+       41.760706
+      ],
+      [
+       43.227331,
+       41.760819
+      ],
+      [
+       43.245975,
+       41.765316
+      ],
+      [
+       43.254467,
+       41.781113
+      ],
+      [
+       43.267771,
+       41.781654
+      ],
+      [
+       43.276463,
+       41.776245
+      ],
+      [
+       43.286071,
+       41.774358
+      ],
+      [
+       43.287199,
+       41.777705
+      ],
+      [
+       43.295328,
+       41.779074
+      ],
+      [
+       43.294081,
+       41.78333
+      ],
+      [
+       43.297441,
+       41.787953
+      ],
+      [
+       43.302321,
+       41.789388
+      ],
+      [
+       43.304856,
+       41.796404
+      ],
+      [
+       43.313845,
+       41.799071
+      ],
+      [
+       43.34008,
+       41.814174
+      ],
+      [
+       43.351649,
+       41.816815
+      ],
+      [
+       43.348036,
+       41.824827
+      ],
+      [
+       43.349832,
+       41.827531
+      ],
+      [
+       43.354469,
+       41.82849
+      ],
+      [
+       43.362111,
+       41.825483
+      ],
+      [
+       43.365818,
+       41.826994
+      ],
+      [
+       43.362111,
+       41.825483
+      ],
+      [
+       43.354926,
+       41.828269
+      ],
+      [
+       43.360874,
+       41.827444
+      ],
+      [
+       43.371883,
+       41.837005
+      ],
+      [
+       43.378918,
+       41.836533
+      ],
+      [
+       43.380045,
+       41.841601
+      ],
+      [
+       43.387076,
+       41.842544
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=41.8425438,43.3870919&destination=41.8425438,43.3870919&travelmode=driving&waypoints=41.6429854%2C42.978055%7C41.8280442%2C43.3644104"
+   }
+  },
+  {
+   "day": 6,
+   "date": "2027-08-22",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Uplistsikhe cave town, drive to Tbilisi and car return",
+    "he": "עיר המערות אופליסציחה, נסיעה לטביליסי והחזרת הרכב"
+   },
+   "trail": "green",
+   "overnight": "hotel_tb2",
+   "plan": [
+    {
+     "en": "Check out by 08:30 and drive 78 km / 1h18 to Uplistsikhe near Gori (stay on the main roads: the South Ossetia boundary line is further west; do not follow a navigation app towards Tskhinvali).",
+     "he": "צ'ק-אאוט עד 08:30 ונסיעה של 78 ק\"מ / 1:18 שעות לאופליסציחה ליד גורי (להישאר בכבישים הראשיים: קו הגבול של אוסטיה הדרומית רחוק יותר מערבה; לא לעקוב אחרי אפליקציית ניווט לכיוון צחינבאלי)."
+    },
+    {
+     "en": "Cave town 10:00–11:30 (about 1 km on rock paths). If the kids are tired, skip it and drive straight to Tbilisi (2h14).",
+     "he": "עיר המערות 10:00–11:30 (כק\"מ בשבילי סלע). אם הילדים עייפים – לדלג ולנסוע ישר לטביליסי (2:14 שעות)."
+    },
+    {
+     "en": "Drive 87 km / 1h13 to Tbilisi (total driving 2h31 with the detour), lunch, and return the car at the hotel by about 14:30 (agree the return place and the fuel level in the contract).",
+     "he": "נסיעה של 87 ק\"מ / 1:13 שעות לטביליסי (סה\"כ נהיגה 2:31 שעות עם העקיפה), ארוחת צהריים, והחזרת הרכב במלון עד כ-14:30 (לסכם בחוזה את מקום ההחזרה ואת רמת הדלק)."
+    },
+    {
+     "en": "Check in at the Ramada Old City, afternoon in the hotel pools (outdoor/indoor) and an easy evening: the car is gone, the next four days are by taxi/Bolt and on foot.",
+     "he": "צ'ק-אין ב-Ramada העיר העתיקה, אחר הצהריים בבריכות המלון (חיצונית/מקורה) וערב רגוע: הרכב הוחזר, וב-4 הימים הבאים נעים במונית/Bolt וברגל."
+    }
+   ],
+   "attractions": [
+    "uplis"
+   ],
+   "route": {
+    "km": 165.9,
+    "minutes": 151,
+    "legs": [
+     {
+      "from": "Steel Tower Borjomi",
+      "to": "Uplistsikhe cave town",
+      "km": 78.6,
+      "min": 78
+     },
+     {
+      "from": "Uplistsikhe cave town",
+      "to": "Ramada by Wyndham Tbilisi Old City – car return",
+      "km": 87.3,
+      "min": 73
+     }
+    ],
+    "points": [
+     {
+      "name": "Steel Tower Borjomi",
+      "lat": 41.8425438,
+      "lng": 43.3870919
+     },
+     {
+      "name": "Uplistsikhe cave town",
+      "lat": 41.9719059,
+      "lng": 44.1080477
+     },
+     {
+      "name": "Ramada by Wyndham Tbilisi Old City – car return",
+      "lat": 41.6923964,
+      "lng": 44.8229628
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       43.387076,
+       41.842544
+      ],
+      [
+       43.41241,
+       41.849786
+      ],
+      [
+       43.418733,
+       41.876254
+      ],
+      [
+       43.438768,
+       41.895906
+      ],
+      [
+       43.482889,
+       41.9172
+      ],
+      [
+       43.482421,
+       41.932518
+      ],
+      [
+       43.504249,
+       41.940583
+      ],
+      [
+       43.518276,
+       41.96527
+      ],
+      [
+       43.786496,
+       42.031466
+      ],
+      [
+       43.837531,
+       42.029788
+      ],
+      [
+       43.873492,
+       42.058242
+      ],
+      [
+       43.896976,
+       42.056431
+      ],
+      [
+       43.989304,
+       42.017442
+      ],
+      [
+       44.062428,
+       42.009257
+      ],
+      [
+       44.104625,
+       41.983979
+      ],
+      [
+       44.108052,
+       41.971903
+      ],
+      [
+       44.12564,
+       42.00603
+      ],
+      [
+       44.168155,
+       42.025041
+      ],
+      [
+       44.308383,
+       42.020003
+      ],
+      [
+       44.413814,
+       41.995348
+      ],
+      [
+       44.587621,
+       41.899451
+      ],
+      [
+       44.714321,
+       41.893175
+      ],
+      [
+       44.730687,
+       41.867152
+      ],
+      [
+       44.733927,
+       41.823419
+      ],
+      [
+       44.770962,
+       41.820075
+      ],
+      [
+       44.773716,
+       41.732367
+      ],
+      [
+       44.794408,
+       41.704529
+      ],
+      [
+       44.823198,
+       41.692391
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=41.8425438,43.3870919&destination=41.6923964,44.8229628&travelmode=driving&waypoints=41.9719059%2C44.1080477"
+   }
+  },
+  {
+   "day": 7,
+   "date": "2027-08-23",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Cable car and Narikala in the morning, pool at noon, Mtatsminda at dusk",
+    "he": "רכבל ונריקלה בבוקר, בריכה בצהריים ומצמינדה בשקיעה"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_tb2",
+   "plan": [
+    {
+     "en": "08:45 taxi (4 min) to Rike Park: playground and the glass Bridge of Peace, then the cable car (3 min) up to Narikala by 10:00 and a short flat walk to the Mother of Georgia statue; walk or cable car back down.",
+     "he": "08:45 מונית (4 דקות) לפארק ריקה: מגרש משחקים וגשר השלום מזכוכית, ואז הרכבל (3 דקות) לנריקלה עד 10:00 והליכה קצרה ושטוחה לפסל 'אם גאורגיה'; יורדים ברגל או ברכבל."
+    },
+    {
+     "en": "Lunch, then 13:00–17:00 off the heat: hotel pool and the air-conditioned room (Tbilisi typically 33–36 °C in the afternoon).",
+     "he": "ארוחת צהריים, ואז 13:00–17:00 הרחק מהחום: בריכת המלון והחדר הממוזג (בטביליסי בדרך כלל 33–36 מעלות אחר הצהריים)."
+    },
+    {
+     "en": "About 18:00 a taxi (22 min) to Mtatsminda Park: funicular, Ferris wheel and kids' rides in the cooler evening, dinner with a view, taxi back by 21:30.",
+     "he": "בסביבות 18:00 מונית (22 דקות) לפארק מצמינדה: פוניקולר, גלגל ענק ומתקני ילדים בערב הקריר יותר, ארוחת ערב עם נוף, מונית חזרה עד 21:30."
+    }
+   ],
+   "attractions": [
+    "cable",
+    "mtatsminda"
+   ],
+   "route": null
+  },
+  {
+   "day": 8,
+   "date": "2027-08-24",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Mtskheta, the old capital, with a hired driver",
+    "he": "מצחטה, הבירה הקדומה, עם נהג שכור"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_tb2",
+   "plan": [
+    {
+     "en": "08:45 pick-up by a pre-booked driver or a Bolt taxi with a return arrangement (25 km / 30 min; roughly 140 GEL return with waiting, estimate; ask for child seats if the driver has them).",
+     "he": "08:45 איסוף על ידי נהג שהוזמן מראש או מונית Bolt עם הסדר חזרה (25 ק\"מ / 30 דקות; כ-140 לארי הלוך-חזור כולל המתנה, הערכה; לבקש מושבי ילדים אם יש לנהג)."
+    },
+    {
+     "en": "Jvari Monastery on its hilltop (short steps, a view of two rivers meeting), then Svetitskhoveli Cathedral and a cobbled lane of cafés (open all day on Tuesdays; covered shoulders and knees).",
+     "he": "מנזר ג'וורי על הגבעה (מדרגות קצרות, נוף למפגש שני נהרות), ואז קתדרלת סבטיצחובלי וסמטה מרוצפת של בתי קפה (פתוחה כל היום בימי שלישי; כתפיים וברכיים מכוסות)."
+    },
+    {
+     "en": "Back at the hotel by 13:00 for lunch and the pool during the heat of the day.",
+     "he": "חזרה למלון עד 13:00 לארוחת צהריים ובריכה בשעות החום."
+    },
+    {
+     "en": "Optional evening (Tuesday): a stroll through the Abanotubani bath district; a short private sulfur bath only if the kids want it (check the age rules when you book).",
+     "he": "ערב אופציונלי (יום שלישי): הליכה בשכונת המרחצאות באבנוטובני; אמבטיית גופרית פרטית קצרה רק אם הילדים רוצים (לבדוק את הגבלות הגיל בהזמנה)."
+    }
+   ],
+   "attractions": [
+    "mtskheta",
+    "baths"
+   ],
+   "route": null
+  },
+  {
+   "day": 9,
+   "date": "2027-08-25",
+   "weekday": {
+    "en": "Wed",
+    "he": "ד'"
+   },
+   "title": {
+    "en": "Open-air museum and Turtle Lake in the morning, Gino water park in the afternoon",
+    "he": "מוזיאון פתוח ואגם הצבים בבוקר, פארק המים ג'ינו אחר הצהריים"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_tb2",
+   "plan": [
+    {
+     "en": "09:45 taxi (16 min) to the Open Air Museum of Ethnography (open 10:00; closed on Mondays, so Wednesday works): shaded paths and wooden houses, about 1.5 km of easy walking.",
+     "he": "09:45 מונית (16 דקות) למוזיאון האתנוגרפיה הפתוח (נפתח ב-10:00; סגור בימי שני, ולכן יום רביעי מתאים): שבילים מוצלים ובתי עץ, כ-1.5 ק\"מ הליכה קלה."
+    },
+    {
+     "en": "12:00 Turtle Lake: a short flat shore walk and the Vake cable car, then a light lunch nearby.",
+     "he": "12:00 אגם הצבים: הליכה קצרה ושטוחה לאורך החוף ורכבל ואקה, ואז ארוחת צהריים קלה בסביבה."
+    },
+    {
+     "en": "14:30 taxi (24 min) to Gino Paradise Aquapark (a weekday; book tickets online in advance): slides, pools and a kids' water area for 3–4 hours; taxi back to the hotel by about 19:00 (18 min).",
+     "he": "14:30 מונית (24 דקות) לפארק המים Gino Paradise (יום חול; להזמין כרטיסים אונליין מראש): מגלשות, בריכות ואזור מים לילדים ל-3–4 שעות; מונית חזרה למלון עד כ-19:00 (18 דקות)."
+    },
+    {
+     "en": "Early dinner and an early night: tonight is short, the taxi to the airport leaves at about 01:30 (the kids sleep in the room from about 20:00; pack everything and settle the bill beforehand).",
+     "he": "ארוחת ערב מוקדמת ולישון מוקדם: הלילה קצר, המונית לשדה יוצאת בסביבות 01:30 (הילדים ישנים בחדר מ-20:00 בערך; לארוז הכול ולהסדיר את החשבון מראש)."
+    }
+   ],
+   "attractions": [
+    "ethno",
+    "turtle",
+    "gino"
+   ],
+   "route": null
+  },
+  {
+   "day": 10,
+   "date": "2027-08-26",
+   "weekday": {
+    "en": "Thu",
+    "he": "ה'"
+   },
+   "title": {
+    "en": "Night taxi at 01:30 and the early flight home",
+    "he": "מונית לילה ב-01:30 והטיסה המוקדמת הביתה"
+   },
+   "trail": "green",
+   "overnight": null,
+   "plan": [
+    {
+     "en": "Aegean A3 897 + A3 924 departs 04:35 and lands in TLV at 12:50.",
+     "he": "אגיאן A3 897 + A3 924 ממריאה ב-04:35 ונוחתת בנתב\"ג ב-12:50."
+    },
+    {
+     "en": "About 01:30 a pre-booked taxi (book it a day ahead and confirm by message in the evening; Bolt/Yandex are scarce at night) takes you to Tbilisi Airport (TBS): 14 km / 20 min on empty roads, to arrive about 02:00–02:30 for the 04:35 departure; the kids sleep in the taxi. Check-out was settled the evening before.",
+     "he": "בסביבות 01:30 מונית שהוזמנה מראש (להזמין יום קודם ולאשר בהודעה בערב; ב-Bolt/Yandex יש מעט נהגים בלילה) לוקחת אתכם לשדה התעופה של טביליסי (TBS): 14 ק\"מ / 20 דקות בכבישים ריקים, כדי להגיע בסביבות 02:00–02:30 לטיסה ב-04:35; הילדים ישנים במונית. הצ'ק-אאוט הוסדר בערב הקודם."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 14.3,
+    "minutes": 20,
+    "legs": [
+     {
+      "from": "Ramada by Wyndham Tbilisi Old City",
+      "to": "Tbilisi Airport (TBS)",
+      "km": 14.3,
+      "min": 20
+     }
+    ],
+    "points": [
+     {
+      "name": "Ramada by Wyndham Tbilisi Old City",
+      "lat": 41.6923964,
+      "lng": 44.8229628
+     },
+     {
+      "name": "Tbilisi Airport (TBS)",
+      "lat": 41.6692,
+      "lng": 44.9547
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       44.823198,
+       41.692391
+      ],
+      [
+       44.824739,
+       41.692283
+      ],
+      [
+       44.8252,
+       41.6929
+      ],
+      [
+       44.829464,
+       41.691754
+      ],
+      [
+       44.838872,
+       41.690684
+      ],
+      [
+       44.845656,
+       41.688153
+      ],
+      [
+       44.850885,
+       41.687726
+      ],
+      [
+       44.873443,
+       41.683926
+      ],
+      [
+       44.886618,
+       41.6843
+      ],
+      [
+       44.895054,
+       41.687216
+      ],
+      [
+       44.907867,
+       41.688906
+      ],
+      [
+       44.921317,
+       41.688116
+      ],
+      [
+       44.925995,
+       41.688274
+      ],
+      [
+       44.946875,
+       41.692018
+      ],
+      [
+       44.951018,
+       41.692288
+      ],
+      [
+       44.951943,
+       41.691893
+      ],
+      [
+       44.952701,
+       41.69048
+      ],
+      [
+       44.953586,
+       41.684696
+      ],
+      [
+       44.960644,
+       41.67594
+      ],
+      [
+       44.958911,
+       41.674567
+      ],
+      [
+       44.958319,
+       41.674881
+      ],
+      [
+       44.957479,
+       41.674239
+      ],
+      [
+       44.958202,
+       41.673709
+      ],
+      [
+       44.956969,
+       41.672757
+      ],
+      [
+       44.957885,
+       41.672106
+      ],
+      [
+       44.957741,
+       41.670761
+      ],
+      [
+       44.955942,
+       41.669247
+      ],
+      [
+       44.954911,
+       41.669039
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=41.6923964,44.8229628&destination=41.6692,44.9547&travelmode=driving"
+   }
+  }
+ ],
+ "routes_total": {
+  "km": 526.4,
+  "minutes": 543
+ },
+ "budget": {
+  "lines": [
+   {
+    "key": "flights",
+    "eur": 1745,
+    "status": "live"
+   },
+   {
+    "key": "bags",
+    "eur": 320,
+    "status": "estimate"
+   },
+   {
+    "key": "car",
+    "eur": 280,
+    "status": "estimate"
+   },
+   {
+    "key": "seats",
+    "eur": 40,
+    "status": "estimate"
+   },
+   {
+    "key": "border",
+    "eur": 0,
+    "status": "live"
+   },
+   {
+    "key": "transfers",
+    "eur": 95,
+    "status": "estimate"
+   },
+   {
+    "key": "vignette",
+    "eur": 20,
+    "status": "estimate"
+   },
+   {
+    "key": "fuel",
+    "eur": 39,
+    "status": "estimate"
+   },
+   {
+    "key": "parking",
+    "eur": 10,
+    "status": "estimate"
+   },
+   {
+    "key": "hotels",
+    "eur": 1388.08,
+    "status": "live"
+   },
+   {
+    "key": "att",
+    "eur": 207,
+    "status": "mixed"
+   }
+  ],
+  "total_eur": 4144.08,
+  "live_part_eur": 3133.08,
+  "attractions_local": 626,
+  "fuel_km": 459
+ }
+}

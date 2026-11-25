@@ -1,0 +1,4870 @@
+{
+ "country": {
+  "id": "pl",
+  "name": {
+   "en": "Poland",
+   "he": "פולין"
+  },
+  "currency": "PLN",
+  "per_eur": 4.37,
+  "airport": {
+   "code": "KRK",
+   "name": "Kraków John Paul II Airport (Balice)",
+   "lat": 50.0777,
+   "lng": 19.7848
+  },
+  "city": {
+   "en": "Kraków",
+   "he": "קרקוב"
+  },
+  "base": {
+   "en": "Białka Tatrzańska (Tatra foothills)",
+   "he": "ביאלקה טטשאנסקה (למרגלות הרי הטטרה)"
+  }
+ },
+ "variant": "eve",
+ "version": {
+  "id": "v1",
+  "date": "2026-10-18",
+  "label": {
+   "en": "Poland v1",
+   "he": "פולין גרסה 1"
+  }
+ },
+ "taxi_days": [
+  "D10",
+  "D7",
+  "D8",
+  "D9"
+ ],
+ "car_km": 379.5,
+ "changes": [
+  {
+   "en": "Dates Tue 17 – Thu 26 Aug 2027 (evening arrival + airport night): the cheapest of 10 combinations I priced – start dates 14–20 Aug × two plan shapes, each with the cheapest suitable flights, estimated bags, hotels with free cancellation and the car (those four together ≈ €3,978).",
+   "he": "תאריכים ג' 17 – ה' 26 באוגוסט 2027 (נחיתה בערב + לילה בשדה): הזול מבין 10 צירופים שתמחרתי – תאריכי התחלה 14–20 באוגוסט × שתי צורות תוכנית, כל אחד עם הטיסות המתאימות הזולות, הערכת כבודה, מלונות עם ביטול חינם ורכב (ארבעתם יחד כ-3,978 €)."
+  },
+  {
+   "en": "Cheapest flights at any time of day, as you asked (no overnight connections). Out: SWISS LX 257 + LX 1374 04:50→19:00; back: Lufthansa LH 1363 + LH 690 11:10→23:15.",
+   "he": "הטיסות הזולות בכל שעה, כמו שביקשת (בלי קונקשן לילי). הלוך: סוויס LX 257 + LX 1374 04:50←19:00; חזור: לופטהנזה LH 1363 + LH 690 11:10←23:15."
+  },
+  {
+   "en": "Next best: Wed 18 – Fri 27 Aug (evening arrival + airport night), flights + bags + hotels + car ≈ €3,980 (+€2); back Lufthansa 11:10→19:10.",
+   "he": "הבא בתור: ד' 18 – ו' 27 באוגוסט (נחיתה בערב + לילה בשדה), טיסות + כבודה + מלונות + רכב כ-3,980 € (+2 €); חזור לופטהנזה 11:10←19:10."
+  },
+  {
+   "en": "Next best: Wed 18 – Fri 27 Aug (daytime arrival, straight to the base), flights + bags + hotels + car ≈ €3,998 (+€20); back Lufthansa 11:10→19:10.",
+   "he": "הבא בתור: ד' 18 – ו' 27 באוגוסט (נחיתה ביום, ישר לבסיס), טיסות + כבודה + מלונות + רכב כ-3,998 € (+20 €); חזור לופטהנזה 11:10←19:10."
+  },
+  {
+   "en": "Same rules as the Czech plan: no border crossings, max 3 hotels, all with free cancellation, lots of kids' attractions, little hiking, short days, no car in the city.",
+   "he": "אותם כללים כמו בתוכנית לצ'כיה: בלי מעבר גבולות, עד 3 מלונות, כולם עם ביטול חינם, הרבה אטרקציות לילדים, מעט הליכה, ימים קצרים, בלי רכב בעיר."
+  }
+ ],
+ "trip": {
+  "dates": {
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "days": 10,
+   "nights": 9
+  },
+  "title": {
+   "en": "Poland Family Trip – Tatras & Kraków",
+   "he": "טיול משפחתי בפולין – הרי הטטרה וקרקוב"
+  },
+  "lede": {
+   "en": "Tue 17 – Thu 26 August 2027 · 10 days / 9 nights · 2 adults + 2 children (5 & 7) · from Tel Aviv. One night at Kraków airport, a rental car to Rabkoland and 4 nights in an apartment with a pool in the quiet mountain village of Białka Tatrzańska (thermal water park, funicular, wooden-raft river trip, castle), then 4 nights in a Kraków apartment without a car (salt mine, dragon, zoo, Energylandia).",
+   "he": "ג' 17 – ה' 26 באוגוסט 2027 · 10 ימים / 9 לילות · 2 מבוגרים + 2 ילדים (5 ו-7) · מתל אביב. לילה אחד ליד שדה התעופה של קרקוב, רכב שכור לפארק השעשועים רבקולנד ו-4 לילות בדירה עם בריכה בכפר ההררי השקט ביאלקה טטשאנסקה (פארק מים תרמי, רכבל, שיט ברפסודות עץ, טירה), ולסיום 4 לילות בדירה בקרקוב בלי רכב (מכרה המלח, הדרקון, גן החיות ואנרג'ילנדיה)."
+  }
+ },
+ "currency": "EUR",
+ "local_per_eur": 4.37,
+ "local_currency": "PLN",
+ "flights": {
+  "chosen": [
+   {
+    "dir": {
+     "en": "Outbound",
+     "he": "הלוך"
+    },
+    "date": "2027-08-17",
+    "wd": {
+     "en": "Tue",
+     "he": "ג'"
+    },
+    "flight": "LX 257 + LX 1374",
+    "airline": "SWISS",
+    "from": "TLV",
+    "to": "KRK",
+    "dep": "04:50",
+    "arr": "19:00",
+    "duration": "15h 10m",
+    "price_eur": 850
+   },
+   {
+    "dir": {
+     "en": "Return",
+     "he": "חזור"
+    },
+    "date": "2027-08-26",
+    "wd": {
+     "en": "Thu",
+     "he": "ה'"
+    },
+    "flight": "LH 1363 + LH 690",
+    "airline": "Lufthansa",
+    "from": "KRK",
+    "to": "TLV",
+    "dep": "11:10",
+    "arr": "23:15",
+    "duration": "11h 5m",
+    "price_eur": 897
+   }
+  ],
+  "evening_outbound_options": [
+   {
+    "what": {
+     "en": "SWISS LX 257 + LX 1374 · 04:50 → 19:00 · 1 stop ",
+     "he": "סוויס LX 257 + LX 1374 · 04:50 → 19:00 · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 850,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "Wizz Air W6 1998 · 20:35 → 23:20 · nonstop",
+     "he": "וויז אייר W6 1998 · 20:35 → 23:20 · ישירה"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 900,
+    "note": {
+     "en": "€50 more.",
+     "he": "יקרה ב-50 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Wizz Air W6 1996 · 11:05 → 13:50 · nonstop",
+     "he": "וויז אייר W6 1996 · 11:05 → 13:50 · ישירה"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 1200,
+    "note": {
+     "en": "€350 more.",
+     "he": "יקרה ב-350 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "El Al LY 5419 · 18:15 → 21:05 · nonstop",
+     "he": "אל על LY 5419 · 18:15 → 21:05 · ישירה"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 1637,
+    "note": {
+     "en": "€787 more.",
+     "he": "יקרה ב-787 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "SWISS LX 253 + LX 1370 · 18:15 → 08:45 (+1) · 1 stop ",
+     "he": "סוויס LX 253 + LX 1370 · 18:15 → 08:45 (+1) · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 698,
+    "note": {
+     "en": "€152 cheaper; 15 hr 30 min with a connection; arrives the next day.",
+     "he": "זולה ב-152 €; 15 שע׳ 30 דק׳ עם קונקשן; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Austrian OS 84 + OS 679 · 06:00 → 14:05 · 1 stop ",
+     "he": "אוסטריאן OS 84 + OS 679 · 06:00 → 14:05 · עצירה ב"
+    },
+    "when": {
+     "en": "Tue 17 Aug",
+     "he": "ג' 17 באוגוסט"
+    },
+    "price_eur": 862,
+    "note": {
+     "en": "€12 more; 9 hr 5 min with a connection.",
+     "he": "יקרה ב-12 €; 9 שע׳ 5 דק׳ עם קונקשן."
+    },
+    "best": false
+   }
+  ],
+  "return_options": [
+   {
+    "what": {
+     "en": "Lufthansa LH 1363 + LH 690 · 11:10 → 23:15 · 1 stop ",
+     "he": "לופטהנזה LH 1363 + LH 690 · 11:10 → 23:15 · עצירה ב"
+    },
+    "when": {
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
+    },
+    "price_eur": 897,
+    "note": {
+     "en": "Chosen: cheapest total once bags and hotels for these dates are counted.",
+     "he": "נבחרה: הזולה ביותר בסה\"כ כשסופרים כבודה ומלונות בתאריכים האלה."
+    },
+    "best": true
+   },
+   {
+    "what": {
+     "en": "Wizz Air W6 1995 · 05:40 → 10:10 · nonstop",
+     "he": "וויז אייר W6 1995 · 05:40 → 10:10 · ישירה"
+    },
+    "when": {
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
+    },
+    "price_eur": 1684,
+    "note": {
+     "en": "€787 more.",
+     "he": "יקרה ב-787 €."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "LOT LO 2111 · 23:55 → 04:25 (+1) · nonstop",
+     "he": "LOT LO 2111 · 23:55 → 04:25 (+1) · ישירה"
+    },
+    "when": {
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
+    },
+    "price_eur": 2285,
+    "note": {
+     "en": "€1388 more; arrives the next day.",
+     "he": "יקרה ב-1388 €; נוחתת למחרת."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Lufthansa LH 1371 + LH 690 · 06:00 → 23:15 · 1 stop ",
+     "he": "לופטהנזה LH 1371 + LH 690 · 06:00 → 23:15 · עצירה ב"
+    },
+    "when": {
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
+    },
+    "price_eur": 1009,
+    "note": {
+     "en": "€112 more; 16 hr 15 min with a connection.",
+     "he": "יקרה ב-112 €; 16 שע׳ 15 דק׳ עם קונקשן."
+    },
+    "best": false
+   },
+   {
+    "what": {
+     "en": "Lufthansa LH 1365 + LH 690 · 12:40 → 23:15 · 1 stop ",
+     "he": "לופטהנזה LH 1365 + LH 690 · 12:40 → 23:15 · עצירה ב"
+    },
+    "when": {
+     "en": "Thu 26 Aug",
+     "he": "ה' 26 באוגוסט"
+    },
+    "price_eur": 1009,
+    "note": {
+     "en": "€112 more; 9 hr 35 min with a connection.",
+     "he": "יקרה ב-112 €; 9 שע׳ 35 דק׳ עם קונקשן."
+    },
+    "best": false
+   }
+  ],
+  "baggage_eur": 320,
+  "baggage_text": {
+   "en": " Total ≈ €320.",
+   "he": " סה\"כ כ-320 €."
+  },
+  "note": {
+   "en": "Live Google Flights prices found 17–18 Oct 2026, total for 2 adults + 2 children, cheapest fare, bags not included.",
+   "he": "מחירים חיים מ-Google Flights מ-17–18.10.2026, סה\"כ ל-2 מבוגרים + 2 ילדים, התעריף הזול ביותר, ללא כבודה."
+  }
+ },
+ "date_options": [
+  {
+   "total_eur": 3978.34,
+   "plan": "eve",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 850,
+    "bags_eur": 160,
+    "airline": "SWISS",
+    "flight": "LX 257 + LX 1374",
+    "dep": "04:50",
+    "arr": "19:00"
+   },
+   "back": {
+    "eur": 897,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1363 + LH 690",
+    "dep": "11:10",
+    "arr": "23:15"
+   },
+   "hotels_eur": 1627.34,
+   "car_eur": 284,
+   "chosen": true
+  },
+  {
+   "total_eur": 3980.06,
+   "plan": "eve",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 864,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 681 + LH 1626",
+    "dep": "17:05",
+    "arr": "23:30"
+   },
+   "back": {
+    "eur": 897,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1363 + LH 694",
+    "dep": "11:10",
+    "arr": "19:10"
+   },
+   "hotels_eur": 1615.06,
+   "car_eur": 284,
+   "chosen": false
+  },
+  {
+   "total_eur": 3998.27,
+   "plan": "day",
+   "start": "2027-08-18",
+   "end": "2027-08-27",
+   "out": {
+    "eur": 862,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 84 + OS 679",
+    "dep": "06:00",
+    "arr": "14:05"
+   },
+   "back": {
+    "eur": 897,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1363 + LH 694",
+    "dep": "11:10",
+    "arr": "19:10"
+   },
+   "hotels_eur": 1564.27,
+   "car_eur": 355,
+   "chosen": false
+  },
+  {
+   "total_eur": 4019.52,
+   "plan": "day",
+   "start": "2027-08-17",
+   "end": "2027-08-26",
+   "out": {
+    "eur": 862,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 84 + OS 679",
+    "dep": "06:00",
+    "arr": "14:05"
+   },
+   "back": {
+    "eur": 897,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1363 + LH 690",
+    "dep": "11:10",
+    "arr": "23:15"
+   },
+   "hotels_eur": 1585.52,
+   "car_eur": 355,
+   "chosen": false
+  },
+  {
+   "total_eur": 4051.38,
+   "plan": "eve",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 905,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 695 + LH 1368",
+    "dep": "08:00",
+    "arr": "18:25"
+   },
+   "back": {
+    "eur": 897,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1363 + LH 690",
+    "dep": "11:10",
+    "arr": "23:15"
+   },
+   "hotels_eur": 1645.38,
+   "car_eur": 284,
+   "chosen": false
+  },
+  {
+   "total_eur": 4162.52,
+   "plan": "day",
+   "start": "2027-08-15",
+   "end": "2027-08-24",
+   "out": {
+    "eur": 969,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 84 + OS 679",
+    "dep": "06:00",
+    "arr": "14:05"
+   },
+   "back": {
+    "eur": 897,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1363 + LH 690",
+    "dep": "11:10",
+    "arr": "23:15"
+   },
+   "hotels_eur": 1621.52,
+   "car_eur": 355,
+   "chosen": false
+  },
+  {
+   "total_eur": 4210.87,
+   "plan": "eve",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 864,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 681 + LH 1626",
+    "dep": "17:05",
+    "arr": "23:30"
+   },
+   "back": {
+    "eur": 1053,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 1995",
+    "dep": "05:40",
+    "arr": "10:10"
+   },
+   "hotels_eur": 1649.87,
+   "car_eur": 284,
+   "chosen": false
+  },
+  {
+   "total_eur": 4304.47,
+   "plan": "day",
+   "start": "2027-08-14",
+   "end": "2027-08-23",
+   "out": {
+    "eur": 862,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 84 + OS 679",
+    "dep": "06:00",
+    "arr": "14:05"
+   },
+   "back": {
+    "eur": 1053,
+    "bags_eur": 200,
+    "airline": "Wizz Air",
+    "flight": "W6 1995",
+    "dep": "05:40",
+    "arr": "10:10"
+   },
+   "hotels_eur": 1674.47,
+   "car_eur": 355,
+   "chosen": false
+  },
+  {
+   "total_eur": 4346.99,
+   "plan": "eve",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 864,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 681 + LH 1626",
+    "dep": "17:05",
+    "arr": "23:30"
+   },
+   "back": {
+    "eur": 1299,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1371 + LH 686",
+    "dep": "06:00",
+    "arr": "15:25"
+   },
+   "hotels_eur": 1579.99,
+   "car_eur": 284,
+   "chosen": false
+  },
+  {
+   "total_eur": 4415.01,
+   "plan": "day",
+   "start": "2027-08-20",
+   "end": "2027-08-29",
+   "out": {
+    "eur": 862,
+    "bags_eur": 160,
+    "airline": "Austrian",
+    "flight": "OS 84 + OS 679",
+    "dep": "06:00",
+    "arr": "14:05"
+   },
+   "back": {
+    "eur": 1299,
+    "bags_eur": 160,
+    "airline": "Lufthansa",
+    "flight": "LH 1371 + LH 686",
+    "dep": "06:00",
+    "arr": "15:25"
+   },
+   "hotels_eur": 1579.01,
+   "car_eur": 355,
+   "chosen": false
+  }
+ ],
+ "airports": {
+  "KRK": {
+   "name": "Kraków John Paul II Airport (Balice)",
+   "lat": 50.0777,
+   "lng": 19.7848,
+   "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.077700,19.784800&travelmode=driving"
+  }
+ },
+ "sources": [
+  [
+   "Kraków MPK new fares from 2 March 2026 (krakow.pl)",
+   "https://krakow.pl/aktualnosci/301273,1912,komunikat,od_2_marca_nowe_ceny_biletow_komunikacji_miejskiej_w_krakowie.html"
+  ],
+  [
+   "MPK Kraków ticket prices 2026 (Co w Krakowie)",
+   "https://cowkrakowie.pl/2025/12/nowe-ceny-biletow-mpk-w-krakowie-zmiany-od-marca-2026"
+  ],
+  [
+   "Free travel for children up to 7 in Kraków (money.pl)",
+   "https://www.money.pl/gospodarka/darmowe-bilety-w-krakowie-oto-komu-przysluguja-7033867936275200a.html"
+  ],
+  [
+   "AA – driving in Poland (lights, child seats)",
+   "https://www.theaa.ie/motoring-advice/poland/"
+  ],
+  [
+   "Fuel prices Poland, 16 Oct 2026 (Auto Świat)",
+   "https://www.auto-swiat.pl/wiadomosci/aktualnosci/ceny-paliw-16-pazdziernika-2026-r-w-polsce-benzyna-95-tansza-drugi-dzien-z-rzedu/bqk5l8j"
+  ],
+  [
+   "NBP EUR/PLN 14 Oct 2026 (Comparic)",
+   "https://comparic.pl/dolar-przerywa-rajd-co-dzieje-sie-z-dolarem-euro-frankiem-i-funtem-kursy-nbp-14-pazdziernika-2026/"
+  ],
+  [
+   "Kayak – Avis Kraków Airport (Octavia Combi snapshot)",
+   "https://www.kayak.com/Avis-Car-Rentals-Krakow.KRK.AAVIS.cla.ksp"
+  ],
+  [
+   "Energylandia – how to get there (official)",
+   "https://energylandia.pl/blog/jak-dojechac-do-energylandii-gdzie-znajduje-sie-zator/"
+  ],
+  [
+   "OSRM routing (router.project-osrm.org)",
+   "https://project-osrm.org/"
+  ],
+  [
+   "sendmybag.com – Wizz Air baggage 2026",
+   "https://www.sendmybag.com/airlines/wizz-air-baggage-allowance/"
+  ],
+  [
+   "aifly – El Al baggage",
+   "https://aifly.one/guides/el-al-baggage-allowance/"
+  ]
+ ],
+ "car": {
+  "lines": [
+   [
+    {
+     "en": "Estate car, automatic, 4 days (≈ €55/day), Wed 18 – Sun 22 Aug",
+     "he": "רכב סטיישן אוטומטי, 4 ימים (כ-55 € ליום), ד' 18 – א' 22 באוגוסט"
+    },
+    220,
+    true
+   ],
+   [
+    {
+     "en": "2 child boosters, 4 days (€0 if you bring your own)",
+     "he": "2 בוסטרים לילדים, 4 ימים (0 € אם מביאים משלכם)"
+    },
+    64,
+    true
+   ],
+   [
+    {
+     "en": "Motorway tolls (none on these routes)",
+     "he": "אגרות כביש מהיר (אין במסלולים האלה)"
+    },
+    0,
+    false
+   ],
+   [
+    {
+     "en": "Cross-border fee (no border crossings)",
+     "he": "עמלת מעבר גבול (אין מעבר גבול)"
+    },
+    0,
+    false
+   ],
+   [
+    {
+     "en": "One-way fee (pick-up and return at KRK)",
+     "he": "עמלת החזרה במקום אחר (איסוף והחזרה בשדה קרקוב)"
+    },
+    0,
+    false
+   ]
+  ],
+  "text": {
+   "en": "Pick-up Kraków Airport Wed 18 Aug 11:00, return Sun 22 Aug by 11:00 (4 days; check the grace period). Category: intermediate/standard estate, e.g. Škoda Octavia Combi automatic – 2 large suitcases + 2 trolleys fit with 2 high-back boosters. The rate is an estimate: live August quotes were not available (online snapshots show roughly $47–90/day for an Octavia at KRK). Automatics are scarcer in Poland – book early.",
+   "he": "איסוף בשדה התעופה של קרקוב ב-ד' 18 באוגוסט ב-11:00, החזרה ב-א' 22 באוגוסט עד 11:00 (4 ימים; לבדוק את זמן החסד). קטגוריה: סטיישן בינוני, למשל שקודה אוקטביה קומבי אוטומטית – 2 מזוודות גדולות ו-2 טרולים נכנסים עם 2 בוסטרים עם גב. המחיר הוא הערכה: לא היו הצעות חיות לאוגוסט (צילומי מצב ברשת מראים בערך 47–90 $ ליום לאוקטביה בשדה). רכבים אוטומטיים נדירים יותר בפולין – להזמין מוקדם."
+  }
+ },
+ "driving_notes": [
+  {
+   "en": "No tolls on your routes: the A4 ring around Kraków and the S7/Zakopianka to the mountains are free. The paid A4 Kraków–Katowice section starts west of the airport and is not used.",
+   "he": "אין אגרות במסלולים שלכם: טבעת A4 סביב קרקוב וכביש S7/זקופיאנקה להרים חינמיים. הקטע בתשלום של A4 קרקוב–קטוביץ מתחיל מערבית לשדה ואינו בשימוש."
+  },
+  {
+   "en": "Children under 150 cm must use a child seat or booster; high-back boosters suit ages 5 and 7.",
+   "he": "ילדים מתחת ל-150 ס\"מ חייבים מושב בטיחות או בוסטר; בוסטר עם גב מתאים לגילאי 5 ו-7."
+  },
+  {
+   "en": "Dipped headlights on day and night. Alcohol limit 0.2‰ – in practice, don't drink at all.",
+   "he": "אורות נמוכים דולקים יום ולילה. מגבלת אלכוהול 0.2 פרומיל – בפועל, לא לשתות בכלל."
+  },
+  {
+   "en": "Speed limits: 50 km/h in towns, 90 outside, 100–120 on expressways, 140 on motorways. Speed cameras are common on the S7.",
+   "he": "מהירות: 50 קמ\"ש בערים, 90 מחוץ לערים, 100–120 בכבישים מהירים, 140 בכבישים מהירים ראשיים (אוטוסטרדה). מצלמות מהירות נפוצות ב-S7."
+  },
+  {
+   "en": "August traffic into Zakopane is heavy – go early (before 9:00). Parking at Gubałówka, Siwa Polana, the raft pier and Niedzica is paid (cash useful). Petrol ≈ 6.97 PLN/l (≈ €1.59, Oct 2026).",
+   "he": "באוגוסט התנועה לזקופנה כבדה – לצאת מוקדם (לפני 9:00). החניה בגובאלובקה, בסיבה פולאנה, במזח הרפסודות ובניידז'יצה בתשלום (כדאי מזומן). דלק כ-6.97 זלוטי לליטר (כ-1.59 €, אוקטובר 2026)."
+  }
+ ],
+ "hotels": [
+  {
+   "id": "hotel_hampton",
+   "gkey": "hotel_hampton",
+   "name": "Hampton by Hilton Krakow Airport",
+   "area": {
+    "en": "Balice, next to Kraków Airport (≈ 700 m / 10-min walk to the terminal, or hotel shuttle)",
+    "he": "באליצה, ליד שדה התעופה של קרקוב (כ-700 מ' / 10 דקות הליכה לטרמינל, או שאטל המלון)"
+   },
+   "checkin": "2027-08-17",
+   "checkout": "2027-08-18",
+   "nights": 1,
+   "total_eur": 253.63,
+   "booking_score": 9.1,
+   "booking_reviews": 17014,
+   "booking_url": "https://www.booking.com/hotel/pl/hampton-inn-krakow-poland.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Family connecting rooms for 4 (super-king bed + 2 single beds), free cancellation. Per Booking.com Q&A: breakfast included, 24-hour reception (the late arrival is fine), shuttle to the terminal about 10 PLN per person, or a 10-minute walk. Confirm beds for 4 when booking.",
+    "he": "חדרים מחוברים למשפחה של 4 (מיטה זוגית ענקית + 2 מיטות יחיד), ביטול חינם. לפי Booking.com: ארוחת בוקר כלולה, קבלה 24 שעות (ההגעה המאוחרת אינה בעיה), שאטל לטרמינל כ-10 זלוטי לאדם, או 10 דקות הליכה. לוודא בהזמנה שיש מיטות ל-4."
+   },
+   "alt": {
+    "en": "Closest to the terminal: Hilton Garden Inn Krakow Airport €373.67 (Booking 9.1, 8,117 reviews; Booking says its family room sleeps 3, so you may need 2 rooms). Cheapest: KRK stop near airport, Cholerzyn, €100.77 (Booking 8.4, 931 reviews; ≈ 2.5 km, taxi needed, no 24-hour desk listed). Balice Apartamenty Premium €218.76 (Booking 8.6, 31 reviews).",
+    "he": "הכי קרוב לטרמינל: Hilton Garden Inn Krakow Airport ב-373.67 € (Booking 9.1, 8,117 ביקורות; לפי Booking חדר המשפחה שלו ל-3, ייתכן שיידרשו 2 חדרים). הזול ביותר: KRK stop near airport בחולז'ין, 100.77 € (Booking 8.4, 931 ביקורות; כ-2.5 ק\"מ, צריך מונית, לא רשומה קבלה 24 שעות). Balice Apartamenty Premium ב-218.76 € (Booking 8.6, 31 ביקורות)."
+   },
+   "google": {
+    "name": "Hampton by Hilton Krakow Airport",
+    "rating": 4.6,
+    "reviews": 2213,
+    "lat": 50.066657,
+    "lng": 19.801168,
+    "address": "Kapitana Mieczysława Medweckiego 22, 32-083 Balice, Poland",
+    "website": "https://www.hilton.com/en/hotels/krkmahx-hampton-krakow-airport/?SEO_id=GMB-EMEA-HX-KRKMAHX",
+    "place_id": "ChIJW5fFnyhZFkcR_D6zzi91B4w",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Hampton%20by%20Hilton%20Krakow%20Airport&query_place_id=ChIJW5fFnyhZFkcR_D6zzi91B4w",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.066657,19.801168&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_hampton-1.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Hampton%20by%20Hilton%20Krakow%20Airport&query_place_id=ChIJW5fFnyhZFkcR_D6zzi91B4w",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_hampton-2.jpg",
+     "w": 1000,
+     "h": 666,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=Hampton%20by%20Hilton%20Krakow%20Airport&query_place_id=ChIJW5fFnyhZFkcR_D6zzi91B4w",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 253.63,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.1,
+     "out_of": 10,
+     "reviews": 17014,
+     "url": "https://www.booking.com/hotel/pl/hampton-inn-krakow-poland.html?checkin=2027-08-17&checkout=2027-08-18&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.6,
+     "out_of": 5,
+     "reviews": 2213,
+     "url": "https://www.google.com/maps/search/?api=1&query=Hampton%20by%20Hilton%20Krakow%20Airport&query_place_id=ChIJW5fFnyhZFkcR_D6zzi91B4w"
+    }
+   ]
+  },
+  {
+   "id": "hotel_goralski",
+   "gkey": "hotel_goralski",
+   "name": "Góralski Resort Pool & SPA",
+   "area": {
+    "en": "Białka Tatrzańska, Środkowa St. (14-min walk to Terma Bania; Zakopane 37 min, Dunajec rafting 50 min)",
+    "he": "ביאלקה טטשאנסקה, רחוב שרודקובה (14 דקות הליכה לטרמה באניה; זקופנה 37 דקות, רפטינג בדונאייץ 50 דקות)"
+   },
+   "checkin": "2027-08-18",
+   "checkout": "2027-08-22",
+   "nights": 4,
+   "total_eur": 868.47,
+   "booking_score": 9.0,
+   "booking_reviews": 1776,
+   "booking_url": "https://www.booking.com/hotel/pl/goralski-resort-amp-spa.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "Apartment with kitchenette (1-bedroom premium with sofa bed for 4, or 2-bedroom for up to 6 – choose the 2-bedroom if offered at a similar price), free cancellation. Heated indoor pool included (about 130 cm deep, so the kids need armbands), children's playground, free parking, restaurant. Check-in from 16:00. Breakfast is probably not included – check the rate.",
+    "he": "דירה עם מטבחון (חדר שינה אחד פרימיום עם ספה נפתחת ל-4, או 2 חדרי שינה עד 6 – עדיף 2 חדרים אם המחיר דומה), ביטול חינם. בריכה מקורה מחוממת כלולה (עומק כ-130 ס\"מ, כך שהילדים צריכים מצופים), מגרש משחקים, חניה חינם ומסעדה. צ'ק-אין מ-16:00. כנראה בלי ארוחת בוקר – לבדוק בתעריף."
+   },
+   "alt": {
+    "en": "Next door, same owner: Góralski Resort 2 z Basenem €763.30 (Booking 9.2, 261 reviews; pool open only 16:00–22:00). Cheaper: Apartamenty Bujaś Resort €679.30 (Booking 9.1, 62 reviews; heated outdoor pool, < 1 km to Terma Bania). In Zakopane town: Aparthotel Royal Resort SPA €927.79 (Booking 9.1, 2,872 reviews).",
+    "he": "ממש ליד, אותו בעלים: Góralski Resort 2 z Basenem ב-763.30 € (Booking 9.2, 261 ביקורות; הבריכה פתוחה רק 16:00–22:00). זול יותר: Apartamenty Bujaś Resort ב-679.30 € (Booking 9.1, 62 ביקורות; בריכה חיצונית מחוממת, פחות מק\"מ מטרמה באניה). בעיר זקופנה: Aparthotel Royal Resort SPA ב-927.79 € (Booking 9.1, 2,872 ביקורות)."
+   },
+   "google_note": {
+    "en": "Google rating is for the whole Góralski Resort complex.",
+    "he": "דירוג גוגל הוא של כל מתחם Góralski Resort."
+   },
+   "google": {
+    "name": "Góralski Resort",
+    "rating": 4.5,
+    "reviews": 822,
+    "lat": 49.383765,
+    "lng": 20.101957,
+    "address": "Środkowa 158/F, 34-405 Białka Tatrzańska, Poland",
+    "website": "https://goralskiresort.pl/",
+    "place_id": "ChIJSY4oFhjxFUcRr4PC-YAP1ME",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=G%C3%B3ralski%20Resort&query_place_id=ChIJSY4oFhjxFUcRr4PC-YAP1ME",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.383765,20.101957&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_goralski-1.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=G%C3%B3ralski%20Resort&query_place_id=ChIJSY4oFhjxFUcRr4PC-YAP1ME",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_goralski-2.jpg",
+     "w": 1000,
+     "h": 667,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=G%C3%B3ralski%20Resort&query_place_id=ChIJSY4oFhjxFUcRr4PC-YAP1ME",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 217.12,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.0,
+     "out_of": 10,
+     "reviews": 1776,
+     "url": "https://www.booking.com/hotel/pl/goralski-resort-amp-spa.html?checkin=2027-08-18&checkout=2027-08-22&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.5,
+     "out_of": 5,
+     "reviews": 822,
+     "url": "https://www.google.com/maps/search/?api=1&query=G%C3%B3ralski%20Resort&query_place_id=ChIJSY4oFhjxFUcRr4PC-YAP1ME"
+    }
+   ]
+  },
+  {
+   "id": "hotel_playroom",
+   "gkey": "hotel_playroom",
+   "name": "PlayRoom Aparthotel",
+   "area": {
+    "en": "Kraków – Kazimierz, Dietla 55 (≈ 10-min walk to the Wawel dragon and the river, ≈ 20 min to the Main Square)",
+    "he": "קרקוב – קאז'ימייז', רחוב דיֶטלה 55 (כ-10 דקות הליכה לדרקון של ואוול ולנהר, כ-20 דקות לכיכר המרכזית)"
+   },
+   "checkin": "2027-08-22",
+   "checkout": "2027-08-26",
+   "nights": 4,
+   "total_eur": 505.24,
+   "booking_score": 9.1,
+   "booking_reviews": 1604,
+   "booking_url": "https://www.booking.com/hotel/pl/playroom-apartament.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR",
+   "room": {
+    "en": "2-bedroom apartment (up to 6) with kitchenette and air conditioning, free cancellation. Self check-in with instructions; luggage storage, so you can drop bags around noon. Some apartments are in a historic building without a lift – ask for the newer building with the lift. No breakfast. Despite the name, Booking lists no kids' playroom.",
+    "he": "דירת 2 חדרי שינה (עד 6) עם מטבחון ומיזוג, ביטול חינם. צ'ק-אין עצמי עם הוראות; יש שמירת מזוודות, כך שאפשר להשאיר תיקים בצהריים. חלק מהדירות בבניין היסטורי בלי מעלית – לבקש את הבניין החדש עם המעלית. בלי ארוחת בוקר. למרות השם, לפי Booking אין חדר משחקים לילדים."
+   },
+   "alt": {
+    "en": "Old Town: Calliope Apartments €522.18 (Booking 9.5, 215 reviews). Relaks Apartamenty, Długa St., €586.31 (Booking 9.6, 1,008 reviews). With spa and 24-hour desk: Ventus Rosa Boutique Aparthotel €674.72 (Booking 9.0, 2,926 reviews).",
+    "he": "בעיר העתיקה: Calliope Apartments ב-522.18 € (Booking 9.5, 215 ביקורות). Relaks Apartamenty ברחוב דלוגה, 586.31 € (Booking 9.6, 1,008 ביקורות). עם ספא וקבלה 24 שעות: Ventus Rosa Boutique Aparthotel ב-674.72 € (Booking 9.0, 2,926 ביקורות)."
+   },
+   "google": {
+    "name": "PlayRoom Aparthotel",
+    "rating": 4.6,
+    "reviews": 142,
+    "lat": 50.053086,
+    "lng": 19.943358,
+    "address": "Józefa Dietla 55, 31-054 Kraków, Poland",
+    "website": "http://www.play-room.pl/",
+    "place_id": "ChIJHyx6A2tbFkcRZw8SL11d1TE",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=PlayRoom%20Aparthotel&query_place_id=ChIJHyx6A2tbFkcRZw8SL11d1TE",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.053086,19.943358&travelmode=driving"
+   },
+   "photos": [
+    {
+     "file": "img/hotel_playroom-1.jpg",
+     "w": 678,
+     "h": 452,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=PlayRoom%20Aparthotel&query_place_id=ChIJHyx6A2tbFkcRZw8SL11d1TE",
+     "credit": "Google Maps listing photo"
+    },
+    {
+     "file": "img/hotel_playroom-2.jpg",
+     "w": 1000,
+     "h": 666,
+     "source_page": "https://www.google.com/maps/search/?api=1&query=PlayRoom%20Aparthotel&query_place_id=ChIJHyx6A2tbFkcRZw8SL11d1TE",
+     "credit": "Google Maps listing photo"
+    }
+   ],
+   "price_per_night_eur": 126.31,
+   "ratings": [
+    {
+     "source": "Booking.com",
+     "score": 9.1,
+     "out_of": 10,
+     "reviews": 1604,
+     "url": "https://www.booking.com/hotel/pl/playroom-apartament.html?checkin=2027-08-22&checkout=2027-08-26&no_rooms=1&group_adults=2&group_children=2&age=5&age=7&selected_currency=EUR"
+    },
+    {
+     "source": "Google Maps",
+     "score": 4.6,
+     "out_of": 5,
+     "reviews": 142,
+     "url": "https://www.google.com/maps/search/?api=1&query=PlayRoom%20Aparthotel&query_place_id=ChIJHyx6A2tbFkcRZw8SL11d1TE"
+    }
+   ]
+  }
+ ],
+ "attractions": {
+  "rabkoland": {
+   "id": "rabkoland",
+   "name": {
+    "en": "Rabkoland amusement park (Rabka-Zdrój)",
+    "he": "פארק השעשועים רבקולנד (רבקה-זדרוי)"
+   },
+   "hours": {
+    "en": "Season late April – October. August 2026 daily hours were not published online – check the calendar on rabkoland.pl.",
+    "he": "העונה מסוף אפריל עד אוקטובר. שעות אוגוסט 2026 לא פורסמו ברשת – לבדוק בלוח באתר rabkoland.pl."
+   },
+   "price_text": {
+    "en": "Day ticket by height: over 120 cm 119 PLN online (124 at the gate), 90–120 cm 109 PLN, under 90 cm free. Family ≈ 466 PLN (≈ €107) if the 7-year-old is over 120 cm and the 5-year-old under. Rides included.",
+    "he": "כרטיס יומי לפי גובה: מעל 120 ס\"מ 119 זלוטי באינטרנט (124 בקופה), 90–120 ס\"מ 109 זלוטי, מתחת ל-90 ס\"מ חינם. למשפחה כ-466 זלוטי (כ-107 €) אם בן ה-7 מעל 120 ס\"מ ובן ה-5 מתחת. המתקנים כלולים."
+   },
+   "price_czk": 466,
+   "price_eur": 106.64,
+   "estimate": true,
+   "time": {
+    "en": "3 h",
+    "he": "3 שעות"
+   },
+   "kids": {
+    "en": "Small, relaxed park for younger kids: about 50 rides in 6 themed zones, Ferris wheel, carousels, mini coasters. Right on the way from the airport to the mountains.",
+    "he": "פארק קטן ורגוע לילדים צעירים: כ-50 מתקנים ב-6 אזורים, גלגל ענק, קרוסלות ורכבות הרים קטנות. ממש בדרך משדה התעופה להרים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Rabkoland",
+    "rating": 4.5,
+    "reviews": 9960,
+    "lat": 49.608558,
+    "lng": 19.948458,
+    "address": "Rynek, 34-700 Rabka-Zdrój, Poland",
+    "website": "https://www.rabkoland.pl/",
+    "place_id": "ChIJO8FTS54KFkcRKWzZwEuTbk0",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Rabkoland&query_place_id=ChIJO8FTS54KFkcRKWzZwEuTbk0",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.608558,19.948458&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 9960,
+    "url": "https://www.google.com/maps/search/?api=1&query=Rabkoland&query_place_id=ChIJO8FTS54KFkcRKWzZwEuTbk0"
+   },
+   "photo": {
+    "file": "img/rabkoland-1.jpg",
+    "w": 500,
+    "h": 335,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJO8FTS54KFkcRKWzZwEuTbk0",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Rabkoland – individual tickets (official)",
+     "https://www.rabkoland.pl/en/individual-tickets"
+    ],
+    [
+     "Rabka-Zdrój town news (season)",
+     "https://gmina.rabka.pl/main/aktualnosci/W-sobote-otwarcie-Rabkolandu-a-w-majowke-pierwsza-impreza-w-sezonie/idn:9802/printpdf"
+    ]
+   ]
+  },
+  "terma_bania": {
+   "id": "terma_bania",
+   "name": {
+    "en": "Terma Bania thermal water park (Białka)",
+    "he": "פארק המים התרמי טרמה באניה (ביאלקה)"
+   },
+   "hours": {
+    "en": "Daily 9:00–22:00 (Google listing; confirm on termabania.pl)",
+    "he": "מדי יום 9:00–22:00 (לפי גוגל; לוודא באתר termabania.pl)"
+   },
+   "price_text": {
+    "en": "Family package (2 adults + kids under 13) online from 219 PLN for 2+1, each extra child 39–49 PLN, so ≈ 268 PLN (≈ €61); gate price 259–269 PLN + extra child. Children under 104 cm 1 PLN. Price list valid to 17 Dec 2026.",
+    "he": "חבילה משפחתית (2 מבוגרים + ילדים עד 13) באינטרנט מ-219 זלוטי ל-2+1, כל ילד נוסף 39–49 זלוטי, כלומר כ-268 זלוטי (כ-61 €); בקופה 259–269 זלוטי + ילד נוסף. ילדים מתחת ל-104 ס\"מ – 1 זלוטי. המחירון בתוקף עד 17.12.2026."
+   },
+   "price_czk": 268,
+   "price_eur": 61.33,
+   "estimate": true,
+   "time": {
+    "en": "2.5–4.5 h",
+    "he": "2.5–4.5 שעות"
+   },
+   "kids": {
+    "en": "Warm thermal pools (34–38 °C) indoors and outdoors with a Tatra view, water slides and a wave pool in the Fun Zone. A 14-minute walk from the apartment.",
+    "he": "בריכות תרמיות חמימות (34–38 מעלות) בפנים ובחוץ עם נוף לטטרה, מגלשות מים ובריכת גלים באזור הכיף. 14 דקות הליכה מהדירה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Terma Bania",
+    "rating": 4.5,
+    "reviews": 52211,
+    "lat": 49.387821,
+    "lng": 20.099095,
+    "address": "Środkowa 181, 34-405 Białka Tatrzańska, Poland",
+    "website": "https://www.termabania.pl/",
+    "place_id": "ChIJeZfybMDwFUcR_YMP5hSh_BU",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Terma%20Bania&query_place_id=ChIJeZfybMDwFUcR_YMP5hSh_BU",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.387821,20.099095&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.5,
+    "out_of": 5,
+    "reviews": 52211,
+    "url": "https://www.google.com/maps/search/?api=1&query=Terma%20Bania&query_place_id=ChIJeZfybMDwFUcR_YMP5hSh_BU"
+   },
+   "photo": {
+    "file": "img/terma_bania-1.jpg",
+    "w": 1000,
+    "h": 748,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJeZfybMDwFUcR_YMP5hSh_BU",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Terma Bania price list (official)",
+     "https://www.termabania.pl/cennik"
+    ],
+    [
+     "Terma Bania – family holidays (official)",
+     "https://www.termabania.pl/rodzinne-wakacje-taniej"
+    ]
+   ]
+  },
+  "gubalowka": {
+   "id": "gubalowka",
+   "name": {
+    "en": "Gubałówka funicular (Zakopane)",
+    "he": "רכבל גובאלובקה (זקופנה)"
+   },
+   "hours": {
+    "en": "Runs all day in summer; return tickets are valid for the whole day (PKL). Check the timetable on pkl.pl.",
+    "he": "פועל כל היום בקיץ; כרטיס הלוך-חזור תקף לכל היום (PKL). לבדוק את לוח הזמנים באתר pkl.pl."
+   },
+   "price_text": {
+    "en": "High season 4 Jun – 30 Sep 2026, return: 44 PLN adult / 35 PLN reduced (ages 5–26) online, 49/39 PLN at the ticket office. Family 158 PLN online (≈ €36). Under 4 free.",
+    "he": "עונה גבוהה 4.6–30.9.2026, הלוך-חזור: 44 זלוטי מבוגר / 35 זלוטי מוזל (גילאי 5–26) באינטרנט, 49/39 בקופה. למשפחה 158 זלוטי באינטרנט (כ-36 €). עד גיל 4 חינם."
+   },
+   "price_czk": 158,
+   "price_eur": 36.16,
+   "estimate": false,
+   "time": {
+    "en": "2–3 h with the top",
+    "he": "2–3 שעות כולל הפסגה"
+   },
+   "kids": {
+    "en": "A little mountain train straight up the hill – no hiking. At the top: views of the Tatras, a family gravity slide (paid extra), playgrounds and a sandy 'beach' with free deckchairs.",
+    "he": "רכבת הרים קטנה ישר לראש הגבעה – בלי הליכה. למעלה: נוף לטטרה, מגלשה גרביטציונית משפחתית (בתשלום נפרד), מגרשי משחקים ו'חוף' חול עם כיסאות נוח בחינם."
+   },
+   "optional": false,
+   "google": {
+    "name": "Gubałówka PKL - Stacja Dolna",
+    "rating": 4.7,
+    "reviews": 47988,
+    "lat": 49.298524,
+    "lng": 19.94544,
+    "address": "Na Gubałówkę 4, 34-500 Zakopane, Poland",
+    "website": "http://www.pkl.pl/gubalowka/gubalowka.html",
+    "place_id": "ChIJ78RhB5vyFUcRRilY1ehRreE",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Guba%C5%82%C3%B3wka%20PKL%20-%20Stacja%20Dolna&query_place_id=ChIJ78RhB5vyFUcRRilY1ehRreE",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.298524,19.945440&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 47988,
+    "url": "https://www.google.com/maps/search/?api=1&query=Guba%C5%82%C3%B3wka%20PKL%20-%20Stacja%20Dolna&query_place_id=ChIJ78RhB5vyFUcRRilY1ehRreE"
+   },
+   "photo": {
+    "file": "img/gubalowka-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJ78RhB5vyFUcRRilY1ehRreE",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "PKL Gubałówka price list (official)",
+     "https://www.pkl.pl/gubalowka/kolej-linowo-terenowa-gubalowka-cennik.html"
+    ],
+    [
+     "PKL – Gubałówka summer attractions",
+     "https://www.pkl.pl/post/gubalowka/atrakcje/w-centrum-widokow.html?setlang=2"
+    ]
+   ]
+  },
+  "krupowki": {
+   "id": "krupowki",
+   "name": {
+    "en": "Krupówki street (Zakopane)",
+    "he": "רחוב קרופובקי (זקופנה)"
+   },
+   "hours": {
+    "en": "Open all the time",
+    "he": "פתוח תמיד"
+   },
+   "price_text": {
+    "en": "Free",
+    "he": "חינם"
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "1 h",
+    "he": "שעה"
+   },
+   "kids": {
+    "en": "Zakopane's pedestrian main street, starting a few minutes' walk from the funicular: wooden mountain houses, street performers, oscypek cheese stalls and ice cream. Busy in August.",
+    "he": "רחוב המדרחוב הראשי של זקופנה, מתחיל כמה דקות הליכה מהרכבל: בתי עץ הרריים, אמני רחוב, דוכני גבינת אוסצ'יפק וגלידה. עמוס באוגוסט."
+   },
+   "optional": false,
+   "google": {
+    "name": "Krupówki",
+    "rating": 4.4,
+    "reviews": 6740,
+    "lat": 49.293854,
+    "lng": 19.953894,
+    "address": "34-500 Zakopane, Poland",
+    "website": null,
+    "place_id": "ChIJOdwFMZHyFUcRceAH7r6DNWM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Krup%C3%B3wki&query_place_id=ChIJOdwFMZHyFUcRceAH7r6DNWM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.293854,19.953894&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.4,
+    "out_of": 5,
+    "reviews": 6740,
+    "url": "https://www.google.com/maps/search/?api=1&query=Krup%C3%B3wki&query_place_id=ChIJOdwFMZHyFUcRceAH7r6DNWM"
+   },
+   "photo": {
+    "file": "img/krupowki-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJOdwFMZHyFUcRceAH7r6DNWM",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Google Maps – Krupówki",
+     "https://www.google.com/maps/place/?q=place_id:ChIJOdwFMZHyFUcRceAH7r6DNWM"
+    ]
+   ]
+  },
+  "kasprowy": {
+   "id": "kasprowy",
+   "name": {
+    "en": "Kasprowy Wierch cable car – only on a clear day",
+    "he": "רכבל קספרובי וייֶרְךְ – רק ביום בהיר"
+   },
+   "hours": {
+    "en": "Summer 2026: PKL reported runs as early as 7:00 and up to 21:00 until the end of August; tickets are for a fixed time slot (sklep.pkl.pl).",
+    "he": "קיץ 2026: לפי PKL נסיעות כבר מ-7:00 ועד 21:00 עד סוף אוגוסט; הכרטיסים לשעה קבועה (sklep.pkl.pl)."
+   },
+   "price_text": {
+    "en": "Up-and-down, high season 2026: Express Tourpass (guaranteed time slot) 159 PLN adult / 129 PLN reduced (ages 5–26) = 576 PLN (≈ €132) for the family; standard timed tickets 99–165 / 89–129 PLN depending on the hour. About 1 h 40 min at the top.",
+    "he": "הלוך-חזור, עונה גבוהה 2026: Express Tourpass (שעה מובטחת) 159 זלוטי מבוגר / 129 מוזל (גילאי 5–26) = 576 זלוטי (כ-132 €) למשפחה; כרטיסים רגילים 99–165 / 89–129 זלוטי לפי השעה. כשעה ו-40 דקות בפסגה."
+   },
+   "price_czk": 576,
+   "price_eur": 131.81,
+   "estimate": false,
+   "time": {
+    "en": "3 h incl. the 20-min ride each way",
+    "he": "3 שעות כולל 20 דקות נסיעה לכל כיוון"
+   },
+   "kids": {
+    "en": "Fine for 5 and 7-year-olds as a ride: 20 minutes up to 1,987 m with a stop halfway. Expensive, cold and windy on top, and pointless in cloud – book online only after checking the forecast. Do not hike from the top.",
+    "he": "מתאים לגילאי 5 ו-7 כנסיעה: 20 דקות עד גובה 1,987 מ' עם עצירה באמצע. יקר, קר ונושב בפסגה, ואין טעם בעננים – להזמין באינטרנט רק אחרי בדיקת התחזית. לא לטייל ברגל מהפסגה."
+   },
+   "optional": true,
+   "google": {
+    "name": "Wysokogórskie Obserwatorium Meteorologiczne IMGW-PIB na Kasprowym Wierchu",
+    "rating": 4.8,
+    "reviews": 247,
+    "lat": 49.232594,
+    "lng": 19.981843,
+    "address": "34-505 Zakopane, Poland",
+    "website": "https://www.pkl.pl/kasprowy-wierch/kasprowy.html",
+    "place_id": "ChIJYZoGS-2MFUcR38-8lVllEps",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Wysokog%C3%B3rskie%20Obserwatorium%20Meteorologiczne%20IMGW-PIB%20na%20Kasprowym%20Wierchu&query_place_id=ChIJYZoGS-2MFUcR38-8lVllEps",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.232594,19.981843&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 247,
+    "url": "https://www.google.com/maps/search/?api=1&query=Wysokog%C3%B3rskie%20Obserwatorium%20Meteorologiczne%20IMGW-PIB%20na%20Kasprowym%20Wierchu&query_place_id=ChIJYZoGS-2MFUcR38-8lVllEps"
+   },
+   "photo": {
+    "file": "img/kasprowy-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJYZoGS-2MFUcR38-8lVllEps",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "PKL Kasprowy Wierch price list (official)",
+     "https://www.pkl.pl/kasprowy-wierch/cennik-kasprowy.html"
+    ],
+    [
+     "PKL – lines and routes",
+     "https://www.pkl.pl/kasprowy-wierch/koleje-i-trasy.html"
+    ]
+   ]
+  },
+  "chocholowska": {
+   "id": "chocholowska",
+   "name": {
+    "en": "Chochołowska Valley by horse cart (from Siwa Polana)",
+    "he": "עמק חוחולובסקה בעגלת סוסים (מסיבה פולאנה)"
+   },
+   "hours": {
+    "en": "Carts wait at the Siwa Polana entrance during the day; no published timetable.",
+    "he": "העגלות ממתינות בכניסה בסיבה פולאנה במשך היום; אין לוח זמנים מפורסם."
+   },
+   "price_text": {
+    "en": "Valley entry 10 PLN adult / 5 PLN reduced (2026, paid at the gate, TPN app tickets not valid). Cart price is agreed with the driver: an older guide quotes ≈ 150 PLN for a family of 4 – estimate ≈ 180 PLN (≈ €41) in total. Parking extra.",
+    "he": "כניסה לעמק 10 זלוטי מבוגר / 5 מוזל (2026, תשלום בשער, כרטיסים מאפליקציית TPN לא תקפים). מחיר העגלה נקבע עם העגלון: מדריך ישן מציין כ-150 זלוטי למשפחה של 4 – הערכה כ-180 זלוטי (כ-41 €) בסך הכל. חניה בנפרד."
+   },
+   "price_czk": 180,
+   "price_eur": 41.19,
+   "estimate": true,
+   "time": {
+    "en": "2–3 h",
+    "he": "2–3 שעות"
+   },
+   "kids": {
+    "en": "A flat, wide valley with wooden shepherd huts. Ride the cart in, walk only as far as the kids want. Alternative to Kasprowy on the Zakopane day (25 min west of the funicular).",
+    "he": "עמק שטוח ורחב עם בקתות רועים מעץ. נוסעים פנימה בעגלה והולכים רק כמה שהילדים רוצים. חלופה לקספרובי ביום של זקופנה (25 דקות מערבית לרכבל)."
+   },
+   "optional": true,
+   "google": {
+    "name": "Siwa Polana",
+    "rating": 4.7,
+    "reviews": 1965,
+    "lat": 49.278939,
+    "lng": 19.839279,
+    "address": "Witów, Poland",
+    "website": null,
+    "place_id": "ChIJtcmBojCTFUcRRbeTUsFkPxo",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Siwa%20Polana&query_place_id=ChIJtcmBojCTFUcRRbeTUsFkPxo",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.278939,19.839279&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 1965,
+    "url": "https://www.google.com/maps/search/?api=1&query=Siwa%20Polana&query_place_id=ChIJtcmBojCTFUcRRbeTUsFkPxo"
+   },
+   "photo": {
+    "file": "img/chocholowska-1.jpg",
+    "w": 1000,
+    "h": 562,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJtcmBojCTFUcRRbeTUsFkPxo",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Chochołowska Valley in winter 2026 (entry price)",
+     "https://snptt.pl/dolina-chocholowska-zima-2026-sanie-schronisko-i-szlaki/"
+    ],
+    [
+     "Horse cart in Chochołowska – prices",
+     "https://kspieniny.pl/przejazd-konny-w-dolinie-chocholowskiej-trasa-ceny-godziny-otwarcia"
+    ]
+   ]
+  },
+  "dunajec": {
+   "id": "dunajec",
+   "name": {
+    "en": "Dunajec River Gorge on traditional wooden rafts (Pieniny)",
+    "he": "שיט במעבר נהר דונאייץ ברפסודות עץ מסורתיות (פייֶנִינִי)"
+   },
+   "hours": {
+    "en": "Daily 1 Apr – 31 Oct; rafts leave continuously during the day from Sromowce-Kąty, no reservation needed. Cancelled if the water is above 250 cm.",
+    "he": "מדי יום 1.4–31.10; הרפסודות יוצאות כל הזמן במהלך היום מסרומובצה-קונטי, בלי הזמנה מראש. מבוטל כשגובה המים מעל 250 ס\"מ."
+   },
+   "price_text": {
+    "en": "Jul–Aug 2026 (official site): 109 PLN adult + 8 PLN national-park fee; children up to 10: 78 PLN + 4 PLN. Raft for the family 398 PLN, plus the bus back to the car 20 PLN adult / 15 PLN child = 468 PLN (≈ €107). The same page also shows slightly higher figures, so confirm. Bring the kids' passports (age is checked).",
+    "he": "יולי–אוגוסט 2026 (האתר הרשמי): 109 זלוטי מבוגר + 8 זלוטי דמי פארק לאומי; ילדים עד גיל 10: 78 זלוטי + 4. הרפסודה למשפחה 398 זלוטי, ועוד אוטובוס חזרה לרכב 20 זלוטי מבוגר / 15 ילד = 468 זלוטי (כ-107 €). באותו עמוד מופיעים גם מחירים מעט גבוהים יותר, לכן לוודא. להביא דרכונים של הילדים (בודקים גיל)."
+   },
+   "price_czk": 468,
+   "price_eur": 107.09,
+   "estimate": true,
+   "time": {
+    "en": "2 h 15 min on the raft + 30 min bus back",
+    "he": "שעתיים ורבע ברפסודה + 30 דקות אוטובוס חזרה"
+   },
+   "kids": {
+    "en": "Raftsmen in folk costume pole you gently through a deep limestone gorge – calm water, no paddling. No minimum age is published; life jackets are handed out by the raftsman (ask for children's sizes). No shade on the raft – hats and sunscreen. Toilet before boarding!",
+    "he": "רפסודאים בתלבושת עממית מובילים אתכם במוט לאט דרך קניון גיר עמוק – מים שקטים, בלי לחתור. לא פורסם גיל מינימום; הרפסודאי מחלק אפודות הצלה (לבקש מידות לילדים). אין צל ברפסודה – כובעים וקרם הגנה. שירותים לפני העלייה!"
+   },
+   "optional": false,
+   "google": {
+    "name": "Dunajec Rafting",
+    "rating": 4.8,
+    "reviews": 2352,
+    "lat": 49.398662,
+    "lng": 20.413941,
+    "address": "Trzech Koron 34a, 34-443 Sromowce Niżne, Poland",
+    "website": "https://flisacy.pl/",
+    "place_id": "ChIJjTtSv2MEPkcRcPS2-bAzTWw",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Dunajec%20Rafting&query_place_id=ChIJjTtSv2MEPkcRcPS2-bAzTWw",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.398662,20.413941&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.8,
+    "out_of": 5,
+    "reviews": 2352,
+    "url": "https://www.google.com/maps/search/?api=1&query=Dunajec%20Rafting&query_place_id=ChIJjTtSv2MEPkcRcPS2-bAzTWw"
+   },
+   "photo": {
+    "file": "img/dunajec-1.jpg",
+    "w": 1000,
+    "h": 1333,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJjTtSv2MEPkcRcPS2-bAzTWw",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Flisacy – prices 2026 (official)",
+     "https://flisacy.pl/bilety"
+    ],
+    [
+     "Flisacy – online tickets & FAQ",
+     "https://bilety.flisacy.pl/faq.php"
+    ],
+    [
+     "Raftsmen regulations (PDF)",
+     "https://flisacy.sromowce.pl/regulamin/Regulamin-pl.pdf"
+    ]
+   ]
+  },
+  "niedzica": {
+   "id": "niedzica",
+   "name": {
+    "en": "Niedzica Castle on Lake Czorsztyn",
+    "he": "טירת ניידז'יצה על אגם צ'ורשטין"
+   },
+   "hours": {
+    "en": "1 May – 30 Sep daily 9:00–19:00 (some guides say 9:00–18:00); tickets sold for time slots, no reservations.",
+    "he": "1.5–30.9 מדי יום 9:00–19:00 (יש מדריכים שכותבים 9:00–18:00); כרטיסים לפי שעת כניסה, בלי הזמנה מראש."
+   },
+   "price_text": {
+    "en": "From 1 May 2026: 40 PLN normal, 30 PLN reduced (quoted from the museum site by a guide). Family ≈ 140 PLN (≈ €32) – young children may be cheaper or free.",
+    "he": "מ-1.5.2026: 40 זלוטי רגיל, 30 מוזל (לפי מדריך שמצטט את אתר המוזיאון). למשפחה כ-140 זלוטי (כ-32 €) – ייתכן שילדים קטנים זולים יותר או בחינם."
+   },
+   "price_czk": 140,
+   "price_eur": 32.04,
+   "estimate": true,
+   "time": {
+    "en": "1–1.5 h",
+    "he": "שעה–שעה וחצי"
+   },
+   "kids": {
+    "en": "A real hilltop castle above a lake, with a courtyard, a deep well and legends of hidden Inca treasure. From the pier below, small boats cross the lake to Czorsztyn castle about every 15–20 min (pay at the pier; price not published online).",
+    "he": "טירה אמיתית על גבעה מעל אגם, עם חצר, באר עמוקה ואגדות על אוצר אינקה חבוי. מהמזח למטה יוצאות סירות קטנות לטירת צ'ורשטין שמעבר לאגם בערך כל 15–20 דקות (משלמים במזח; המחיר לא פורסם ברשת)."
+   },
+   "optional": false,
+   "google": {
+    "name": "Zamek Dunajec w Niedzicy, Stowarzyszenie Historyków Sztuki",
+    "rating": 4.7,
+    "reviews": 29320,
+    "lat": 49.422492,
+    "lng": 20.319644,
+    "address": "Zamkowa 2, 34-441 Niedzica-Zamek, Poland",
+    "website": "http://zamekniedzica.pl/",
+    "place_id": "ChIJt4koOZICPkcRDeq_sMp_xS8",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Zamek%20Dunajec%20w%20Niedzicy%2C%20Stowarzyszenie%20Historyk%C3%B3w%20Sztuki&query_place_id=ChIJt4koOZICPkcRDeq_sMp_xS8",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.422492,20.319644&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 29320,
+    "url": "https://www.google.com/maps/search/?api=1&query=Zamek%20Dunajec%20w%20Niedzicy%2C%20Stowarzyszenie%20Historyk%C3%B3w%20Sztuki&query_place_id=ChIJt4koOZICPkcRDeq_sMp_xS8"
+   },
+   "photo": {
+    "file": "img/niedzica-1.jpg",
+    "w": 1000,
+    "h": 716,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJt4koOZICPkcRDeq_sMp_xS8",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Niedzica Castle 2026 prices",
+     "https://magnolia-ciechocinek.pl/zamek-w-niedzicy-co-warto-zobaczyc-ceny-i-zwiedzanie-bez-pospiechu"
+    ],
+    [
+     "Niedzica Castle – hours",
+     "https://www.nocowanie.pl/zamek_dunajec,140528.html"
+    ],
+    [
+     "Lake Czorsztyn boats",
+     "https://hasajacezajace.com/jezioro-czorsztynskie/"
+    ]
+   ]
+  },
+  "energylandia": {
+   "id": "energylandia",
+   "name": {
+    "en": "Energylandia (Zator) – kids' zones",
+    "he": "אנרג'ילנדיה (זאטור) – אזורי הילדים"
+   },
+   "hours": {
+    "en": "Summer holidays (27 Jun – 31 Aug) daily 10:00–20:00; check the park calendar for the exact day.",
+    "he": "בחופש הגדול (27.6–31.8) מדי יום 10:00–20:00; לבדוק בלוח של הפארק את היום המדויק."
+   },
+   "price_text": {
+    "en": "Summer 2026 online: 229 PLN from 140 cm, 189 PLN under 140 cm (both kids) = 836 PLN (≈ €191); at the gate 239 / 199 PLN. 2027 prices not out yet; the 2+2 promotion excludes July–August 2027.",
+    "he": "קיץ 2026 באינטרנט: 229 זלוטי מ-140 ס\"מ, 189 זלוטי מתחת ל-140 ס\"מ (שני הילדים) = 836 זלוטי (כ-191 €); בקופה 239 / 199. מחירי 2027 עוד לא פורסמו; מבצע 2+2 לא חל ביולי–אוגוסט 2027."
+   },
+   "price_czk": 836,
+   "price_eur": 191.3,
+   "estimate": false,
+   "time": {
+    "en": "5–6 h",
+    "he": "5–6 שעות"
+   },
+   "kids": {
+    "en": "Poland's biggest theme park. Stay in the family areas – Bajkolandia for the youngest, family coasters, water rides, shows – and skip the giant coasters. Bring swimsuits/spare clothes for the water rides.",
+    "he": "פארק השעשועים הגדול בפולין. נשארים באזורי המשפחה – באיקולנדיה לקטנים, רכבות הרים משפחתיות, מתקני מים ומופעים – ומוותרים על רכבות ההרים הענקיות. להביא בגדי ים / בגדים להחלפה למתקני המים."
+   },
+   "optional": false,
+   "google": {
+    "name": "Energylandia",
+    "rating": 4.9,
+    "reviews": 285785,
+    "lat": 49.999498,
+    "lng": 19.411239,
+    "address": "aleja 3 Maja 2, 32-640 Zator, Poland",
+    "website": "https://energylandia.pl/",
+    "place_id": "ChIJGW2UsWqTFkcRCUTc99B1_Gk",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Energylandia&query_place_id=ChIJGW2UsWqTFkcRCUTc99B1_Gk",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.999498,19.411239&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.9,
+    "out_of": 5,
+    "reviews": 285785,
+    "url": "https://www.google.com/maps/search/?api=1&query=Energylandia&query_place_id=ChIJGW2UsWqTFkcRCUTc99B1_Gk"
+   },
+   "photo": {
+    "file": "img/energylandia-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJGW2UsWqTFkcRCUTc99B1_Gk",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Energylandia – individual pricing (official)",
+     "https://energylandia.pl/en/pricelist/individual-pricing-2/"
+    ],
+    [
+     "Energylandia ticket shop",
+     "https://ticket.energylandia.pl/produkty/elektroniczne/2-527"
+    ],
+    [
+     "Energylandia bus from Kraków (official)",
+     "https://bus.energylandia.pl/connections/search?station_from=2&amount=1&_locale=pl"
+    ]
+   ]
+  },
+  "wieliczka": {
+   "id": "wieliczka",
+   "name": {
+    "en": "Wieliczka Salt Mine – Tourist Route",
+    "he": "מכרה המלח וייליצ'קה – המסלול התיירותי"
+   },
+   "hours": {
+    "en": "Tourist Route 8:00–18:00 (official page; Google listing the same). English tours at set times – book a timed ticket online.",
+    "he": "המסלול התיירותי 8:00–18:00 (העמוד הרשמי; גם בגוגל). סיורים באנגלית בשעות קבועות – להזמין כרטיס לשעה באינטרנט."
+   },
+   "price_text": {
+    "en": "High season 1 Jul – 31 Aug 2026: family ticket 2 adults + 2 children (4–16) 362 PLN (≈ €83); adult 125, reduced 93 PLN. Under 4 free.",
+    "he": "עונה גבוהה 1.7–31.8.2026: כרטיס משפחתי 2 מבוגרים + 2 ילדים (4–16) 362 זלוטי (כ-83 €); מבוגר 125, מוזל 93. עד גיל 4 חינם."
+   },
+   "price_czk": 362,
+   "price_eur": 82.84,
+   "estimate": false,
+   "time": {
+    "en": "2–3 h underground (3.5 km)",
+    "he": "2–3 שעות מתחת לאדמה (3.5 ק\"מ)"
+   },
+   "kids": {
+    "en": "Chapels, statues and lakes carved out of salt, 135 m underground; kids may lick the walls. About 800 steps, mostly going down, and a lift back up. Cool 17 °C – bring a jumper. No strollers.",
+    "he": "קפלות, פסלים ואגמים מגולפים במלח, 135 מ' מתחת לאדמה; הילדים יכולים ללקק את הקירות. כ-800 מדרגות, רובן בירידה, ומעלית בחזרה למעלה. קריר, 17 מעלות – להביא סוודר. בלי עגלות."
+   },
+   "optional": false,
+   "google": {
+    "name": "Wieliczka Salt Mine",
+    "rating": 4.6,
+    "reviews": 40118,
+    "lat": 49.983502,
+    "lng": 20.055188,
+    "address": "Daniłowicza 10, 32-020 Wieliczka, Poland",
+    "website": "https://www.kopalnia.pl/",
+    "place_id": "ChIJS46BBdhDFkcRFbST_a5JJZc",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Wieliczka%20Salt%20Mine&query_place_id=ChIJS46BBdhDFkcRFbST_a5JJZc",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=49.983502,20.055188&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 40118,
+    "url": "https://www.google.com/maps/search/?api=1&query=Wieliczka%20Salt%20Mine&query_place_id=ChIJS46BBdhDFkcRFbST_a5JJZc"
+   },
+   "photo": {
+    "file": "img/wieliczka-1.jpg",
+    "w": 1000,
+    "h": 800,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJS46BBdhDFkcRFbST_a5JJZc",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Wieliczka – 2026 price list (official)",
+     "https://kopalniawieliczka.eu/zwiedzanie-kopalni/"
+    ],
+    [
+     "Wieliczka – Tourist Route (official)",
+     "https://www.wieliczka-saltmine.com/individual-tourist/tourist-route"
+    ]
+   ]
+  },
+  "wawel_dragon": {
+   "id": "wawel_dragon",
+   "name": {
+    "en": "Wawel Hill – Dragon's Den and the fire-breathing dragon",
+    "he": "גבעת ואוול – מערת הדרקון והדרקון יורק האש"
+   },
+   "hours": {
+    "en": "Dragon's Den 24 Apr – 31 Oct 2026 daily 9:00–17:00; the dragon statue by the river is outside, always accessible.",
+    "he": "מערת הדרקון 24.4–31.10.2026 מדי יום 9:00–17:00; פסל הדרקון ליד הנהר בחוץ, נגיש תמיד."
+   },
+   "price_text": {
+    "en": "Dragon's Den 15 PLN normal / 10 PLN reduced; the official page also mentions free entry for some children (unclear text) – at most ≈ 50 PLN (≈ €11) for the family. Castle hill free.",
+    "he": "מערת הדרקון 15 זלוטי רגיל / 10 מוזל; בעמוד הרשמי מוזכרת גם כניסה חינם לחלק מהילדים (נוסח לא ברור) – לכל היותר כ-50 זלוטי (כ-11 €) למשפחה. גבעת הטירה חינם."
+   },
+   "price_czk": 50,
+   "price_eur": 11.44,
+   "estimate": true,
+   "time": {
+    "en": "1–1.5 h",
+    "he": "שעה–שעה וחצי"
+   },
+   "kids": {
+    "en": "Walk up the castle hill, then 135 spiral steps down into the dragon's cave, coming out on the riverbank next to the bronze dragon that breathes real fire every few minutes. No strollers in the cave.",
+    "he": "עולים לגבעת הטירה, ואז 135 מדרגות לולייניות למטה אל מערת הדרקון, ויוצאים על גדת הנהר ליד דרקון הברונזה שיורק אש אמיתית כל כמה דקות. בלי עגלות במערה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Dragon Statue",
+    "rating": 4.6,
+    "reviews": 29995,
+    "lat": 50.053018,
+    "lng": 19.933584,
+    "address": "Stare Miasto, Kraków, Poland",
+    "website": null,
+    "place_id": "ChIJiUzN6m1bFkcRaH3Imcxil4k",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Dragon%20Statue&query_place_id=ChIJiUzN6m1bFkcRaH3Imcxil4k",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.053018,19.933584&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 29995,
+    "url": "https://www.google.com/maps/search/?api=1&query=Dragon%20Statue&query_place_id=ChIJiUzN6m1bFkcRaH3Imcxil4k"
+   },
+   "photo": {
+    "file": "img/wawel_dragon-1.jpg",
+    "w": 1000,
+    "h": 1333,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJiUzN6m1bFkcRaH3Imcxil4k",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Wawel – Dragon's Den (official)",
+     "https://wawel.krakow.pl/wystawa-stala/smocza-jama"
+    ],
+    [
+     "Wawel – FAQ (official)",
+     "https://wawel.krakow.pl/najczesciej-zadawane-pytania"
+    ]
+   ]
+  },
+  "rynek_hejnal": {
+   "id": "rynek_hejnal",
+   "name": {
+    "en": "Main Square (Rynek), Cloth Hall and the hejnał trumpet call",
+    "he": "הכיכר המרכזית (רינק), היכל הבדים וקריאת החצוצרה הֶיינָאוּ"
+   },
+   "hours": {
+    "en": "Square always open; the trumpeter plays from St Mary's tower every hour, day and night",
+    "he": "הכיכר פתוחה תמיד; החצוצרן מנגן ממגדל כנסיית מריה בכל שעה עגולה, יום ולילה"
+   },
+   "price_text": {
+    "en": "Free",
+    "he": "חינם"
+   },
+   "price_czk": 0,
+   "price_eur": 0.0,
+   "estimate": false,
+   "time": {
+    "en": "1 h",
+    "he": "שעה"
+   },
+   "kids": {
+    "en": "Be under St Mary's tower on the hour: the trumpeter plays a tune that stops suddenly mid-note (the legend of the arrow) and waves to the crowd. Pigeons, horse carriages, ice cream and the Planty park ring around the Old Town.",
+    "he": "לעמוד מתחת למגדל כנסיית מריה בשעה עגולה: החצוצרן מנגן מנגינה שנקטעת פתאום באמצע (אגדת החץ) ומנופף לקהל. יונים, כרכרות סוסים, גלידה ופארק הפלאנטי שמקיף את העיר העתיקה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Rynek Główny",
+    "rating": 4.9,
+    "reviews": 1118,
+    "lat": 50.061698,
+    "lng": 19.937351,
+    "address": "Kraków, Poland",
+    "website": null,
+    "place_id": "ChIJU2QP-Q1bFkcRW2iNog8RLrs",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Rynek%20G%C5%82%C3%B3wny&query_place_id=ChIJU2QP-Q1bFkcRW2iNog8RLrs",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.061698,19.937351&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.9,
+    "out_of": 5,
+    "reviews": 1118,
+    "url": "https://www.google.com/maps/search/?api=1&query=Rynek%20G%C5%82%C3%B3wny&query_place_id=ChIJU2QP-Q1bFkcRW2iNog8RLrs"
+   },
+   "photo": {
+    "file": "img/rynek_hejnal-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJU2QP-Q1bFkcRW2iNog8RLrs",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Google Maps – Rynek Główny",
+     "https://www.google.com/maps/place/?q=place_id:ChIJU2QP-Q1bFkcRW2iNog8RLrs"
+    ]
+   ]
+  },
+  "krakow_zoo": {
+   "id": "krakow_zoo",
+   "name": {
+    "en": "Kraków Zoo (Las Wolski forest)",
+    "he": "גן החיות של קרקוב (יער וולסקי)"
+   },
+   "hours": {
+    "en": "Google lists 9:00–19:00; the official page (cached) says ticket office 9:00–16:00 – check zoo-krakow.pl for August.",
+    "he": "בגוגל 9:00–19:00; בעמוד הרשמי (גרסה שמורה) קופות 9:00–16:00 – לבדוק באתר zoo-krakow.pl לאוגוסט."
+   },
+   "price_text": {
+    "en": "1 Apr – 31 Oct 2026: family ticket 2+2 160 PLN (≈ €37); adult 48, reduced 40 PLN.",
+    "he": "1.4–31.10.2026: כרטיס משפחתי 2+2 ב-160 זלוטי (כ-37 €); מבוגר 48, מוזל 40."
+   },
+   "price_czk": 160,
+   "price_eur": 36.61,
+   "estimate": false,
+   "time": {
+    "en": "3 h",
+    "he": "3 שעות"
+   },
+   "kids": {
+    "en": "A shady forest zoo: giraffes, pygmy hippos, penguins, sea lions and a petting area. Without a car: tram to 'Cracovia Błonia', then bus 134 to the zoo (≈ 15 min, about every 30 min), or a 20-min taxi.",
+    "he": "גן חיות מוצל ביער: ג'ירפות, היפופוטמים ננסיים, פינגווינים, אריות ים ופינת ליטוף. בלי רכב: חשמלית לתחנת Cracovia Błonia ואז אוטובוס 134 לגן החיות (כ-15 דקות, בערך כל 30 דקות), או 20 דקות במונית."
+   },
+   "optional": false,
+   "google": {
+    "name": "Kraków Zoo",
+    "rating": 4.6,
+    "reviews": 28541,
+    "lat": 50.053484,
+    "lng": 19.85028,
+    "address": "aleja Kasy Oszczędności Miasta Krakowa 14, 30-232 Kraków, Poland",
+    "website": "http://www.zoo-krakow.pl/",
+    "place_id": "ChIJvZqg4v1bFkcRbEH9q5nupvM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Krak%C3%B3w%20Zoo&query_place_id=ChIJvZqg4v1bFkcRbEH9q5nupvM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.053484,19.850280&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.6,
+    "out_of": 5,
+    "reviews": 28541,
+    "url": "https://www.google.com/maps/search/?api=1&query=Krak%C3%B3w%20Zoo&query_place_id=ChIJvZqg4v1bFkcRbEH9q5nupvM"
+   },
+   "photo": {
+    "file": "img/krakow_zoo-1.jpg",
+    "w": 1000,
+    "h": 1333,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJvZqg4v1bFkcRbEH9q5nupvM",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Kraków Zoo – prices (official)",
+     "https://zoo-krakow.pl/informacja/cennik-regulaminy/"
+    ],
+    [
+     "Kraków Zoo – hours (official)",
+     "https://zoo-krakow.pl/informacja/godziny-otwarcia/"
+    ],
+    [
+     "In Your Pocket – getting to Las Wolski",
+     "https://www.inyourpocket.com/poland/krakow/venues/Getting-to-Las-Wolski"
+    ]
+   ]
+  },
+  "park_wodny": {
+   "id": "park_wodny",
+   "name": {
+    "en": "Park Wodny Kraków water park – rainy-day option",
+    "he": "פארק המים פארק וודני בקרקוב – חלופה ליום גשום"
+   },
+   "hours": {
+    "en": "Daily 8:00–22:00 (Google listing)",
+    "he": "מדי יום 8:00–22:00 (לפי גוגל)"
+   },
+   "price_text": {
+    "en": "Family ticket, unlimited time: 309 PLN for 3 people (max 2 adults) + 103 PLN per extra child = 412 PLN (≈ €94) – my reading of the official table; shorter 2-hour tickets are cheaper.",
+    "he": "כרטיס משפחתי בלי הגבלת זמן: 309 זלוטי ל-3 אנשים (עד 2 מבוגרים) + 103 זלוטי לכל ילד נוסף = 412 זלוטי (כ-94 €) – לפי קריאתי בטבלה הרשמית; כרטיסי שעתיים זולים יותר."
+   },
+   "price_czk": 412,
+   "price_eur": 94.28,
+   "estimate": true,
+   "time": {
+    "en": "3 h",
+    "he": "3 שעות"
+   },
+   "kids": {
+    "en": "Big indoor water park with long slides, a lazy river and kids' pools – perfect if it rains. 15 min by taxi from the apartment.",
+    "he": "פארק מים מקורה גדול עם מגלשות ארוכות, נהר עצל ובריכות ילדים – מושלם אם יורד גשם. 15 דקות במונית מהדירה."
+   },
+   "optional": true,
+   "google": {
+    "name": "Park Wodny w Krakowie S.A.",
+    "rating": 4.2,
+    "reviews": 19716,
+    "lat": 50.089246,
+    "lng": 19.982809,
+    "address": "Dobrego Pasterza 126, 31-416 Kraków, Poland",
+    "website": "https://www.parkwodny.pl/?utm_source=googlemaps&utm_medium=organic",
+    "place_id": "ChIJHwzCLcdaFkcRBolrMa6cwFM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Park%20Wodny%20w%20Krakowie%20S.A.&query_place_id=ChIJHwzCLcdaFkcRBolrMa6cwFM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.089246,19.982809&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.2,
+    "out_of": 5,
+    "reviews": 19716,
+    "url": "https://www.google.com/maps/search/?api=1&query=Park%20Wodny%20w%20Krakowie%20S.A.&query_place_id=ChIJHwzCLcdaFkcRBolrMa6cwFM"
+   },
+   "photo": {
+    "file": "img/park_wodny-1.jpg",
+    "w": 900,
+    "h": 599,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJHwzCLcdaFkcRBolrMa6cwFM",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Park Wodny – individual prices (official)",
+     "https://www.parkwodny.pl/cennik/klienci-indywidualni/"
+    ]
+   ]
+  },
+  "ogrod_doswiadczen": {
+   "id": "ogrod_doswiadczen",
+   "name": {
+    "en": "Stanisław Lem Garden of Experiments (outdoor science park)",
+    "he": "גן הניסויים על שם סטניסלב לם (פארק מדע בחוץ)"
+   },
+   "hours": {
+    "en": "Season 20 Apr – 11 Oct 2026: Mon–Fri 9:00–19:00, Sat–Sun 10:00–19:00",
+    "he": "עונה 20.4–11.10.2026: ב'–ו' 9:00–19:00, ש'–א' 10:00–19:00"
+   },
+   "price_text": {
+    "en": "Family ticket (2 adults + 2 children) 60 PLN (≈ €14) in the 2024 price list; 2026 list not found online.",
+    "he": "כרטיס משפחתי (2 מבוגרים + 2 ילדים) 60 זלוטי (כ-14 €) במחירון 2024; מחירון 2026 לא נמצא ברשת."
+   },
+   "price_czk": 60,
+   "price_eur": 13.73,
+   "estimate": true,
+   "time": {
+    "en": "1.5–2 h",
+    "he": "1.5–2 שעות"
+   },
+   "kids": {
+    "en": "A park full of hands-on physics toys: giant kaleidoscopes, echo pipes, water and sound experiments. In Lotników Polskich park, 15 min by tram or taxi.",
+    "he": "פארק מלא מתקני פיזיקה לגעת ולהפעיל: קלידוסקופים ענקיים, צינורות הד, ניסויים במים ובקול. בפארק לוטניקוב פולסקיך, 15 דקות בחשמלית או במונית."
+   },
+   "optional": false,
+   "google": {
+    "name": "Stanisław Lem's gardens full of experiments",
+    "rating": 4.7,
+    "reviews": 2268,
+    "lat": 50.06729,
+    "lng": 19.997121,
+    "address": "Aleja Pokoju 68, 31-564 Kraków, Poland",
+    "website": "https://www.mit.krakow.pl/ogrod/",
+    "place_id": "ChIJXyakVTlbFkcRPYszRs5sCfA",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Stanis%C5%82aw%20Lem%27s%20gardens%20full%20of%20experiments&query_place_id=ChIJXyakVTlbFkcRPYszRs5sCfA",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.067290,19.997121&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.7,
+    "out_of": 5,
+    "reviews": 2268,
+    "url": "https://www.google.com/maps/search/?api=1&query=Stanis%C5%82aw%20Lem%27s%20gardens%20full%20of%20experiments&query_place_id=ChIJXyakVTlbFkcRPYszRs5sCfA"
+   },
+   "photo": {
+    "file": "img/ogrod_doswiadczen-1.jpg",
+    "w": 1000,
+    "h": 750,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJXyakVTlbFkcRPYszRs5sCfA",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "MIT Kraków – Experimental Garden (official)",
+     "https://www.mit.krakow.pl/en/experimental-garden/"
+    ],
+    [
+     "Garden price list 2024 (PDF, official)",
+     "https://www.mit.krakow.pl/wp-content/uploads/2024/02/Cennik-Ogro%CC%81d-Dos%CC%81wiadczen%CC%81-2024-sezon-letni-7-2024.pdf"
+    ]
+   ]
+  },
+  "vistula_cruise": {
+   "id": "vistula_cruise",
+   "name": {
+    "en": "Vistula river boat under Wawel",
+    "he": "שיט בנהר הוויסלה מתחת לוואוול"
+   },
+   "hours": {
+    "en": "Daytime cruises from the Wawel pier, about 10:00–21:00 (Google listing for Krakowska Żegluga Pasażerska)",
+    "he": "שיט במהלך היום מהמזח שמתחת לוואוול, בערך 10:00–21:00 (לפי גוגל, Krakowska Żegluga Pasażerska)"
+   },
+   "price_text": {
+    "en": "50-min day cruise 75 PLN adult / 65 PLN child 4–12 (e-statek.pl) = 280 PLN (≈ €64); other operators 70–110 PLN per person.",
+    "he": "שיט יום של 50 דקות: 75 זלוטי מבוגר / 65 זלוטי ילד 4–12 (e-statek.pl) = 280 זלוטי (כ-64 €); מפעילים אחרים 70–110 זלוטי לאדם."
+   },
+   "price_czk": 280,
+   "price_eur": 64.07,
+   "estimate": true,
+   "time": {
+    "en": "50 min",
+    "he": "50 דקות"
+   },
+   "kids": {
+    "en": "Sit on deck past the castle and the dragon. Leaves from the riverbank a few minutes from the dragon statue and the apartment.",
+    "he": "יושבים על הסיפון ושטים מול הטירה והדרקון. יוצא מגדת הנהר, כמה דקות מפסל הדרקון ומהדירה."
+   },
+   "optional": false,
+   "google": {
+    "name": "Krakowska Żegluga Pasażerska",
+    "rating": 4.3,
+    "reviews": 1091,
+    "lat": 50.050816,
+    "lng": 19.934383,
+    "address": "bulwar Czerwieński 3, 31-069 Kraków, Poland",
+    "website": "https://www.e-statek.pl/",
+    "place_id": "ChIJcRNj2W1bFkcRt3-f7bO_peM",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Krakowska%20%C5%BBegluga%20Pasa%C5%BCerska&query_place_id=ChIJcRNj2W1bFkcRt3-f7bO_peM",
+    "nav_url": "https://www.google.com/maps/dir/?api=1&destination=50.050816,19.934383&travelmode=driving"
+   },
+   "rating": {
+    "source": "Google Maps",
+    "score": 4.3,
+    "out_of": 5,
+    "reviews": 1091,
+    "url": "https://www.google.com/maps/search/?api=1&query=Krakowska%20%C5%BBegluga%20Pasa%C5%BCerska&query_place_id=ChIJcRNj2W1bFkcRt3-f7bO_peM"
+   },
+   "photo": {
+    "file": "img/vistula_cruise-1.jpg",
+    "w": 1000,
+    "h": 667,
+    "source_page": "https://www.google.com/maps/place/?q=place_id:ChIJcRNj2W1bFkcRt3-f7bO_peM",
+    "credit": "Google Maps listing photo"
+   },
+   "sources": [
+    [
+     "Krakowska Żegluga Pasażerska (e-statek.pl)",
+     "https://www.e-statek.pl/"
+    ],
+    [
+     "Statek Kraków – prices",
+     "https://statek-krakow.pl/cennik/"
+    ]
+   ]
+  }
+ },
+ "days": [
+  {
+   "day": 1,
+   "date": "2027-08-17",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Evening flight, night at Kraków airport",
+    "he": "טיסת ערב, לילה ליד שדה התעופה של קרקוב"
+   },
+   "trail": "green",
+   "overnight": "hotel_hampton",
+   "plan": [
+    {
+     "en": "04:50 SWISS LX 257 + LX 1374 from TLV, landing at KRK 19:00.",
+     "he": "04:50 סוויס LX 257 + LX 1374 מנתב\"ג, נחיתה בקרקוב ב-19:00."
+    },
+    {
+     "en": "Walk 700 m (≈ 10 min) or take the hotel shuttle (≈ 10 PLN per person) to Hampton by Hilton Krakow Airport. Kids to bed.",
+     "he": "700 מ' הליכה (כ-10 דקות) או שאטל המלון (כ-10 זלוטי לאדם) ל-Hampton by Hilton Krakow Airport. הילדים למיטה."
+    }
+   ],
+   "attractions": [],
+   "route": null
+  },
+  {
+   "day": 2,
+   "date": "2027-08-18",
+   "weekday": {
+    "en": "Wed",
+    "he": "ד'"
+   },
+   "title": {
+    "en": "Car pick-up, Rabkoland, on to Białka",
+    "he": "איסוף רכב, רבקולנד, והלאה לביאלקה"
+   },
+   "trail": "green",
+   "overnight": "hotel_goralski",
+   "plan": [
+    {
+     "en": "Slow breakfast, walk to the terminal and pick up the car at 11:00.",
+     "he": "ארוחת בוקר רגועה, הליכה לטרמינל ואיסוף הרכב ב-11:00."
+    },
+    {
+     "en": "Drive about 1 h to Rabkoland: rides and lunch, about 12:15–15:30.",
+     "he": "נסיעה של כשעה לרבקולנד: מתקנים וארוחת צהריים, בערך 12:15–15:30."
+    },
+    {
+     "en": "40 min to Białka Tatrzańska, check in from 16:00, evening swim in the pool.",
+     "he": "40 דקות לביאלקה טטשאנסקה, צ'ק-אין מ-16:00 ושחייה בבריכה בערב."
+    }
+   ],
+   "attractions": [
+    "rabkoland"
+   ],
+   "route": {
+    "km": 112.5,
+    "minutes": 101,
+    "legs": [
+     {
+      "from": "Kraków Airport (KRK) – car",
+      "to": "Rabkoland, Rabka-Zdrój",
+      "km": 75.6,
+      "min": 61
+     },
+     {
+      "from": "Rabkoland, Rabka-Zdrój",
+      "to": "Góralski Resort, Białka Tatrzańska",
+      "km": 37.0,
+      "min": 40
+     }
+    ],
+    "points": [
+     {
+      "name": "Kraków Airport (KRK) – car",
+      "lat": 50.0777,
+      "lng": 19.7848
+     },
+     {
+      "name": "Rabkoland, Rabka-Zdrój",
+      "lat": 49.6085584,
+      "lng": 19.9484576
+     },
+     {
+      "name": "Góralski Resort, Białka Tatrzańska",
+      "lat": 49.3837653,
+      "lng": 20.1019573
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       19.789819,
+       50.074857
+      ],
+      [
+       19.790597,
+       50.068379
+      ],
+      [
+       19.809622,
+       50.073918
+      ],
+      [
+       19.807448,
+       50.042742
+      ],
+      [
+       19.855308,
+       49.997467
+      ],
+      [
+       19.915746,
+       49.990698
+      ],
+      [
+       19.904634,
+       49.968809
+      ],
+      [
+       19.888579,
+       49.959377
+      ],
+      [
+       19.895036,
+       49.937042
+      ],
+      [
+       19.869532,
+       49.906852
+      ],
+      [
+       19.878106,
+       49.879422
+      ],
+      [
+       19.903583,
+       49.876884
+      ],
+      [
+       19.909201,
+       49.858005
+      ],
+      [
+       19.948686,
+       49.837186
+      ],
+      [
+       19.951057,
+       49.82868
+      ],
+      [
+       19.922528,
+       49.813081
+      ],
+      [
+       19.923537,
+       49.794707
+      ],
+      [
+       19.957183,
+       49.776442
+      ],
+      [
+       19.98154,
+       49.716978
+      ],
+      [
+       19.96284,
+       49.701473
+      ],
+      [
+       19.903215,
+       49.693441
+      ],
+      [
+       19.887571,
+       49.672839
+      ],
+      [
+       19.924088,
+       49.603373
+      ],
+      [
+       19.948618,
+       49.608675
+      ],
+      [
+       19.924045,
+       49.603485
+      ],
+      [
+       19.947542,
+       49.573093
+      ],
+      [
+       19.940067,
+       49.553654
+      ],
+      [
+       19.970895,
+       49.539422
+      ],
+      [
+       20.002924,
+       49.468359
+      ],
+      [
+       20.016746,
+       49.477397
+      ],
+      [
+       20.054282,
+       49.47437
+      ],
+      [
+       20.107279,
+       49.399716
+      ],
+      [
+       20.101787,
+       49.383704
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.0777,19.7848&destination=49.3837653,20.1019573&travelmode=driving&waypoints=49.6085584%2C19.9484576"
+   }
+  },
+  {
+   "day": 3,
+   "date": "2027-08-19",
+   "weekday": {
+    "en": "Thu",
+    "he": "ה'"
+   },
+   "title": {
+    "en": "Zakopane: Gubałówka funicular + Krupówki",
+    "he": "זקופנה: רכבל גובאלובקה + קרופובקי"
+   },
+   "trail": "blue",
+   "overnight": "hotel_goralski",
+   "plan": [
+    {
+     "en": "Leave by 08:45 (Zakopane traffic builds up fast), 37 min to the Gubałówka lower station; paid parking nearby.",
+     "he": "יציאה עד 08:45 (הפקקים בזקופנה מתחילים מוקדם), 37 דקות לתחנה התחתונה של גובאלובקה; חניה בתשלום בסביבה."
+    },
+    {
+     "en": "Funicular up: views, the family gravity slide, playgrounds and the sandy 'beach'; back down for a stroll and ice cream on Krupówki.",
+     "he": "רכבל למעלה: נוף, המגלשה הגרביטציונית המשפחתית, מגרשי משחקים ו'חוף' החול; למטה – טיול וגלידה בקרופובקי."
+    },
+    {
+     "en": "Back in Białka by mid-afternoon, pool. Clear sky? Kasprowy Wierch cable car instead of the slide (book online). Or: horse cart into Chochołowska Valley.",
+     "he": "חזרה לביאלקה עד אמצע אחר הצהריים, בריכה. שמיים בהירים? רכבל קספרובי וייֶרְךְ במקום המגלשה (להזמין באינטרנט). או: עגלת סוסים לעמק חוחולובסקה."
+    }
+   ],
+   "attractions": [
+    "gubalowka",
+    "krupowki",
+    "kasprowy",
+    "chocholowska"
+   ],
+   "route": {
+    "km": 46.0,
+    "minutes": 74,
+    "legs": [
+     {
+      "from": "Góralski Resort, Białka Tatrzańska",
+      "to": "Gubałówka funicular (lower station)",
+      "km": 22.8,
+      "min": 37
+     },
+     {
+      "from": "Gubałówka funicular (lower station)",
+      "to": "Góralski Resort, Białka Tatrzańska",
+      "km": 23.1,
+      "min": 38
+     }
+    ],
+    "points": [
+     {
+      "name": "Góralski Resort, Białka Tatrzańska",
+      "lat": 49.3837653,
+      "lng": 20.1019573
+     },
+     {
+      "name": "Gubałówka funicular (lower station)",
+      "lat": 49.298524,
+      "lng": 19.9454401
+     },
+     {
+      "name": "Góralski Resort, Białka Tatrzańska",
+      "lat": 49.3837653,
+      "lng": 20.1019573
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       20.101787,
+       49.383704
+      ],
+      [
+       20.102956,
+       49.383339
+      ],
+      [
+       20.106529,
+       49.385779
+      ],
+      [
+       20.112176,
+       49.377777
+      ],
+      [
+       20.115477,
+       49.365405
+      ],
+      [
+       20.125717,
+       49.35556
+      ],
+      [
+       20.123667,
+       49.352643
+      ],
+      [
+       20.117413,
+       49.35022
+      ],
+      [
+       20.113904,
+       49.344712
+      ],
+      [
+       20.100887,
+       49.339363
+      ],
+      [
+       20.096391,
+       49.332198
+      ],
+      [
+       20.097003,
+       49.329683
+      ],
+      [
+       20.094129,
+       49.329639
+      ],
+      [
+       20.091617,
+       49.331106
+      ],
+      [
+       20.085163,
+       49.331482
+      ],
+      [
+       20.07815,
+       49.333971
+      ],
+      [
+       20.072246,
+       49.333325
+      ],
+      [
+       20.060607,
+       49.337298
+      ],
+      [
+       20.044405,
+       49.332205
+      ],
+      [
+       20.03433,
+       49.33193
+      ],
+      [
+       20.031128,
+       49.330949
+      ],
+      [
+       20.014498,
+       49.331714
+      ],
+      [
+       20.00719,
+       49.335017
+      ],
+      [
+       20.005699,
+       49.337478
+      ],
+      [
+       20.002565,
+       49.337921
+      ],
+      [
+       20.002615,
+       49.339325
+      ],
+      [
+       20.002134,
+       49.334888
+      ],
+      [
+       20.000238,
+       49.331953
+      ],
+      [
+       19.995506,
+       49.329443
+      ],
+      [
+       19.976658,
+       49.312918
+      ],
+      [
+       19.969373,
+       49.309901
+      ],
+      [
+       19.962024,
+       49.308404
+      ],
+      [
+       19.958922,
+       49.30605
+      ],
+      [
+       19.957771,
+       49.302416
+      ],
+      [
+       19.955823,
+       49.300908
+      ],
+      [
+       19.948984,
+       49.299163
+      ],
+      [
+       19.948805,
+       49.298399
+      ],
+      [
+       19.946973,
+       49.299449
+      ],
+      [
+       19.945662,
+       49.298436
+      ],
+      [
+       19.946973,
+       49.299449
+      ],
+      [
+       19.948773,
+       49.298239
+      ],
+      [
+       19.955823,
+       49.300908
+      ],
+      [
+       19.957771,
+       49.302416
+      ],
+      [
+       19.958922,
+       49.30605
+      ],
+      [
+       19.962024,
+       49.308404
+      ],
+      [
+       19.96901,
+       49.309636
+      ],
+      [
+       19.976658,
+       49.312918
+      ],
+      [
+       19.995506,
+       49.329443
+      ],
+      [
+       20.000238,
+       49.331953
+      ],
+      [
+       20.002045,
+       49.334622
+      ],
+      [
+       20.00302,
+       49.33997
+      ],
+      [
+       20.002454,
+       49.337994
+      ],
+      [
+       20.005699,
+       49.337478
+      ],
+      [
+       20.00719,
+       49.335017
+      ],
+      [
+       20.014376,
+       49.331727
+      ],
+      [
+       20.031128,
+       49.330949
+      ],
+      [
+       20.03433,
+       49.33193
+      ],
+      [
+       20.044405,
+       49.332205
+      ],
+      [
+       20.060607,
+       49.337298
+      ],
+      [
+       20.072246,
+       49.333325
+      ],
+      [
+       20.078036,
+       49.333988
+      ],
+      [
+       20.085163,
+       49.331482
+      ],
+      [
+       20.097481,
+       49.329694
+      ],
+      [
+       20.096327,
+       49.332035
+      ],
+      [
+       20.100887,
+       49.339363
+      ],
+      [
+       20.113904,
+       49.344712
+      ],
+      [
+       20.117413,
+       49.35022
+      ],
+      [
+       20.123667,
+       49.352643
+      ],
+      [
+       20.125717,
+       49.35556
+      ],
+      [
+       20.125023,
+       49.357402
+      ],
+      [
+       20.121575,
+       49.359155
+      ],
+      [
+       20.119516,
+       49.362512
+      ],
+      [
+       20.115512,
+       49.365349
+      ],
+      [
+       20.112176,
+       49.377777
+      ],
+      [
+       20.106529,
+       49.385779
+      ],
+      [
+       20.102956,
+       49.383339
+      ],
+      [
+       20.101787,
+       49.383704
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=49.3837653,20.1019573&destination=49.3837653,20.1019573&travelmode=driving&waypoints=49.298524%2C19.9454401"
+   }
+  },
+  {
+   "day": 4,
+   "date": "2027-08-20",
+   "weekday": {
+    "en": "Fri",
+    "he": "ו'"
+   },
+   "title": {
+    "en": "Wooden rafts on the Dunajec",
+    "he": "רפסודות עץ בדונאייץ"
+   },
+   "trail": "blue",
+   "overnight": "hotel_goralski",
+   "plan": [
+    {
+     "en": "Leave about 08:30, 50 min to the raft pier at Sromowce-Kąty (parking there).",
+     "he": "יציאה בערך ב-08:30, 50 דקות למזח הרפסודות בסרומובצה-קונטי (חניה במקום)."
+    },
+    {
+     "en": "2 h 15 min on a raft through the gorge to Szczawnica; lunch by the river, then the raftsmen's bus back to the car.",
+     "he": "שעתיים ורבע ברפסודה דרך הקניון עד שצ'אבניצה; ארוחת צהריים ליד הנהר, ואז האוטובוס של הרפסודאים חזרה לרכב."
+    },
+    {
+     "en": "51 min back to Białka, afternoon at the pool.",
+     "he": "51 דקות חזרה לביאלקה, אחר הצהריים בבריכה."
+    }
+   ],
+   "attractions": [
+    "dunajec"
+   ],
+   "route": {
+    "km": 66.8,
+    "minutes": 101,
+    "legs": [
+     {
+      "from": "Góralski Resort, Białka Tatrzańska",
+      "to": "Dunajec raft pier, Sromowce-Kąty",
+      "km": 33.4,
+      "min": 50
+     },
+     {
+      "from": "Dunajec raft pier, Sromowce-Kąty",
+      "to": "Góralski Resort, Białka Tatrzańska",
+      "km": 33.4,
+      "min": 51
+     }
+    ],
+    "points": [
+     {
+      "name": "Góralski Resort, Białka Tatrzańska",
+      "lat": 49.3837653,
+      "lng": 20.1019573
+     },
+     {
+      "name": "Dunajec raft pier, Sromowce-Kąty",
+      "lat": 49.3986618,
+      "lng": 20.413941
+     },
+     {
+      "name": "Góralski Resort, Białka Tatrzańska",
+      "lat": 49.3837653,
+      "lng": 20.1019573
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       20.101787,
+       49.383704
+      ],
+      [
+       20.102956,
+       49.383339
+      ],
+      [
+       20.106529,
+       49.385779
+      ],
+      [
+       20.104958,
+       49.393187
+      ],
+      [
+       20.107696,
+       49.400757
+      ],
+      [
+       20.109191,
+       49.410924
+      ],
+      [
+       20.108328,
+       49.413057
+      ],
+      [
+       20.114038,
+       49.415324
+      ],
+      [
+       20.11732,
+       49.418651
+      ],
+      [
+       20.11723,
+       49.420569
+      ],
+      [
+       20.119759,
+       49.417265
+      ],
+      [
+       20.12594,
+       49.414448
+      ],
+      [
+       20.127621,
+       49.410061
+      ],
+      [
+       20.136676,
+       49.408529
+      ],
+      [
+       20.146589,
+       49.408897
+      ],
+      [
+       20.156905,
+       49.407528
+      ],
+      [
+       20.174849,
+       49.398464
+      ],
+      [
+       20.175696,
+       49.394369
+      ],
+      [
+       20.179622,
+       49.394883
+      ],
+      [
+       20.184926,
+       49.393874
+      ],
+      [
+       20.194637,
+       49.395165
+      ],
+      [
+       20.206635,
+       49.394651
+      ],
+      [
+       20.2145,
+       49.398497
+      ],
+      [
+       20.217463,
+       49.402093
+      ],
+      [
+       20.22858,
+       49.403257
+      ],
+      [
+       20.237027,
+       49.399559
+      ],
+      [
+       20.245568,
+       49.398062
+      ],
+      [
+       20.248745,
+       49.398149
+      ],
+      [
+       20.25152,
+       49.400117
+      ],
+      [
+       20.258475,
+       49.402126
+      ],
+      [
+       20.270448,
+       49.402421
+      ],
+      [
+       20.274184,
+       49.401775
+      ],
+      [
+       20.279227,
+       49.399007
+      ],
+      [
+       20.289503,
+       49.398773
+      ],
+      [
+       20.293874,
+       49.401944
+      ],
+      [
+       20.296158,
+       49.405734
+      ],
+      [
+       20.302371,
+       49.409895
+      ],
+      [
+       20.302626,
+       49.411648
+      ],
+      [
+       20.305495,
+       49.414386
+      ],
+      [
+       20.312338,
+       49.416117
+      ],
+      [
+       20.319951,
+       49.415464
+      ],
+      [
+       20.324056,
+       49.407792
+      ],
+      [
+       20.330484,
+       49.405419
+      ],
+      [
+       20.335036,
+       49.407264
+      ],
+      [
+       20.341792,
+       49.40726
+      ],
+      [
+       20.344866,
+       49.409216
+      ],
+      [
+       20.349297,
+       49.407779
+      ],
+      [
+       20.352083,
+       49.409448
+      ],
+      [
+       20.357801,
+       49.407943
+      ],
+      [
+       20.362092,
+       49.40279
+      ],
+      [
+       20.363952,
+       49.402338
+      ],
+      [
+       20.365565,
+       49.403545
+      ],
+      [
+       20.367382,
+       49.408363
+      ],
+      [
+       20.374259,
+       49.408965
+      ],
+      [
+       20.381232,
+       49.404868
+      ],
+      [
+       20.381897,
+       49.396739
+      ],
+      [
+       20.385552,
+       49.394503
+      ],
+      [
+       20.401784,
+       49.392462
+      ],
+      [
+       20.408112,
+       49.394378
+      ],
+      [
+       20.413739,
+       49.398307
+      ],
+      [
+       20.408112,
+       49.394378
+      ],
+      [
+       20.401784,
+       49.392462
+      ],
+      [
+       20.385552,
+       49.394503
+      ],
+      [
+       20.381897,
+       49.396739
+      ],
+      [
+       20.381232,
+       49.404868
+      ],
+      [
+       20.374259,
+       49.408965
+      ],
+      [
+       20.367382,
+       49.408363
+      ],
+      [
+       20.365565,
+       49.403545
+      ],
+      [
+       20.363952,
+       49.402338
+      ],
+      [
+       20.362092,
+       49.40279
+      ],
+      [
+       20.357801,
+       49.407943
+      ],
+      [
+       20.35229,
+       49.409429
+      ],
+      [
+       20.350795,
+       49.409434
+      ],
+      [
+       20.348855,
+       49.407738
+      ],
+      [
+       20.344866,
+       49.409216
+      ],
+      [
+       20.341792,
+       49.40726
+      ],
+      [
+       20.335036,
+       49.407264
+      ],
+      [
+       20.330605,
+       49.405405
+      ],
+      [
+       20.324056,
+       49.407792
+      ],
+      [
+       20.320813,
+       49.412304
+      ],
+      [
+       20.320115,
+       49.415668
+      ],
+      [
+       20.312338,
+       49.416117
+      ],
+      [
+       20.305495,
+       49.414386
+      ],
+      [
+       20.302626,
+       49.411648
+      ],
+      [
+       20.302371,
+       49.409895
+      ],
+      [
+       20.296158,
+       49.405734
+      ],
+      [
+       20.294029,
+       49.402269
+      ],
+      [
+       20.289503,
+       49.398773
+      ],
+      [
+       20.279227,
+       49.399007
+      ],
+      [
+       20.274425,
+       49.401681
+      ],
+      [
+       20.270448,
+       49.402421
+      ],
+      [
+       20.258475,
+       49.402126
+      ],
+      [
+       20.25152,
+       49.400117
+      ],
+      [
+       20.248745,
+       49.398149
+      ],
+      [
+       20.245568,
+       49.398062
+      ],
+      [
+       20.237027,
+       49.399559
+      ],
+      [
+       20.22858,
+       49.403257
+      ],
+      [
+       20.217463,
+       49.402093
+      ],
+      [
+       20.2145,
+       49.398497
+      ],
+      [
+       20.206635,
+       49.394651
+      ],
+      [
+       20.194637,
+       49.395165
+      ],
+      [
+       20.184926,
+       49.393874
+      ],
+      [
+       20.179622,
+       49.394883
+      ],
+      [
+       20.175696,
+       49.394369
+      ],
+      [
+       20.174849,
+       49.398464
+      ],
+      [
+       20.156905,
+       49.407528
+      ],
+      [
+       20.146589,
+       49.408897
+      ],
+      [
+       20.136676,
+       49.408529
+      ],
+      [
+       20.127621,
+       49.410061
+      ],
+      [
+       20.12594,
+       49.414448
+      ],
+      [
+       20.119759,
+       49.417265
+      ],
+      [
+       20.11723,
+       49.420569
+      ],
+      [
+       20.11732,
+       49.418651
+      ],
+      [
+       20.114038,
+       49.415324
+      ],
+      [
+       20.108328,
+       49.413057
+      ],
+      [
+       20.109191,
+       49.410924
+      ],
+      [
+       20.107696,
+       49.400757
+      ],
+      [
+       20.104958,
+       49.393187
+      ],
+      [
+       20.106529,
+       49.385779
+      ],
+      [
+       20.102956,
+       49.383339
+      ],
+      [
+       20.101787,
+       49.383704
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=49.3837653,20.1019573&destination=49.3837653,20.1019573&travelmode=driving&waypoints=49.3986618%2C20.413941"
+   }
+  },
+  {
+   "day": 5,
+   "date": "2027-08-21",
+   "weekday": {
+    "en": "Sat",
+    "he": "ש'"
+   },
+   "title": {
+    "en": "Niedzica Castle + Terma Bania",
+    "he": "טירת ניידז'יצה + טרמה באניה"
+   },
+   "trail": "blue",
+   "overnight": "hotel_goralski",
+   "plan": [
+    {
+     "en": "34 min to Niedzica Castle: courtyard, well and treasure legends; optional little boat across the lake.",
+     "he": "34 דקות לטירת ניידז'יצה: החצר, הבאר ואגדות האוצר; אופציה לסירה קטנה לצד השני של האגם."
+    },
+    {
+     "en": "Back for lunch, then walk 14 min to Terma Bania for the slides and warm outdoor pools (2.5–4.5 h ticket).",
+     "he": "חזרה לארוחת צהריים, ואז 14 דקות הליכה לטרמה באניה למגלשות ולבריכות החמות בחוץ (כרטיס ל-2.5–4.5 שעות)."
+    }
+   ],
+   "attractions": [
+    "niedzica",
+    "terma_bania"
+   ],
+   "route": {
+    "km": 46.6,
+    "minutes": 69,
+    "legs": [
+     {
+      "from": "Góralski Resort, Białka Tatrzańska",
+      "to": "Niedzica Castle",
+      "km": 23.3,
+      "min": 34
+     },
+     {
+      "from": "Niedzica Castle",
+      "to": "Góralski Resort, Białka Tatrzańska",
+      "km": 23.3,
+      "min": 35
+     }
+    ],
+    "points": [
+     {
+      "name": "Góralski Resort, Białka Tatrzańska",
+      "lat": 49.3837653,
+      "lng": 20.1019573
+     },
+     {
+      "name": "Niedzica Castle",
+      "lat": 49.4224918,
+      "lng": 20.3196436
+     },
+     {
+      "name": "Góralski Resort, Białka Tatrzańska",
+      "lat": 49.3837653,
+      "lng": 20.1019573
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       20.101787,
+       49.383704
+      ],
+      [
+       20.102956,
+       49.383339
+      ],
+      [
+       20.106529,
+       49.385779
+      ],
+      [
+       20.104958,
+       49.393187
+      ],
+      [
+       20.107696,
+       49.400757
+      ],
+      [
+       20.108542,
+       49.413496
+      ],
+      [
+       20.113513,
+       49.414988
+      ],
+      [
+       20.116607,
+       49.417596
+      ],
+      [
+       20.117262,
+       49.423179
+      ],
+      [
+       20.120476,
+       49.424556
+      ],
+      [
+       20.121212,
+       49.426603
+      ],
+      [
+       20.127674,
+       49.431627
+      ],
+      [
+       20.132007,
+       49.43275
+      ],
+      [
+       20.13813,
+       49.437333
+      ],
+      [
+       20.144617,
+       49.440382
+      ],
+      [
+       20.157784,
+       49.434361
+      ],
+      [
+       20.162262,
+       49.434517
+      ],
+      [
+       20.165908,
+       49.435922
+      ],
+      [
+       20.171198,
+       49.435746
+      ],
+      [
+       20.185463,
+       49.441002
+      ],
+      [
+       20.194528,
+       49.440867
+      ],
+      [
+       20.223291,
+       49.446384
+      ],
+      [
+       20.233768,
+       49.442447
+      ],
+      [
+       20.235321,
+       49.439804
+      ],
+      [
+       20.238961,
+       49.438089
+      ],
+      [
+       20.247103,
+       49.438127
+      ],
+      [
+       20.252017,
+       49.434366
+      ],
+      [
+       20.259274,
+       49.432927
+      ],
+      [
+       20.264574,
+       49.429145
+      ],
+      [
+       20.27397,
+       49.429808
+      ],
+      [
+       20.269335,
+       49.426992
+      ],
+      [
+       20.274798,
+       49.425091
+      ],
+      [
+       20.292168,
+       49.427249
+      ],
+      [
+       20.297752,
+       49.425921
+      ],
+      [
+       20.304926,
+       49.426197
+      ],
+      [
+       20.307132,
+       49.423744
+      ],
+      [
+       20.317929,
+       49.421576
+      ],
+      [
+       20.319128,
+       49.422014
+      ],
+      [
+       20.317929,
+       49.421576
+      ],
+      [
+       20.307132,
+       49.423744
+      ],
+      [
+       20.304926,
+       49.426197
+      ],
+      [
+       20.297752,
+       49.425921
+      ],
+      [
+       20.292168,
+       49.427249
+      ],
+      [
+       20.274798,
+       49.425091
+      ],
+      [
+       20.269335,
+       49.426992
+      ],
+      [
+       20.27397,
+       49.429808
+      ],
+      [
+       20.264574,
+       49.429145
+      ],
+      [
+       20.259274,
+       49.432927
+      ],
+      [
+       20.252017,
+       49.434366
+      ],
+      [
+       20.247103,
+       49.438127
+      ],
+      [
+       20.238961,
+       49.438089
+      ],
+      [
+       20.235321,
+       49.439804
+      ],
+      [
+       20.233768,
+       49.442447
+      ],
+      [
+       20.223291,
+       49.446384
+      ],
+      [
+       20.194528,
+       49.440867
+      ],
+      [
+       20.185463,
+       49.441002
+      ],
+      [
+       20.171198,
+       49.435746
+      ],
+      [
+       20.165908,
+       49.435922
+      ],
+      [
+       20.162262,
+       49.434517
+      ],
+      [
+       20.157784,
+       49.434361
+      ],
+      [
+       20.144617,
+       49.440382
+      ],
+      [
+       20.13813,
+       49.437333
+      ],
+      [
+       20.132007,
+       49.43275
+      ],
+      [
+       20.127674,
+       49.431627
+      ],
+      [
+       20.121212,
+       49.426603
+      ],
+      [
+       20.120476,
+       49.424556
+      ],
+      [
+       20.117262,
+       49.423179
+      ],
+      [
+       20.116607,
+       49.417596
+      ],
+      [
+       20.113513,
+       49.414988
+      ],
+      [
+       20.108542,
+       49.413496
+      ],
+      [
+       20.107696,
+       49.400757
+      ],
+      [
+       20.104958,
+       49.393187
+      ],
+      [
+       20.106529,
+       49.385779
+      ],
+      [
+       20.102956,
+       49.383339
+      ],
+      [
+       20.101787,
+       49.383704
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=49.3837653,20.1019573&destination=49.3837653,20.1019573&travelmode=driving&waypoints=49.4224918%2C20.3196436"
+   }
+  },
+  {
+   "day": 6,
+   "date": "2027-08-22",
+   "weekday": {
+    "en": "Sun",
+    "he": "א'"
+   },
+   "title": {
+    "en": "Back to Kraków, return the car, the Wawel dragon",
+    "he": "חזרה לקרקוב, החזרת הרכב, הדרקון של ואוול"
+   },
+   "trail": "green",
+   "overnight": "hotel_playroom",
+   "plan": [
+    {
+     "en": "Leave Białka about 08:45, 1 h 33 min to KRK (allow 2 h). Return the car by 11:00 – exactly 4 rental days.",
+     "he": "יציאה מביאלקה בערך ב-08:45, שעה ו-33 דקות לשדה התעופה (לתכנן שעתיים). החזרת הרכב עד 11:00 – בדיוק 4 ימי השכרה."
+    },
+    {
+     "en": "Taxi with 2 booster seats to the apartment (≈ 24 min, ≈ €25), drop the luggage, lunch in Kazimierz.",
+     "he": "מונית עם 2 בוסטרים לדירה (כ-24 דקות, כ-25 €), השארת המזוודות, ארוחת צהריים בקאז'ימייז'."
+    },
+    {
+     "en": "Afternoon: 10-min walk to Wawel Hill, down through the Dragon's Den to the fire-breathing dragon by the river. Check in from 15:00.",
+     "he": "אחר הצהריים: 10 דקות הליכה לגבעת ואוול, ירידה דרך מערת הדרקון אל הדרקון יורק האש ליד הנהר. צ'ק-אין מ-15:00."
+    }
+   ],
+   "attractions": [
+    "wawel_dragon"
+   ],
+   "route": {
+    "km": 125.2,
+    "minutes": 117,
+    "legs": [
+     {
+      "from": "Góralski Resort, Białka Tatrzańska",
+      "to": "Kraków Airport (KRK) – car",
+      "km": 107.7,
+      "min": 93
+     },
+     {
+      "from": "Kraków Airport (KRK) – car",
+      "to": "PlayRoom Aparthotel, Kazimierz",
+      "km": 17.6,
+      "min": 24
+     }
+    ],
+    "points": [
+     {
+      "name": "Góralski Resort, Białka Tatrzańska",
+      "lat": 49.3837653,
+      "lng": 20.1019573
+     },
+     {
+      "name": "Kraków Airport (KRK) – car",
+      "lat": 50.0777,
+      "lng": 19.7848
+     },
+     {
+      "name": "PlayRoom Aparthotel, Kazimierz",
+      "lat": 50.0530863,
+      "lng": 19.9433579
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       20.101787,
+       49.383704
+      ],
+      [
+       20.107279,
+       49.399716
+      ],
+      [
+       20.05415,
+       49.474502
+      ],
+      [
+       20.016682,
+       49.477476
+      ],
+      [
+       20.004449,
+       49.469188
+      ],
+      [
+       19.986887,
+       49.489398
+      ],
+      [
+       19.988734,
+       49.508148
+      ],
+      [
+       19.973136,
+       49.520849
+      ],
+      [
+       19.970053,
+       49.540609
+      ],
+      [
+       19.940102,
+       49.553905
+      ],
+      [
+       19.947665,
+       49.573205
+      ],
+      [
+       19.888386,
+       49.670936
+      ],
+      [
+       19.902536,
+       49.692898
+      ],
+      [
+       19.963019,
+       49.701407
+      ],
+      [
+       19.981699,
+       49.716895
+      ],
+      [
+       19.957277,
+       49.776525
+      ],
+      [
+       19.923671,
+       49.79473
+      ],
+      [
+       19.922649,
+       49.813034
+      ],
+      [
+       19.951208,
+       49.828629
+      ],
+      [
+       19.94884,
+       49.837233
+      ],
+      [
+       19.909315,
+       49.8581
+      ],
+      [
+       19.903662,
+       49.876987
+      ],
+      [
+       19.878345,
+       49.879643
+      ],
+      [
+       19.869686,
+       49.906937
+      ],
+      [
+       19.895204,
+       49.936989
+      ],
+      [
+       19.888777,
+       49.959427
+      ],
+      [
+       19.916984,
+       49.990534
+      ],
+      [
+       19.855447,
+       49.997524
+      ],
+      [
+       19.807595,
+       50.042761
+      ],
+      [
+       19.811189,
+       50.074357
+      ],
+      [
+       19.790597,
+       50.068379
+      ],
+      [
+       19.789819,
+       50.074857
+      ],
+      [
+       19.790597,
+       50.068379
+      ],
+      [
+       19.80971,
+       50.073787
+      ],
+      [
+       19.814211,
+       50.032511
+      ],
+      [
+       19.84713,
+       50.043958
+      ],
+      [
+       19.904582,
+       50.049106
+      ],
+      [
+       19.916248,
+       50.044371
+      ],
+      [
+       19.943265,
+       50.053113
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=49.3837653,20.1019573&destination=50.0530863,19.9433579&travelmode=driving&waypoints=50.0777%2C19.7848"
+   }
+  },
+  {
+   "day": 7,
+   "date": "2027-08-23",
+   "weekday": {
+    "en": "Mon",
+    "he": "ב'"
+   },
+   "title": {
+    "en": "Wieliczka Salt Mine + the Main Square",
+    "he": "מכרה המלח וייליצ'קה + הכיכר המרכזית"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_playroom",
+   "plan": [
+    {
+     "en": "Taxi 17 min (≈ €15) to Wieliczka for a morning English tour of the Tourist Route (book the time online), about 2.5 h underground.",
+     "he": "מונית של 17 דקות (כ-15 €) לווייליצ'קה לסיור בוקר באנגלית במסלול התיירותי (להזמין שעה באינטרנט), כשעתיים וחצי מתחת לאדמה."
+    },
+    {
+     "en": "Lunch and a rest at the apartment.",
+     "he": "ארוחת צהריים ומנוחה בדירה."
+    },
+    {
+     "en": "Late afternoon: walk to the Main Square to hear the trumpet call on the hour, ice cream in the Planty park.",
+     "he": "לקראת ערב: הליכה לכיכר המרכזית לשמוע את החצוצרה בשעה העגולה, גלידה בפארק הפלאנטי."
+    }
+   ],
+   "attractions": [
+    "wieliczka",
+    "rynek_hejnal"
+   ],
+   "route": {
+    "km": 23.9,
+    "minutes": 35,
+    "legs": [
+     {
+      "from": "PlayRoom Aparthotel, Kazimierz",
+      "to": "Wieliczka Salt Mine",
+      "km": 12.0,
+      "min": 17
+     },
+     {
+      "from": "Wieliczka Salt Mine",
+      "to": "PlayRoom Aparthotel, Kazimierz",
+      "km": 11.8,
+      "min": 17
+     }
+    ],
+    "points": [
+     {
+      "name": "PlayRoom Aparthotel, Kazimierz",
+      "lat": 50.0530863,
+      "lng": 19.9433579
+     },
+     {
+      "name": "Wieliczka Salt Mine",
+      "lat": 49.983502,
+      "lng": 20.0551878
+     },
+     {
+      "name": "PlayRoom Aparthotel, Kazimierz",
+      "lat": 50.0530863,
+      "lng": 19.9433579
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       19.943265,
+       50.053113
+      ],
+      [
+       19.945574,
+       50.056258
+      ],
+      [
+       19.954319,
+       50.048304
+      ],
+      [
+       19.955451,
+       50.045055
+      ],
+      [
+       19.959817,
+       50.043245
+      ],
+      [
+       19.979784,
+       50.023867
+      ],
+      [
+       19.992727,
+       50.016254
+      ],
+      [
+       20.022493,
+       50.003948
+      ],
+      [
+       20.02964,
+       49.998295
+      ],
+      [
+       20.04658,
+       49.991642
+      ],
+      [
+       20.049074,
+       49.987677
+      ],
+      [
+       20.054958,
+       49.98407
+      ],
+      [
+       20.049074,
+       49.987677
+      ],
+      [
+       20.046306,
+       49.99194
+      ],
+      [
+       20.029949,
+       49.99829
+      ],
+      [
+       20.022856,
+       50.003889
+      ],
+      [
+       19.992858,
+       50.01638
+      ],
+      [
+       19.979691,
+       50.024153
+      ],
+      [
+       19.960048,
+       50.04319
+      ],
+      [
+       19.95561,
+       50.045175
+      ],
+      [
+       19.954452,
+       50.048345
+      ],
+      [
+       19.948403,
+       50.053659
+      ],
+      [
+       19.943156,
+       50.052057
+      ],
+      [
+       19.943265,
+       50.053113
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.0530863,19.9433579&destination=50.0530863,19.9433579&travelmode=driving&waypoints=49.983502%2C20.0551878"
+   }
+  },
+  {
+   "day": 8,
+   "date": "2027-08-24",
+   "weekday": {
+    "en": "Tue",
+    "he": "ג'"
+   },
+   "title": {
+    "en": "Energylandia day (no car)",
+    "he": "יום באנרג'ילנדיה (בלי רכב)"
+   },
+   "trail": "red",
+   "overnight": "hotel_playroom",
+   "plan": [
+    {
+     "en": "Official park bus from the MDA bus station 08:30 → park 09:45 (24.50 PLN per seat, book online; 15-min taxi to the station), or a taxi straight there (≈ 1 h).",
+     "he": "האוטובוס הרשמי של הפארק מתחנת האוטובוסים MDA ב-08:30 ← הפארק ב-09:45 (24.50 זלוטי למושב, להזמין באינטרנט; 15 דקות מונית לתחנה), או מונית ישירה (כשעה)."
+    },
+    {
+     "en": "About 10:00–16:00 in the family areas (Bajkolandia, family coasters, water rides).",
+     "he": "בערך 10:00–16:00 באזורי המשפחה (באיקולנדיה, רכבות הרים משפחתיות, מתקני מים)."
+    },
+    {
+     "en": "Taxi back (≈ 1 h, book ahead – apps are unreliable at the park; ≈ 300 PLN) instead of waiting for the 20:30 bus.",
+     "he": "מונית חזרה (כשעה, להזמין מראש – אפליקציות לא אמינות ליד הפארק; כ-300 זלוטי) במקום לחכות לאוטובוס של 20:30."
+    }
+   ],
+   "attractions": [
+    "energylandia"
+   ],
+   "route": {
+    "km": 116.9,
+    "minutes": 117,
+    "legs": [
+     {
+      "from": "PlayRoom Aparthotel, Kazimierz",
+      "to": "Energylandia, Zator",
+      "km": 59.9,
+      "min": 60
+     },
+     {
+      "from": "Energylandia, Zator",
+      "to": "PlayRoom Aparthotel, Kazimierz",
+      "km": 57.0,
+      "min": 57
+     }
+    ],
+    "points": [
+     {
+      "name": "PlayRoom Aparthotel, Kazimierz",
+      "lat": 50.0530863,
+      "lng": 19.9433579
+     },
+     {
+      "name": "Energylandia, Zator",
+      "lat": 49.9994976,
+      "lng": 19.4112393
+     },
+     {
+      "name": "PlayRoom Aparthotel, Kazimierz",
+      "lat": 50.0530863,
+      "lng": 19.9433579
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       19.943265,
+       50.053113
+      ],
+      [
+       19.944577,
+       50.055035
+      ],
+      [
+       19.940181,
+       50.055767
+      ],
+      [
+       19.944947,
+       50.062658
+      ],
+      [
+       19.944768,
+       50.073241
+      ],
+      [
+       19.954899,
+       50.086235
+      ],
+      [
+       19.940606,
+       50.09131
+      ],
+      [
+       19.931402,
+       50.091534
+      ],
+      [
+       19.914107,
+       50.113351
+      ],
+      [
+       19.893387,
+       50.119068
+      ],
+      [
+       19.869974,
+       50.119356
+      ],
+      [
+       19.853269,
+       50.116264
+      ],
+      [
+       19.835133,
+       50.102729
+      ],
+      [
+       19.798362,
+       50.084678
+      ],
+      [
+       19.769573,
+       50.080225
+      ],
+      [
+       19.747821,
+       50.079372
+      ],
+      [
+       19.729043,
+       50.075518
+      ],
+      [
+       19.713254,
+       50.077758
+      ],
+      [
+       19.685381,
+       50.091633
+      ],
+      [
+       19.673674,
+       50.094827
+      ],
+      [
+       19.635518,
+       50.092504
+      ],
+      [
+       19.617389,
+       50.093191
+      ],
+      [
+       19.587485,
+       50.089965
+      ],
+      [
+       19.574804,
+       50.092075
+      ],
+      [
+       19.550172,
+       50.100437
+      ],
+      [
+       19.553363,
+       50.102423
+      ],
+      [
+       19.556075,
+       50.102033
+      ],
+      [
+       19.553572,
+       50.09714
+      ],
+      [
+       19.556603,
+       50.091271
+      ],
+      [
+       19.553831,
+       50.085164
+      ],
+      [
+       19.55672,
+       50.078851
+      ],
+      [
+       19.550747,
+       50.0729
+      ],
+      [
+       19.541489,
+       50.069439
+      ],
+      [
+       19.543376,
+       50.064185
+      ],
+      [
+       19.539594,
+       50.06001
+      ],
+      [
+       19.522872,
+       50.058458
+      ],
+      [
+       19.469177,
+       50.06813
+      ],
+      [
+       19.460128,
+       50.065314
+      ],
+      [
+       19.452824,
+       50.061415
+      ],
+      [
+       19.454466,
+       50.05933
+      ],
+      [
+       19.452177,
+       50.053317
+      ],
+      [
+       19.447703,
+       50.047296
+      ],
+      [
+       19.441223,
+       50.043623
+      ],
+      [
+       19.441418,
+       50.038948
+      ],
+      [
+       19.435306,
+       50.033992
+      ],
+      [
+       19.435463,
+       50.023325
+      ],
+      [
+       19.428187,
+       50.017845
+      ],
+      [
+       19.421138,
+       49.998485
+      ],
+      [
+       19.412745,
+       49.997293
+      ],
+      [
+       19.41611,
+       49.998679
+      ],
+      [
+       19.412068,
+       49.999277
+      ],
+      [
+       19.413901,
+       49.997611
+      ],
+      [
+       19.421372,
+       49.998122
+      ],
+      [
+       19.428187,
+       50.017845
+      ],
+      [
+       19.435717,
+       50.023123
+      ],
+      [
+       19.435772,
+       50.033631
+      ],
+      [
+       19.441481,
+       50.039055
+      ],
+      [
+       19.441063,
+       50.043391
+      ],
+      [
+       19.447703,
+       50.047296
+      ],
+      [
+       19.452115,
+       50.053222
+      ],
+      [
+       19.453229,
+       50.061365
+      ],
+      [
+       19.460128,
+       50.065314
+      ],
+      [
+       19.469876,
+       50.068011
+      ],
+      [
+       19.522872,
+       50.058458
+      ],
+      [
+       19.539747,
+       50.059774
+      ],
+      [
+       19.543376,
+       50.064185
+      ],
+      [
+       19.541489,
+       50.069439
+      ],
+      [
+       19.550747,
+       50.0729
+      ],
+      [
+       19.55672,
+       50.078851
+      ],
+      [
+       19.553831,
+       50.085164
+      ],
+      [
+       19.55661,
+       50.093125
+      ],
+      [
+       19.553916,
+       50.098068
+      ],
+      [
+       19.54977,
+       50.100096
+      ],
+      [
+       19.574802,
+       50.091884
+      ],
+      [
+       19.588773,
+       50.089726
+      ],
+      [
+       19.617034,
+       50.092995
+      ],
+      [
+       19.635524,
+       50.092332
+      ],
+      [
+       19.673606,
+       50.094657
+      ],
+      [
+       19.685246,
+       50.091479
+      ],
+      [
+       19.712543,
+       50.077829
+      ],
+      [
+       19.724364,
+       50.075365
+      ],
+      [
+       19.805775,
+       50.08603
+      ],
+      [
+       19.808124,
+       50.083966
+      ],
+      [
+       19.810566,
+       50.069234
+      ],
+      [
+       19.806647,
+       50.044915
+      ],
+      [
+       19.814211,
+       50.032511
+      ],
+      [
+       19.84713,
+       50.043958
+      ],
+      [
+       19.904582,
+       50.049106
+      ],
+      [
+       19.916248,
+       50.044371
+      ],
+      [
+       19.940493,
+       50.050721
+      ],
+      [
+       19.943265,
+       50.053113
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.0530863,19.9433579&destination=50.0530863,19.9433579&travelmode=driving&waypoints=49.9994976%2C19.4112393"
+   }
+  },
+  {
+   "day": 9,
+   "date": "2027-08-25",
+   "weekday": {
+    "en": "Wed",
+    "he": "ד'"
+   },
+   "title": {
+    "en": "Zoo + river boat",
+    "he": "גן החיות + שיט בנהר"
+   },
+   "trail": "yellow",
+   "overnight": "hotel_playroom",
+   "plan": [
+    {
+     "en": "Tram to Cracovia Błonia, then bus 134 to the zoo (or a 20-min taxi); about 9:30–13:00.",
+     "he": "חשמלית ל-Cracovia Błonia ואז אוטובוס 134 לגן החיות (או 20 דקות במונית); בערך 9:30–13:00."
+    },
+    {
+     "en": "Afternoon: 50-min boat on the Vistula from the pier under Wawel, a short walk from the apartment.",
+     "he": "אחר הצהריים: שיט של 50 דקות בוויסלה מהמזח שמתחת לוואוול, הליכה קצרה מהדירה."
+    },
+    {
+     "en": "Still energy? The Garden of Experiments (science park). Rain? Park Wodny water park instead.",
+     "he": "נשאר כוח? גן הניסויים (פארק מדע). יורד גשם? פארק המים פארק וודני במקום."
+    }
+   ],
+   "attractions": [
+    "krakow_zoo",
+    "vistula_cruise",
+    "ogrod_doswiadczen",
+    "park_wodny"
+   ],
+   "route": {
+    "km": 18.9,
+    "minutes": 37,
+    "legs": [
+     {
+      "from": "PlayRoom Aparthotel, Kazimierz",
+      "to": "Kraków Zoo",
+      "km": 9.8,
+      "min": 19
+     },
+     {
+      "from": "Kraków Zoo",
+      "to": "PlayRoom Aparthotel, Kazimierz",
+      "km": 9.1,
+      "min": 18
+     }
+    ],
+    "points": [
+     {
+      "name": "PlayRoom Aparthotel, Kazimierz",
+      "lat": 50.0530863,
+      "lng": 19.9433579
+     },
+     {
+      "name": "Kraków Zoo",
+      "lat": 50.0534842,
+      "lng": 19.8502798
+     },
+     {
+      "name": "PlayRoom Aparthotel, Kazimierz",
+      "lat": 50.0530863,
+      "lng": 19.9433579
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       19.943265,
+       50.053113
+      ],
+      [
+       19.944618,
+       50.054999
+      ],
+      [
+       19.944212,
+       50.05534
+      ],
+      [
+       19.940438,
+       50.051092
+      ],
+      [
+       19.932452,
+       50.049267
+      ],
+      [
+       19.927692,
+       50.054986
+      ],
+      [
+       19.924192,
+       50.061084
+      ],
+      [
+       19.924848,
+       50.059296
+      ],
+      [
+       19.903659,
+       50.056358
+      ],
+      [
+       19.896091,
+       50.058955
+      ],
+      [
+       19.893398,
+       50.060491
+      ],
+      [
+       19.890924,
+       50.06092
+      ],
+      [
+       19.889421,
+       50.061875
+      ],
+      [
+       19.881794,
+       50.064462
+      ],
+      [
+       19.876405,
+       50.065519
+      ],
+      [
+       19.873837,
+       50.062633
+      ],
+      [
+       19.871711,
+       50.062715
+      ],
+      [
+       19.870191,
+       50.061012
+      ],
+      [
+       19.868917,
+       50.060965
+      ],
+      [
+       19.869157,
+       50.059961
+      ],
+      [
+       19.868531,
+       50.059243
+      ],
+      [
+       19.863439,
+       50.059439
+      ],
+      [
+       19.862101,
+       50.058948
+      ],
+      [
+       19.861609,
+       50.057704
+      ],
+      [
+       19.858591,
+       50.059144
+      ],
+      [
+       19.856292,
+       50.058658
+      ],
+      [
+       19.853848,
+       50.056014
+      ],
+      [
+       19.855587,
+       50.054364
+      ],
+      [
+       19.85508,
+       50.053951
+      ],
+      [
+       19.854059,
+       50.054232
+      ],
+      [
+       19.85508,
+       50.053951
+      ],
+      [
+       19.855587,
+       50.054364
+      ],
+      [
+       19.854925,
+       50.054782
+      ],
+      [
+       19.856301,
+       50.055709
+      ],
+      [
+       19.854429,
+       50.056768
+      ],
+      [
+       19.856355,
+       50.058586
+      ],
+      [
+       19.858548,
+       50.059058
+      ],
+      [
+       19.861668,
+       50.057603
+      ],
+      [
+       19.862072,
+       50.058823
+      ],
+      [
+       19.863153,
+       50.059375
+      ],
+      [
+       19.868531,
+       50.059243
+      ],
+      [
+       19.869157,
+       50.059961
+      ],
+      [
+       19.868917,
+       50.060965
+      ],
+      [
+       19.870191,
+       50.061012
+      ],
+      [
+       19.871711,
+       50.062715
+      ],
+      [
+       19.873837,
+       50.062633
+      ],
+      [
+       19.876405,
+       50.065519
+      ],
+      [
+       19.881794,
+       50.064462
+      ],
+      [
+       19.889421,
+       50.061875
+      ],
+      [
+       19.890924,
+       50.06092
+      ],
+      [
+       19.893398,
+       50.060491
+      ],
+      [
+       19.896091,
+       50.058955
+      ],
+      [
+       19.903538,
+       50.056372
+      ],
+      [
+       19.924848,
+       50.059296
+      ],
+      [
+       19.931912,
+       50.048571
+      ],
+      [
+       19.935785,
+       50.050012
+      ],
+      [
+       19.940493,
+       50.050721
+      ],
+      [
+       19.943265,
+       50.053113
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.0530863,19.9433579&destination=50.0530863,19.9433579&travelmode=driving&waypoints=50.0534842%2C19.8502798"
+   }
+  },
+  {
+   "day": 10,
+   "date": "2027-08-26",
+   "weekday": {
+    "en": "Thu",
+    "he": "ה'"
+   },
+   "title": {
+    "en": "Fly home",
+    "he": "טיסה הביתה"
+   },
+   "trail": "green",
+   "overnight": null,
+   "plan": [
+    {
+     "en": "Lufthansa LH 1363 + LH 690 departs 11:10 and lands in TLV at 23:15.",
+     "he": "לופטהנזה LH 1363 + LH 690 ממריאה ב-11:10 ונוחתת בנתב\"ג ב-23:15."
+    },
+    {
+     "en": "Breakfast, pack, taxi to KRK (≈ 25 min, ≈ €25); leave about 2.5 h before departure.",
+     "he": "ארוחת בוקר, אריזות, מונית לשדה התעופה (כ-25 דקות, כ-25 €); לצאת כשעתיים וחצי לפני ההמראה."
+    }
+   ],
+   "attractions": [],
+   "route": {
+    "km": 26.6,
+    "minutes": 25,
+    "legs": [
+     {
+      "from": "PlayRoom Aparthotel, Kazimierz",
+      "to": "Kraków Airport (KRK) – car",
+      "km": 26.6,
+      "min": 25
+     }
+    ],
+    "points": [
+     {
+      "name": "PlayRoom Aparthotel, Kazimierz",
+      "lat": 50.0530863,
+      "lng": 19.9433579
+     },
+     {
+      "name": "Kraków Airport (KRK) – car",
+      "lat": 50.0777,
+      "lng": 19.7848
+     }
+    ],
+    "geometry": {
+     "coordinates": [
+      [
+       19.943265,
+       50.053113
+      ],
+      [
+       19.944212,
+       50.05534
+      ],
+      [
+       19.940294,
+       50.051017
+      ],
+      [
+       19.931529,
+       50.049043
+      ],
+      [
+       19.933819,
+       50.046871
+      ],
+      [
+       19.937096,
+       50.039533
+      ],
+      [
+       19.940438,
+       50.036205
+      ],
+      [
+       19.944832,
+       50.034491
+      ],
+      [
+       19.9457,
+       50.03251
+      ],
+      [
+       19.944536,
+       50.028473
+      ],
+      [
+       19.945819,
+       50.022976
+      ],
+      [
+       19.945238,
+       50.013346
+      ],
+      [
+       19.94393,
+       50.010868
+      ],
+      [
+       19.945165,
+       50.006739
+      ],
+      [
+       19.941631,
+       50.002909
+      ],
+      [
+       19.931783,
+       50.000153
+      ],
+      [
+       19.923136,
+       49.994642
+      ],
+      [
+       19.916168,
+       49.99236
+      ],
+      [
+       19.897878,
+       49.990612
+      ],
+      [
+       19.880614,
+       49.991618
+      ],
+      [
+       19.860212,
+       49.995505
+      ],
+      [
+       19.855447,
+       49.997524
+      ],
+      [
+       19.852694,
+       50.000536
+      ],
+      [
+       19.850152,
+       50.009256
+      ],
+      [
+       19.847749,
+       50.01256
+      ],
+      [
+       19.843345,
+       50.015495
+      ],
+      [
+       19.83328,
+       50.018642
+      ],
+      [
+       19.828326,
+       50.021279
+      ],
+      [
+       19.808483,
+       50.041522
+      ],
+      [
+       19.806756,
+       50.046526
+      ],
+      [
+       19.809788,
+       50.054503
+      ],
+      [
+       19.809957,
+       50.074081
+      ],
+      [
+       19.811189,
+       50.074357
+      ],
+      [
+       19.811049,
+       50.072422
+      ],
+      [
+       19.805923,
+       50.072621
+      ],
+      [
+       19.799577,
+       50.068326
+      ],
+      [
+       19.790597,
+       50.068379
+      ],
+      [
+       19.789819,
+       50.074857
+      ]
+     ],
+     "type": "LineString"
+    },
+    "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=50.0530863,19.9433579&destination=50.0777,19.7848&travelmode=driving"
+   }
+  }
+ ],
+ "routes_total": {
+  "km": 583.4,
+  "minutes": 676
+ },
+ "budget": {
+  "lines": [
+   {
+    "key": "flights",
+    "eur": 1747,
+    "status": "live"
+   },
+   {
+    "key": "bags",
+    "eur": 320,
+    "status": "estimate"
+   },
+   {
+    "key": "car",
+    "eur": 220,
+    "status": "estimate"
+   },
+   {
+    "key": "seats",
+    "eur": 64,
+    "status": "estimate"
+   },
+   {
+    "key": "border",
+    "eur": 0,
+    "status": "live"
+   },
+   {
+    "key": "transfers",
+    "eur": 170,
+    "status": "estimate"
+   },
+   {
+    "key": "vignette",
+    "eur": 0,
+    "status": "estimate"
+   },
+   {
+    "key": "fuel",
+    "eur": 42,
+    "status": "estimate"
+   },
+   {
+    "key": "parking",
+    "eur": 30,
+    "status": "estimate"
+   },
+   {
+    "key": "hotels",
+    "eur": 1627.34,
+    "status": "live"
+   },
+   {
+    "key": "att",
+    "eur": 775,
+    "status": "mixed"
+   }
+  ],
+  "total_eur": 4995.34,
+  "live_part_eur": 3374.34,
+  "attractions_local": 3388,
+  "fuel_km": 410
+ }
+}
