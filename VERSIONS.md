@@ -2,6 +2,8 @@
 
 Nothing is deleted: every version stays in the repository and on GitHub Pages, and each page has a version dropdown.
 
+Current state, open items and how to continue: `HANDOFF.md`.
+
 | Version | Date | Language | Folder | What it is |
 |---|---|---|---|---|
 | v6 (approved, in the app) | 21 Oct 2026 | Hebrew + English | `v6/` | Air conditioning is a must: Doky Apartments and Encore Boutique Residence (no A/C) are swapped for Jedeme Lipno (Lipno, 18–22 Aug) and The Nova Apart Hotel (Prague, 22–26 Aug), both with A/C; Holiday Inn Prague Airport confirmed. Same dates (Tue 17 – Thu 26 Aug 2027). Data: `v6/trip-research-v6.json`. |

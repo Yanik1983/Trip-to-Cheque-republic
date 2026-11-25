@@ -36,3 +36,5 @@ these files directly; the plan pages (`<cc>/<version>/index.html`) are rendered 
 - Bags: an estimate per direction – Wizz Air €200, other airlines €160.
 - Hotels: live Booking.com total, free cancellation, air conditioning.
 - The default flight in the app is the cheapest one that fits (flight + bags); the other options stay selectable.
+
+The current state of the trips, the open items and the known issues of these scripts are in `HANDOFF.md` (repository root).
